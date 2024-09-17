@@ -1,0 +1,34 @@
+S. UNNATURAL CRUELTY
+SO-S99. Cruel relatives
+S0. Cruel relatives
+S10. Cruel parents
+S20. Cruel children and grandchildren
+S30. Cruel step- and foster relatives
+S40. Cruel grandparents
+S50. Cruel relatives-in-law
+S60. Cruel spouse
+S70. Other cruel relatives
+S100-S199. Revolting murders or mutilations
+S100. Revolting murders or mutilations
+S110. Murders
+S140. Cruel abandonments and exposures
+S160. Mutilations
+S180. Wounding or torturing
+S200-S299. Cruel sacrifices
+S200. Cruel sacrifices
+S210. Children sold or promised
+S220. Reasons for promise (sale) of child
+S240. Children unwittingly promised (sold)
+S250. Saving the promised child
+S260. Sacrifices
+S300-S399. Abandoned or murdered children
+S300. Abandoned or murdered children
+S310. Reasons for abandonment of children
+S330. Circumstances of murder or exposure of children
+S350. Fate of abandoned child
+S400-S499. Cruel persecutions
+S400. Cruel persecutions
+S410. Persecuted wife
+S430. Disposal of cast-off wife
+S450. Fate of outcast wife
+S460. Other cruel persecutions

@@ -1,0 +1,11 @@
+W. TRAITS OF CHARACTER
+WO-W99. Favorable traits of character
+WO. Favorable traits of character
+W10. Kindness
+W20. Other favorable traits of character
+W100-W199. Unfavorable traits of character
+W100. Unfavorable traits of character
+W110. Unfavorable traits of character-personal
+W150. Unfavorable traits of character-social
+W200-W299. Traits of character - miscellaneous
+W200. Traits of character - miscellaneous

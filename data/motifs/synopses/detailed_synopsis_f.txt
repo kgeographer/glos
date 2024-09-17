@@ -1,0 +1,86 @@
+F. MARVELS
+FO -F199. Otherworld Journeys
+FO. Journey to otherworld
+F10-F79. The upper world
+F10. Journey to upper world
+F30. Inhabitant of upper world visits earth
+F50. Access to upper world
+F60. Transportation to or from upper world
+F80—F109. The lower world
+F80. Journey to lower world
+F90. Access to lower world
+F100. Visit to lower world—miscellaneous motifs
+F110-F199. Miscellaneous otherworlds
+F110. Journey to terrestrial otherworlds
+F130. Location of otherworld
+F140. Bounds of the otherworld
+F150. Access to otherworld
+F160. Nature of the otherworld
+F170. Otherworld—miscellaneous motifs
+F200-F699. MARVELOUS CREATURES
+F200—F399. Fairies and elves
+F200. Fairies (elves)
+F210. Fairyland
+F220. Dwelling of fairies
+F230. Appearance of fairies
+F240. Possessions of fairies
+F250. Other characteristics of fairies
+F260. Behavior of fairies
+F300-F399. Fairies and mortals
+F300. Marriage or liaison with fairy
+F310. Fairies and human children
+F320. Fairies carry people away to fairyland
+F330. Grateful fairies
+F340. Gifts from fairies
+F350. Theft from fairies
+F360. Malevolent or destructive fairies (pixies)
+F370. Visit to fairyland
+F380. Defeating or ridding oneself of fairies
+F390. Fairies miscellaneous motifs
+F400—5499. Spirits and demons
+F400. Spirits and demons (general)
+F420. Water-spirits
+F430. Weather-spirits
+F440. Vegetation-spirits
+F450. Underground-spirits
+F460. Mountain-spirits
+F470. Night-spirits
+F480. House-spirits
+F490. Other spirits and demons
+F500-F599. Remarkable persons
+F500. Remarkable persons
+F510. Monstrous persons
+F530. Exceptionally large or small men
+F540. Remarkable physical organs
+F560. Unusual manner of life
+F570. Other extraordinary human beings
+F600-F699. Persons with extraordinary powers
+F600. Person with extraordinary powers
+F610. Remarkably strong man
+F640. Extraordinary powers of perception
+F660. Remarkable skill
+F680. Other marvelous powers
+F700—F899. Extraordinary places and things
+F700. Extraordinary places
+F710. Extraordinary bodies of water
+F720. Submarine and subterranean world
+F730. Extraordinary islands
+F750. Extraordinary mountains and other land features
+F760. Extraordinary cities
+F770. Extraordinary buildings and furnishings
+F790. Extraordinary sky and weather phenomena
+F800. Extraordinary rocks and stones
+F810. Extraordinary trees, plants, fruit, etc.
+F820. Extraordinary clothing and ornaments
+F830. Extraordinary weapons
+F840. Other extraordinary objects and places
+F900-F1099. Extraordinary occurrences
+F910. Extraordinary swallowings
+F930. Extraordinary occurrences concerning seas or waters
+F940. Extraordinary underground (underwater) disappearances
+F950. Marvelous cures
+F960. Extraordinary nature phenomena elements and we her
+F970. Extraordinary behavior of trees and plants
+F980. Extraordinary occurrences concerning animals
+F990. Inanimate objects act as if living
+F1010. Other extraordinary events

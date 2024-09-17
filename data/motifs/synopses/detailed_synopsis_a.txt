@@ -1,0 +1,253 @@
+AO-A99. Creator
+A0. Creator
+A10. Nature of the creator
+A20. Origin of the creator
+A30. Creator's companions
+A40. Creator's advisers
+A50. Conflict of good and evil creators
+A60. Marplot at creation
+A70. Creator - miscellaneous motifs
+A100-A499. GODS
+A100-A199. The gods in general
+A100. Deity
+A110. Origin of the gods
+A120. Nature and appearance of the gods
+A140. Gods as workmen
+A150. Daily life of the gods
+A160. Mutual relations of the gods
+A170. Deeds of the gods
+A180. Gods in relation to mortals
+A190. Gods miscellaneous motifs
+A200-A299. Gods of the upper world
+A200. God of the upper world
+A210. Sky-god
+A220. Sun-god
+A240. Moon-god
+A250. Star-god
+A260. God of light
+A270. God of dawn
+A280. Weather-god
+A300-A399. Gods of the underworld
+A300. God of the underworld
+A310. God of the world of the dead
+A400-A499. Gods of the earth
+A400. God of the earth
+A410. Local gods
+A420. God of water
+A430. God of vegetation
+A440. God of animals
+A450. God of trades and professions
+A460. Gods of abstractions
+A490. Miscellaneous gods of the earth
+A500-A599. Demigods and culture heroes
+A500. Demigods and culture heroes
+A510. Origin of the culture hero (demigod)
+A520. Nature of the culture hero (demigod)
+A530. Culture hero establishes law and order
+A560. Culture hero's (demigod's) departure
+A570. Culture hero still lives
+A580. Culture hero's (divinity's) expected return
+A590. Demigods and culture heroes - miscellaneous
+A600-A899. COSMOGONY AND COSMOLOGY
+A600-A699. The universe
+A600-A649. Creation of the universe
+A610. Creation of universe by creator
+A620. Spontaneous creation of universe
+A630. Series of creations
+A640. Other means of creating the universe
+A650-A699. Nature of the universe
+A650. The universe as a whole
+A660. Nature of the upper world
+A670. Nature of the lower world
+A690. Miscellaneous worlds
+A700-A799. The heavens
+A700. Creation of the heavenly bodies
+A710-A739. The sun
+A710. Creation of the sun
+A720. Nature and condition of the sun
+A740-A759. The moon
+A740. Creation of the moon
+A750. Nature and condition of the moon
+A760-A789. The stars
+A760. Creation and condition of the stars
+A770. Origin of particular stars
+A780. The planets (comets, etc.)
+A790-A799. The heavenly lights
+A800-A899. The earth
+A800-A839. Creation of the earth
+A810. Primeval water
+A820. Other means of creation of earth
+A830. Creation of earth by creator
+A840. Support of the earth
+A850. Changes in the earth
+A870. Nature and condition of the earth
+A900-A999. Topographical features of the earth
+A900. Topography - general considerations
+A910-A949. Water features
+A910. Origin of water features
+A920. Origin of the seas
+A930. Origin of streams - general
+A940. Origin of other bodies of water
+A950-A999. Land features
+A950. Origin of the land
+A960. Creation of mountains
+A970. Origin of rocks and stones
+A980. Origin of particular places
+A990. Other land features
+A1000-A1099. World calamities
+A1000. World catastrophe
+A1010. Deluge
+A1020. Escape from deluge
+A1030. World fire
+A1040. Continuous winter destroys the race
+A1050. Heavens break up at end of world
+A1060. Earth-disturbances at end of world
+A1070. Fettered monster's escape at end of world
+A1080. Battle at end of world
+A1090. World calamities ― miscellaneous motifs
+A1100-A1199. Establishment of natural order
+A1110. Establishment of present order: waters
+A1120. Establishment of present order: winds
+A1130. Establishment of present order: weather phenomena
+A1150. Determination of seasons
+A1160. Determination of the months
+A1170. Origin of night and day
+A1180. Establishment of present order - miscellaneous motifs
+A1200-A1699. CREATION AND ORDERING OF HUMAN LIFE
+A1200-A1299. Creation of man
+A1210. Creation of man by creator
+A1220. Creation of man through evolution
+A1230. Emergence or descent of first man to earth
+A1240. Man made from mineral substance
+A1250. Man made from vegetable substance
+A1260. Mankind made from miscellaneous materials
+A1270. Primeval human pair
+A1290. Creation of man other motifs
+A1300-A1399. Ordering of human life
+A1310. Arrangement of man's bodily attributes
+A1320. Determination of span of life
+A1330. Beginnings of trouble for man
+A1350. Origin of sex functions
+A1360. Man's growth and maturity
+A1370. Origin of mental and moral characteristics
+A1390. Ordaining of human life
+A1400-A1499. Acquisition of culture - miscellaneous
+A1400. Acquisition of human culture
+A1410. Acquisition of livable environment
+A1420. Acquisition of food supply
+A1430. Acquisition of other necessities
+A1440. Acquisition of crafts
+A1460. Acquisition of arts
+A1470. Beginning of social relationships
+A1480. Acquisition of wisdom and learning
+A1490. Acquisition of culture miscellaneous
+A1500-A1599. Origin of customs
+A1510. Origin of eating customs
+A1520. Origin of hunting and fishing customs
+A1530. Origin of social ceremonials
+A1540. Origin of religious ceremonials
+A1550. Origin of customs of courtship and marriage
+A1560. Origin of customs connected with birth
+A1570. Origin of regulations within the family
+A1580. Origin of laws
+A1590. Origin of other customs
+A1600-A1699. Distribution and differentiation of peoples
+A1610. Origin of various tribes
+A1620. Distribution of tribes
+A1630. Wandering of tribes
+A1640. Origin of tribal subdivisions
+A1650. Origin of different classes - social and professional
+A1660. Characteristics of various peoples - in personal appearance
+A1670. Characteristics of various peoples — in industry and warfare
+A1680. Characteristics of various peoples - in habits
+A1700-A2199. CREATION OF ANIMAL LIFE
+A1700-A1799. Creation of animal life general
+A1710. Creation of animals through transformation
+A1730. Creation of animals as punishment
+A1750. Animals created through opposition of devil to god
+A1770. Creation of animals from unusual primeval mating
+A1790. Creation of animals - other motifs
+A1800-A1899. Creation of mammals
+A1810-A1839. Creation of carnivora
+A1810. Creation of felidae
+A1820. Creation of mustelidae
+A1830. Creation of canidae and other carnivora
+A1840. Creation of rodentia
+A1860. Creation of primata
+A1870. Creation of ungulata
+A1890. Creation of other mammals
+A1900-A1999. Creation of birds
+A1910. Creation of passeriformes
+A1930. Creation of falconiformes
+A1940. Creation of charidriiformes
+A1950. Creation of coraciiformes
+A1960. Creation of ciconiiformes
+A1970. Creation of miscellaneous birds
+A2000-A2099. Creation of insects
+A2010. Creation of hymenoptera
+A2020. Creation of coleoptera
+A2030. Creation of diptera
+A2040. Creation of lepidoptera
+A2050. Creation of hemiptera
+A2060. Creation of orthoptera
+A2070. Creation of miscellaneous insects
+A2100-A2199. Creation of fish and other animals
+A2100-A2139. Creation of fish
+A2100. Creation of fish
+A2110. Creation of particular fishes
+A2140. Creation of reptiles
+A2160-A2199. Origin of amphibians and other animal forms
+A2160. Origin of amphibia
+A2170. Origin of miscellaneous animal forms
+A2200-A2599. ANIMAL CHARACTERISTICS
+A2200-A2299. Various causes of animal characteristics
+A2210. Animal characteristics: change in ancient animal
+A2220. Animal characteristics as reward
+A2230. Animal characteristics as punishment
+A2240. Animal characteristics: obtaining another's qualities
+A2250. Animal characteristics: result of contest
+A2260. Animal characteristics from transformation
+A2270. Animal characteristics from miscellaneous causes
+A2300-A2399. Causes of animal characteristics: body
+A2310. Origin of animal characteristics: body covering
+A2320. Origin of animal characteristics: head
+A2330. Origin of animal characteristics: face
+A2350. Origin of animal characteristics: trunk
+A2370. Animal characteristics: extremities
+A2380. Animal characteristics: other bodily features
+A2400-A2499. Causes of animal characteristics: appearance and habits
+A2400. Animal characteristics: general appearance
+A2410. Animal characteristics: color and smell
+A2420. Animal characteristics: voice and hearing
+A2430. Animal characteristics: dwelling and food
+A2440. Animal characteristics: carriage
+A2450. Animal's daily work
+A2460. Animal characteristics: attack and defense
+A2470. Animal's habitual bodily movements
+A2480. Periodic habits of animals
+A2490. Other habits of animals
+A2500-A2599. Animal characteristics
+A2510. Utility of animals
+A2520. Disposition of animals ― miscellaneous
+A2540. Other animal characteristics
+A2600-A2699. Origin of trees and plants
+A2600-A2649. Various origins of plants
+A2600. Origin of plants
+A2610. Creation of plants by transformation
+A2620. Plants originate from experience of holy person
+A2630. Other types of plant origins
+A2650-A2699. Origin of various plants and trees
+A2650. Origin of flowers
+A2680. Origin of other plant forms
+A2700-A2799. Origin of plant characteristics
+A2700-A2749. Various origins of plant characteristics
+A2710. Plant characteristics as reward
+A2720. Plant characteristics as punishment
+A2730. Miscellaneous reasons for plant characteristics
+A2750-A2799. Origin of various plant characteristics
+A2750. Interior and bark of plant
+A2760. Leaves of plant
+A2770. Other plant characteristics
+A2800-A2899. Miscellaneous explanations
+A2800-A2849. Miscellaneous explanations: origins
+A2850-A2899. Miscellaneous explanations: characteristics

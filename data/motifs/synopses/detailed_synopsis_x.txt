@@ -1,0 +1,111 @@
+X. HUMOR
+X0-X99. Humor of discomfiture
+X0. Humor of discomfiture
+X100-X199. Humor of disability
+X100. Humor of disability
+X110. Humor of deafness
+X120. Humor of bad eyesight
+X130. Other physical disabilities
+X200-X599. HUMOR OF SOCIAL CLASSES
+X200-X299. Humor dealing with tradesmen
+X200. Humor dealing with tradesmen
+X210. Jokes about millers
+X220. Jokes about tailors
+X230. Jokes about butchers
+X240. Jokes about cobblers (shoemakers)
+X250. Jokes about other artisans and tradesmen
+X300-X499. Humor dealing with professions
+X300. Humor dealing with professions
+X310. Jokes on lawyers
+X330. Jokes on magistrates
+X350. Jokes on teachers
+X370. Jokes on scholars
+X410. Jokes on parsons
+X460. Humor concerning other professions
+X500-X599. Humor concerning other social classes
+X500. Humor concerning other social classes
+X510. Jokes concerning usurers
+X520. Jokes concerning prostitutes
+X530. Jokes concerning beggars
+X540. Jokes on madmen
+X550. Jokes on secret societies
+X600-X699. Humor concerning races or nations
+X600. Humor concerning races or nations
+X610. Jokes concerning Jews
+X650. Jokes concerning other races or nations
+X680. Jokes concerning various cities
+X700-X799. Humor concerning sex
+X700. Humor concerning sex
+X750. Jokes on old maids
+X760. Jokes on courtship
+X800-X899. Humor based on drunkenness
+X800. Humor based on drunkenness
+X900-X1899. HUMOR OF LIES AND EXAGGERATIONS
+X910-X1099. Lie: the remarkable man
+X910-X959. Lie: the remarkable man: his birth, growth, death, physical powers, strength
+X910. Lie: the remarkable man
+X920. Lie: the large man
+X930. Lie: remarkable person's physical powers and habits
+X940. Lie: remarkably strong man
+X960-X1019. Lie: remarkable person's skills
+X960. Lie: remarkable person's skills
+X980. Lie: occupational or professional skills
+X1010. Lie: remarkable mental skills
+X1020-X1079. Remarkable man's extraordinary possessions
+X1020. Lie: remarkable possessions of remarkable man
+X1030. Lie: remarkable buildings
+X1060. Lie: other possessions of remarkable man
+X1070. Extraordinary man's family
+X1080-X1099. Lie: occupations of remarkable man
+X1100-X1199. Lie: great hunters and fishermen
+X1100. Lie: the remarkable hunter
+X1110. Lie: the wonderful hunt
+X1120. Lie: the great marksman
+X1130. Lie: hunter's unusual experiences
+X1150. Lies about fishing
+X1200-X1399. Lies about animals
+X1200. Lie: remarkable animals
+X1210. Lies about mammals
+X1250. Lies about birds
+X1280. Lies about insects
+X1300. Lies about fish
+X1320. Lies about reptiles
+X1340. Lie: extraordinary amphibia and other animals
+X1370. Lies about imaginary animals
+X1400-X1499. Lies about plants, fruits, vegetables and trees
+X1400. Lies about plants, fruits, vegetables and trees
+X1410. Lies about fruits
+X1420. Lies about vegetables
+X1450. Lies about field crops
+X1470. Lies about trees
+X1480. Lies about flowers
+X1490. Lie: miscellaneous plant motifs
+X1500-X1599. Lies about geography and topography
+X1500. Lies about geography and topography
+X1510. Lies about land features
+X1520. Lies about mountains and hills
+X1530. Lies about remarkable soil
+X1540. Lies about water features
+X1550. Geography and topography - miscellaneous motifs
+X1560. Lies about cities
+X1600-X1699. Lies about weather and climate
+X1600. Lies about weather and climate
+X1610. Lies about winds and storms
+X1620. Lies about cold weather
+X1630. Lies about hot weather. 
+X1640. Lies about dry weather
+X1650. Lies about precipitation and dampness
+X1660. Lies about climate
+X1700-X1799. Lies: logical absurdities
+X1700. Lies: logical absurdities
+X1710. Lies about numbers
+X1720. Absurd disregard of anatomy
+X1740. Absurd disregard of natural laws
+X1750. Absurd disregard of the nature of objects
+X1760. Absurd disregard of the nature of non-material things
+X1780. Absurdity based on the nature of the object
+X1790. Other logical absurdities
+X1800-X1899. Miscellaneous lies and exaggerations
+X1800. Miscellaneous lies and exaggerations
+X1810. Tall tales about miscellaneous objects
+X1850. Other tall tales

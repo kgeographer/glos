@@ -1,0 +1,53 @@
+G. OGRES
+G10-G399. KINDS OF OGRES
+G10 G99. Cannibals and cannibalism
+G10-G49. Regular cannibalism
+G10. Cannibalism
+G20. Ghouls
+G30. Person becomes cannibal
+G50-G79. Occasional cannibalism
+G50. Occasional cannibalism
+G60. Human flesh eaten unwittingly
+G70. Occasional cannibalism-deliberate
+G80. Other motifs dealing with cannibals
+G100-G199. Giant ogres
+G100. Giant ogre
+G110. Possessions of giant ogres
+G120. Physical characteristics of giant ogres
+G130. Customs of giant ogres
+G150. Giant ogres-miscellaneous
+G200-G299. Witches
+G200. Witch
+G210. Form of witch
+G220. Characteristics of witches
+G230. Habitat of witches
+G240. Habits of witches
+G250. Recognition of witches
+G260. Evil deeds of witches
+G270. Witch overcome or escaped
+G280. Witches-miscellaneous motifs
+G300-G399. Other ogres
+G300. Other ogres
+G310. Ogres with characteristic methods
+G350. Animal ogres
+G360. Ogres with monstrous features
+G370. Ogres-miscellaneous
+G400-G499. Falling into ogre's power
+G400. Person falls into ogre's power
+G410. Person betrayed into ogre's power
+G420. Capture by ogre
+G440. Ogre abducts person
+G450. Falling into ogre's power-miscellaneous
+G500-G599. Ogre defeated
+G500. Ogre defeated
+G510. Ogre killed, maimed, or captured
+G520. Ogre deceived into self-injury
+G530. Ogre's relative aids hero
+G550. Rescue from ogre
+G560. Ogre deceived into releasing prisoner
+G570. Ogre overawed
+G580. Ogre otherwise subdued
+G600—G699. Other ogre motifs
+G610. Theft from ogre
+G630. Characteristics of ogres
+G650. Unclassified ogre motifs

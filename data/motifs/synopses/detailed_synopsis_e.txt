@@ -1,0 +1,60 @@
+E. THE DEAD
+EO-E199. Resuscitation
+EO. Resuscitation
+E10. Resuscitation by rough treatment
+E30. Resuscitation by arrangement of members
+E50. Resuscitation by magic
+E80. Water of life
+E90. Tree of life
+E100. Resuscitation by medicines
+E120. Other means of resuscitation
+E150. Circumstances of resuscitation
+E200-E599. GHOSTS AND OTHER REVENANTS
+E200-E299. Malevolent return from the dead
+E200. Malevolent return from the dead
+E210. Dead lover's malevolent return
+E220. Dead relative's malevolent return
+E230. Return from dead to inflict punishment
+E250. Bloodthirsty revenants
+E260. Other malevolent revenants
+E280. Ghosts haunt buildings
+E300-E399. Friendly return from the dead
+E300. Friendly return from the dead
+E310. Dead lover's friendly return
+E320. Dead relative's friendly return
+E340. Return from dead to repay obligations
+E360. Other reasons for friendly return from the dead
+E380. Ghost summoned
+E390. Friendly return from the dead-miscellaneous
+E400-E599. Ghosts and revenants-miscellaneous
+E400. Ghosts and revenants-miscellaneous
+E410. The unquiet grave
+E420. Appearance of revenant
+E430. Defense against ghosts and the dead
+E440. Walking ghosts "laid"
+E460. Revenants in conflict
+E470. Intimate relations of dead and living
+E480. Abode of the dead
+E490. Meetings of the dead
+E500. Phantom hosts
+E510. Phantom sailors
+E520. Animal ghosts
+E530. Ghosts of objects
+E540. Miscellaneous actions of revenants
+E600-E699. Reincarnation
+E600. Reincarnation
+E610. Reincarnation as animal
+E630. Reincarnation in object
+E650. Reincarnation: other forms
+E670. Repeated reincarnation
+E690. Reincarnation: miscellaneous
+E700-E799. The soul
+E700. The soul
+E710. External soul
+E720. Soul leaves or enters the body
+E730. Soul in animal form
+E740. Other forms of the soul
+E750. Perils of the soul
+E760. Life index
+E770. Vital objects
+E780. Vital bodily members

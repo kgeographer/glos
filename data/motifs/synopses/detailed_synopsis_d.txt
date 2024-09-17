@@ -1,0 +1,158 @@
+D0-D699 TRANSFORMATION
+D10-D99. Transformation of man to different man
+D10. Transformation to person of different sex
+D20. Transformation to person of different social class
+D30. Transformation to person of different race
+D40. Transformation to likeness of another person
+D50. Magic changes in man himself
+D90. Transformation: man to different man -- miscellaneous
+D100-D199. Transformation: man to animal
+D110-D149. Transformation: man to mammal
+D110. Transformation: man to wild beast (mammal)
+D130. Transformation: man to domestic beast (mammal)
+D150. Transformation: man to bird
+D170. Transformation: man to fish
+D180. Transformation: man to insect
+D190. Transformation: man to reptiles and miscellaneous animals
+D200-D299. Transformation: man to object
+D210. Transformation: man to vegetable form
+D230. Transformation: man to mineral form
+D250. Transformation: man to manufactured object
+D270. Transformation: man to object - miscellaneous
+D300-D399. Transformation: animal to person
+D310-D349. Transformation: mammal to person
+D310. Transformation: wild beast (mammal) to person
+D330. Transformation: domestic beast (mammal) to person
+D350. Transformation: bird to person
+D370. Transformation: fish to man
+D380. Transformation: insect to person
+D390. Transformation: reptiles and miscellaneous animals to persons
+D400-D499. Other forms of transformation
+D410. Transformation: one animal to another
+D420. Transformation: animal to object
+D430. Transformation: object to person
+D440. Transformation: object to animal
+D450-D499. Transformation: object to object
+D450. Transformation: object to another object
+D470. Transformation: material of object changed
+D480. Size of object transformed
+D500-D599. Means of transformation
+D510. Transformation by breaking tabu
+D520. Transformation through power of the word
+D530. Transformation by putting on skin, clothing, etc. 
+D550. Transformation by eating or drinking
+D560. Transformation by various means
+D600-D699. Miscellaneous transformation incidents
+D610. Repeated transformation
+D620. Periodic transformation
+D630. Transformation and disenchantment at will
+D640. Reasons for voluntary transformation
+D660. Motive for transformation of others
+D670. Magic flight. 
+D680. Miscellaneous circumstances of transformation
+D700—1799. Disenchantment
+D710. Disenchantment by rough treatment
+D720. Disenchantment by removing (destroying) covering of enchanted person
+D730. Disenchantment by submission
+D750. Disenchantment by faithfulness of others
+D760. Disenchantment by miscellaneous means
+D790. Attendant circumstances of disenchantment
+D800-D1699. MAGIC OBJECTS
+D800—D899. Ownership of magic objects
+D800. Magic object
+D810-D859. Acquisition of magic object
+D810. Magic object a gift
+D830. Magic object acquired by trickery
+D840. Magic object found
+D850. Magic object otherwise obtained
+D860. Loss of magic object
+D880. Recovery of magic object
+D900—D1299. Kinds of magic objects
+D900. Magic weather phenomena
+D910. Magic body of water
+D930. Magic land features
+D940. Magic forests
+D950. Magic tree
+D960. Magic gardens and plants
+D980. Magic fruits and vegetables
+D990—D1029. Magic bodily members
+D990. Magic bodily members human
+D1010. Magic bodily members animal
+D1030. Magic food
+D1040. Magic drink
+D1050. Magic clothes
+D1070. Magic ornaments
+D1080. Magic weapons
+D1110. Magic conveyances
+D1130. Magic buildings and parts
+D1150. Magic furniture
+D1170. Magic utensils and implements
+D1210. Magic musical instruments
+D1240. Magic waters and medicines
+D1250. Miscellaneous magic objects
+D1300-D1599. Function of magic objects
+D1300—D1379. Magic objects effect changes in persons
+D1300. Magic object gives supernatural wisdom
+D1310. Magic object gives supernatural information
+D1330. Magic objects works physical change
+D1350. Magic object changes person's disposition
+D1360. Magic object effects temporary change in person
+D1380. Magic object protects
+D1390. Magic object rescues person
+D1400—D1439. Magic object gives power over other persons
+D1400. Magic object overcomes person
+D1410. Magic object renders person helpless
+D1420. Magic object draws person (thing) to it
+D1430. Magic object pursues or captures
+D1440. Magic object gives power over animals
+D1450. Magic object furnishes treasure
+D1470. Magic object as provider
+D1500. Magic object controls disease
+D1520. Magic object affords miraculous transportation
+D1540. Magic object controls the elements
+D1550. Magic object miraculously opens and closes
+D1560. Magic object performs other services for owner
+D1600-D1699. Characteristics of magic objects
+D1600-D1649. Automatic magic objects
+D1600. Automatic object
+D1610. Magic speaking objects
+D1620. Magic automata
+D1640. Other automatic objects
+D1650. Other characteristics of magic objects
+D1700—D2199. MAGIC POWERS AND MANIFESTATIONS
+01710—D1799. Possession and means of employment of magic powers
+D1710. Possession of magic powers
+D1720. Acquisition of magic powers
+D1740. Loss of magic powers
+D1750. Other characteristics of magic power
+D1760. Means of producing magic power
+D1800—D2199. Manifestations of magic power
+D1800—D1949. Lasting magic qualities
+D1810. Magic knowledge
+D1820. Magic sight and hearing
+D1830. Magic strength
+D1840. Magic invulnerability
+D1850. Immortality
+D1860. Magic beautification
+D1870. Magic hideousness
+D1880. Magic rejuvenation
+D1890. Magic aging
+D1900. Love induced by magic
+D1910. Magic memory
+D1920. Other permanent magic characteristics
+D1950—D2049. Temporary magic characteristics
+D1960. Magic sleep
+D1980. Magic invisibility
+D2000. Magic forgetfulness
+D2020. Magic dumbness
+D2030. Other temporary magic characteristics
+D20504-D2099. Destructive magic powers
+D2060. Death or bodily injury by magic
+D2070. Bewitching
+D2080. Magic used against property
+D2090. Other destructive magic powers
+D2100—D2149. Other manifestations of magic power
+D2100. Magic wealth
+D2120. Magic transportation
+D2140. Magic control of the elements
+D2150—D2199. Miscellaneous magical manifestations

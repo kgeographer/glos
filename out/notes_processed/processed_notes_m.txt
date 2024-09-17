@@ -1,0 +1,31 @@
+M10.	Irrevocable judgments
+M20.	Short-sighted judgments
+M50.	Other judgments and decrees
+M90.	Judgments and decrees-miscellaneous motifs M100-
+M199.	Vows and oaths
+M100.	Vows and oaths
+M110.	Taking of vows and oaths
+M120.	Vows concerning personal appearance
+M130.	Vows concerning sex
+M150.	Other vows and oaths M200
+M299.	Bargains and promises
+M200.	Bargains and promises
+M210.	Bargain with devil
+M220.	Other bargains
+M250.	
+M260.	Promises connected with death Other promises
+M290.	Bargains and promises-miscellaneous M300-
+M399.	Prophecies
+M300.	Prophecies
+M310.	Favorable prophecies
+M340.	Unfavorable prophecies
+M360.	Other prophecies
+M370.	Vain attempts to escape fulfillment of prophecy
+M390.	Prophecies-miscellaneous motifs M400-
+M499.	Curses
+M400.	Curses
+M410.	
+M420.	Pronouncement of curses Enduring and overcoming curses
+M430.	Curses on persons
+M460.	Curses on families
+M490.	Curses-miscellaneous

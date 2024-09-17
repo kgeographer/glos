@@ -1,0 +1,12 @@
+Skipped line for Motif ID C211.2.1.: No coherent sentences. Original line: |C211.2.1.
+Skipped line 414: No valid motif ID found. Original line: |C250 C279. DRINKING TABUS Finnish: Kalevala
+Skipped line 429: No valid motif ID found. Original line: |C280 Miscellaneous eating and drinking tabus.
+Skipped line 439: No valid motif ID found. Original line: |C300 C399. Looking tabu.
+Skipped line for Motif ID C321.2.: No coherent sentences. Original line: |C321.2.
+Skipped line for Motif ID C720.: No coherent sentences. Original line: |C720.
+Skipped line for Motif ID C755.3.: No coherent sentences. Original line: |C755.3.
+Skipped line for Motif ID C755.4.: No coherent sentences. Original line: |C755.4.
+Skipped line for Motif ID C756.1.: No coherent sentences. Original line: |C756.1.
+Skipped line for Motif ID C757.1.: No coherent sentences. Original line: |C757.1.
+Skipped line for Motif ID C968.: No coherent sentences. Original line: |C968.
+Skipped line for Motif ID C980.: No coherent sentences. Original line: |C980.

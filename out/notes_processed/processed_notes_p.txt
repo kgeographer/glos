@@ -1,0 +1,1783 @@
+A546.	Culture hero establishes social system.
+A1470.	Beginning of social relationships.
+A1650.	Origin of different classes-social and professional.
+C550.	Class tabu. PO-
+P99.	Royalty and nobility. PO. Royalty and nobility.
+D1900.1.	Favor with royalty induced by magic.
+H41.	Recognition of royalty by personal characteristics or traits.
+H71.	Marks of royalty.
+H1567.1.1.	Test of leadership.
+H1574.	Tests of social position.
+P3.	Issue of marriage of brother and sister of highest chiefly rank is a god. Hawaii: Beckwith Myth 521.
+P10.	Kings. Jewish: *Neuman.
+A1653.	Origin of kings (from god[s]).
+B240.	King of animals,
+C501.	Tabu: contact with things belonging to a king.
+C563.	Tabus of kings.
+C938.	Rulers of inferior character after tabu is broken.
+D45.1.	Kings exchange forms and kingdoms for a year.
+D1654.11.	Paper in hand which none but king can remove.
+D1960.2.	King asleep in mountain.
+D2012.1.	King in the bath: years of experience in a moment.
+F402.2.1.	King of demons (Asmodeus).
+F571.6.	King so old that he cannot get on horseback without help.
+H38.1.	Disguised king recognized by ha- bitual speech.
+H171.	Animal or object indicates election of ruler.
+H508.1.	King propounds questions to his sons to determine successor.
+H561.2.	King and abbot.
+H561.6.	King and peasant vie in riddling questions and answers.
+H583.	Clever youth (maiden) answers king's inquiry in riddles.
+H711.1.	How much am I (the king) worth?
+H921.	King assigns tasks to his unknown son.
+H1311.1.	King seeks one richer (more magnificent) than himself.
+H1381.3.1.1.	Quest for bride for king.
+J215.1.2.	King refuses to exile gossipers.
+J811.3.	King honors poet and critic.
+J816.1.1.	King brought to sense of duty by philo- sopher.
+J816.3.	King brought to sense of duty by woman's words.
+J913.	King has earthen vessels placed on table when he eats.
+J1081.1.	King buys spendthrift's bed.
+J1284.2.	"Cease being king."
+J1371.	The account book of mistakes.
+J1675.	Clever dealing with a king.
+J1675.3.	King's capriciousness censured.
+J2415.1.	Two presents to the king.
+K929.3.	Ruler promises minister that he will not kill him "on any day of his life."
+K1812.	King in disguise.
+M2.	Inhuman decisions of king.
+M203.	King's promise irrevocable.
+N467.	King in disguise to learn secrets of his subjects.
+N836.	King as helper.
+Q91.3.	King rewards poem.
+Q286.2.	Priest will not bury the dead unless paid in advance. Ruler has him buried alive with the corpse.
+T64.	King seeks bride only because counsellors insist.
+U11.2.	He who steals much is called king.
+W11.2.1.	Emperor thinks day lost when he gives no gifts.
+W11.12.1.	King rewards knight with large sum of money.
+W181.2.	King kills architect after completion of great building.
+P10.1.	Special place where occur births of royalty. Hawaii: Beckwith Myth 376.
+P11.	Choice of kings. India: Thompson-Balys.
+B236.	Animal parliament elects king.
+B242.1.	Various birds as king of birds.
+H41.	Recognition of royalty by personal characteristics or traits.
+H41.9.	Seat in which only fated king can sit.
+H71.	Marks of royalty.
+H1567.	Test of leadership.
+H1574.2.	Fruitfulness of nature as proof of kingly right.
+H1574.3.	King chosen by test.
+P11.0.1.	Prophecy that brother who first kisses saint will be king. Irish myth: Cross.
+P11.0.2.	Choice of king of trees.   ## p. 141 (#145) ############################################  P. Society 141
+P11.0.2.1.	Bramble chosen king of trees. Herbert III 34; Hebrew: Judges 9: 8-15.
+P11.1.	Choice of kings by divine will. *Egerton JAOS XXXIII 158; Krappe Revue Hispanique LVI (1922) 5-24; *Penzer V 175ff.; *Chauvin VI 75 No. 239; India: Thompson-Balys.
+H31.1.	Recognition by unique ability to dislodge sword.
+H171.	Animal or object indicates election of ruler.
+N683.	Stranger accidentally chosen king. Picked up by sacred elephant.
+P11.1.1.	Kings chosen by lot. *Chauvin VI 75 No. 239; Africa (Swahili): Steere 141.
+P11.2.	Winner of contest to be king. *Pauli (ed. Bolte) No. 269; Jewish: *Neuman; India: Thompson-Balys.
+H1561.5.	Test of valor worthy for kingship: taking possession of royal insignia placed between two ferocious lions.
+P11.2.1.	King chosen by contest: princes finding greatest fault with their father. Youngest can find no fault and is chosen. Type 924**.
+P11.2.2.	King chosen by contest. Irish myth: Cross.
+P11.2.2.1.	The one of two giant brothers who performs the greatest feat and procures the wildest dog elected as king. Icelandic: Bo- berg.
+P11.2.3.	The one of two giant brothers who gets the most skillful princess elected as king. Icelandic: Boberg.
+P11.3.	Owner of magic object chosen as king. India: Thompson-Balys.
+P11.4.	King chosen on basis of strength and exploits. Irish myth: Cross; Spanish Exempla: Keller.
+P11.4.1.	He who can open palace door to be king. India: Thompson- Balys.
+P11.4.2.	Amasser of largest fortune to be king. India: Thompson- Balys.
+P11.5.	He who can fill out a certain wide seat chosen as king. Icelandic: Boberg.
+H41.9.	Siege Perilous.
+P11.6.	Inauguration of king as espousal to goddess. Irish myth: *Cross.
+P12.	Character of kings.
+G11.7.	Cannibalistic king.
+P12.1.	Hunting a madness of kings. Penzer II 127; Irish myth: *Cross; Icelandic: Boberg; India: Thompson-Balys.
+P12.2.	Injustice deadliest of monarch's sins. Penzer I 124 n. 1.
+P12.2.1.	Tyrannical king. Jewish: *Neuman; India: Thompson-Balys.
+P12.3.	Usurper imposes burdensome taxes. Dickson 175 n. 39.
+P12.4.	King who intends rape killed. Attackers flee into exile. Irish myth: Cross.
+Q210.1.	Criminal intent punished.
+P12.5.	Good king never retreats in battle. Irish myth: *Cross.   ## p. 142 (#146) ############################################  142 Motif-Index of Folk-Literature
+P12.5.0.1.	Dead king carried into battle in his war-chariot. Irish myth: Cross.
+P12.5.1.	King in battle hides in ditch, with earth piled around him. Irish myth: *Cross.
+P12.6.	Just king brings good fortune upon people. Irish myth: *Cross.
+P12.6.1.	Four duties of king to subjects: devotion, protection of subjects, justice, and increase of his kingdom. India: Thompson-Balys.
+P12.7.	Clever king knows everything in advance. Icelandic: Boberg.
+P12.8.	King banishes nobleman whose castle he wants. Icelandic: *Bo- berg.
+P12.9.	Nobility of character a mark of kings. Kings overcomes passion for beautiful captives and sends them back untouched to their people. Spanish Exempla: Keller.
+P12.10.	King is superior to all in strength, beauty, largeness, etc., and usually has victory. Icelandic: *Boberg; Jewish: *Neuman.
+P12.11.	Uxorious king neglects duties. India: Thompson-Balys.
+P12.12.	King avenges lack of homage. India: Thompson-Balys.
+P12.13.	King quick to anger. India: Thompson-Balys.
+P12.13.1.	King to be seen after anger cools. India: Thompson-Balys.
+P12.14.	Modesty of king. Jewish: *Neuman.
+P13.	Customs connected with kings. Irish myth: *Cross.
+C563.	Tabus of kings.
+H31.	Recognition by unique ability.
+J221.1.	King overlooks wife's unfaithfulness rather than to cause troubles of state.
+J634.1.	King to avoid possible assassination singes his beard rather than have a barber shave him.
+J1675.2.	Clever ways of breaking bad news to a king, who will kill bearer of bad tidings.
+M203.	King's promise irrevocable.
+T281.2.	Sex hospitality given to king.
+P13.0.1.	Privileges of under-king. Irish myth: Cross.
+P13.0.2.	Duties of under-king's retainers. Irish myth: Cross.
+P13.1.	King cannot judge without crown. Fb "konge" II 264b.
+P13.2.	Mismanagement of king's treasury a mortal offense. Fb “penge” II 803a.
+P13.3.	Royal purple (golden diadem) worn as sign of royalty. Irish myth: Cross.
+P13.3.1.	Kingly insignia worn only on field of battle. Irish myth: Cross.
+P13.3.2.	Ring can make or unmake a king. India: Thompson-Balys.
+P13.4.	King must marry. Irish myth: Cross.
+P13.5.	Crowning of kings. Icelandic: *Boberg; Buddhist myth: Malala- sekera I 986.
+P13.5.1.	Anointing of kings. Jewish: *Neuman.
+P13.6.	Custom to appoint a king by day and slay him at night. India: Thompson-Balys.   ## p. 143 (#147) ############################################  P. Society 143
+P13.7.	Royal anniversaries. Jewish: *Neuman.
+P13.8.	King must never be present at funeral. Jewish: *Neuman.
+P13.9.	Royal perquisites.
+P13.9.1.	King has first choice in booty. Jewish: Neuman.
+P13.9.2.	Fifth of the land's production belongs to king. Jewish: *Neu-
+P14.	man. Particular practices of kings.
+W154.21.	Workers (builder) killed when they finish a secret building or grave for a king with the purpose of preventing pillage.
+P14.1.	Prisoners released as celebration of king's success. *Chauvin VI 101 No. 269 n. 2; Babylonian: Spence 59.
+P14.2.	King will not permit a one-eyed man in his presence. *Chauvin V 160 No. 84 n. 1.
+P14.3.	King playing chess when important news arrives. *Dickson 233 n. 30; Icelandic: *Boberg.
+P14.4.	King orders all gold brought to him. Wesselski Archiv Orientální I 77.
+K447.	Contraband gold discovered when king offers large price for gold.
+P14.5.	King never touches earth: carried always by slaves. Africa (Upoto): Einstein 121.
+C520.	Tabu: touching ground.
+P14.6.	King's (prince's) sulking chamber. He sulks here until his wishes are carried out. India: *Thompson-Balys.
+H1212.3.	King (prince, etc.) sulks until quest is accomplished. Vow not to eat before hearing of adventure.
+M151.	
+P14.7.	None permitted to enter hall of king unless he possesses an art. Irish myth: Cross.
+P14.8.	King does not want men who are unable to engage in any sport. Icelandic: Örvar-Odds saga 142-43.
+P337.	King demands work, sport or entertainment from winter guests.
+P14.8.1.	King asks all newcomers what they can do and expects a prompt answer. Icelandic: *Boberg.
+P14.9.	Law that nobody may give the king bad tidings. Icelandic: *Bo- berg.
+J1675.2.	Clever ways of breaking bad news to king.
+P522.	Laws.
+P14.10.	Kings have seat on hills. Icelandic: *Boberg; India: Thompson- Balys.
+P14.11.	King angry at hero who rides straight into the castle without permission. Icelandic: Völsunga saga ch. 28 (26).
+P14.12.	King has his own gifts stolen back for him. India: Thompson- Balys.
+P14.13.	King gives his own wife as reward. India: Thompson-Balys.
+T281.	Sex hospitality.   ## p. 144 (#148) ############################################  144 Motif-Index of Folk-Literature
+P14.14.	King requires everyone who comes before him to tell a story. Irish myth: Cross.
+C564.1.	Tabu: chief being in ale-house when there is no story-telling.
+P14.15.	King has champion to enforce respect. Irish myth: Cross.
+P14.15.1.	Old, wise counsellor of court. Irish myth: Cross.
+P14.15.2.	Court messenger. Irish myth: Cross.
+P14.16.	Threefold division of king's day: one third dedicated to watching boys at play; one third to playing fidehell (chess?); one third to drinking. Irish myth: Cross.
+P14.17.	King's stronghold on island. Irish myth: Cross.
+P14.18.	King orders man whose neck the rope will fit to be executed. India: Thompson-Balys.
+J2233.	Logically absurd defenses.
+P14.19.	King goes in disguise at night to observe his subjects. India: *Thompson-Balys; Buddhist myth: Malalasekera I 424, 908.
+K1812.	King is disguised.
+P14.20.	Tom-tom beater to spread the news of kingship. India: *Thomp- son-Balys.
+P14.21.	King shows himself in public only one day a year. Jewish: *Neuman.
+P14.22.	King keeps lions as pets and a lion-tamer at his palace. Jewish: Neuman.
+P14.23.	King does not eat much during years of famine in order not to forget the hungry. Jewish: *Neuman.
+P15.	Adventures of kings.
+R3.	King imprisons another king's embassy.
+P15.1.	Disguised king punished by peasant. Beaten because he does not get up early enough. (King Alfred and the cakes.) *BP_III_451 n. 1.
+P15.1.1.	
+K521.4.1.2.	Man in danger of life dressed by hostess as woman and set to baking.
+K1816.9.	Disguise as peasant.
+L113.4.	Peasant as hero.
+N854.	Peasant as helper. Disguised king taught courtesy by peasant. English: Wells 94 (The Taill of Rauf Coilyear).
+P15.1.2.	
+K1812.1.	Incognito king helped by humble man. Gives reward. King pardons person who has made mistake of addressing one of his courtiers as king. Spanish Exempla: Keller.
+P15.2.	King demands subject's wife for himself. India: Thompson- Balys; Chinese: Graham.
+H931.	Prince envious of hero's wife assigns hero tasks.
+R10.1.	Princess (maiden) abducted.
+T11.	Falling in love with person never seen.
+T11.1.1.	Beauty of woman reported to king causes quest for her as his bride.
+T161.	Jus primae noctis.
+P15.2.1.	King carries off subject's wife and makes her his own. India: Thompson-Balys.
+P15.3.	King loses his kingdom to impostor. (Cf.
+K1934.1.	) Jewish: Neu- man.   ## p. 145 (#149) ############################################  P. Society 145
+P15.4.	King is cursed by disguised dwarf-smiths whose work he criticised. Icelandic: Ásmundar saga Kappabana 466.
+P15.5.	King frees man sent by rival king to kill him. He sees bravery in the would-be assassin. Spanish Exempla: Keller.
+P15.6.	King descends to bottom of sea in glass barrel to study ways of fishes. Spanish Exempla: Keller.
+P15.7.	King himself works at brick building so that subjects cannot complain of enforced labor. Jewish: *Neuman.
+P15.8.	Subjects drive their ruler away after he has made them do forced labor. India: Thompson-Balys.
+P16.	End of king's reign.
+J711.3.	King for a year provides for future.
+P236.4.	Son deposes father and usurps throne.
+Q281.2.	Ungrateful ruler is deposed.
+S11.3.5.	Cruel king slays brother and brother's son.
+S22.1.	Parricide to obtain king- ship.
+S71.1.	Cruel uncle poisons nephew king.
+S73.1.1.	Fratricide in order to gain control of kingship.
+P16.1.	King (prince) retires from the world (becomes hermit, swine- herd). *Chauvin VI 194 No. 363; Irish myth: Cross; Icelandic: *Bo- berg.
+J1634.	To follow the king.
+Q520.	Penances.
+P16.1.1.	King on retiring orders funeral obsequies given him. Chauvin VIII 115 No. 98.
+P16.1.2.	King learning of queen's adultery abdicates. India: Thomp- son-Balys.
+K1500.	Deception connected with adultery.
+T230.	Faithlessness in marriage.
+T300.	Chastity and celibacy.
+P16.1.3.	The higher the office held in this world, the heavier the judgment of God: Cuchulinn's reason for abjuring kingship. Irish myth: Cross.
+P16.1.4.	Father abdicates in favor of son. India: Thompson-Balys.
+P16.2.	King must resign if maimed (disfigured). Irish: MacCulloch Celtic 25, Cross.
+C563.2.	Tabu: king having physical blemish.
+P16.2.1.	King must resign if he begets natural son. Icelandic: *Boberg.
+P16.3.	King killed when old. Hawaii: Beckwith 409f.; Tonga: Gifford 31.
+M161.6.	Rather die in battle than in bed.
+S140.1.	Abandonment of aged.
+P16.3.0.1.	King commits suicide. Irish myth: Cross.
+P16.3.1.	Old king attacked. Icelandic: *Boberg.
+P16.3.1.1.	Attempt to kill old king by suffocating him in bathroom. Icelandic: Boberg. .
+S113.2.2.	Suffocating in bathroom.
+P16.3.2.	King too old to fight goes himself into his grave mound. Ice- landic: Boberg.
+P16.4.	Persons buried with dead king. *Wesselski Märchen 230; Ice- landic: Corpus Poeticum Boreale I 303, *Boberg.
+N178.	Loss of eye saves man from execution. Man to be buried with king. Gets off because he lacks an eye.
+R212.1.	Man buried alive with king escapes from the tomb.
+V67.4.	Men buried with dead chief. 10   ## p. 146 (#150) ############################################  146 Motif-Index of Folk-Literature —
+P16.4.1.	Suttee. Wife burned with dead king. *Penzer IV 255 ff., 264; **Zachariae Zs. f. Vksk. XIV 198ff., 302ff., 395ff., XV 74ff.; Chauvin VII 20; Mansikka FFC XLIII 330ff.; Hert Die Indogermanen II 440, 490ff.; Grimm Deutsche Rechtsalterthümer I 622; Hoops' Reallexikon IV 556ff.; Schreuer Zs. f. Vgl. Rechtswissenschaft XXXIV 19ff. Icelandic: *Boberg; Slavic: Máchal 233; India: *Thompson-Balys; Melanesia: Codrington 288ff.; Africa: Frobenius Atlantis VII 106, 227.
+A1545.5.1.	Origin of custom of wife self-sacrifice.
+H479.1.	Widow pre- pared for suttee can lift by little finger heavy stone by temple.
+Q414.6.	Woman cast on husband's funeral pyre as punishment.
+S123.2.	Burial of living husband or wife with dead spouse.
+S260.1.	Human sacrifice.
+T211.2.1.	Wife throws herself on husband's funeral pyre.
+V61.2.	Dead burned on pyre.
+P16.5.	Shavings of spear which killed king cast into cataract. Irish myth: Cross.
+P16.6.	Kings worshipped after their death. Icelandic: *Boberg.
+P16.7.	King slain by "his own household" in revenge for deposing his father. Irish myth: Cross.
+P16.8.	Land where every raja dies; if he rules for a day he dies that night; if he rules for a night, he dies that day. India: Thompson- Balys.
+P16.9.	King's coffin sunk into river. Jewish: *Neuman.
+P17.	Succession to the throne. Missouri French: Carrière.
+M311.1.	Prophecy: king's grandson will dethrone him.
+M314.	Prophecies concerning succession to throne.
+M395.	Prophecy: son of certain name will become king: all sons given the name.
+P11.	Choice of kings.
+S22.1.	Parricide to obtain kingship.
+S73.1.1.	Fratricide in order to gain control of kingdom.
+P17.0.1.	No sons left to rule after father. Lawmaker's sons slain in rebellion against him. Irish myth: Cross.
+P236.	Undutiful children.
+P17.0.2.	Son succeeds father as king. Icelandic: *Boberg.
+P17.0.2.1.	At son's wedding king names him as successor. Icelandic: Bo- berg.
+P17.0.3.	Vengeance for destruction of fairy-mound pursues king's descendants. Irish myth: Cross.
+P17.1.	First man to arrive after king's death to be heir. (Cf.
+N683.	) Hdwb. d. Märchens I 605a n. 62; India: *Thompson-Balys.
+P17.2.	Queen chosen to live rather than king so that she can bear an heir to the throne. Serpents alleged to tell by their death which shall die first: male serpent predicts king's death; female, queen's. King has male serpent killed. BP IV 139; Gesta Romanorum No. 92.
+J210.	Choice between evils.
+P253.3.	Brother chosen rather than hus- band or son.
+P17.3.	Dying king names successor. Icelandic: Boberg.
+J154.	Wise words of dying
+D1715.	Magic power of dying man's words. father.
+J155.6.	Wise words of dying woman (queen).
+M251.	Dying man's promise will be kept.
+M258.	Promise to dying man sacred.
+P17.3.1.	Second-born son declared as successor because message about the birth of first son was slower traveling. Emperor will not change proclamation. India: Thompson-Balys.
+M203.	King's promise irrevocable.   ## p. 147 (#151) ############################################  P. Society 147
+P17.4.	Kingship rotates among brothers. Irish myth: Cross.
+P17.5.	Brothers rule jointly. Irish myth: Cross; Icelandic: Boberg.
+P17.6.	Succession by mother-right. Irish myth: Cross.
+P17.7.	Succession will fall to line that has been wronged. Irish myth: Cross.
+P17.8.	Kingship given to younger brother. (Cf.
+P17.10.	) Irish myth: Cross; Icelandic: Boberg; Jewish: Neuman.
+P17.9.	Natural son succeeds to the throne. Irish myth: Cross.
+P233.4.	Natural son preferred to legitimate.
+P17.9.1.	Natural son is refused kingship and half heritage. Icelandic: Hervarar saga 86-88, Boberg.
+P17.10.	Three sons each get a kingship, but the youngest the most im- portant in the home country. (Cf.
+P17.8.	) Icelandic: Boberg.
+P17.11.	Slayer of king marries widow and inherits kingdom. Ice- landic: *Boberg.
+P17.12.	King to be succeeded by whoever can carry his dead body a certain distance. Irish myth: Cross.
+P17.13.	What the princes most desire: king asks each of three sons separately. Answers: to study, to make pilgrimages, to build a great kingdom. Last chosen. India: Thompson-Balys.
+P18.	Marriage of kings. Irish myth: Cross.
+T131.7.	King may not marry girl who has been wife of another.
+T381.0.1.	Girl intended for marriage with king cloistered.
+P18.1.	After highly mourned wife's death the king marries another who turns out to be an evil witch. Icelandic: *Boberg.
+G205.	Witch stepmother.
+M411.1.1.	Curse by stepmother.
+P18.2.	Limited number of wives for polygamous king. Jewish: *Neu- man.
+P19.	Other motifs connected with kings. Irish myth: Cross.
+P19.1.	King's presence necessary for army's victory. English romance: Malory passim.
+P19.2.	King may have any woman as paramour if he makes her a settlement. Irish myth: Cross.
+P19.2.1.	King abducts woman to be his paramour. Irish myth: Cross.
+R10.	Abduction.
+P19.3.	King must procure whatever visiting poets ask, or suffer from their satire. Irish myth: Cross.
+P19.4.	Kingly powers (rights). Irish myth: Cross.
+C563.	Tabus of kings.
+P19.4.0.1.	King's wand (rod). Irish myth: Cross.
+P19.4.1.	King may judge against all save one of highest rank in reli- gion or learning. Irish myth: Cross.
+P19.5.	King raised from dead (by saint). Irish myth: Cross. 10*   ## p. 148 (#152) ############################################  148 Motif-Index of Folk-Literature
+P20.	Queens. Irish myth: Cross.
+F322.2.	Man (king) rescues his wife from fairyland.
+F402.2.2.	Queen of demons.
+H540.2.	Queen propounds riddles.
+K1812.8.	Incognito queen (princess).
+K2213.11.	Treacherous queen tricks king into bestowing kingdom for a year upon her son by a former marriage,
+K2246.0.1.	Treacherous princess (queen).
+K778.2.	Amazonian woman (queen) dis- guised as leper seduces and binds enemies one by one. N837, Queen as helper.
+Q56.3.	Queen rewards love of man of low lineage by making him an ambassador.
+Q211.4.1.	Queen expelled for poisoning stepson.
+T55.	Forthputting woman.
+T146.	Polyandry.
+T146.2.	Woman (queen) requires thirty men.
+T148.	Matriarchy.
+T249.2.	Husband and wife (king and queen) each unfaithful to the other.
+P20.1.	Clever queen. Icelandic: *Boberg.
+P21.	Queen intervenes for condemned courtiers. *Chauvin II 104 No. 65.
+P21.1.	Queen as intercessor with king. Greek: Odyssey VI 313; Jewish: Neuman; India: Thompson-Balys.
+P22.	Queen marries murderer of her fiancé. Italian Novella: Rotunda.
+P17.11.	Slayer of king marries widow and inherits kingdom.
+T231.	The faithless widow.
+P22.1.	Queen leaves country with her son, having killed her husband in revenge for his killing of her father and brother. Icelandic: *Bo- berg.
+P211.	Wife chooses father's side in feud. Must choose between husband and father.
+P231.4.	Mother kills sons who lack courage to help her revenge her father and brothers, and are likely to betray the plot.
+P23.	Queen persuades king to make war without cause that her sons may have territory. Irish myth: Cross.
+P23.1.	Queen persuades husband to riot against his superior. Icelandic: Boberg.
+P23.2.	Queen persuades husband to claim her father's kingdom after his death. Icelandic: Boberg.
+P23.3.	Queen persuades husband to avenge her father. Icelandic: Bo- berg
+P23.4.	Queen offers son to be killed in order to spur to fight and avenge her first husband. (Cf.
+S12.3.	) Icelandic: Boberg.
+P24.	Queen must pay tribute to victorious queen to the amount paid by king to victorious king. Irish myth: Cross.
+P531.	Taxation and payment of fines or tribute.
+P25.	Queen meddles in state affairs. India: Thompson-Balys.
+P26.	Captured queen commits suicide. (Cf.
+P16.3.0.1.	) Irish myth: Cross; India: Thompson-Balys.
+P26.1.	Queen commits suicide, as her husband vanquishes and kills her father and her brother. Icelandic: Boberg.
+P234.	Father and daughter.
+P250.	Brothers and sisters.
+P27.	Grief at queen's death. Icelandic: *Boberg.
+P27.1.	King sits mourning on his wife's grave mound. Icelandic: *Bo- berg.
+P27.2.	King mourns so much at wife's death that he goes on piracy, (every summer afterward). Icelandic: *Boberg.   ## p. 149 (#153) ############################################  P. Society 149
+P27.3.	King calls daughter in second marriage by the name of his first queen. Icelandic: Boberg.
+P28.	Marriage of queen.
+P28.1.	Chieftainess of such rank that none of her countrymen can woo her. Maori: Clark 2.
+P29.	Queens-miscellaneous.
+P29.1.	No king to rule who is not husband of certain queen. Irish myth: Cross.
+P29.2.	Queen commits adultery with husband's foster son. Irish myth: Cross.
+P29.3.	Queen (princess) pours liquor for battle champions. Irish myth: Cross.
+P30.	Princes. Irish myth: Cross.
+D93.	Transformation: prince to old man.
+H1239.1.	Prince agrees to marry a servant girl if she will help him on a quest.
+H1574.3.1.	Prince surpasses brothers by salvaging anvil from burning smithy.
+K1812.11.	Incognito prince sold into slavery.
+K1952.	Sham prince (nobleman).
+K2246.	Treacherous prince.
+L162.	Lowly heroine marries prince.
+M395.	Prophecy: son of certain name will become king: all sons given the name.
+N324.	Man unwittingly kills prince.
+P173.	Captive king's sons made slaves.
+R71.	Captive prince joins captor out of gratitude for his freedom.
+S21.2.	Prince takes kingdom from his father and has his eyes put out.
+S110.4.	Prince resolves to drive relatives from his domain. Kills many.
+T10.1.	Sluggish prince reformed by falling in love.
+T281.2.	Sex hospitality given to prince.
+P30.1.	King's sons called kings. Icelandic: Boberg.
+P31.	Prince must learn a trade. (Cf.
+P51.	) *Chauvin VI 74 No. 239.
+P31.1.	Princes as smiths. Irish myth: Cross.
+P32.	Friendship of prince and commoner. India: Thompson-Balys.
+P32.1.	All children born in realm on same day as chief's son are brought to palace to be the boy's companions. Hawaii: Beckwith Myth 441.
+P34.	Prince imprisoned as hostage for safety from king. Irish myth: Cross.
+P35.	Unknown prince chosen chief of children in play. *Type 920; *De- Vries FFC LXXIII 40ff.
+H41.5.	Unknown prince shows his kingly qualities in dealing with his playmates.
+J123.	Wisdom of child decides lawsuit.
+K1921.1.	Son of the king and of the smith exchanged.
+P36.	Dispossessed prince taunted by usurper's son. West Africa: Fro- benius Atlantis VI 182ff. No. 4.
+T646.	Illegitimate child taunted by playmates.
+P37.	Birth rites confer royalty on infant prince. Easter Island: Métraux Ethnology 59.
+P38.	Prince forfeits father's and God's blessing if he fails to claim throne. English romance: Malory I 4.
+P40.	Princesses.
+C196.	Tabu: asking for king's daughter in marriage.
+C312.2.1.	Tabu: looking at princess on public appearance.
+C567.	Tabus of princesses.
+C567.1.	Tabu: eloping with king's daughter.
+C940.1.	Princess's secret sickness from breaking tabu.
+D2064.2.	Sickness of princess dependent   ## p. 150 (#154) ############################################  150 Motif-Index of Folk-Literature on witch's fire.
+D2064.4.	Magic sickness because of evil eye.
+H41.1.	Princess on the pea.
+H162.	Recognition of disguised princess by bee lighting on her.
+H311.	Inspection test for suitors. Suitors for princess's hand must present themselves for public inspection.
+H316.	Suitor test: apple thrown indicates princess's choice.
+H322.	Suitor test: finding princess.
+H324.	Suitor test: choosing princess from others identically clad.
+H331.5.1.	Race with princess for her hand.
+H341.	Suitor test: making princess laugh.
+H342.	Suitor test: outwitting princess.
+H343.	Suitor test: bringing dumb princess to speak.
+H344.	Suitor test: enter- ing princess's chamber.
+H345.	Suitor test: overcoming princess in strength.
+H346.	Princess given to man who can heal her.
+H347.	Suitor test: to consort with princess.
+H507.1.	Princess offered to man who can defeat her in repartee.
+H511.	Princess offered to correct guesser.
+H525.	Test: guessing princess's birthmarks.
+H551.	Princess offered to man who can out-riddle her.
+H933.	Princess sets hero tasks.
+H1301.1.2.	Quest for far-off princess.
+K425.	King's daughter put into brothel to catch thief.
+K1612.1.	Person sends wrong man to sleep with king's daughter (princess).
+K1915.2.	Through power of saint, man is caused to assume lover's form and sleep with princess.
+K2034.1.	King's daughter secretly pledged to many to win their aid.
+R111.1.1.	Rescue of princess from ogre.
+T50.2.	King loves his daughter so much that he does not want to marry her to anybody.
+T55.1.1.	Princess declares love for courtier.
+P41.	Princess cannot be married to someone of low caste, though he passes suitor test. India: Thompson-Balys.
+H310.	Suitor tests.
+L161.	Lowly hero marries princess.
+T121.	Unequal marriage.
+P41.1.	Great warrior destroyed by king when he asks for princess in marriage. India: Thompson-Balys.
+P50.	Noblemen (knights).
+E501.2.1.	Knights in wild hunt.
+H38.1.	Disguised king (noble) recognized by habitual speech.
+H1574.1.	Tests for noble blood.
+K3.2.	Young knight substitutes for old suitor in tournament.
+K1816.10.1.	Nobleman dis- guised as cobbler woos woodcutter's daughter.
+K2126.	Knight falsely accused of sedition.
+P322.1.	Nobleman insists that man fleeing from prison accept his hospitality.
+Q54.2.	Captive knight free for having kept his word.
+Q81.1.	Nobleman's perseverance gains him coveted place on reserved bench.
+U34.	Nobleman murders one of the people.
+W11.5.3.	Wronged knight conquers enemy and pardons him.
+W11.7.	Nobleman's generosity enables impoverished lover to entertain his lady.
+W11.7.1.	Nobleman in poverty offers wife to ruler.
+P50.0.1.	King and vassals: obligations of vassals to king. Irish myth: Cross.
+P50.0.1.1.	King demands open gate to vassals' castle (city). Irish myth: Cross.
+P50.1.	Earl. Icelandic: *Boberg.
+P50.1.1.	Earl's name preferred to king's. Icelandic: Boberg.
+P50.2.	Marshall.
+K2245.	Treacherous marshall.
+P51.	Noble person saves self from difficulties by knowledge of a trade. (Cf.
+P31.	) Chauvin VIII 111 No. 90.
+P52.	Knight jousts with all comers. (Cf.
+P561.	) English romance: Malory passim.
+P52.1.	Knight's duty to perform as lady bids. English romance: Malory VI 5.
+P55.	Wild man of noble birth. (Cf.
+F567.	) Dickson 135 n. 117; Irish myth: Cross.
+P60.	Noble (gentle) ladies.
+E501.2.2.	Ladies in wild hunt.   ## p. 151 (#155) ############################################  P. Society 151
+P61.	Noble woman given to foreigners on condition that thereafter their land be held by female right. Irish myth: Cross.
+P90.	Royalty and nobility-miscellaneous.
+P92.	Bathing pool reserved for royalty. Tahiti: Henry Ancient Tahiti (Honolulu, 1928) 608.
+P93.	Certain foods, ornaments, feathers, etc. reserved for royalty. Ha- waii: Beckwith Myth 376.
+P94.	Garment must be removed in presence of certain high chiefs. Hawaii: Beckwith Myth 376.
+P95.	Impossible to refuse the request of a troubled nobleman. Greek: Odyssey IV 653. P100-
+P199.	Other social orders.
+P110.	Royal ministers. Missouri French: Carrière.
+C402.1.	Tabu: king speaking before his druids speak.
+H561.5.	King and minister. King propounds riddles and questions to his clever minister.
+K1231.2.	Ambassador asks queen to lie with him.
+K1839.7.	Disguise as foreign ambassador.
+R169.7.	Royal minister rescues abandoned queen(s).
+P111.	Banished minister found indispensable and recalled. *Chauvin VI 38 No. 207 n. 5; India: Thompson-Balys.
+H561.5.	King and clever minister.
+J151.1.	Wisdom of hidden old man saves kingdom.
+K2101.	Falsely accused minister reinstates himself by his cleverness.
+P116.	Minister acts as stepping-stone in midst of flame-filled trench so that king can step across from one side to the other. India: Thompson-Balys.
+P120.	Church dignitaries. Irish myth: Cross.
+B252.	Animal churchmen,
+D1311.12.1.	Bell sounds to indicate pope.
+H561.2.	King and abbot.
+K1826.	Disguise as churchman.
+K1961.	Sham church- man,
+P19.4.1.	King may judge against all save one of highest rank in religion or learning.
+P426.	Clergy.
+Q556.12.1.	Thievish abbot to be eaten by wolves: curse by saint.
+V450.	Religious orders.
+W16.	Bishop exchanges places with prisoner so that he may return to his mother.
+X410.	Jokes on parsons.
+P150.	Rich men. Irish myth: Cross; Missouri French: Carrière.
+B113.1.	Treasure-producing bird-heart.
+K1603.	Rich man falls into sacri- ficial grave prepared for others.
+K2015.	Child adopted by rich man in order to get rid of him.
+L143.	Poor man surpasses rich.
+L162.	Lowly heroine marries prince (king).
+M312.1.	Prophecy: wealthy marriage for poor boy.
+M312.3.	Eater of magic bird-heart will become rich (or king).
+Q272.1.	Devil carries off rich man.
+Q491.4.	Toads and snakes devour corpse of rich man in his grave.
+P151.	Man so rich that people prefer the dung from his mules over king's gold and silver. Jewish: Neuman.
+P160.	Beggars. Irish myth: Cross; Missouri French: Carrière; Jewish: Neuman. X530, Jokes on beggars.
+P161.	Beggars' many children. *Wesselski Bebel II 131 No. 97, 136 No. 107.
+P162.	Lepers. Irish myth: Cross; Jewish: Neuman.   ## p. 152 (#156) ############################################  152 Motif-Index of Folk-Literature
+P162.1.	Naked leper. Irish myth: Cross.
+P163.	Beggar rewarded by king for poem (song). India: *Thompson- Balys.
+P170.	Slaves.. Irish myth: Cross.
+A1657.	Origin of slaves.
+C561.1.	Tabu: slave going near fetish.
+C563.4.	Tabu: king settling quarrel among thralls.
+H38.3.	Slave recognized by his conversation, habits and character.
+K2251.	Treacherous slave.
+N801.	Helper grateful for being bought from slavery.
+N863.	Slave (swineherd) as helper of princess.
+P523.3.	Slave may not bring suit.
+Q285.4.	Slave- driving punished.
+Q437.	Criminal's wife and children sold into slavery.
+Q482.1.1.	Second wife (slave) must serve as menial.
+Q482.2.1.	Queen forced to do menial service rescued by son.
+Q558.7.	Slave-driver mysteriously stricken dead.
+R40.	Places and conditions of captivity.
+R61.	Person sold into slavery.
+R111.1.6.	Princess ransomed from slavery.
+S113.1.1.	Slaves killed by hanging.
+S210.1.	Child sold into slavery.
+T121.6.	Man marries his bondmaid.
+P170.0.1.	Female slaves. (Cf.
+P173.1.	) Irish myth: Cross.
+P170.0.1.1.	Female slaves as medium of exchange (unit of value). Irish myth: Cross.
+P171.	Branding person makes him one's slave for life. Wesselski Hodscha Nasreddin II 198 No. 391.
+P171.1.	Slave's ear bored, Jewish: *Neuman.
+P171.2.	Bond woman with rope girding her loins. Jewish: Neuman.
+P172.	Requirement that slaves given as tribute should not know Irish. Irish myth: Cross.
+P532.	Payment of tax (tribute).
+P173.	Captive king's sons made slaves. Irish myth: Cross; Jewish: Neu- man.
+P173.1.	Captive king's daughter as slave. Icelandic: Boberg.
+P173.2.	Killed enemy's son as slave. Icelandic: Boberg.
+P173.3.	Captives from battle sold as slaves. Icelandic: *Boberg.
+P173.4.	Futile attempt to get rid of man by selling him to merchants as slave. Icelandic: Boberg.
+P174.	Children of slave and free person become slaves. Hawaii: Beck- with Myth 300.
+P175.	Slave killed. Icelandic: *Boberg.
+P175.1.	Slave hanged. Icelandic: *Boberg.
+P176.	Murder by slaves. Icelandic: Boberg.
+P177.	Origin of thralls. Icelandic: Boberg.
+P178.	Slaves freed. Icelandic: *Boberg.
+P178.1.	Knocking out a slave's tooth entitles him to freedom. Jewish: Neuman.
+P178.2.	Slaves released after definite term. Jewish: Neuman (seven years).
+P190.	Other social orders-miscellaneous. Irish myth: Cross.   ## p. 153 (#157) ############################################  P. Society 153
+P191.	Social status of foreigners. Irish myth: Cross.
+P523.1.	Foreigners may not bring suit.
+P524.2.	Foreigners may not act as security.
+P192.	Madmen (fools, professional fools). Irish myth: Cross.
+J1700.	Fools.
+P523.2.	Madman may not bring suit.
+P525.1.	Contract made by madman void.
+P192.1.	Professional fool. Irish myth: Cross.
+P192.2.	Fool as clever judge. Irish myth: Cross.
+P192.3.	Fool can walk on water. Irish myth: Cross.
+P192.4.	Fool can live under water. Irish myth: Cross.
+P192.5.	Fool makes friends with birds and beasts. Irish myth: Cross.
+P192.6.	Customary to shave heads of demented so that they may be recognized as such. Irish myth: Cross.
+P192.7.	Fool recognized by lump on his forehead. Irish myth: Cross.
+P200.	The family. P200-
+P299.	The family.
+A1570.	Origin of regulations within the family.
+E220.	Dead relative's malevolent return.
+E320.	Dead relative's friendly return.
+G61.	Rela- tive's flesh eaten unwittingly.
+H175.	Recognition by "force of nature". Unknown member of family immediately and magically recognized.
+J390.	Choices: kind strangers, unkind relatives. K2210, Treacherous relatives.
+N730.	Accidental reunion of families.
+P525.3.	The nearest to blood of slain man must avenge his death.
+Q211.0.2.	Enormity of kin murder.
+S0.	Cruel relatives.
+V53.	Prayers of family comfort prisoner.
+V451.	First-born son and one of every ten born thereafter given to Church.
+P201.	Inherent enmity between members of a family. Dickson 100 n. 5.
+P201.1.	Feud between two branches of family. Irish myth: Cross.
+P202.	Person reproached for having no relatives. Irish myth: Cross; Koryak: *Jochelson JE VI 372.
+P203.	Game with ancestors' bones. A boy interrupts a game played with the bones of his father or other murdered relative. N. A. In- dian: Kroeber JAFL XXI 225.
+F839.1.	Gnawed bone as weapon.
+S139.2.2.4.	Parts of corpses used in sport.
+P205.	Refusal to fight relatives. Hindu: Tawney I 175; Icelandic: Bo- berg.
+H1558.8.	Friends refuse to fight against each other.
+N731.2.	Father-son combat. Neither knows who the other is.
+N733.1.	Brothers unwittingly fight each other.
+P210.	Husband and wife.
+A736.1.4.	Sun and moon married.
+A762.1.	Star-husband. Star takes mortal maiden as wife.
+A1270.	Primeval human pair.
+A1555.2.	Origin of custom of purchasing wives.
+C31.	Tabu: offending supernatural wife.
+D662.	Transformation to cure inconstant husband.
+D861.5.	Magic object stolen by hero's wife.
+D1976.2.	Future wife met during magic sleep.
+E165.	Resuscitation of wife by husband giving up half his remaining life. (Sometimes vice versa.)
+E221.	Dead spouse's malevolent return.
+E321.	Dead husband's friendly return.
+E322.	Dead wife's friendly return.
+F322.2.	Man rescues his wife from fairyland.
+H151.8.	Husband attracted by wife's power of healing.
+H363.	Deceased wife's marriage test.
+H422.	Test for true husbands.
+H425.	Tests for cuckolds.
+H460.	Wife tests.
+H492.1.	Husband refuses to murder his wife for high honors; wife agrees to murder husband.
+H592.1.1.	"Love like wind in hot sun". Hus- band offended but later learns wife's meaning.
+H916.	Tasks imposed   ## p. 154 (#158) ############################################  154 Motif-Index of Folk-Literature because of wife's foolish boast.
+H922.	Departing husband assigns his wife tasks.
+H934.	Wife assigns husband tasks.
+H1187.	Task left by departing husband for wife to accomplish.
+H1212.	Quest assigned because of feigned illness.
+H1312.1.	Quest for three persons as stupid as his wife.
+H1385.3.	Quest for vanished wife (mistress).
+J1540.	Retorts between husband and wife.
+J1545.	Wife outwits her hus- band.
+J2301.	Gullible husbands.
+K1500.	Deceptions connected with adultery.
+K2213.	Treacherous wife.
+N741.	Unexpected meeting of hus- band and wife.
+P253.3.	Brother chosen rather than husband or son.
+P525.2.	Contract made by woman without her husband void.
+Q211.3.	Uxorcide punished.
+Q482.1.1.	Second wife must serve as menial.
+R151.	Husband rescues wife.
+R227.2.	Flight from hated husband.
+S410.	Per- secuted wife.
+T141.2.	Wives exchanged.
+T147.	Annual marriages.
+T145.	Polygamous marriage.
+T146.	Polyandry.
+T200.	Married life.
+T250.	Characteristics of wives and husbands.
+P211.	Wife chooses father's side in feud. Must choose between hus- band and father. S. A. Indian (Carib): Alexander Lat. Am. 266.
+P22.1.	Queen leaves the country with her son, having killed her hus- band in revenge for his killing of her father and brother.
+P211.1.	Wife chooses father rather than husband or son. (Cf.
+P253.3.	) Only one can be saved; he alone is irreplacable. Spanish: Childers.
+P211.2.	Mother kills husband for murdering their daughter. Africa (Kamerun): Mansfield 228.
+P212.	Wife more merciful than blood relations. They refuse to ransom condemned man; wife does so. Child II 349f., III 516, IV 481, V 231ff., 296.
+P213.	Husband more merciful than blood relations. They refuse to ransom condemned woman; husband does so. Child II 346-53, III 511, IV 481f., V 231ff., 296.
+P214.	Wife drinks blood of slain husband. Irish myth: Cross.
+T231.	The faithless widow.
+P214.1.	Wife commits suicide (dies) on death of husband. (Cf.
+P16.4.1.	) Irish myth: Cross.
+P216.	Wife only one able to persuade her husband. Icelandic: Boberg.
+P230.	Parents and children. Hdwb. d. Märchens I 527a s.v. "Eltern und Kinder"; Spanish Exempla: Keller.
+A401.	Mother earth. The earth is conceived of as the mother of all things.
+A625.	World parents. Sky-father and earth-mother as parents of the universe.
+A745.1.	Moon born from first couple.
+A1277.1.	First parents devour offspring.
+A1575.	Origin of relation of mother and children.
+D444.2.	Transformation: meat to toad. Punishment for un- grateful son.
+E324.	Dead child's friendly return to parents.
+E613.0.1.	Reincarnation of murdered child as bird.
+E765.4.3.1.	Father and mother will die same day as daughter.
+G71.	Unnatural children eat parent.
+G72.	Unnatural parents cat children.
+H151.3.	Recognition when parents come to son (priest, pope) to be confessed.
+H151.9.	Abandoned child joins parents in game: recognition follows.
+H491.1.	In large family father unwilling but mother willing to sell children.
+H637.1.	What is hardest? Parent's heart (said by child being sacrificed).
+H1381.1.	Quest for unknown parents.
+J154.	Wise words of dying father.
+K2213.11.	Treacherous queen tricks king into bestowing kingdom for a year upon her son by former marriage.
+K2214.1.	Treacherous daughter.
+K2214.	Treacherous children.
+M343.	Parricide prophecy.
+M344.	Mother-incest pro- phecy.
+M371.1.	Exposure (murder) of child to avoid fulfillment of pro- phecy.
+M411.1.	Curse by parent.
+Q65.	Filial duty rewarded.
+Q211.4.	Murder of children punished.
+Q211.1.	Parricide punished.
+Q281.1.	Un- grateful children punished.
+Q431.9.2.	Exile as punishment for parricide.
+Q553.4.1.	Child taken from parents because they have ceased to think of God.
+R153.	Parent rescues child.
+S20.	Cruel children.
+S210.	Children sold or promised.
+S223.	Childless couple promise child to the devil if they may only have one.
+S300.	Abandoned or murdered children.
+S322.2.1.	Mother exposes child for fear of jealous co-wife.
+S351.	Abandoned child cared for by mother secretly.
+T600.	Care of children.   ## p. 155 (#159) ############################################  P. Society 155
+P230.1.	Mother prefers son, father daughter. Icelandic: *Boberg.
+P230.2.	Mother dislikes her children in forced marriage. Icelandic: Bo- berg.
+P230.3.	Queen dislikes son who is unlike her and loves a poor girl: plots against him. Icelandic: Boberg.
+P231.	Mother and son.
+D688.	Transformed mother suckles child.
+D815.1.	Magic object received from mother.
+D842.1.	Magic object found on mother's grave.
+H633.3.	What is sweetest? - Mother's breast.
+H652.2.	What is softest? - Mo- ther's bosom.
+H662.	Riddle: what is dearer than gold? Mother love.
+H1216.	Mother sends son to find unknown father.
+K2384.	Man tricked to be one's sworn brother in order to secure his help against his mo- ther.
+L111.3.	Widow's son as hero.
+M344.	Mother-incest prophecy.
+P282.2.	Stepmother mourns her stepsons' death, not her own son's.
+R154.1.	Son rescues mother.
+T412.	Mother-son incest.
+W28.1.	Woman drinks poison that son may be king.
+W23.2.	Woman sacrifices life for son's honor.
+P231.1.	Boy sickens from grief at mother's death. Irish myth: Cross.
+F1041.	Extraordinary physical reactions of persons.
+P231.2.	Son warns mother. (Hamlet.) Icelandic: *Boberg.
+P231.3.	Mother-love. Icelandic: *Boberg.
+P231.4.	Mother kills sons who lack courage to help her revenge her father and brothers, and are likely to betray the plot. Icelandic: Boberg.
+P231.5.	Mother reveals fact that son is offspring of supernatural father. Irish myth: Cross.
+P231.6.	Mother (eagle) casts out dull, stupid changeling; rears bold, energetic son. Irish myth: Cross.
+P231.7.	Mother commits suicide when son wants to marry foreigner according to foreign rites. Chinese: Eberhard FFC CXX 267.
+P232.	Mother and daughter.
+H914.	Tasks assigned because of mother's foolish boasting.
+S322.2.	Jealous mother casts daughter forth.
+P232.1.	Wicked mother and her sons do everything to prevent daughter's marriage with beloved. Icelandic: Boberg.
+P232.2.	Mother lets daughter unwittingly marry own father in order to avenge his raping. Icelandic: Boberg.
+N365.2.	Unwitting father-daughter incest.
+P233.	Father and son. Irish myth: Cross; Spanish Exempla: Keller.
+D815.2.	Magic object received from father.
+D1317.6.1.	Sword bursts in son's hand when he is about to kill his father.
+F1041.9.1.1.	Man keeps to his bed, mourning over drowned son.
+H151.11.	Hero is served at table by his unknown son: recognition of his wife follows.
+H480.	Father tests.
+H1210.1.	Quest assigned by father.
+H1216.	Mother sends son to find unknown father.
+H1381.2.	Quest for unknown father.
+H1462.	Vigil for dead father.
+J122.	Naïve remark of child: "You forgot to strike mother."
+J675.1.	Son slays father in order not to be slain himself.
+M258.1.	Promise to dying father leads to adventures.
+M343.	Parricide prophecy.
+N731.	Unexpected meeting of father and son.
+N731.2.	Fa- ther-son combat.
+R54.	Hero locked up while his father is murdered.
+R153.3.	Father rescues son(s).
+S11.	Cruel father.
+T131.1.2.	Father's con- sent to son's (daughter's) marriage necessary.
+P233.1.	Son as pledge for father who has committed murder. Irish myth: Cross.   ## p. 156 (#160) ############################################  156 Motif-Index of Folk-Literature
+P233.2.	Young hero rebuked by his father. Icelandic: *Boberg.
+P233.2.1.	Father drives away bad son whom the mother prefers. Ice- landic: Boberg.
+P233.3.	Berserks scold their father who apparently without reason called their adversary invincible. Icelandic: Boberg.
+P233.3.1.	Hero's son by giantess scorns his father's feebleness: still it is the son who is slain. Icelandic: Boberg.
+P233.4.	Natural son preferred to legitimate. Icelandic: Boberg.
+P233.5.	Oldest son responsible to father for welfare of others. Jewish: Neuman.
+P233.6.	Son avenges father. English romance: Malory X 21, 34, 36; Icelandic: *Boberg; Jewish: Neuman; India: Thompson-Balys; Afri- ca: Bouveignes 163.
+P233.7.	Son must threaten father before he will recognize him as son, even though he brings ring from his mother. Icelandic: *Boberg.
+T645.	Paramour leaves token with girl to give their son.
+P233.8.	Prodigal son returns. India: Thompson-Balys.
+N172.	Prodigal as favorite of fortune.
+P233.9.	Son chastizes father for scorning mother. India: Thompson- Balys.
+P233.10.	Father in vision reproves son about to succumb to temptation. Jewish: Neuman.
+P233.11.	Birthright transferred by father from the oldest son to another. (Cf.
+P251.7.	) Jewish: Neuman.
+P234.	Father and daughter. Irish myth: Cross; Spanish Exempla: Keller.
+H592.1.	"Love like salt." Girl compares her love for her father to salt. Experience teaches him the value of salt.
+H807.	Formerly I was daughter, now I am mother, etc.
+K2214.1.	Treacherous daughter.
+S11.7.	Jealous father vows to kill daughter's suitors.
+T97.	Father opposed to daughter's marriage.
+T411.	Father-daughter incest.
+T411.1.	Lecherous father. Unnatural father wants to marry his daughter (Manekine).
+P234.1.	Daughter marries her husband's slayer in order to save her old father from war. Icelandic: Boberg.
+P234.2.	Father and daughter die at same time. Icelandic: Boberg.
+P236.	Undutiful children. Irish myth: Cross.
+P17.0.1.	No son to rule after his father. Lawmaker's sons slain in rebellion against him.
+Q281.1.	Ungrateful children punished.
+S20.	Cruel children.
+P236.1.	Folly of father's giving all property to children before his death. They abandon him. *Oesterley No. 273; Spanish: Boggs FFC XC 116 No. 980A. Cf. Shakespeare's King Lear.
+J705.	Safe provision for life not to be lightly surrendered.
+P236.2.	Supposed chest of gold induces children to care for aged father. They think that the chest of stones contains the inheritance. *Pauli (ed. Bolte) No. 435; Scala Celi 98b No. 528; Dunlop-Wilson II 185f.; von der Hagen II lviii No. 49; Hdwb. d. Abergl. IV 1290. Lithuanian: Balys Index No. 2452*; Spanish: Boggs FFC XC 116 No. 980A; Italian Novella: *Rotunda; Palestine: Schmidt-Kahle Volks-   ## p. 157 (#161) ############################################  P. Society 157 erzählungen aus Palästina II No. 123; India: *Thompson-Balys; In- donesia: Jeynball Catalogus Maleische en Sundaneesche Hss. 173, ibid. Supplement Catalogus Javaansche en Madoereesche Hss. 22.
+K476.2.	False articles used to produce credit.
+K1667.	Unjust banker deceived into delivering deposits by making him expect even larger. Not daring to curse father directly, son does so indirectly. Nouvelles Récréations No. 50.
+P236.3.	
+P236.4.	Son deposes father and usurps throne. Irish myth: Cross.
+P236.5.	Undutiful children ridicule father while he is drunk and naked. Spanish Exempla: Keller.
+P236.6.	Undutiful son overawes his father by threats. India: Thomp- son-Balys.
+P236.7.	Undutiful son taught lesson showing his mother has suffered from him. India: Thompson-Balys.
+P237.	Daughters flogged by parents. Child I 192, II 435, V237a. Q458, Flogging as punishment.
+P241.	Parents descend to hell instead of sons. Irish: O'Suilleabhain 53.
+P241.1.	Pious children save their parents from hell. Jewish: Neuman.
+P242.	Children punished for fathers' sins. Jewish: Neuman.
+P250.	Brothers and sisters.
+P250.1.	
+A736.1.	
+A515.1.	Culture heroes brothers.
+A515.1.1.	Twin culture heroes. Sun sister and moon brother.
+A736.1.2.	Sun brother and moon sister.
+A1273.	Twin first parents.
+D815.4.	Magic object received from sister.
+K2211.	Treacherous brother. Usually elder brother.
+K2212.	Treacherous sister. Usually elder sister. Elder children to protect younger. Breton: Sébillot Incidents S.V. "aînés".
+P251.	Brothers. *Penzer III 272 n. 1; Irish myth: Cross; Spanish Ex- empla: Keller.
+D861.3.	Magic object stolen by brothers.
+G551.3.	Rescue of children from ogre by brother.
+H151.10.	Combat of unknown brothers brings about recognition.
+H255.	Test: which of twins is elder.
+H912.	Tasks assigned at suggestion of jealous brothers.
+K867.	Fatal duel: brother kills brother in pretended game.
+K2211.	Treacherous brother.
+N733.	Accidental meeting of brother.
+N733.1.	Brothers unwittingly fight each other.
+Q211.9.	Fratricide punished.
+Z210.	Brothers as heroes.
+P251.1.	Friend unfaithful but brother faithful. Brought to test by actions at apparent death of hero. India: Thompson-Balys.
+H466.	Feigned death to test wife's faithfulness.
+P310.	Friendship. Warrior will not fight where his brother was slain. Place con- sidered defiled. Irish myth: Cross.
+P251.2.	
+P251.3.	Brothers follow each other in exile. Icelandic: *Boberg.
+P251.3.1.	Brothers strive to avenge each other. Icelandic: *Boberg.
+P251.4.	Brothers scorn brother's wise counsel. Icelandic: *Boberg.
+J21.	Counsels proved wise by experience.
+P251.4.1.	Brothers kill brother because they fail to understand his wise answer. Icelandic: Boberg.
+P251.5.	Two brothers. Type 303; Icelandic: *Boberg.
+F610.3.3.1.	Two berserk-brothers.   ## p. 158 (#162) ############################################  158 Motif-Index of Folk-Literature
+P251.5.1.	Two brothers follow and help each other on piracy, etc. Ice- landic: *Boberg.
+P251.5.2.	Two brothers are confusingly like each other. Icelandic: *Bo- berg.
+P251.5.3.	Hostile brothers. Icelandic: *Boberg; Jewish: *Neuman.
+S73.1.	Fratricide.
+P251.5.4.	Two brothers as contrasts. Hdwb. d. Märchens II "Formel"; Icelandic: *Boberg.
+P251.5.5.	Brother unjustly imprisoned by brother. Irish myth: Cross.
+P251.5.6.	Man's descendants shall serve those of his brother. Irish myth: Cross.
+P251.6.	Several brothers.
+P251.6.1.	Three brothers. Types 654, 655; Icelandic: *Boberg.
+P251.6.2.	Four brothers. Types 653, 655.
+P251.6.3.	Six or seven brothers. Type 451.
+P251.6.4.	Eight brothers. Icelandic: Boberg.
+P251.6.5.	Nine brothers. Icelandic: *Boberg.
+P251.6.6.	Eleven brothers. Type 451; Icelandic: Boberg.
+P251.6.7.	Twelve brothers. Type 451.
+P251.7.	
+F610.3.4.1.	Fighting with twelve berserks. Older brother has birthright, entitling him to a double share. (Cf.
+P233.11.	) Jewish: *Neuman.
+P251.8.	Repudiation of relationship of birth between man and his bad brother. Africa (Wakweli): Bender 92f.
+P252.	Sisters.
+G73.	Girls eat their sister.
+G551.2.	Rescue of sister from ogre by another sister.
+K2212.	Treacherous sister.
+P252.1.	Two sisters. Type 480, 711, 426.
+P252.1.1.	Sister kills sister. Irish myth: Cross; Icelandic: Boberg.
+P252.2.	Three sisters. Types 311-12, 510, 511.
+P252.3.	Seven sisters. Icelandic: *Boberg.
+P252.4.	Eight sisters. Icelandic: Boberg.
+P252.5.	Nine sisters. Icelandic: *Boberg.
+P252.6.	Ten sisters. Icelandic: *Boberg.
+P252.7.	Eighteen sisters kill one another. Icelandic: Boberg.
+T92.8.	Sisters in love with same man.
+P253.	Sister and brother. Type 450; Irish myth: Cross; Spanish Ex- empla: Keller.
+Q458.2.1.	Brother flogs unchaste sister to death.
+T415.	Brother-sister incest.
+P253.0.1.	Sister's son. Irish myth: Cross.   ## p. 159 (#163) ############################################  P. Society 159
+P253.0.2.	One sister and two brothers. Icelandic: *Boberg.
+P253.0.3.	One sister and three (four) brothers. Icelandic: *Boberg.
+P253.0.4.	One sister and ten brothers. Icelandic: Boberg.
+P253.0.5.	One sister and six (seven, eleven, twelve) brothers. Type 451.
+P253.1.	Brother about to drink blood of seemingly guilty sister. Köhler- Bolte Zs. f. Vksk. VI 61.
+Q243.	Incontinence punished.
+Q450.	Cruel punishment.
+P253.2.	Sister faithful to transformed brother. *Types 450, 451; Child I 315f.
+P253.2.1.	Brother faithful to persecuted sister. East Africa: Zuure L'Ame du Murundi (Paris, 1932) 331ff. No. 2.
+P253.3.	Brother chosen rather than husband or son. Only one can be saved; he alone is irreplacable. Chauvin II 190 No. 2; Tawney Jour- nal of Philology XII 121; Aly Volksmärchen bei Herodot 35, 109; Philippine: Fansler MAFLS XII 257 No. 31.
+P211.1.	Wife chooses father rather than husband or son.
+P253.4.	Girl comes to brother's aid when he is attacked. She slays the assailant and is eventually acquitted. Italian Novella: Rotunda.
+P253.5.	Sister avenges brother's death. India: Thompson-Balys; Ice- landic: *Boberg.
+P253.6.	Sister warns brothers. Icelandic: *Boberg.
+P253.7.	Brothers persecute sister's lover and are in return killed by him. Icelandic: Boberg.
+P253.8.	Clever sister saves life of brother. Irish myth: Cross.
+P253.9.	Woman dies of sorrow for death of brother. Irish myth: Cross.
+J253.10.	Great love of brothers for sister. India: Thompson-Balys.
+P260.	Relations by law.
+P261.	Father-in-law. India: Thompson-Balys.
+D815.5.	Magic object received from father-in-law.
+H331.4.1.	Suitors con- test with bride's father in shooting.
+H331.5.2.	Suitor contest: race with bride's father.
+H384.1.	Bride test: kindness father-in-law disguised as beggar.
+K959.2.2.	Man kills son-in-law and his children while they sleep.
+S52.	Cruel father-in-law.
+P262.	Mother-in-law. Irish myth: Cross.
+S51.	Cruel mother-in-law.
+T417.1.	Mother-in-law seduces son-in-law.
+P262.1.	Bad relations between mother-in-law and daughter-in-law. India: Thompson-Balys.
+P263.	Brother-in-law. (Cf.
+K2211.1.	)
+P263.1.	Widower marries wife's sister. Jewish: *Neuman.
+P264.	Sister-in-law. (Cf.
+K2212.2.	)
+P265.	Son-in-law.
+P265.1.	Idle sons-in-law driven away by gradually reducing their food. India: Thompson-Balys.   ## p. 160 (#164) ############################################  160 Motif-Index of Folk-Literature
+P270.	Foster relatives. Irish myth: Cross.
+R131.	Exposed or abandoned child rescued. T670 Adoption of children.
+P270.1.	Foster parents fined for blemish on child. Irish myth: Cross.
+P270.2.	Peasant and his wife as foster parents of exposed king's son. Icelandic: *Boberg.
+P270.3.	Parents kill son for slaying their foster son. Irish myth: Cross.
+P271.	Foster father. **C. Schubert Der Pflegesohn (Nourri) im Helden- epos (Marburg, 1906); Irish myth: Cross; Missouri French: Carrière.
+D815.7.	Magic object received from foster parents.
+F1041.16.7.	King is about to kill foster son because of his evil explanations of a dream.
+N812.1.	Wise giant as foster father of hero.
+N842.1.	Cook as foster father.
+N855.1.	Smith as foster father.
+N856.1.	Forester as foster father.
+P271.1.	Magician as foster father. (Cf.
+N845.	) English romance: Malory, Book 1; Icelandic: Boberg.
+P271.2.	Fisherman as foster father. Icelandic: Boberg.
+P271.3.	Dwarf as foster father. (Cf.
+F451.5.1.	) Icelandic: MacCulloch Eddic 267, *Boberg.
+P271.4.	Living king's or nobleman's son as foster son of father's friend: considered an honor for the foster father. Weinhold Altnordisches Leben (1856) 285ff.; Icelandic: *Boberg.
+M201.6.	Covenant confirmed by hostages.
+P281.1.	Stepfather as foster father.
+P293.1.	Mother's brother as foster father.
+P271.5.	Foster father as constant helper. Icelandic: *Boberg.
+N812.	Giant or ogre as helper.
+P271.6.	Foster children return foster father's love: avenge him, etc. Icelandic: *Boberg.
+P271.7.	King's son named after his father's foster father. Icelandic: Bo- berg.
+P271.8.	Thor slays his foster father and takes himself the realm of Thrace. Icelandic: Snorra Edda Prol. III, MacCulloch Eddic. 314.
+P272.	Foster mother. Irish myth: Cross; Missouri French: Carrière.
+D815.7.1.	Magic object received from girl's foster mother.
+D2074.2.4.1.	Foster mother summoned by saying her name.
+M411.1.2.	Curse by foster mother.
+P272.1.	Witch foster mother. Icelandic: *Boberg.
+P272.2.	Foster mother as helper. (See all items under
+P272.	) Icelandic: *Boberg.
+P272.3.	Former mistress as sons' foster mother. Icelandic: Bosa saga 6ff.
+P273.	Foster brother. *Valtýr Gudmundsson "Fóstbræðralag" in þrjár Ritgjörðir (Kaupmannahöfn, 1892) 29–55; Irish myth: Cross; Ice- landic: *Boberg.
+P311.	Sworn brethren.
+P273.1.	Faithful foster brother. *Type 516; *BP I 46; *Rosch FFC LXXVII 96; Irish myth: Cross; Icelandic: *Boberg.
+P273.1.1.	Foster brothers avenge each other. Icelandic: *Boberg.
+M161.2.	Vow to avenge (king, friends, father) or die.   ## p. 161 (#165) ############################################  P. Society 161
+P273.1.2.	King's son begs pardon for treacherous foster brother. Ice- landic: *Boberg.
+P273.1.3.	Foster brother as constant adviser. Icelandic: *Boberg.
+P273.2.	Faithless foster brother.
+K1766.1.	False boasting of having killed foster brother makes his men follow the boasting.
+K1931.1.1.	Impostor tries to push foster brother into water.
+K2211.2.	Treacherous foster brother.
+P273.2.1.	Promise of marriage to king's daughter induces warrior to fight foster brother. Irish myth: Cross.
+P273.2.2.	Earl's son seduces foster brother's sister and betrays him- self. Icelandic: *Boberg.
+P273.2.3.	King's son falsely accuses foster brother of attempt to seduce his sister. Icelandic: Lagerholm 161-63, introd. lxxviii, *Boberg.
+P273.2.4.	Magic writing makes foster brothers enemies. Icelandic: *Bo- berg.
+D1266.1.	Magic writings.
+P273.3.	Unable to hit man himself, enemy kills his foster brother. Icelandic: Boberg.
+P273.4.	Children of Tuatha Dé Danann fostered by Milesians. Irish myth: Cross.
+P274.	Foster sister.
+P274.1.	Love between foster sister and foster brother. Icelandic: Herr- mann Saxo II 80, *Boberg.
+P275.	Foster son. Irish myth: Cross.
+P275.1.	Foster son commits adultery with foster father's wife. Irish myth: Cross.
+P280.	Steprelatives.
+P281.	Stepfather.
+S32.	Cruel stepfather.
+T418.1.	Lustful stepfather.
+P281.1.	Stepfather as foster father. Icelandic: Boberg.
+P293.1.	Mother's brother as foster father.
+P281.2.	Stepfather murdered. Icelandic: Boberg.
+P282.	Stepmother. Irish myth: Cross; Missouri French: Carrière.
+K2111.1.	Woman makes vain overtures to stepson and accuses him of murder.
+Q65.1.	Supplying food to ungrateful stepmother rewarded.
+Q151.2.	Death passes by man who has fed his stepmother. S31 Cruel stepmother.
+T418.	Lustful stepmother.
+P282.1.	Realm ruled by stepmother, while king is absent. Icelandic: Boberg.
+P282.2.	Stepmother mourns her stepsons' death, not her own son's. Icelandic: Boberg.
+P282.3.	Stepmother in love with stepson. (Cf.
+T418.	) Irish myth: Cross; Greek: Euripides Hippolytus; Chinese-Persian: *Coyajee JPASB XXIV 192.
+P282.3.1.	Love of stepmother who has killed her husband refused. Ice- landic: *Boberg. 11   ## p. 162 (#166) ############################################  162 Motif-Index of Folk-Literature
+P283.	Stepbrother.
+P283.1.	
+K2125.3.	Man falsely accused of murdering his stepbrother. Stepbrothers kill devastating monsters. India: Thompson-Balys.
+B11.11.	Fight with dragon.
+Z210.	Brothers as heroes.
+P284.	Stepsister. (Cf.
+K2212.1.	) Icelandic: Boberg; Missouri French: Carrière.
+P290.	Other relatives.
+P291.	Grandfather. Irish myth: Cross; Missouri French: Carrière.
+K1812.14.	Lecherous prince disguises as merchant in order to kill his grandchildren.
+S42.	Cruel grandfather.
+P291.1.	Grandfather as foster father. Icelandic: *Boberg.
+P292.	Grandmother. Missouri French: Carrière.
+A31.	Creator's grandmother.
+G303.11.4.	The devil's grandmother.
+K2011.	Wolf poses as "grandmother” and kills child.
+S41.	Cruel grandmother.
+S351.1.	Abandoned child cared for by grandmother.
+P292.1.	Grandmother as foster mother. Icelandic: Boberg.
+P293.	Uncle. **W. O. Farnsworth Uncle and Nephew in the Old French Chansons de Geste (New York, 1913); Irish myth: Cross.
+A711.1.	Sun and moon as uncle and nephew who ascended to the sky.
+H1556.4.4.	Old uncle tests nephew's fidelity by sleeping with his beloved.
+K2125.5.	Man falsely accuses nephew of murder.
+K2133.	Wicked counselor accuses king's nephews of attempting to seduce the queen so that he kills them.
+N738.	Accidental meeting of nephew and uncle.
+S71.	Cruel uncle.
+P293.1.	Mother's brother as foster father. Icelandic: *Boberg.
+P293.2.	Mother's brother as helper. Icelandic: *Boberg.
+P293.2.1.	Children take after their mother's brothers. Jewish: *Neu- man.
+P293.3.	Hero killed in fighting with father's brother. Icelandic: Boberg.
+P293.4.	Young prince sent to his father's mother's brother. Icelandic: Boberg.
+P293.5.	Father's brother avenged. Icelandic: Boberg.
+P294.	Aunt. *Rivers "The Father's Sister in Oceania" FL XXI 42.
+P294.1.	Paternal aunt as aid. N. A. Indian (California): Gayton and Newman 82.
+P295.	Cousins.
+N746.	Accidental meeting of cousins.
+P296.	Godparents.
+P296.1.	
+Q242.1.	Cohabitation of godfather and godmother punished. Godfather. Hdwb. d. Abergl. III 803; Missouri French: Carrière. See also N811 and all references and cross-references.
+P296.2.	Godmother.
+F311.1.	Fairy godmother.
+P297.	Nephew. *F. B. Gummere The Sister's Son (Oxford, 1901); C. H.   ## p. 163 (#167) ############################################  P. Society 163 Bell The Sister's Son in the Mediaeval German Epic (Berkeley, 1922); Irish myth: Cross.
+N738.	Accidental meeting of nephew and uncle. Hero takes refuge un- wittingly at his uncle's court.
+P298.	Niece. P300-
+P399.	Other social relationships.
+P310.	Friendship. *Type 516; *BP I 46; **Rosch FFC LXXVII 96; In- dia: *Thompson-Balys.
+A2493.	Friendships between the animals.
+E165.1.	One man prays either to keep friend from death or for both to die.
+H1558.	Tests of friend- ship.
+J496.	Choice of friend over mistress.
+K2131.3.	Woman destroys men's friendship by pretending to whisper to one.
+K2297.	Treacherous friend.
+S268.	Child sacrificed to provide blood for cure of friend.
+T511.0.1.	Queen and maidservant conceive from eating same food. Their sons are like brothers.
+P310.1.	Friends want to divide good and evil. Icelandic: *Boberg.
+P310.2.	Friends avenge each other. Icelandic: *Boberg.
+P310.3.	Dying hero sends greetings to friends. Icelandic: Boberg.
+P310.4.	Friends want their children to be friends too. Icelandic: *Bo- berg.
+P310.4.1.	Dying man asks friends to let his son inherit his friend- ship together with his father's weapons. Icelandic: þidriks saga II 358, Boberg.
+P310.4.2.	Friends' children become enemies. Icelandic: *Boberg.
+P310.5.	Defeated enemy turns true friend. (Cf.
+P311.1.	) Icelandic: La- gerholm 108ff., *Boberg.
+P310.6.	One friend dies shortly after the other. Icelandic: Boberg.
+P310.7.	Man wins wife for his friend. India: Thompson-Balys.
+T51.	Wooing by emissary.
+P310.8.	Friendship possible only between equals. India: Thompson- Balys.
+P310.9.	Friends given the power of reading each other's secret thoughts. India: Thompson-Balys.
+P311.	Sworn brethren. Friends take an oath of lasting brotherhood. *Type 516; Rösch FFC LXXVII 98; *Hibbard 68 n. 7, 145 n. 3; Child IV 146f.; Wesselski Märchen 187 No. 2; *Krappe Bulletin Hispanique XXXIX 17; *Abeles "Die Bürgschaft als Motif in der jüdischen Literatur" Monatsch. f. Geschichte u. Wissenschaft der Juden LX 213ff., 263ff. English: Wells 158 (Amis and Amiloun); Icelandic: Olrik Sakses Oldhistorie I (1892) 59ff., *Boberg; Italian Novella: *Rotunda; Jewish: *Neuman, bin Gorion Born Judas 2 IV 14, 20, 274; India: Thompson-Balys; Korean: Zong in-Sob 63 No. 35.
+A515.1.2.	Sworn brothers as culture heroes.
+A1599.12.	Origin of cove- nanted friendships.
+K2384.	Man tricked to be one's sworn brother in order to secure his help against his mother.
+P273.	Foster brother.
+P311.0.1.	Friends exchange names. Irish myth: Cross. 11*   ## p. 164 (#168) ############################################  164 Motif-Index of Folk-Literature
+P311.1.	Combatants become sworn brethren. Dickson 123 n. 73; Ice- landic: *Boberg; Italian Novella: *Rotunda.
+M201.	Making of bargains and promises.
+P310.5.	Defeated enemy turns true friend.
+P311.2.	Flower-friendship. Friends take oath of brotherhood by exchanging flowers. India: Thompson-Balys.
+P311.3.	Human sons of animal companions go together on adventures Africa (Lamba): Doke MAFLS XX 14 No. 11.
+P311.4.	Friends born at same moment. India: Thompson-Balys. B311, Congenital helpful animal.
+T511.0.1.	Queen and maidservant con- ceive from eating same food.
+P311.5.	Covenant of friendship. Irish myth: Cross.
+P311.6.	Ceremonial friendship. India: Thompson-Balys.
+P311.7.	Saints exchange bachalls as mark of affection. Irish myth: Cross.
+P311.7.1.	Saints exchange bells. Irish myth: Cross.
+P311.8.	Friendship between a prince and common man. India: *Thomp- son-Balys.
+P312.	Blood-brotherhood. Friends take oath of brotherhood by means of mixing their blood. *Type 1364; **Encyc. Rel. Ethics II 717a, 857ff.; **H. C. Trumbull The Blood Covenant (London, 1887); *Chauvin VII 20 No. 373D; *Hibbard 145 n. 3; Fb "blod" IV 46b; Nitze MPh IX 291; DeVries Acta Philologica Scandinavica III 106; *Basset RTP VI 577-XXV 438 passim; *Julian Revue d'Ethnographie et de Trad. Pop. II 1ff.; **H. Tegnæus Blood-Brothers (Stockholm, 1952). Irish myth: Cross: Icelandic: *Boberg; Tuamotu: Stimson MS (z-G 13/203); Africa: Stanley 274. ―
+A515.3.	Culture hero has blood brother.
+C165.	Tabu: marriage with person whose blood one has drunk.
+M201.1.1.	Blood of contractors mixed to seal bargain.
+T61.1.	Betrothal by lovers' drinking each other's blood.
+P312.0.1.	Saint makes blood covenant with animals. (Cf.
+B279.	) Irish myth: Cross.
+P312.1.	Drinking mixture of blood, milk, and wine as pledge of covenant. Irish myth: Cross.
+P312.2.	Sworn brethren and blood brethren avenge each other. Ice- landic: *Boberg.
+P312.3.	Surviving blood brother to watch three nights in grave-mound. Icelandic: Egils saga ok Ásm., Lagerholm 28 (cf. introd. xxiv-xxix).
+P313.	Milk-brotherhood. Friends bound in brotherhood through par- taking of milk from the same woman. *Cosquin Études 247ff.; Wiedemann Am Urquell III 259ff.
+T671.	Adoption by suckling.
+P313.1.	Friendship starts at babyhood: two babies exchanged. Jewish: *Neuman.
+P314.	Combat of disguised friends. Brown Iwain 17 and passim.
+N731.2.	Father-son combat.
+N733.1.	Brothers unwittingly fight each other.   ## p. 165 (#169) ############################################  P. Society 165
+P315.	Friends offer to die for each other. (Bürgschaft.) Each falsely confesses crime so as to save the other. Neither guilty. Often com- bined with
+P325.	**Abeles "Die Bürgschaft als Motif in der jüdischen Literatur" Monatschr. f. Geschichte u. Wissenschaft der Juden LX 213ff., 263ff.; **K. Kelling Das Bürgschaftsmotiv in der französischen Literatur (Leipzig diss., 1915); *Chauvin III 124 No. 113, V 215f., VIII 194ff., IX 16f.; *Hdwb. d. Märchens I 350a s.v. "Bürgschaft"; Köhler-Bolte II 557, 580f.; Gaster Exempla Nos. 362, 419; Basset 1001 Contes II 293ff.; Boccaccio Decameron X No. 8 (*Lee 330); Fischer Zs. f. deutsche Morgenländische Ges. LXXII 290; Bolte Zs. f. Vksk. XXI 193 n. 4, 194; Scala Celi 10a, 11b Nos. 62, 68; bin Gorion Born Judas IV 20, 274; Alphabet Nos. 53, 57. Spanish Exempla: Keller; Italian Novella: *Rotunda.
+J1180.	Clever means of avoiding legal punishment. -
+P315.1.	Competition in friendship: prisoner and jailor. Officer in charge of prison offers to let his friend escape, though his own life will be forfeited. The friend refuses; tells officer to let king think he has escaped and if the king demands his life the officer can produce the prisoner. King hears of the generosity and forgives the prisoner. Chauvin V I No. 1.
+P315.2.	Friend gives false witness to set free his accused friend. Africa (Wakweli): Bender 99f.
+P316.	Friend sacrifices his life for the other. Buddhist myth: Mala- lasekera II 1369.
+P316.1.	Man knowing of murder plot against his friend disguises and is killed in his place. (Cf.
+P361.1.	) Scala Celi 9b No. 61; Spanish Exempla: Keller.
+P317.	Refusal to believe that a friend has spoken ill of one. Alphabet No. 220; Spanish Exempla: Keller.
+P317.1.	Refusal to believe that a friend will harm one. Alexander drinks cup said to have been poisoned by his friend. Spanish Exempla: Keller.
+P318.	Man refuses to follow friend in wicked conduct. Scala Celi 11a No. 66; Alphabet No. 56; Italian Novella: Rotunda.
+P319.	Deeds of friendship—miscellaneous.
+P319.1.	Two friends captured by Moors have money to ransom only one. The ransomed one returns home, gets money and buys the other's freedom. Italian Novella: Rotunda.
+P319.2.	Man who has counseled friend in assassination asks to be killed on the other's body. Italian Novella: Rotunda.
+P319.3.	Friend's intercession saves man from execution. Italian Novella: Rotunda.
+P319.4.	The sacred partnership. Man is abducted by pirates and kept in slavery forty years. Upon his return his friend divides his earnings with him. Italian Novella: *Rotunda.
+P319.5.	Hands of friends extend through sides of tombs and clasp in death. Irish myth: Cross.
+P319.6.	Successful rival gives his lady to unsuccessful friend. Italian Novella: *Rotunda.   ## p. 166 (#170) ############################################  166 Motif-Index of Folk-Literature
+P319.7.	"Friendship without refusal." Friends bind themselves each to grant every desire of the other. Irish myth: Cross.
+C871.	Tabu: refusing a request.
+M202.0.1.	Bargain or promise to be ful- filled at all hazards.
+M223.	Blind promise (rash boon).
+Q115.	Reward: any boon that may be asked.
+W11.15.	Generous person refuses no man anything.
+P319.8.	Danger of one saint voluntarily incurred by another. Irish myth: Cross.
+P320.	Hospitality. Relation of host and guest. Irish myth: Cross.
+A547.	Culture hero dispenses food and hospitality.
+A1598.	Origin of customs of hospitality. C874, Tabu: breaking up revelry before its end.
+C282.	Tabu: refusing a feast.
+C616.	Tabu: feasting visitors at certain place.
+C901.1.4.	Tabu imposed by host.
+D2105.5.	Saint causes fish to come out of lake to satisfy guests for whom he has no food.
+F151.0.1.	Hospitable host entertains adventurer on way to otherworld.
+F361.1.2.	Fairy takes revenge for not being offered food (drink).
+H509.1.	Guest of convent given choice of nuns.
+H1564.	Test of hospitality.
+J21.9.1.	Guest stays so long that host gives him black bread instead of white.
+J1183.	Execution escaped by invoking laws of hospitality.
+J1341.	Retort from underfed servant.
+J1561.	Inhospitality repaid.
+J1563.	Treatment of difficult guests.
+K532.3.	Hospitality to retainers as payment of tax (tribute).
+K1812.4.	Incognito king is given hospitality by fisherman.
+K2326.1.	Hosts frighten guest by disguising as ghosts.
+K2294.	Treacher- ous host.
+M158.	Vow never to refuse food to any man.
+P634.	Feasts.
+Q42.1.3.	Excessive hospitality causes chieftian to become poor.
+Q45.	Hospitality rewarded.
+Q111.2.	Riches as reward for hospitality.
+Q292.	Inhospitality punished.
+Q292.3.	Abuse of hospitality punished.
+Q556.7.	Curse for inhospitality.
+T281.	Sex hospitality.
+T331.2.	Knight unsuccess- fully tempted by host's wife.
+W12.	Hospitality as a virtue.
+W151.2.2.	Hospitable man impoverished by greedy guests.
+W158.	Inhospitality.
+P320.1.	Hospitality for a whole winter. Icelandic: Lagerholm 10 n., *Boberg.
+H1219.7.	Quest assigned as payment for hospitality.
+P320.2.	Hospitality for (three) years. Irish myth: Cross.
+P321.	Salt of hospitality. Eating a man's salt creates mutual obliga- tion. *Chauvin VI 196 No. 368.
+P322.	Guest given refuge. Murderer of a man's father takes refuge in his house and is saved by him. *Chauvin II 198 No. 31.
+H1558.1.	Test of friendship: the half-friend.
+P322.1.	Nobleman forces escaping prisoner to accept his hospitality. Intercedes for his pardon. Italian Novella: Rotunda.
+P322.2.	Guest in disguise or under false name. (Cf.
+K1831.	) *Boberg.
+P322.3.	Refugee entertained in holy place (church, monastery, etc.) Irish myth: Cross.
+P323.	Hosts refrain from telling guest of death in household. Wessel- ski Archiv Orientální II 431; Greek: Euripides Alcestis.
+P324.	Host greets guest with gifts. English romance: Malory passim; Icelandic: Boberg.
+P324.1.	Host treats guest with food and everything possible. Icelandic: *Boberg.
+P324.2.	Guests fed before being questioned. Greek: Odyssey III 70 and passim.
+P324.3.	Guests' life inviolable. Greek: Odyssey XIV 403 and passim.
+P325.	Host surrenders his wife to his guest. The guest unwittingly   ## p. 167 (#171) ############################################  P. Society 167 falls in love with the wife. The host, on being informed, out of pure generosity repudiates the wife and has her marry the guest. (Often joined with
+P315.	) Chauvin V 136 No. 64; also references to P315; Spanish Exempla: Keller.
+H509.1.	Guest of convent given choice of nuns.
+T281.	Sex hospitality.
+P325.1.	Guest begets son with his host's daughter. Icelandic: *Boberg.
+P326.	If host does not return, the house shall belong to the guest. So declares the host as he departs on a mission for the guest. *Chauvin V 209 No. 120 n. 1; Japanese: Ikeda.
+P327.	Barmecide feast. Host places imaginary feast before guest, who accepts it in the same spirit. Guest's courtesy is rewarded by real feast. *Chauvin V 163 No. 86; Arabian: Burton Nights I 317.
+K445.	The emperor's new clothes.
+K1870.	Illusions.
+P328.	Strangers entertained by family to whose hitching-ring they happen to tie their horses. Thus confusion avoided as to where strangers are to be entertained. Italian: L. de Francia Novellino (Torino, 1930), Rotunda.
+P331.	Refusal to receive preferred help until series of stories has been told. Scottish: Campbell-McKay No. 5.
+J1185.	Execution escaped by story-telling.
+Z10.	Formulistic framework for tales.
+P332.	Selfish guest expels host. Porcupine asks rabbit for hospitality. When rabbit complains of being pricked, porcupine tells him to leave if he does not like it. Italian Novella: Rotunda.
+P334.	Shabby hospitality forces guests to leave. Italian Novella: Ro- tunda (P329).
+P334.1.	Guests accused of greediness. India: Thompson-Balys.
+P336.	Poor person makes great effort to entertain guests.
+P336.1.	Poor host and his wife kill themselves because they are unable to entertain expected guests. India: Thompson-Balys.
+P336.2.	Wife scolds husband's hospitality, as he really has nothing to give. Icelandic: Boberg.
+P336.3.	Poor peasant closes the eyes in order not to see guest eat: later suicide. Icelandic: Boberg.
+P337.	King demands work, sport or entertainment from winter guests. Icelandic: *Boberg.
+P320.1.	Hospitality for a whole winter.
+P337.1.	Christian king makes baptism a condition for hospitality dur- ing the winter. Icelandic: Boberg.
+P338.	Sitting in a circle of feasts. Irish myth: Cross.
+P340.	Teacher and pupil. Irish myth: Cross.
+K1594.	Student extends his course so as to enjoy the professor's wife.
+K1692.	Teacher instructs pupil in the art of love: cuckolded. Wife seduces husband's pupil.
+V246.2.	Angel as saint's teacher.
+T481.4.	
+P340.0.1.	Druids as teachers. Irish myth: Cross.
+P341.	Teacher dies of pride over success of pupil. Alphabet No. 341.   ## p. 168 (#172) ############################################  168 Motif-Index of Folk-Literature
+P342.	Student Rotunda. enters competition with his master. Italian Novella:
+P342.1.	Student challenges his fencing master. Is overcome by the latter's tricks. Italian Novella: *Rotunda.
+P343.	Teacher threatens to curse pupils if they disobey. Irish myth: Cross.
+P360.	Master and servant. **Hdwb. d. Märchens I 389ff.
+F615.3.	Strong hero overawes master.
+H38.2.3.	Recognition of maid- servant substitute bride by her habitual conversation.
+H919.1.	Tasks assigned at suggestion of treacherous servants.
+J955.2.	Servant plays at being emperor.
+J955.3.	Servant asks master for arms of knighthood.
+J2464.	The servant to improve on master's statements.
+K1465.	Blinded slave's revenge.
+P361.	Faithful servant. *Types 516; *BP I 46; **Rösch FFC LXXVII 95f.; **Hdwb. d. Märchens I 389 (and cross references there given); Icelandic: *Boberg; Spanish Exempla: Keller; Jewish: *Neuman; In- dia: Thompson-Balys; Korean: Zong in-Sob 154ff. No. 68.
+F875.	Iron bands around heart to keep it from breaking. When master is disenchanted, the bands around heart of faithful servant snap one by one.
+H1556.	Tests of fidelity.
+K512.2.2.	Compassionate executioner: substituted child. The servant charged with sending the hero to exe- cutioners sends his own child instead.
+N25.	Wager on truthfulness of servant.
+N342.1.	Faithful servant guarding master's wife from danger falsely condemned.
+R169.4.	Hero rescued by servant.
+T133.1.	Faithful servant accompanies bride to new home.
+P361.1.	Faithful servant dies for his master. Puts on his master's clothes so as to be slain in his place. (Cf.
+P316.	) Alphabet No. 327; Japanese: Ikeda.
+F1041.1.3.2.	Servant grieves over master's death. Kills wife and himself.
+K1810.	Deception by disguise.
+P361.1.1.	Faithful servant kills his master's murderer and is killed in turn. Italian Novella: Rotunda.
+P361.1.2.	Faithful servant wants to follow on dangerous quest, where he alone is killed. Icelandic: Boberg.
+P361.1.3.	Hero's charioteer faithful to master till death. Irish myth: Cross.
+P361.2.	Faithful servant remains at home and fights for exiled hero. *Boje 82ff.
+L111.1.	Exile returns and succeeds.
+P361.3.	Faithful servant sacrifices sons to save life of king. Sons resuscitated and servant enriched. Penzer IV 177f., VI 272f.; India: Thompson-Balys.
+S268.	Child sacrificed to provide blood for cure of friend.
+T211.1.	Wife dies so that husband's death may be postponed.
+P361.4.	Faithful nurse tries to save tyrant's daughter by exposing her own in her place. Italian Novella: Rotunda.
+K1840.	Deception by substitution.
+S300.	Abandoned or murdered children.
+P361.5.	Abandoned maiden helped by her faithful nurse. India: Thomp- son-Balys.
+N825.3.	Old woman helper.
+R131.	Exposed or abandoned child rescued.
+S350.	Fate of abandoned child.
+P361.6.	Faithful servant dies avenging master's death. Irish myth: Cross.   ## p. 169 (#173) ############################################  P. Society 169
+P361.7.	Captain will not betray king's secret. He refuses to betray where recruits are being raised. Spanish: Childers.
+P361.8.	Faithful servant undergoes torture for sake of his master. Spanish Exempla: Keller.
+P361.9.	Crow lets itself be caught so as to save king of crows. India: Thompson-Balys.
+P362.	Faithful servant entrusted with care and education of crown prince. India: *Thompson-Balys.
+P365.	Faithless servant. *Hdwb. d. Märchens I 391; Italian Novella: *Rotunda.
+H919.1.	Tasks assigned at suggestion of treacherous servants.
+K1353.2.	Faithless servant tells mistress that master has ordered him to kill her.
+K1356.	Seduction by falsely accusing woman's husband of infidelity.
+K2250.	Treacherous servants and workmen.
+P365.1.	Faithless men-servants corrupt the maids in the household. Pauli (ed. Bolte) No. 209; Italian Novella: Rotunda.
+P365.2.	Servant planning to possess his master's goods. Has already possessed his wife. Pauli (ed. Bolte) No. 613.
+P366.	Master demands that servant tell him of his faults as well as of his good qualities. Pauli (ed. Bolte) No. 42. P400-
+P499.	Trades and professions.
+P400.	Trades and professions. **Sébillot Légendes et Curiosités des Mé- tiers (Paris, n.d.); Jewish: Neuman.
+P401.	
+J1115.	Clever professions. Son insists on following father's trade. This has been kept secret at request of dying father who was unsuccessful. Son learns from mother. *Cosquin Contes indiens 395ff.
+J154.	Wise words of dying father.
+M258.	Promise to dying man sacred.
+P410.	Laborers.
+L113.5.	Woodcutter hero.
+P411.	Peasant. **Hdwb. d. Märchens I 184a.
+F365.3.	Fairies occupy peasant's house.
+F460.4.4.2.	Mountain-men chain captive peasant.
+F460.4.4.5.	Mountain-folk steal from peasant.
+F460.4.5.	Mountain-men borrow from peasant.
+H38.2.2.	Peasant boy masking as prince betrays self by his answers.
+H561.1.	Clever peasant girl asked riddles by king.
+H561.6.	King and peasant vie in riddling questions and answers.
+J1705.1.	Stupid peasant.
+K1816.9.	Disguise as peasant.
+L113.4.	Peasant as hero.
+N354.	Peasant as helper.
+P15.1.	Disguised king punished by peasant.
+R131.6.	Peasant rescues abandoned child.
+P411.1.	Peasant refuses to sell possessions to king. (Miller of Sanssouci.) Swiss: Jegerlehner Oberwallis 309 No. 13.
+P411.1.1.	Peasant and his wife in hut near castle as contrasts to king and queen. Icelandic: Lagerholm lvi, *Boberg.
+P411.2.	Peasant is cutting wood in front of his house as guests arrive. Icelandic: *Boberg.
+P411.3.	Wounded hero finds shelter and is cured in peasant's house. Icelandic: *Boberg.
+P411.4.	Hero stays overnight in peasant's house, to which he accident-   ## p. 170 (#174) ############################################  170 Motif-Index of Folk-Literature ally comes, and where he gets advice and direction. (Cf.
+H1232.4.	) Icelandic: *Boberg.
+P412.	Shepherd.
+A453.	Shepherd-god.
+A1952.	Creation of hoopoe. Transformed shepherd.
+A1957.1.	Woodpecker from devil's herdsman transformed.
+A1965.2.	Bittern from transformed shepherd.
+A2005.	Origin of insects: God throws sand on lazy shepherds.
+N841.	Shepherd as helper.
+R131.3.1.	Shepherd rescues abandoned child.
+P412.1.	Shepherd as hero. *Type 300.
+P412.1.1.	Life of shepherd proper preparation for ruler. Jewish: Neu- man.
+P412.2.	Swineherd. (Cf.
+L113.1.1.	) Irish myth: Cross.
+P412.3.	Hero as rabbit-herd. Type 570.
+P413.	Ferryman.
+P413.1.	Eternal ferryman. Always transports passengers and when the ruler is in danger takes his place. (Cf.
+Q25.	) Cosquin Lorraine I 215.
+P413.1.1.	Ferryman puts oar into king's hand and he must remain ferry- man. *Type 461; Japanese: Ikeda.
+P414.	Hunter. Types 246, 304; Von Sydow Våra folksagor (1941) 39.
+P415.	Collier. (Cf.
+K2262.	)
+P415.1.	Hero as collier. Icelandic: þidriks saga I 308f., Boberg.
+P420.	Learned professions.
+X350.	Jokes on teachers. X370, Jokes on scholars.
+P421.	Judge. Irish myth: Cross; Icelandic: *Boberg.
+J167.	Wisdom from continual reminder of foolishness in the past. Un- just judge skinned and his skin stretched over a footstool kept in the presence of judges, so as to remind them to be just.
+J1192.	The bribed judge.
+J1212.	Judge put out of countenance.
+J1280.	Repartee with judge. Mo. Judgments.
+M10.	Irrevocable judgments.
+Q265.1.	Bribed false judge punished.
+X331.	Jokes on magistrates.
+P421.1.	Jackals as judges. India: Thompson-Balys.
+P422.	Lawyer. Hdwb. d. Abergl. I 202.
+X310.	Jokes on lawyers.
+P422.1.	Lawyers punished in hell. Alphabet Nos. 42, 43.
+Q469.5.	Punishment: choking with smoke. This given a lawyer who has "sold smoke", i.e., idle words.
+P422.1.1.	Tongue of dead lawyer found to be lacking. Scala Celi 7b No. 44; Etienne de Bourbon No. 440.
+P424.	Physician. Penzer X 263a s.v. "Physician"; Irish myth: Cross.
+A144.	Physician of the gods.
+A454.	God of healing.
+A1594.1.	Establish- ment of doctor's fees.
+F668.	Skillful surgeon.
+K1955.	Sham physician.
+P427.5.	Druid as physician.
+X372.	Jokes on doctors.
+P424.1.	Physician hides eyes as he passes graveyard. He does not want to see those who have died from his medicine. *Wesselski Hodscha Nasreddin I 259 No. 204.
+P424.2.	Doctor who can cure can also poison. This reflection brings the doctor under the king's suspicion. *Chauvin V 276 No. 156.   ## p. 171 (#175) ############################################  P. Society 171
+P424.3.	Physician killed for fatal diagnosis. Irish myth: Cross.
+P424.3.1.	"Skillful” physician compelled to help carry away the bier of his dead patient. India: Thompson-Balys.
+P424.4.	Fairy as physician. Irish myth: Cross.
+P424.5.	Female physician. Irish myth: Cross.
+P425.	Scribe.
+P425.1.	Scribe who cannot read his own writing. India: Thompson- Balys.
+P426.	Clergy.
+F531.5.8.2.	Giants exorcised by clergy.
+J1260.	Repartee based on church or clergy.
+K1961.	Sham churchman.
+P551.3.	Clerics exempted from military service.
+V294.	The Pope.
+V450.	Religious orders.
+P426.0.1.	In fear of clerics pagans flee into fairy mounds. Irish myth: Cross.
+P426.1.	Parson (priest). Jewish: Neuman (
+P426.	1, V452).
+K1961.1.	Sham parson (priest).
+Q286.2.	Priest will not bury dead unless paid in advance. Ruler has him buried alive with the corpse.
+V5.2.	Negligent priests buried under bags filled with words omitted from service.
+X410.	Jokes on parsons.
+P426.1.1.	First of animals and fruits belong to priest. Jewish: Neuman.
+P426.2.	Hermit. Hdwb. d. Märchens I 507b; Irish myth: Cross; Spanish: Espinosa II No. 75, Espinosa Jr. No. 186.
+J225.0.1.	Angel and hermit.
+J485.	Three sins of the hermit.
+K1837.3.	Repentant nurse disguises as hermit.
+N843.	Hermit as helper,
+Q34.	Re- ward for austerities of hermit.
+R131.10.	Hermit rescues abandoned child.
+T330.	Anchorites under temptation.
+P426.3.	Monks. Irish myth: Cross.
+P426.3.1.	Untrained monk becomes skillful wright (smith) through power of saint. Irish myth: Cross.
+P426.3.2.	Monks as converted druids. Irish myth: Cross.
+P425.3.3.	Woman disguised as monk enters monastery. Irish myth: Cross.
+P427.	Druid (poet, learned man). Irish myth: Cross; Icelandic: MacCul- loch Eddic 311.
+A611.1.	Druids as creators. formed by power of saint.
+C10.1.	Druidism forbidden. druids speak.
+C901.1.2.	Tabu magician (fortune-teller, etc.).
+A974.1.	Certain stones are druids trans-
+B242.1.2.1.	Wren as "druid of the birds."
+C402.1.	Tabu: king speaking before his imposed by druid.
+D1814.1.	Advice from
+F394.1.1.	Druids direct fairies.
+P427.0.1.	Druid inspires great respect and fear. Irish myth: Cross.
+P427.0.2.	Person assailed by druid loses treasure. Irish myth: Cross.
+N134.	Persons effect change of luck.
+P427.0.3.	Women druids. Irish myth: Cross.
+P427.0.4.	Simon Magus as druid. Irish myth: Cross.
+P427.1.	Druid performs sacrifices. Irish myth: Cross.
+P427.1.1.	Druids perform human sacrifice. Irish myth: Cross.
+P427.1.2.	Druids as priests. Irish myth: Cross.   ## p. 172 (#176) ############################################  172 Motif-Index of Folk-Literature
+P427.1.3.	Druidic (heathen) baptism. Irish myth: Cross.
+P427.1.4.	Druidic tonsure. Irish myth: Cross.
+P427.2.	Druid as emissary of peace. Irish myth: Cross.
+P427.3.	Advice (instruction) from druid. Irish myth: Cross.
+P427.4.	Poet (druid) as satirist. (Cf.
+M402.	) Irish myth: Cross.
+P427.4.1.	Fear of druidic lampoon as activating power. Irish myth: Cross.
+P427.5.	Druid as physician. (Cf.
+P424.	) Irish myth: Cross.
+P427.5.1.	Wounded soldiers healed by bath in pool of milk through power of druid. Irish myth: Cross.
+P427.6.	Druid as judge. Irish myth: Cross.
+P427.7.	Poet. Irish myth: Cross; Icelandic: *Boberg.
+A1464.1.	Acquisition of poetry.
+C872.	Tabu: refusing requests of poets.
+F996.	Waters react to words of poet.
+P19.3.	King must procure what- ever visiting poets ask, or suffer from their satire.
+P524.1.	Poet may not act as security.
+P427.7.1.	Extemporaneous composition by poets. Irish myth: Cross.
+P427.7.2.	Extensive repertory of poets. Irish myth: Cross.
+C568.1.	Tabus: poets to be ignorant of national literature.
+P427.7.2.1.	Difficult language used by poets. Irish myth: Cross.
+P427.7.2.1.1.	Poets and fools closely allied. Irish myth: Cross.
+P427.7.3.	Blind poets. Irish myth: Cross.
+P427.7.4.	Women poets. Irish myth: Cross.
+P427.7.5.	Bard. Irish myth: Cross.
+P427.7.6.	Poet's rod. Irish myth: Cross.
+P427.7.7.	Poet as judge. Irish myth: Cross.
+P427.7.8.	Poet rewarded for poem. Irish myth: Cross; Icelandic: *Bo- berg.
+P427.7.9.	Poets banished. Irish myth: Cross.
+P427.7.9.1.	Excessive demands of poets. Irish myth: Cross.
+P427.7.10.	Rivaling poets. Icelandic: *Boberg.
+P427.8.	Druids as rath-builders. Irish myth: Cross.
+A538.	Culture hero builds raths.
+P427.9.	Druids (poets) boil spell. Irish myth: Cross.
+P428.	Musician. Icelandic: Boberg.
+Q223.9.2.	Musician flogged for eating a kid on Friday (day of fast).
+P428.1.	Harper. Irish myth: Cross; Jewish: Neuman.
+A1461.2.1.	Origin of harp.
+K1817.3.	Disguise as harper.
+P429.	Miscellaneous learned professions.
+P429.1.	Astronomers. Jewish: *Neuman.   ## p. 173 (#177) ############################################  P. Society 173
+P430.	Financiers and merchants.
+P431.	Merchant. Jewish: *Neuman.
+N851.	
+K1817.4.	Disguise as merchant.
+K2249.4.	Treacherous merchant. Merchant as helper.
+Q274.2.	Devil suffocates swindling merchant.
+R131.7.	Merchant rescues abandoned child.
+P431.1.	Merchants as spreaders of news. *Dickson 174 n. 35.
+P435.	Usurer.
+B151.1.1.2.1.	Ass carries usurer's body to the gallows instead of to the church.
+E411.4.	Usurer cannot rest in grave.
+N277.	Oxen bear dead usurer to gallows to be buried.
+Q273.	Usury punished.
+Q558.3.	Usurer boasts that God did not get him during the plague.
+W154.1.1.	Usurer's ingratitude toward servant.
+X510.	Jokes concerning usurers.
+P435.1.	Wealthy usurer prays that the sons of the rich will become mad. That will benefit his business. His own sons lose their minds. Italian Novella: Rotunda.
+P435.2.	Usurer stops lending money. He does so, not because it is wrong, but because he is losing money. Italian Novella: Rotunda.
+P440.	Artisans. Jewish: *Neuman.
+P441.	Tailor. *Fb "skrædder"; *Chauvin IX 29 No. 18; *Sébillot Métiers No. 7; *Feilberg Dania I 165ff., III 184ff.; Paludan Danske Studier (1925) 19ff.; Missouri French: Carrière.
+P441.1.	
+F662.	Skillful tailor.
+H38.2.1.	Tailor married to princess betrays trade.
+K1951.1.	Boastful fly-killer: "seven at a blow". A tailor who has killed seven flies writes on a placard: "Seven at a blow." He is received as a great warrior.
+X220.	Jokes about tailors. Tailor occupies God's throne for a day. *Type 800; *BP I 342.
+K2371.1.	Heaven entered by a trick.
+P441.2.	Tailoring only trade devil cannot learn. He fails to knot thread because it would make sign of the cross. Scotch: Campbell Super- stitions 304.
+G303.16.3.4.	Devil made to disappear by making sign of the cross.
+P441.3.	Tailor punished in hell. Irish myth: Cross.
+P441.4.	Busy tailor asks soldier to mount watch in his place. Missouri French: Carrière 177f. No. 36, 261 No. 59.
+P442.	Baker. *Sébillot Métiers Nos. 2, 3; *Nyrop Dania VIII 174ff.
+P442.1.	Baker and devil walking together. Breton: Sébillot Incidents s.v. "boulanger".
+P443.	Miller. Type 461 (Danish); Von Sydow Våra folksagor (1941) 38; *Sébillot Métiers No. 1; Missouri French: Carrière; Spanish: Espinosa Jr. Nos. 137, 141, 198.
+P443.0.1.	
+A677.2.	Miller of hell.
+R131.2.	Miller rescues abandoned child.
+X210.	Jokes about millers. Water-miller. Icelandic: Boberg.
+P443.1.	Why millers are thieves. Flemish: DeMeyer FFC XXXVII 84 No. 27e.
+P444.	Cabinet-maker. *Sébillot Métiers No. 14.
+P444.1.	Brave soldier and timid cabinet-maker as companions. German: Grimm No. 130a; BP III 67.   ## p. 174 (#178) ############################################  174 Motif-Index of Folk-Literature
+P445.	Weaver. Sébillot Métiers No. 6.
+H1022.1.	Task: weaving cloth from two threads.
+L113.3.	Poor weaver as hero.
+P445.1.	Why weavers are the most unhappy of men. They gave a nail for the Crucifixion. Flemish: DeMeyer FFC XXXVII 84 No. 27C.
+A2231.2.	Animal characteristics: punishment for hostility at crucifixion.
+P445.2.	Why weavers have patience. Flemish: DeMeyer FFC XXXVII 84 No. 27d.
+P446.	Barber. Sébillot Métiers No. 11; Penzer III 100 n. 1.
+F665.	Skillful barber.
+J21.1.	Barber hired to cut king's throat.
+J625.	Barber makes heavy demands of customer while he has the razor at the latter's throat.
+K1825.3.	Disguise as barber.
+N465.	Secret physical peculiarity discovered by barber.
+P446.1.	Barbers as bunglers of plans. Chauvin V 154ff. Nos. 78ff. and n. 1.
+P446.2.	Barbers cunning and greedy. India: Thompson-Balys.
+P447.	Smith. *Sébillot Métiers Nos. 17, 18; *Hdwb. d. Abergl. IX Nachträge 257-67; Andree (1878) 153; *Nyrop Dania IX 186ff.; Von Sydow Våra folksagor (1941) 39ff. Irish myth: Cross; Icelandic: *Boberg; Missouri French: Carrière; Jewish: *Neuman. -
+A142.	Smith of the gods.
+A1447.	Origin of metal-working.
+A1861.2.	Christ and the smith.
+D853.	Magic object forged by smith to order.
+F343.3.	Fairy smith gives knight a magic sword.
+F451.3.4.2.	Dwarfs as smiths.
+F663.	Skillful smith.
+H312.4.	Successful suitor must have whitest hands. Blacksmith qualifies because of frequent washing of hands.
+J1161.7.	Ruler forbids smith to reveal solution of riddle.
+K1816.12.	Dis- guise as smith.
+L113.6.	Smith as hero.
+N855.	Helpful smith.
+R131.8.4.	Smith rescues abandoned child.
+P447.0.1.	Smith from Lochlann (Scandinavia, otherworld [?]) Irish myth: Cross.
+P447.1.	Smith as grandfather of king. Irish myth: Cross.
+P447.2.	Smith as rath-builder. Irish myth: Cross.
+P447.3.	Smith as lord of hall of hospitality. Irish myth: Cross.
+P447.4.	Smith punished in hell. Irish myth: Cross.
+P447.5.	Smith honored by king as indispensable. Invited to festival. England: *Baughman.
+P447.6.	Rivaling smiths. Icelandic: Boberg.
+P447.7.	Goldsmith as lover. Icelandic: Boberg.
+F556.2.	Voice changed by work of silversmith.
+P447.8.	Covetous goldsmith. India: Thompson-Balys.
+W100.	Unfavorable traits of character.
+P448.	Butcher. Sébillot Métiers No. 4.
+P451.	Spinner. Sébillot Métiers No. 5; *Von Sydow Spinnsagor.
+G282.	
+G201.1.	Three witches (hags) deformed from much spinning. Witches punish lazy spinning women.
+H1092.	Task: spinning impossible amount in one night.
+J51.	Sight of deformed witches causes man to release wife from spinning duty.
+P452.	Dressmaker (milliner, etc.). Type 326; German Grimm No. 4; *Hdwb. d. Abergl. IX Nachträge 269f.; Sébillot Métiers No. 8.   ## p. 175 (#179) ############################################  P. Society 175
+P453.	Shoemaker. **C. Nyrop Dania VIII 195ff.; *Sébillot Métiers No. 10; Irish myth: Cross; Spanish: Espinosa Jr. Nos. 151, 155-157, 185.
+F346.1.	Fairies make shoes for shoemaker.
+K1816.10.	Disguise as cobbler.
+X240.	Jokes about cobblers.
+P453.1.	Why shoemakers are indolent. A shoemaker spits at Christ on way to be crucified. Christ tells him, "A poor slobbering fellow thou shalt be, and all shoemakers after thee, for what thou has done to me." (Cf.
+A2231.	2,
+P445.1.	) England; Baughman.
+P454.	Hatter. Sébillot Métiers No. 10 pp. 52ff.
+P455.	Mason (bricklayer). Sébillot Métiers No. 12.
+P456.	Carpenter. Sébillot Métiers No. 13; Panchatantra (tr. Ryder) 62ff., 89ff., 260ff.; Irish myth: Cross; Jewish: Neuman.
+A143.	Carpenter (wright) of the gods.
+A1445.2.	Origin of carpentry.
+P457.	House-painter. Sébillot Métiers No. 15.
+P458.	Woodsman. Types 327, 700; Köhler Aufsätze 49; Sébillot Métiers No. 16; Missouri French: Carrière.
+E501.1.4.	Forester as wild huntsman.
+L113.5.	Woodcutter hero.
+N856.	Forester as helper.
+P459.	Other artisans.
+P459.1.	Printer. Sébillot Métiers No. 19.
+P460.	Other trades and professions.
+P461.	Soldier. *Hdwb. d. Abergl. IX Nachträge 485ff.; Missouri French: Carrière.
+E501.2.6.	Soldiers in wild hunt.
+P461.1.	Soldier who has had both hands severed fights with his teeth until he is killed. Italian Novella: Rotunda.
+P461.2.	Soldier dies happy on learning of enemy's rout. Italian Novella: Rotunda.
+P461.3.	Soldier is ordered to set fire to enemy's armada. Is caught and sawed in two. Italian Novella: Rotunda.
+Q469.8.	Punishment: sawing in twain.
+P461.4.	Woman instructs in art of arms. (Cf.
+F565.1.	) Irish myth: Cross.
+P471.	Actor.
+P471.1.	Actors banished along with vagabonds. Pauli (ed. Bolte) No. 537.
+P475.	Robber. Irish myth: Cross; Missouri French: Carrière; Jewish: *Neuman. K300-
+K499.	Thefts and cheats.
+K301.	Master thief. K1054, Robber per- suaded to climb down moonbeam,
+K1812.2.1.	Incognito king joins rob- bers.
+K1916.	Robber bridegroom.
+N765.	Meeting with robber band.
+N884.	Robber's help.
+Q111.3.	Riches as reward for help against robbers.
+P475.1.	Twelve robbers. Fb III 132a "røver”.
+P475.2.	Robbers defeated and killed. Icelandic: *Boberg.
+K420.	Thief loses his goods or is detected.
+P481.	Astrologer. Penzer X 77a s.v. “Astrologer”; Jewish: *Neuman; India: Thompson-Balys.
+D1712.	Soothsayer.
+J2133.8.	Stargazer falls in well.
+K1964.	Sham astro-   ## p. 176 (#180) ############################################  176 Motif-Index of Folk-Literature loger.
+M302.4.	Horoscope taken by means of stars.
+N186.	Man who derided another's faith in the stars becomes a respected astrologer.
+P482.	Painter (artist).
+P482.1.	Devil pulls painter from chair. Scala Celi 120b No. 660.
+P483.	Juggler (conjurer). Irish myth: Cross.
+P485.	Philosopher.
+P485.1.	Treacherous philosophers. India: Thompson-Balys. P500-
+P599.	Government.
+P500.	Government.
+P510.	
+A1580.	Origin of laws.
+A1582.	Origin of government.
+B220.	Animal king- dom (or community).
+B230.	Parliament of animals.
+F252.	Government of fairies.
+F402.2.	Government of demons.
+P10.	Kings.
+T148.	Matri- archy. Law courts. *E. v. Künssberg Rechtliche Volkskunde (Halle, 1936); **Spargo Juridicial Folklore in England (Durham N.C., 1944); Irish myth: Cross.
+A464.	God of justice.
+B270.	Animals in legal relations.
+D1318.	Magic object reveals guilt.
+D1318.2.1.	Laughing fish reveals unjust judgment.
+D1406.	Magic object helps win in law court.
+H220.	Ordeals.
+J1130.	Cleverness in law court-general.
+P14.1.	Prisoners released as celebra- tion of king's success.
+P19.4.1.	King may judge against all save one of highest rank in religion or learning.
+Q200.	Deeds punished.
+Q400.	Kinds of punishment.
+T647.	Illegal to care for illegitimate child.
+P511.	Criminal allowed to choose his method of execution. *Wesselski Märchen 199.
+K558.	Man allowed to pick out tree to be hanged on. Cannot find one.
+P511.1.	Chooses to die of old age. Criminal given choice of deaths. (Cf.
+J1181.	) Hdwb. d. Märchens s.v. "Friedrich der Grosse" n. 58.
+P511.2.	Man condemned to lose his eye is allowed to choose the ins- trument. Herbert III 71; Hervieux IV 310 No. 117; Spanish Ex- empla: Keller.
+P512.	Condemned woman may be freed by marrying a rogue. *Fb "gifte" I 432; Zs. f. Vksk. XXIII 108, XXV 286, XXVII 236; Sehreuer Zs. f. vgl. Rechtswiss. XXXIV 201; Blätter f. pommersche Volks- kunde VII 63.
+H542.	Death sentence escaped by propounding riddle king (judge) can- not solve.
+H924.	Tasks assigned prisoner so that he may escape punish- ment.
+J1181.	Execution escaped by use of special permissions granted the condemned.
+T110.	Unusual marriage.
+P512.1.	Release from execution at a woman's request (by marriage to her). *Taylor JAFL LX 185.
+P513.	Criminal may fight against odds rather than be judicially exe- cuted. Child IV 497a.
+H218.	Trial by combat.
+P515.	Pardoning of criminal comes too late. Icelandic: Boberg.
+P516.	Youngest of judges first to give decision. Jewish: *Neuman.
+P517.	Crime less serious if committed at request of a lady. English romance: Malory VII 18.
+P518.	Cities of refuge. Jewish: *Neuman.   ## p. 177 (#181) ############################################  P. Society 177
+P521.	Complacent judge disregards the confession. He has put the criminal to torture without success. When he releases him, the criminal says, "In a moment I should have confessed all." The judge lets him go nevertheless. Wesselski Hodscha Nasreddin I 266 No. 247.
+P522.	Laws.
+P522.1.	Lex talionis. One life for one life. Equal number must be given up by each feuding side. (Cf.
+P535.	) Irish myth: Cross (
+P548.	2); India: Thompson-Balys; New Guinea: Ker 61.
+P522.1.1.	A nose for a nose. India: Thompson-Balys.
+Q451.5.	Nose cut off as punishment.
+P523.	Bringing suit in law courts. Irish myth: Cross.
+P523.1.	Foreigner may not bring suit. (Cf.
+P191.	) Irish myth: Cross.
+P523.2.	Madman may not bring suit. Irish myth: Cross.
+P523.2.1.	Fool not to be punished for his crime. Irish myth: Cross.
+P523.3.	Slave may not bring suit. (Cf.
+P170.	) Irish myth: Cross.
+P524.	Legal security. Irish myth: Cross.
+P524.1.	Poet may not act as security. (Cf.
+P427.	) Irish myth: Cross.
+P524.2.	Foreigner may not act as security. (Cf.
+P191.	) Irish myth: Cross.
+P525.	Contracts. Irish myth: Cross.
+M200.	Bargains and promises.
+P525.0.1.	"It is a debt if it is promised." Irish myth: Cross.
+P525.1.	Contract made by madman void. (Cf.
+P192.	) Irish myth: Cross.
+P525.2.	Contract made by woman without her husband void. Irish myth: Cross.
+P525.3.	He nearest to blood of slain man must avenge his death. Irish myth: Cross.
+P526.	Legal principles.
+P526.1.	"To every cow belongs its calf," a legal principle applied to question of ownership of copy of manuscript. Irish myth: Cross.
+P526.2.	"To every son belongs his mother": in case of suspected ille- gitimacy, child is not guilty. Irish myth: Cross.
+P531.	Taxation and payment of fines or tribute. Irish myth: *Cross.
+H928.	Tasks imposed as tribute.
+P24.	Queen must pay tribute to vic- torious queen to the amount paid by king to victorious king.
+P531.1.	Tribe failing to attend yearly feast to send gift as sign of submission. Irish myth: Cross.
+P531.1.1.	Tribute required of conquered foreigners. Irish myth: Cross.
+P531.2.	Tax on treasure trove. (Cf.
+N500.	) Irish myth: Cross.
+P532.	Payment of tax (tribute). Irish myth: *Cross.
+P533.	Feudal tribute. Specified interchange of aid and gifts. Irish myth: Cross. 12   ## p. 178 (#182) ############################################  178 Motif-Index of Folk-Literature
+P533.1.	Hostages. Irish myth: Cross.
+P533.1.1.	Boys as hostages. Irish myth: Cross.
+P535.	Eric fines (imposed for personal injury, etc.). (Cf.
+P522.1.	) Irish myth: *Cross.
+P536.	Punishment for failure to pay tax. Irish myth: Cross.
+P536.1.	Nose cut off for failure to pay tax. (Cf.
+Q451.5.	) Irish myth: Cross.
+P537.	Payment of stipend. Irish myth: Cross.
+P541.	Law-making. Irish myth: Cross.
+P541.1.	Heptads. Laws made in groups of seven. (Cf.
+Z71.5.	) Irish myth: Cross.
+P541.2.	Laws made at yearly feast. Irish myth: Cross.
+P541.2.1.	Laws made at feast every seven years. Irish myth: Cross.
+P548.	Miscellaneous legal customs. Irish myth: Cross.
+P550.	Military affairs. *Hdwb. d. Abergl. IX Nachträge 181-254; Jewish: Neuman.
+A485.	God of war.
+B184.2.1.2.	Magic soldier-producing cow.
+B260.	Ani- mal warfare.
+C845.	Tabus concerning war.
+D1475.	Magic object furnishes soldiers.
+K2350.	Military strategy.
+P14.1.	Prisoners released in celebration of victory.
+P551.	Army.
+A1596.	Origin of army.
+E502.	The Sleeping Army.
+H1022.2.1.	Task: clothing an army from one hank of flax.
+P29.3.	Queen pours for battle champions.
+P551.0.1.	Band of professional warriors. Irish myth: Cross; Icelandic: *Boberg.
+A1658.	Origin of professional warriors.
+P551.1.	Army of young men. Old men excluded. *Chauvin VII 84 No. 373bis.
+P551.2.	Soldiers chained (tied) together to prevent flight from battle. Irish myth: Cross.
+P551.3.	Clerics exempted from military service. Irish myth: Cross.
+P551.4.	Hero drives retreating warriors back into battle. Irish myth: Cross.
+P551.5.	Boy corps. Irish myth: Cross.
+P551.6.	Law requiring military service of women revoked through in- fluence of saint. Irish myth: Cross.
+P551.7.	Conflicts with the recruting officers. Lithuanian: Balys Index No. 3743.
+P551.8.	Retainers not required to go to battle under overlord except for pay. Irish myth: Cross.
+P551.8.1.	Only 700 subjects of under-king required to serve under overlord on any one hosting. Irish myth: Cross.
+P551.9.	"Battle seeds" (semen bellicosum). Irish myth: Cross.
+P552.	Battle formations. Irish myth: Cross.   ## p. 179 (#183) ############################################  P. Society 179
+P552.1.	Battle-pen. Warriors fight in circle around leader. Irish myth: Cross.
+P552.2.	Superior troops distributed throughout army to prevent their soldierly qualities from being too obvious. Irish myth: Cross.
+P552.3.	Phalanx. Irish myth: Cross.
+P552.3.1.	Roof of shields. Testudo. Irish myth: Cross.
+P552.4.	War-machines. Irish myth: Cross.
+P552.5.	Haircut as preparation for war. Maori: Beckwith Myth 250.
+P553.	Weapons. Irish myth: Cross; Jewish: Neuman.
+P553.1.	Poisoned weapons. Irish myth: Cross.
+P554.	Battle-cairn. Losses reckoned by number of stones remaining in pile after each survivor has removed one. Irish myth: Cross.
+A989.4.	Pile of stones (cairn) marks site of battle.
+P555.	Defeat in battle. Irish myth: Cross; Jewish: *Neuman.
+P555.1.	Submission indicated by defeated lying with conqueror's sword between teeth. Irish myth: Cross.
+P555.2.	Corpses of dead foes dismembered. Tupper and Ogle Walter Map 93.
+P555.2.1.	Heads of fallen enemies piled up after battle. Irish myth: Cross.
+P555.2.1.1.	"Publication of slaying." Heads of slain enemies displayed. Irish myth: Cross; *Icelandic: Boberg.
+P555.2.1.2.	Jawbone cut from slain opponent. Hawaii: Beckwith Myth 422.
+P555.3.	Gate of captured town (castle) to be widened until overlord's spear can pass through crosswise. Irish myth: Cross.
+P556.	Challenge to battle. Irish myth: Cross; Jewish: Neuman.
+P556.1.	Challenge by turning left side of shield toward enemy. Irish myth: Cross.
+P556.2.	Challenge to battle by hurling javelin skyward. Virgil Aeneid IX 53.
+P557.	Military customs. Irish myth: Cross.
+P557.1.	Warrior not entitled to ransom if captured without arms. Irish myth: Cross.
+P557.2.	Pledge with enemy to be kept. Irish myth: Cross.
+P557.3.	Stones erected where enemy falls. Irish myth: Cross.
+P557.4.	Customs concerning single combat. Irish myth: Cross.
+P557.4.1.	First to reach field of combat has choice of weapons. Irish myth: Cross.
+P557.4.2.	Warrior who begins combat has right to desist. Irish myth: Cross. 12*   ## p. 180 (#184) ############################################  180 Motif-Index of Folk-Literature
+P557.4.3.	Choice of weapons alternates each succeeding day. Irish myth: Cross.
+P557.4.4.	"Men's truth" (fir fer). Challenger to single combat must submit to same conditions as person challenged. Irish myth: Cross.
+P557.4.4.1.	Warrior engaged in combat with one-armed opponent allows one hand to be bound to his side. Irish myth: Cross.
+P557.5.	Warrior disgraced by slaying of those under his protection. Irish myth: Cross.
+P557.6.	Warrior dies with face toward foe. Irish myth: Cross.
+P557.7.	Divorce given to wives before leaving for battle. Jewish: Neu- man.
+P561.	Tournaments. **R. C. Clephan The Tournament (London, 1919); *O. Mueller Turnier und Kampf in den altfrz. Artusromanen (Erfurt, 1907); Jewish: Neuman.
+H331.2.	Suitor contest: tournament.
+H1561.1.	Tests of valor: tournament.
+P52.	Knight jousts with all comers.
+R222.	Unknown knight, Three days' tournament.
+P561.1.	King is persuaded to rescind ban on tournaments. Italian No- vella: Rotunda.
+P561.2.	Tournament: to avenge death of king. India: Thompson-Balys. P600-
+P699.	Customs.
+P600.	Customs.1 Jewish: *Neuman.
+A545.	Culture hero establishes customs.
+A1500.	Origins of customs.
+C650.1.	Customs connected with unique compulsion.
+P13.	Customs con- nected with kings.
+P14.1.	Prisoners released in celebration of victory.
+P52.	Knight jousts with all comers.
+S110.1.	Old people killed in famine.
+S140.1.	Abandonment of the aged.
+P611.	Women meet when bathing. Icelandic: Snorra Edda Skaldsk. XLI (Nibel), *Boberg; India: Thompson-Balys.
+P612.	Trumpet blown before house of one sentenced to death. *Crane Vitry 151 No. 42; Spanish Exempla: Keller.
+P613.	Charon's fee: putting coin in dead person's mouth to pay for ferry across Styx. Italian Novella: *Rotunda.
+A672.1.1.	Charon exacts fee to carry souls across Styx.
+E431.11.	Coin placed in mouth of dead to prevent return.
+P616.	Newcomers forced to pass the night with ruling princess. Given sleeping potion. Goods confiscated for failure to consummate marriage. Italian Novella: Rotunda.
+K675.	Sleeping potion given to man who is to pass the night with a girl.
+P617.	People weep when child is born. They sing and laugh at burials. Italian Novella: Rotunda.
+X1505.	Topsy-turvy land.
+P621.	Bridle goes with horse when horse is bought. *Wesselski Märchen 245f. No. 55. 1 Except in so far as customs enter narratives, they are not in the scope of this work.   ## p. 181 (#185) ############################################  P. Society 181
+P622.	Servant must keep horns and hide of his cattle that are slain. Wesselski Märchen 200.
+P623.	Fasting (as a means of distraint). Irish myth: Cross.
+B253.3.	Fox fasts as penance.
+C200.	Tabu: eating (general).
+P623.0.1.	Fasting against God. Irish myth: Cross.
+P623.0.1.1.	Clerics fast against God for revelation. Irish myth: Cross.
+D1810.9.	Magic knowledge from God.
+P623.0.2.	Fasting against the Devil. Irish myth: Cross.
+P623.0.3.	Fasting against fairies. Irish myth: Cross.
+P623.0.4.	Fasting against saints. Irish myth: Cross.
+P623.0.5.	Fasting by saints causes tree worshipped by pagans to fall. Irish myth: Cross.
+P623.0.6.	Fasting to enforce saint's dues. Irish myth: Cross.
+P623.0.7.	Calves not let to cows during fast. Irish myth: Cross.
+P631.	Strangers to be given precedence over man at home. Duke per- mits visiting duke to go through narrow path first. This sets custom. Pauli (ed. Bolte) No. 515.
+P632.	Customs concerning recognition of rank. Irish myth: Cross.
+A1539.1.	Origin of seating arrangements in royal hall.
+C550.	Class tabu.
+C853.	Tabus concerning entry into assembly.
+C878.	Tabu concerning clothing.
+P632.1.	Couches provided for men of high rank. Irish myth: Cross.
+P632.2.	Cuts of meat distributed according to rank. Irish myth: Cross.
+P632.2.1.	"The champion's portion." The choicest portion assigned to the bravest at feasts. Irish myth: Cross.
+H1395.	Heroes seek judgment as to which is greatest (is to receive "champion's portion").
+H1568.1.	Test of championship.
+P632.3.	Rank among children recognized by quality of appointments and food. Irish myth: Cross.
+P632.4.	Color worn signifies rank. Irish myth: Cross.
+P632.4.1.	Precedence shown by position of shield (flag). Irish myth: Cross.
+P632.5.	Long hair prized by Irish heroes. Irish myth: Cross.
+C722.	Tabu: cutting hair.
+P633.	Young not to precede old. Irish myth: Cross.
+P634.	Feasts. Irish myth: Cross.
+C282.	Tabu: refusing a feast.
+P634.0.1.	Customs connected with eating and food. Jewish: Neuman.
+P634.1.	Feast (hospitality) endures for three days and three nights. Irish myth: Cross.
+P634.2.	Feast (hospitality) endures for seven days and seven nights. Irish myth: Cross.
+P541.2.1.	Laws made at feast every seven years.   ## p. 182 (#186) ############################################  182 Motif-Index of Folk-Literature
+P641.	Injured husband will not kill a naked man. Child V 489 s.v. "naked".
+K1500.	Deceptions connected with adultery.
+P642.	Only the brave to wear beards. Irish myth: Cross.
+C565.	Tabus of bearded men.
+P643.	With only opponent's arms. Hero goes to encounter unarmed except for the arms he wrests from his opponent. Irish myth: Cross.
+P644.	Hero unwilling to answer questions before he is dressed. Icelandic: Boberg.
+P651.	Customs concerning bells.
+P651.1.	Bells hung at every corner of ship. Child IV 462a.
+P651.2.	Bells on horse's mane. Child I 323, II 183-191, 344, IV 410, 413.
+P651.3.	Bells rung backward as alarm. Child III 26.
+P661.	Hut for invalid to prevent noxious odor. *Schoepperle 367ff.
+P665.	Custom: boasting of sexual prowess. India: Thompson-Balys.
+P671.	Woman veils self as expression of surprise. Chauvin V 149 No. 73 n. 1.
+P672.	Pulling a man's beard as an insult. E. Hinojosa Homenaje a Menéndez y Pelayo I 568ff.; R. Menéndez Pidal Cantar del Mio Cid II 498; Italian Novella: *Rotunda.
+P672.1.	
+Q497.	Beard shaved as punishment for murder.
+S327.2.	Baby ordered killed because it pulls beard of father (raja). Fur made of beards of conquered kings. Welsh: MacCulloch Celtic 185.
+H1273.2.	Quest for three hairs from devil's beard.
+P672.2.	Cutting off a man's (woman's) hair as an insult. Irish myth: Cross; Icelandic: Boberg.
+C722.	Tabu: cutting hair.
+P672.3.	Rubbing shaved head of hero with cow dung as insult. Irish myth: Cross.
+P672.4.	Insult: lighting lamp with king's moustache. India: Thompson- Balys.
+P673.	Footwashing as sign of reconciliation. India: Thompson-Balys.
+P674.	Old person commits suicide when strength fails. Irish myth: Cross.
+S140.1.	Aged people abandoned.
+P675.	Touching head as sign of acceptance of bargain. India: Thomp- son-Balys.
+P676.	Feet (legs) seized in supplication. Greek: Iliad XXII 337 and passim; India: Thompson-Balys.
+P677.	Customs connected with dueling.
+P677.1.	Duel: shooting and catching arrows in turn. India: Thompson- Balys.   ## p. 183 (#187) ############################################  P. Society 183
+P678.	Pulling out hair as sign of grief. Jewish: Moreno Esdras (
+P673.	1).
+P678.1.	Tearing garments as sign of grief. Jewish: *Neuman.
+P681.	Mourning customs. Jewish: *Neuman.
+P682.	Greeting customs. Jewish: *Neuman.
+P682.1.	Greeting in God's name. Jewish: Neuman.
+P682.2.	Voyagers have right to ask landsman first question. Marquesas: Handy 56, 72. P700-
+P799.	Society-miscellaneous motifs.
+P710.	Nations.
+P711.	Patriotism. Irish myth: Cross; Spanish Exempla: Keller.
+A536.1.	Culture hero (saint) defends Ireland against foreign invaders.
+V61.3.0.1.	Hero buried in armor, standing with face toward land of enemies.
+W34.	Loyalty.
+P711.1.	Wolves of his own country dearer than dogs of another. Pauli (ed. Bolte) No. 420.
+P711.2.	Mother of invalided soldier says of his limping: "Every step will remind you of your virtue." Italian Novella: Rotunda.
+P711.3.	Common citizen saves the honor of his country. Gives his own funds. Italian Novella: Rotunda.
+P711.4.	Scipio plunges into burning pit to save Rome from destruction. Italian Novella: Rotunda.
+P711.5.	Roman undertakes to kill Hannibal. Kills another by mistake. Burns off his hand for having failed. Italian Novella: Rotunda.
+P711.6.	National unity preserved by expulsion of all foreign elements. Jewish: Moreno Esdras, Neuman.
+P711.7.	Aristotle rises from sick bed to rush into battle for his country. Spanish Exempla: Keller.
+P711.8.	Aversion to burial in foreign soil. Irish myth: Cross; Jewish: Neuman.
+P711.9.	Patriotism: king learning that nation will triumph whose king dies in battle, allows self to be killed. Spanish Exempla: Keller.
+M362.	Prophecy: death of ruler to insure victory.
+P715.	Particular nations (races).
+A1600.	Distribution and differentiation of peoples.
+X600.	Humor con- cerning races or nations.
+P715.1.	Jews. **Goebel Jüdische Motive in märchenhafte Erzählungsgut (Gleiwitz, 1932) 281-288; Jewish: *Neuman.
+A1681.2.	Why Jews do not eat pork.
+V266.	Virgin Mary converts a Jew to Christianity. V360, Christian traditions concerning Jews.
+X610.	Jokes concerning Jews.
+P720.	Population. Irish myth: Cross.
+P721.	Diseases (plague) invoked to combat overpopulation. Irish myth: Cross.

@@ -1,0 +1,46 @@
+P. SOCIETY
+PO-P99. Royalty and nobility
+PO. Royalty and nobility
+P10. Kings
+P20. Queens
+P30. Princes
+P40. Princesses
+P50. Noblemen (knights)
+P60. Noble (gentle) ladies
+P90. Royalty and nobility - miscellaneous
+P100-P199. Other social orders
+P110. Royal ministers
+P120. Church dignitaries
+P150. Rich men
+P160. Beggars
+P170. Slaves
+P190. Other social orders - miscellaneous
+P200-P299. The family
+P200. The family
+P210. Husband and wife
+P230. Parents and children
+P250. Brothers and sisters
+P260. Relations by law
+P270. Foster relatives
+P280. Steprelatives
+P290. Other relatives
+P300-P399. Other social relationships
+P310. Friendship
+P320. Hospitality
+P340. Teacher and pupil
+P360. Master and servant
+P400-P499. Trades and professions
+P400. Trades and professions
+P410. Laborers
+P420. Learned professions
+P430. Financiers and merchants
+P440. Artisans
+P460. Other trades and professions
+P500-P599. Government
+P500. Government
+P510. Law courts
+P550. Military affairs
+P600-P699. Customs
+P600. Customs. 
+P700-P799. Society - miscellaneous motifs
+P710. Nations

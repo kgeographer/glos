@@ -1,0 +1,10 @@
+.venv/
+_older/
+downloads/
+notes/
+citations/
+
+.venv/
+.env
+.idea/
+src/.ipynb_checkpoints

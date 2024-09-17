@@ -1,0 +1,22 @@
+R. CAPTIVES AND FUGITIVES
+RO-R99. Captivity
+RO. Captivity
+R10. Abduction
+R40. Places of captivity
+R50. Conditions of captivity
+R70. Behavior of captives
+R100-R199. Rescues
+R100. Rescues
+R110. Rescue of captive
+R130. Rescue of abandoned or lost persons
+R150. Rescuers
+R170. Rescue - miscellaneous motifs
+R200-R299. Escapes and pursuits
+R200. Escapes and pursuits
+R210. Escapes
+R220. Flights
+R260. Pursuits
+R300-R399. Refuges and recapture
+R300. Refuges and recapture
+R310. Refuges
+R350. Recapture of fugitive
