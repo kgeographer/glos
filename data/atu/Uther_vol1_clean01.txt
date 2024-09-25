@@ -1,4 +1,4 @@
-1          The Theft of Fish. (Including the previous Types 1* and 1**.) A fox (hare, rabbit, coyote, jackal) lies in the road pretending to be dead. A fisherman throws him on his wagon which is full of fish (cheese, butter, meat, bread, money). The fox throws the fish out of the wagon [K371.1] and jumps down after them [K341.2, K341.2.1]. A wolf (bear, fox, coyote, hyena) tries to imitate this and pretends to be dead, too. The fisherman catches him and beats him [K1026]. Cf. Types 56A, 56B, and 56A*. In some variants one animal (rabbit, fox) pretends to be dead in order to distract a man who is carrying a basket of food. Another animal (fox, wolf) steals the basket. (Previously Type 1*, cf. Type 223.) Or an animal makes a hole in the basket so that the contents fall out. (Previously Type 1**.) 
+|1          The Theft of Fish. (Including the previous Types 1* and 1**.) A fox (hare, rabbit, coyote, jackal) lies in the road pretending to be dead. A fisherman throws him on his wagon which is full of fish (cheese, butter, meat, bread, money). The fox throws the fish out of the wagon [K371.1] and jumps down after them [K341.2, K341.2.1]. A wolf (bear, fox, coyote, hyena) tries to imitate this and pretends to be dead, too. The fisherman catches him and beats him [K1026]. Cf. Types 56A, 56B, and 56A*. In some variants one animal (rabbit, fox) pretends to be dead in order to distract a man who is carrying a basket of food. Another animal (fox, wolf) steals the basket. (Previously Type 1*, cf. Type 223.) Or an animal makes a hole in the basket so that the contents fall out. (Previously Type 1**.)
 
 Combinations: This type is usually combined with episodes of one or more other  
 types, esp. 2, 3, 4, 8, 15, 21, 41, and 158. 
@@ -2012,7 +2012,7 @@ Literature/Variants:
 Finnish: Rausmaa 1982ff. V, No. 83; Estonian: Kippar 1986; Karelian, Cher emis/ 
 Mari: Kecskeméti/Paunonen 1974. 
 
- 91      Heart of Monkey as Medicine (previously Monkey [Cat] who Left his Heart at Home). A monkey (fox, jackal) and a turtle (crocodile, fish) are friends. The turtle’s wife becomes jealous and pretends that she has an illness which can be cured only if she eats the heart of a monkey. The turtle meets the monkey and swims into the sea with him on his back. On the way he tells him about his wife’s problem. The monkey sympathises but says he has left his heart in a tree. When the turtle takes him back to the land to get his heart, the monkey runs away [K544, K961.1]. In some variants, the illness of a king (princess) can be cured only by the liver of a rabbit. When one is caught, it pretends to have left its liver at home and offers to go and get it. Then it runs away. 
+|91      Heart of Monkey as Medicine (previously Monkey [Cat] who Left his Heart at Home). A monkey (fox, jackal) and a turtle (crocodile, fish) are friends. The turtle’s wife becomes jealous and pretends that she has an illness which can be cured only if she eats the heart of a monkey. The turtle meets the monkey and swims into the sea with him on his back. On the way he tells him about his wife’s problem. The monkey sympathises but says he has left his heart in a tree. When the turtle takes him back to the land to get his heart, the monkey runs away [K544, K961.1]. In some variants, the illness of a king (princess) can be cured only by the liver of a rabbit. When one is caught, it pretends to have left its liver at home and offers to go and get it. Then it runs away. 
 Remarks: Documented in the Indian Jātaka (nos. 208, 342) and in the Indian Pañ- 
 catantra (IV,1). 
 Literature/Variants: Chauvin 1892ff. II, 99 No. 57, 191 No. 6, 193 No. 14; Dähn- 
@@ -12054,7 +12054,7 @@ Egyptian, Algerian, Sudanese: cf. El-Shamy 2004, No. 737A*.
 
 |677*      Below the Sea. A boy (man) who is skilled in playing an instrument finds himself in a submarine kingdom, entertains the king of the sea, chooses a bride for himself, and returns to earth. 
 
- Literature/Variants: 
+Literature/Variants: 
 Finnish: Rausmaa 1982ff. I, 500; Livonian, Lappish: Kecskeméti/Paunonen 1974;  
 Russian: SUS; Votyak: Kecskeméti/Paunonen 1974; Turkmen: Reichl 1986, No. 50;  
 Mongolian: Lőrincz 1979; Japanese: Inada/Ozawa 1977ff. 
@@ -19831,20 +19831,16 @@ Literature/Variants: Kirchhof/Oesterley 1869 V,152f.; Köhler/Bolte 1898ff. III,
 221; ZfVk. 12 (1902) 65; EM 5 (1987) 838; Tomkowiak 1991; EM 9 (1999) 390–394  
 (I. Tomkowiak). 
 Spanish: Goldberg 1998, No. K1353; German: Brunner/Wachinger 1986ff. IV,  
-No. 
-|1                   1                            1                           2                    2 
- Folz/110, No.  Marn/1/505, V, No.  Schil/1/30, VI, No.  A/630, X, No.  S/2500;  
+No.  Folz/110, No.  Marn/1/505, V, No.  Schil/1/30, VI, No.  A/630, X, No.  S/2500;  
 Jewish: Bin Gorion 1918ff. I, 106ff., 324ff., 354. 
 
-FFC 284                               Realistic Tales (Novelle)                                     617 
-
- 986        The  Lazy  Husband. A  king  marries  his  daughter  to  a  lazy  man (mother’s boy, beggar). Forced by his wife to work, he joins a cara                       - van. In the desert he climbs into a well in order to fetch water. He finds a kidnapped girl (princess) and a pomegranate. He sends the pomegranate to his wife, and out of it fall jewels. She becomes rich and builds a palace. He returns the kidnapped girl to her father and returns home to his wife. Cf. Types 677, 737B*. 
+|986        The  Lazy  Husband. A  king  marries  his  daughter  to  a  lazy  man (mother’s boy, beggar). Forced by his wife to work, he joins a cara                       - van. In the desert he climbs into a well in order to fetch water. He finds a kidnapped girl (princess) and a pomegranate. He sends the pomegranate to his wife, and out of it fall jewels. She becomes rich and builds a palace. He returns the kidnapped girl to her father and returns home to his wife. Cf. Types 677, 737B*. 
 
  Combinations: 677, 910B, 910K, 923, 923B, and 1615. 
- Remarks: Types 677 and 986 are not clearly differentiated. Early version see do- 
+Remarks: Types 677 and 986 are not clearly differentiated. Early version see do- 
  cumented in the 13th century by the Persian-speaking Ğalāloddin Rumi, Fihi mā  
 fihi  (Rumi/Arberry 1961, 95f.). 
- Literature/Variants: Chauvin 1892ff. VI, 64ff. No. 233, VII, 155ff. No. 437; Schwarz- 
+Literature/Variants: Chauvin 1892ff. VI, 64ff. No. 233, VII, 155ff. No. 437; Schwarz- 
 baum 1968, 77; EM 3 (1981) 1084–1093 (U. Masing). 
  Greek: Megas/Puchner 1998; Turkish: Eberhard/Boratav 1953, No. 256; Jewish:  
  Noy 1963a, No. 40, Jason 1975; Kurdish: Džalila et al. 1989, No. 86; Armenian:  
@@ -19856,10 +19852,10 @@ Jordanian, Iraqi, Yemenite: El-Shamy 2004; Saudi Arabian: cf. Jahn 1970, No. 38,
 21; Egyptian, Tunisian: El-Shamy 2004; Moroccan: Nowak 1969, No. 284, cf. No.  
  113; Sudanese: Kronenberg/Kronenberg 1978, No. 1, El-Shamy 2004. 
 
- 987        False Magician Exposed by Clever Girl. This tale exists chiefly in two different forms:   (1) A magician deceives the eyes of spectators making them be- lieve that a rooster can pull (carry) a heavy beam (a rope-dancer can push a cart, juggle a beam).   A girl with a four-leafed shamrock (snake, dead toad, salaman der) understands the trick and states that the rooster can only pull straw [K1963.1]. The magician takes revenge by making the girl be lieve she is going through deep water. She raises her dress as high as possible and all spectators mock her. (A lock magically closes the girl’s mouth so that she cannot speak.)   (2) A juggler pretends to be able to creep through a thick beam (stone). The girl with the shamrock discovers that he only creeps over it or next to it. The water-episode follows, and in some variants the girl is bewitched into being lame or crooked. 
+|987        False Magician Exposed by Clever Girl. This tale exists chiefly in two different forms:   (1) A magician deceives the eyes of spectators making them be- lieve that a rooster can pull (carry) a heavy beam (a rope-dancer can push a cart, juggle a beam).   A girl with a four-leafed shamrock (snake, dead toad, salaman der) understands the trick and states that the rooster can only pull straw [K1963.1]. The magician takes revenge by making the girl be lieve she is going through deep water. She raises her dress as high as possible and all spectators mock her. (A lock magically closes the girl’s mouth so that she cannot speak.)   (2) A juggler pretends to be able to creep through a thick beam (stone). The girl with the shamrock discovers that he only creeps over it or next to it. The water-episode follows, and in some variants the girl is bewitched into being lame or crooked. 
 
- Remarks: Documented in the Middle Ages, e.g. Étienne de Bourbon (No. 233). 
- Literature/Variants: BP II, 539–541, III, 201–206; Wesselski 1931, 95f.; HDA 4  
+Remarks: Documented in the Middle Ages, e.g. Étienne de Bourbon (No. 233). 
+Literature/Variants: BP II, 539–541, III, 201–206; Wesselski 1931, 95f.; HDA 4  
  (1931/32) 1447–1458 (H. Marzell); HDM 2 (1934–40) 355, 452; Sooder 1942; Winkle  
  1959; Tubach 1969, No. 4510; EM 1 (1977) 1003–1006 (K. Ranke); McNicholas 1991;  
 Brunold-Bigler 1985, 238f. 

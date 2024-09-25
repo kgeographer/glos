@@ -1,0 +1,224 @@
+term	countries
+Finnish	Finland
+Finnish-Swedish	Finland, Sweeden
+Estonian	Estonia
+Livonian	Latvia
+Latvian	Latvia
+Lithuanian	Lithuania
+Lappish	Norway, Sweden, Finland, Russia
+Wepsian	Russia
+Wotian	Russia
+Lydian	Turkey
+Karelian	Russia, Finland
+Syrjanian	Russia
+Swedish	Sweden
+Norwegian	Norway
+Danish	Denmark
+Faeroese	Faroe Islands
+Icelandic	Iceland
+Scottish	Scotland
+Irish	Ireland
+Welsh	Wales
+English	United Kingdom
+French	France
+Spanish	Spain
+Basque	Spain, France
+Catalan	Catalunya
+Portuguese	Portugal
+Dutch	Netherlands
+Frisian	Netherlands, Germany
+Flemish	Belgium
+Walloon	Belgium
+Luxembourg	Luxembourg
+German	Germany
+Swiss	Switzerland
+Austrian	Austria
+Ladinian	Italy
+Italian	Italy
+Sardinian	Italy
+Maltese	Malta
+Hungarian	Hungary
+Czech	Czech Republic
+Slovakian	Slovakia
+Slovene	Slovenia
+Serbian	Serbia
+Croatian	Croatia
+Montenegrin	Montenegro
+Bosnian	Bosnia and Herzegovina
+Macedonian	North Macedonia
+Rumanian	Romania
+Bulgarian	Bulgaria
+Albanian	Albania
+Greek	Greece
+Polish	Poland
+Sorbian	Germany
+Kashubian	Poland
+Russian	Russia
+Byelorussian	Belarus
+Ukrainian	Ukraine
+Turkish	Turkey
+Jewish	Israel
+Gypsy	Romania, Bulgaria, Hungary, Spain
+Chechen-Ingush	Russia
+Dagestan	Russia
+Ossetian	Russia	Georgia
+Abkhaz	Georgia
+Karachay	Russia
+Adygea	Russia
+Kabardin	Russia
+Cheremis/Mari	Russia
+Chuvash	Russia
+Tatar	Russia
+Mordvinian	Russia
+Votyak	Russia
+Vogul/Mansi	Russia
+Uighur	China
+Udmurt	Russia
+Bashkir	Russia
+Azerbaijan	Azerbaijan
+Kurdish	Turkey, Iraq, Iran, Syria
+Armenian	Armenia
+Nenets	Russia
+Siberian	Russia
+Chukchi	Russia
+Ostyak	Russia
+Yakut	Russia
+Tungus	Russia
+Kazakh	Kazakhstan
+Kara-Kalpak	Uzbekistan
+Uzbek	Uzbekistan
+Turkmen	Turkmenistan
+Kirghiz	Kyrgyzstan
+Tadzhik	Tajikistan
+Kalmyk	Russia
+Buryat	Russia
+Mongolian	Mongolia
+Tuva	Russia
+Georgian	Georgia
+Mingril	Georgia
+Altaic	Russia, China, Mongolia
+Druze	Lebanon, Syria, Israel
+Syrian	Syria
+Lebanese	Lebanon
+Aramaic	Syria	Iraq
+Palestinian	Palestine
+Jordanian	Jordan
+Iraqi	Iraq
+Persian Gulf	Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, United Arab Emirates, Oman
+Saudi Arabian	Saudi Arabia
+Oman	Oman
+Kuwaiti	Kuwait
+Qatar	Qatar
+Yemenite	Yemen
+Iranian	Iran
+Afghan	Afghanistan
+Pakistani	Pakistan
+Indian	India
+Burmese	Myanmar
+Sri Lankan	Sri Lanka
+Nepalese	Nepal
+Tibetian	China
+Chinese	China
+Korean	South Korea, North Korea
+Thai	Thailand
+Laotian	Laos
+Cambodian	Cambodia
+Vietnamese	Vietnam
+Malaysian	Malaysia
+Indonesian	Indonesia
+Japanese	Japan
+Filipino	Philippines
+Polynesian	Samoa, Tonga, Tuvalu
+Melanesian	Papua New Guinea, Fiji, Vanuatu
+Micronesian	Micronesia	Marshall Islands	Palau
+Papuan	Papua New Guinea	Indonesia
+Australian	Australia
+New Zealand	New Zealand
+Hawaiian	United States
+Eskimo	United States, Canada, Greenland, Russia
+English-Canadian	Canada
+French-Canadian	Canada
+North American Indian	United States, Canada
+US-American	United States
+French-American	United States
+Spanish-American	United States
+African American	United States
+Mexican	Mexico
+Guatemalan	Guatemala
+Belizian	Belize
+Honduran	Honduras
+Salvadoran	El Salvador
+Nicaraguan	Nicaragua
+Costa Rican	Costa Rica
+Panamanian	Panama
+Cuban	Cuba
+Dominican	Dominican Republic
+Puerto Rican	Puerto Rico
+South American	South America
+Mayan	Mexico, Guatemala, Belize, Honduras, El Salvador
+Venezuelan	Venezuela
+Guianese	Guyana, Suriname, French Guiana
+Colombian	Colombia
+Ecuadorian	Ecuador
+Peruvian	Peru
+Bolivian	Bolivia
+Brazilian	Brazil
+Paraguayan	Paraguay
+Uruguayan	Uruguay
+Chilean	Chile
+Argentine	Argentina
+West Indies	
+Cape Verdian	Cape Verde
+North African	Egypt, Libya, Tunisia, Algeria, Morocco
+Egyptian	Egypt
+Libyan	Libya
+Tunisian	Tunisia
+Algerian	Algeria
+Moroccan	Morocco
+West African	West Africa
+Mauritanian	Mauritania
+Senegalese	Senegal
+Gambian	Gambia
+Guinean	Guinea
+Guinea Bissau	Guinea-Bissau
+Sierra Leone	Sierra Leone
+Liberian	Liberia
+Ivory Coast	Côte d'Ivoire
+Mali	Mali
+Burkina Faso	Burkina Faso
+Ghanaian	Ghana
+Togolese	Togo
+Benin	Benin
+Nigerian	Nigeria
+Niger	Niger
+Chad	Chad
+Cameroon	Cameroon
+East African	East Africa
+Swahili	Kenya, Tanzania, Uganda, Mozambique
+Sudanese	Sudan
+Ethiopian	Ethiopia
+Eritrean	Eritrea
+Somalian	Somalia
+Kenyan	Kenya
+Tanzanian	Tanzania
+Mauritian	Mauritius
+Réunion	France
+Central African	Central Africs
+Central African Republic	Central African Republic
+Gabonese	Gabon
+Congolese	Democratic Republic of the Congo, Republic of the Congo
+Ugandan	Uganda
+Rwandan	Rwanda
+Burundian	Burundi
+Malawian	Malawi
+Rhodesian	Zimbabwe
+Zimbabwen	Zimbabwe
+Zambian	Zambia
+Angolan	Angola
+Namibian	Namibia
+Botswana	Botswana
+Mozambique	Mozambique
+Lesotho	Lesotho
+Swaziland	Eswatini
+South African	South Africa
+Malagasy	Madagascar
