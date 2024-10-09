@@ -1,10 +1,12 @@
+# folders
+.idea/
 .venv/
 _older/
+citations/
 downloads/
 notes/
-citations/
-
-.venv/
-.env
-.idea/
 src/.ipynb_checkpoints
+
+#files
+.env
+~*

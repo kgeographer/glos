@@ -1,0 +1,203 @@
+term	geo_class	toponyms
+Afghan	admin_0	Afghanistan
+Albanian	admin_0	Albania
+Algerian	admin_0	Algeria
+Angolan	admin_0	Angola
+Argentine	admin_0	Argentina
+Armenian	admin_0	Armenia
+Australian	admin_0	Australia
+Austrian	admin_0	Austria
+Azerbaijan	admin_0	Azerbaijan
+Belizian	admin_0	Belize
+Benin	admin_0	Benin
+Bolivian	admin_0	Bolivia
+Bosnian	admin_0	Bosnia and Herzegovina
+Botswana	admin_0	Botswana
+Brazilian	admin_0	Brazil
+Bulgarian	admin_0	Bulgaria
+Burkina Faso	admin_0	Burkina Faso
+Burmese	admin_0	Myanmar
+Burundian	admin_0	Burundi
+Byelorussian	admin_0	Belarus
+Cambodian	admin_0	Cambodia
+Cameroon	admin_0	Cameroon
+Cape Verdian	admin_0	Cabo Verde
+Central African Republic	admin_0	Central African Republic
+Chad	admin_0	Chad
+Chilean	admin_0	Chile
+Chinese	admin_0	China
+Colombian	admin_0	Colombia
+Costa Rican	admin_0	Costa Rica
+Croatian	admin_0	Croatia
+Cuban	admin_0	Cuba
+Czech	admin_0	Czechia
+Danish	admin_0	Denmark
+Dominican	admin_0	Dominican Republic
+Dutch	admin_0	Netherlands
+Ecuadorian	admin_0	Ecuador
+Egyptian	admin_0	Egypt
+English	admin_0	United Kingdom
+Eritrean	admin_0	Eritrea
+Estonian	admin_0	Estonia
+Ethiopian	admin_0	Ethiopia
+Filipino	admin_0	Philippines
+Finnish	admin_0	Finland
+French	admin_0	France
+Gabonese	admin_0	Gabon
+Gambian	admin_0	Gambia
+Georgian	admin_0	Georgia
+German	admin_0	Germany
+Ghanaian	admin_0	Ghana
+Greek	admin_0	Greece
+Guatemalan	admin_0	Guatemala
+Guinea Bissau	admin_0	Guinea-Bissau
+Guinean	admin_0	Guinea
+Honduran	admin_0	Honduras
+Hungarian	admin_0	Hungary
+Icelandic	admin_0	Iceland
+Indian	admin_0	India
+Indonesian	admin_0	Indonesia
+Iranian	admin_0	Iran
+Iraqi	admin_0	Iraq
+Irish	admin_0	Ireland
+Italian	admin_0	Italy
+Ivory Coast	admin_0	Côte d'Ivoire
+Japanese	admin_0	Japan
+Jewish	admin_0	Israel
+Jordanian	admin_0	Jordan
+Kabardin	admin_0	Russia
+Kazakh	admin_0	Kazakhstan
+Kenyan	admin_0	Kenya
+Kirghiz	admin_0	Kyrgyzstan
+Kuwaiti	admin_0	Kuwait
+Laotian	admin_0	Laos
+Latvian	admin_0	Latvia
+Lebanese	admin_0	Lebanon
+Lesotho	admin_0	Lesotho
+Liberian	admin_0	Liberia
+Libyan	admin_0	Libya
+Lithuanian	admin_0	Lithuania
+Livonian	admin_0	Latvia
+Luxembourg	admin_0	Luxembourg
+Macedonian	admin_0	North Macedonia
+Malagasy	admin_0	Madagascar
+Malawian	admin_0	Malawi
+Malaysian	admin_0	Malaysia
+Mali	admin_0	Mali
+Maltese	admin_0	Malta
+Mauritanian	admin_0	Mauritania
+Mauritian	admin_0	Mauritius
+Mexican	admin_0	Mexico
+Mongolian	admin_0	Mongolia
+Montenegrin	admin_0	Montenegro
+Moroccan	admin_0	Morocco
+Mozambique	admin_0	Mozambique
+Namibian	admin_0	Namibia
+Nepalese	admin_0	Nepal
+New Zealand	admin_0	New Zealand
+Nicaraguan	admin_0	Nicaragua
+Niger	admin_0	Niger
+Nigerian	admin_0	Nigeria
+Norwegian	admin_0	Norway
+Oman	admin_0	Oman
+Pakistani	admin_0	Pakistan
+Panamanian	admin_0	Panama
+Paraguayan	admin_0	Paraguay
+Peruvian	admin_0	Peru
+Polish	admin_0	Poland
+Portuguese	admin_0	Portugal
+Puerto Rican	admin_0	Puerto Rico
+Qatar	admin_0	Qatar
+Rhodesian	admin_0	Zimbabwe
+Rumanian	admin_0	Romania
+Russian	admin_0	Russia
+Rwandan	admin_0	Rwanda
+Salvadoran	admin_0	El Salvador
+Saudi Arabian	admin_0	Saudi Arabia
+Senegalese	admin_0	Senegal
+Serbian	admin_0	Serbia
+Sierra Leone	admin_0	Sierra Leone
+Slovakian	admin_0	Slovakia
+Slovene	admin_0	Slovenia
+Somalian	admin_0	Somalia
+South African	admin_0	South Africa
+Spanish	admin_0	Spain
+Sri Lankan	admin_0	Sri Lanka
+Sudanese	admin_0	Sudan
+Swaziland	admin_0	Eswatini
+Swedish	admin_0	Sweden
+Swiss	admin_0	Switzerland
+Syrian	admin_0	Syria
+Tadzhik	admin_0	Tajikistan
+Tanzanian	admin_0	Tanzania
+Thai	admin_0	Thailand
+Togolese	admin_0	Togo
+Tunisian	admin_0	Tunisia
+Turkish	admin_0	Turkey
+Turkmen	admin_0	Turkmenistan
+Ugandan	admin_0	Uganda
+Ukrainian	admin_0	Ukraine
+Uruguayan	admin_0	Uruguay
+US-American	admin_0	United States
+Uzbek	admin_0	Uzbekistan
+Venezuelan	admin_0	Venezuela
+Vietnamese	admin_0	Vietnam
+Yemenite	admin_0	Yemen
+Zambian	admin_0	Zambia
+Zimbabwen	admin_0	Zimbabwe
+Abkhaz	admin_1	Abkhazia
+Adygea	admin_1	Adygey
+Bashkir	admin_1	Bashkortostan
+Basque	admin_1	Álava, Bizkaia, Gipuzkoa, Navarra, Pyrénées-Atlantiques 
+Buryat	admin_1	Buryat
+Catalan	admin_1	Barcelona, Lérida, Gerona, Tarragona
+Chechen-Ingush	admin_1	Chechnya, Ingush
+Cheremis/Mari	admin_1	Mariy-El
+Chukchi	admin_1	Chukchi Autonomous Okrug
+Chuvash	admin_1	Chuvash
+Dagestan	admin_1	Dagestan
+English-Canadian	admin_1	Ontario, British Columbia, Alberta, Saskatchewan, Manitoba
+Flemish	admin_1	East Flanders, West Flanders
+French-American	admin_1	Louisiana, Maine, Vermont, New Hampshire
+French-Canadian	admin_1	Québec, New Brunswick
+Hawaiian	admin_1	Hawaii
+Kalmyk	admin_1	Kalmyk
+Kara-Kalpak	admin_1	Karakalpakstan
+Karachay	admin_1	Karachay-Cherkess
+Karelian	admin_1	Karelia, North Karelia, South Karelia
+Kashubian	admin_1	Pomeranian, West Pomeranian, Kuyavian-Pomeranian
+Lydian	admin_1	Usak, Manisa
+Mingril	admin_1	Samegrelo-Zemo Svaneti
+Mordvinian	admin_1	Mordovia
+Nenets	admin_1	Nenets, Yamal-Nenets
+Ossetian	admin_1	North Ossetia
+Ostyak	admin_1	Khanty-Mansiy
+Syrjanian	admin_1	Komi
+Tatar	admin_1	Tatarstan
+Tungus	admin_1	Krasnoyarsk, Amur
+Tuva	admin_1	Tuva
+Udmurt	admin_1	Udmurt
+Uighur	admin_1	Xinjiang
+Vogul/Mansi	admin_1	Khanty-Mansiy
+Votyak	admin_1	Udmurt
+Walloon	admin_1	Hainaut, Namoor, Walloon Brabant, Liege, Luxembourg
+Wepsian	admin_1	Karelia, Leningrad
+Wotian	admin_1	Leningrad
+Yakut	admin_1	Sakha (Yakutia)
+Aramaic	multi0	Syria, Iraq
+Central African	multi0	Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Eq. Guinea, Gabon, Republic of the Congo, Sao Tome and Principe
+Congolese	multi0	Democratic Republic of the Congo, Republic of the Congo
+East African	multi0	Burundi, Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Mozambique, Rwanda, S. Sudan, Seychelles, Somalia, Tanzania, Uganda, Zambia, Zimbabwe
+Finnish-Swedish	multi0	Finland, Sweden
+Korean	multi0	South Korea, North Korea
+Melanesian	multi0	Papua New Guinea, Fiji, Vanuatu
+Micronesian	multi0	Micronesia, Marshall Islands, Palau
+North African	multi0	Egypt, Libya, Tunisia, Algeria, Morocco
+North American Indian	multi0	United States, Canada
+Papuan	multi0	Papua New Guinea, Indonesia
+Persian Gulf	multi0	Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, United Arab Emirates, Oman
+Polynesian	multi0	Samoa, Tonga, Tuvalu
+South American	multi0	Argentina, Bolivia, Brazil, Brazilian Island, Chile, Colombia, Ecuador, Falkland Is., Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela
+Swahili	multi0	Kenya, Tanzania, Uganda, Mozambique
+West African	multi0	Benin, Burkina Faso, Cabo Verde, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Saint Helena, Senegal, Sierra Leone, Togo
+West Indies	multi0	Anguilla, Antigua and Barb., Aruba, Bahamas, Barbados, British Virgin Is., Cayman Is., Cuba, Curaçao, Dominica, Dominican Republic, Grenada, Haiti, Jamaica, Montserrat, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint-Martin, Sint Maarten, St-Barthélemy, St. Vin. and Gren., Trinidad and Tobago, Turks and Caicos Is., U.S. Virgin Is.

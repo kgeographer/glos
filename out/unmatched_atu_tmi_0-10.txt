@@ -1,0 +1,56 @@
+Type ID: 153
+Type Text: The Gelding of the Bear and the Fetching of Salve. A man tells a bear that the horse is strong because it is gelded. The bear has the man geld him to make him strong. The next day the bear wants to geld the man. The man substitutes his wife to pretend they have been already castrated. The bear is shocked by the "wound" of the woman and goes for salve. A fox guards the woman, but she drives him away with her farts.
+Associated Motifs: K1012.1, K241
+Associated Motif Texts:
+  K1012.1: Making the dupe strong by castration.
+  K241: The castration bargain: wife sent. The trickster castrates the dupe and is to come the next day and be castrated himself. He sends his wife as substitute. Linked to Denmark
+Closest Fetched Motifs:
+  Motif ID: J2187, Text: The bear riding the horse lets his paws fall on the horse's flanks. He is caught on a tree and leaves his claws in the horse's flesh., Similarity: 0.5345
+  Motif ID: C25, Text: """Bear's food."". To urge on his horses a man threatens them with the bear, calling them ""bear's food."" The bear hears and comes for them.", Similarity: 0.5419
+  Motif ID: K192, Text: The man helps the horse against the stag. The horse must agree to be saddled and bridled. The man then refuses to release him., Similarity: 0.5423
+  Motif ID: J2191, Text: A fool releases a bear while the master is away. The bear plays havoc. The master threatens to cut off the ears of the meddler. The fool asks his dog not to tell on him., Similarity: 0.5520
+  Motif ID: J1172.3, Text: Ungrateful animal returned to captivity. A man rescues a serpent (bear) who in return seeks to kill his rescuer. Fox as judge advises the man to put the serpent back into captivity., Similarity: 0.5595
+  Motif ID: F618, Text: Strong man tames animals., Similarity: 0.5607
+  Motif ID: K335.1.9, Text: Robbers coming to steal from stable frightened away by bear staying the night there with his keeper., Similarity: 0.5613
+  Motif ID: K134.4, Text: Trickster in disguise regains possession of his own horse by trading with man whom he has duped once before., Similarity: 0.5626
+  Motif ID: J2099.1, Text: Woman exchanges a horse for a sack of bones. She has been falsely told that the sack is filled with gold., Similarity: 0.5628
+  Motif ID: K231.3.4, Text: Horse withheld as sacrifice to a saint refuses to move. The deceiver takes the horse to the church planning to remove him again, but the horse will not stir until a money equivalent has been paid., Similarity: 0.5639
+
+
+Type ID: 66B
+Type Text: Sham-Dead (Hidden) Animal Betrays Self. A jackal (fox, rabbit) tests another (dangerous) animal (fox, crocodile) who pretends to be dead (is hiding) to see if it is really dead. The jackal says that dead animals open their mouths or wag their tails. The “dead” animal does this. The jackal knows it is not really dead (and runs away). 
+Associated Motifs: K1860, K607.2.1, K607.3
+Associated Motif Texts:
+  K1860: Deception by feigned death (sleep). Linked to India
+  K607.2.1: Crocodile in ambush betrays self by talking. Linked to India
+  K607.3: Sham-dead man deceived into making gesture. Obeys suggestion as to how dead man should act and betrays himself. Found in American Negro (Georgia)
+Closest Fetched Motifs:
+  Motif ID: J2351, Text: Animal betrays himself to his enemies by talking., Similarity: 0.5072
+  Motif ID: K521.7, Text: One animal escapes by shamming as another (jackal as goat). Linked to India, Similarity: 0.5113
+  Motif ID: K318, Text: Watchdog enticed away. Trickster brings rabbit under his coat. When the king's watchdog gives chase the trickster enters and robs., Similarity: 0.5138
+  Motif ID: R212.1.2, Text: Captive buried alive to his neck fastens his teeth on jackal that comes to eat him and companions. Rest flee when they hear him howl. In struggles to get free jackal loosens earth around captive, who manages to free himself. Referenced in Buddhist religious texts, Similarity: 0.5161
+  Motif ID: K891.3, Text: Monkey tricked into jumping in water and drowning self. Jackal hides in reeds which screen water., Similarity: 0.5266
+  Motif ID: K1867, Text: Trickster shams death to get food., Similarity: 0.5322
+  Motif ID: K31.2, Text: Shooting test won by deception: proof of good sight. A man puts a dead hare under a tree and shows it to his dog. He tells people to look at the hare under the tree. At the distance no one can see it. He tells them that he will shoot it. He shoots and has his dog bring the hare., Similarity: 0.5337
+  Motif ID: B752, Text: Fanciful behavior of animal at death., Similarity: 0.5340
+  Motif ID: K1022.1.1, Text: Jackal eating into elephant's dead body becomes a prisoner when it dries up;  is released when storm moistens hide. Referenced in Buddhist religious texts, Similarity: 0.5360
+  Motif ID: K2061, Text: Treacherous plan of hypocritical animal detected and prevented., Similarity: 0.5368
+
+
+Type ID: 122B*
+Type Text: The Squirrel Persuades the Fox to Pray before Eating. It escapes.
+Associated Motifs: K562.1
+Associated Motif Texts:
+  K562.1: Captive trickster persuades captor to pray before eating. Escapes. Associated with the tribe Africa (Nama)
+Closest Fetched Motifs:
+  Motif ID: K1024, Text: Beginning with the smallest. Animals are to eat one another up to avoid starvation. The fox persuades them to start with the smallest., Similarity: 0.5057
+  Motif ID: K461.1, Text: The bear helps the fox's mother get berries: the fox eats them., Similarity: 0.5074
+  Motif ID: K561.1.1, Text: "Cat fails to be beguiled into releasing mouse. The mouse tells the cat a tale. The cat answers at last, ""Even so, I eat you up.", Similarity: 0.5136
+  Motif ID: K1022.4, Text: Wolf brings cake from the window-sill. He imitates the fox in so doing, but rings a bell, so that he is beaten., Similarity: 0.5152
+  Motif ID: K561.1.1, Text: "Cat fails to be beguiled into releasing mouse. The mouse tells the cat a tale. The cat answers at last, ""Even so, I eat you up.""", Similarity: 0.5170
+  Motif ID: J2173.3, Text: The bird boasts about capturing the rabbit. Meantime other birds eat the rabbit., Similarity: 0.5216
+  Motif ID: W128.1, Text: Hog tired of his daily food. Goes to the judge and gets better food assigned to him, but the fox cheats him out of it., Similarity: 0.5221
+  Motif ID: J2182, Text: A fleeing fox loses an eye in the briars. Returns the next day and eats it, thinking that it tastes like chicken. In languages spoken in Spanish, Similarity: 0.5267
+  Motif ID: K318, Text: Watchdog enticed away. Trickster brings rabbit under his coat. When the king's watchdog gives chase the trickster enters and robs., Similarity: 0.5269
+  Motif ID: K1022.3, Text: Bear throws hens to the fox, falls from the roof-beam, and is beaten., Similarity: 0.5276
+

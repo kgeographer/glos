@@ -1,0 +1,23 @@
+I need to set some context for a project I'm working on; an earlier chat stopped functioning after several days.
+The project is called Geogaphic Lens on Stories (GLOS), and it aims for a global geographic approach to analyzing stories, beginning with folkoric literature.
+I am creating digital versions of the Thompson 'Motif-Index of Folk-Literature' (TMI) and the more recent ATU index of tale types by Unther. I have done a lot so far, and have a number of tsv files, many of which I have uploaded to postgres tables.
+The near-term goal is to create embeddings for the 44k+ motifs and ~2.4k tale types from the ATU. The ATU data includes cross-references to many TMI motif IDs, and I am building graph representations for hierarchies of both the TMI and ATU indexes, at the category level - in order to be able to perform aggregations of embeddings and various network analyses.
+The project is very ambtious but at an early stage. Both the TMI and ATU have tags per motif or per tale type that indicate cultural references: places, tribes, languages, religions - all mixed. A major task I've begun is normalizing these tags and when possible identifying mappable places I can use to generate a "gazetteer of the TMI," and/or "gazetteer of the ATU."
+In this chat I will be asking for help with python scripts, sql, and regex - to speed this initial development of what I call an "analytic engine" for folktales, and maybe eventually stories more generally.
+What I have so far:
+	tables for
+		- all motif text, joined with cultural tags where possible (44k)
+		- all tale type text (2.4k)
+		- embeddings for motifs
+		- various node/edge tables, but no network work done yet
+	a script you have already seen that takes a short tale generates an embedding and returns 10 nearest neighbor motifs
+	in progress text files and spreadsheets for cleaning the cultural tags and mapping to geo places 
+
+Hopefully this is enough context to renew a chat. 
+Next step is to generate embeddings for the ATU tale types. I have a clean tsv file 'results/atu_types_text.tsv' - here are a couple of sample rows:
+
+type_id	label	text
+1001	Cutting Wood	Cutting Wood. The devil's helper has to cut some trees for firewood, but his axe does not split the wood (the woodpile becomes larger with every cut). The helper finds a cat (snake) in the pile, kills it, and then is able to finish his work. 
+1002	Destroying the Master's Property 	Destroying the Master's Property. A farmhand harms his master (ogre, priest) by destroying (selling, giving away, exchanging) his property.
+
+Follow so far?
