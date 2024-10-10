@@ -9,10 +9,10 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # Create an OpenAI client instance
 client = openai.Client()
+openai_model = 'text-embedding-3-small'
 
 # Define the tale as a fixed string for now
-#
-short_tale = """
+prompt = """
 Long ago, the Sun and the Moon were married to each other. The Sun would sail across the sky, 
 blazing in all his glory, till he would reach the end of the world where Sky and Earth meet. 
 At night, when his light would be hidden, his wife the Moon would sail gently across the sky, 
@@ -35,19 +35,18 @@ when the Sun's fierce light is hidden. And so there came to be fish in the sea a
 and also stars in the sky.
 """
 
-openai_model = 'text-embedding-3-small'
 
-# Function to get the embedding for the tale
+# Function to get the embedding for a prompt
 def get_embedding(text):
   response = client.embeddings.create(
     input=text,
     model=openai_model
   )
-  return response.data[0].embedding  # Access the response in the new API format
+  return response.data[0].embedding
 
 
 # Generate the embedding for the tale
-tale_embedding = get_embedding(short_tale)
+prompt_embedding = get_embedding(prompt)
 
 # Connect to the Postgres database
 conn = psycopg2.connect(
@@ -58,7 +57,7 @@ conn = psycopg2.connect(
 )
 
 
-# Query the vector database to find the closest motifs
+# Query the vector database to find the closest tale types
 def find_closest_types(embedding, top_n=10):
   with conn.cursor() as cur:
     cur.execute("""
@@ -71,8 +70,8 @@ def find_closest_types(embedding, top_n=10):
     return cur.fetchall()
 
 
-# Retrieve the closest tale typess
-closest_types = find_closest_types(tale_embedding)
+# Retrieve the closest tale types
+closest_types = find_closest_types(prompt_embedding)
 
 # Output the results
 for row in closest_types:

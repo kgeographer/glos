@@ -3,8 +3,6 @@ import psycopg2
 import os
 from dotenv import load_dotenv
 
-from src.oai.embed_motifs_batch import openai_model
-
 # Load OpenAI API key from .env file
 load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
@@ -14,22 +12,22 @@ client = openai.Client()
 openai_model = 'text-embedding-3-small'
 
 # Define the tale as a fixed string for now
-# 1003 (linked to motif K1411.)
-short_tale = """
+prompt = """
 Old person as helper on quest.
 """
 
-# Function to get the embedding for the tale
+
+# Function to get the embedding for a prompt
 def get_embedding(text):
   response = client.embeddings.create(
     input=text,
     model=openai_model
   )
-  return response.data[0].embedding  # Access the response in the new API format
+  return response.data[0].embedding
 
 
-# Generate the embedding for the tale
-tale_embedding = get_embedding(short_tale)
+# Generate the embedding for the prompt
+prompt_embedding = get_embedding(prompt)
 
 # Connect to the Postgres database
 conn = psycopg2.connect(
@@ -54,7 +52,7 @@ def find_closest_motifs(embedding, top_n=20):
 
 
 # Retrieve the closest motifs
-closest_motifs = find_closest_motifs(tale_embedding)
+closest_motifs = find_closest_motifs(prompt_embedding)
 
 # Output the results
 for row in closest_motifs:
