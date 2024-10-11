@@ -1,0 +1,87 @@
+CO-C99. Tabu connected with supernatural beings
+CO. Tabu: contact with supernatural
+C10. Tabu: profanely calling up spirit (devil, etc.)
+C20. Tabu: calling on ogre or destructive animal
+C30. Tabu: offending supernatural relative
+C40. Tabu: offending spirits of water, mountain, etc.
+C50. Tabu: offending the gods
+C70. Tabu: offending other sacred beings
+C90. Other tabus in connection with sacred beings
+C100-C199. Sex tabu
+C100. Sex tabu
+C110. Tabu: sexual intercourse
+C120. Tabu: kissing
+C130. Tabu connected with puberty
+C140. Tabu connected with menses
+C150. Tabu connected with childbirth
+C160. Tabu connected with marriage
+C170. Tabu connected with husband's or wife's relatives
+C180. Tabu confined to one sex
+C190. Sex tabu - miscellaneous
+C200-C299. Eating and drinking tabu
+C200-C249. Eating tabus
+C200. Tabu: eating (general)
+C210. Tabu: eating in certain place
+C220. Tabu: eating certain things
+C230. Tabu: eating at certain time
+C240. Tabu: eating food of certain person
+C250-C279. Drinking tabus
+C250. Tabu: drinking
+C260. Tabu: drinking at certain place
+C270. Tabu: drinking certain things
+C280. Miscellaneous eating and drinking tabus
+C300 C399.
+C300. Looking tabu
+C310. Tabu: looking at certain person or thing
+C320. Tabu: looking into certain receptacle
+C330. Tabu: looking in certain direction
+C400-C499. Speaking tabu
+C400. Speaking tabu
+C410. Tabu: asking questions
+C420. Tabu: uttering secrets
+C430. Name tabu
+C440. Origin tabu
+C450. Tabu: boasting
+C460. Laughing tabu
+C480. Tabu: other vocal expressions
+C490. Other speaking tabus
+C500-C549. Tabu: touching
+C500. Tabu: touching
+C510. Tabu: touching tree (plant)
+C520. Tabu: touching ground
+C530. Tabu: touching (miscellaneous)
+C550-C599. Class tabu
+C550. Class tabu
+C560. Tabu: things not to be done by certain class.
+C600-C699. Unique prohibitions and compulsions
+C600-C649. The one forbidden thing
+C600. Unique prohibition
+C610. The one forbidden place
+C620. Tabu: partaking of the one forbidden object
+C630. Tabu: the one forbidden time
+C640. Unique prohibition - miscellaneous
+C650-C699. The one compulsory thing
+C650. The one compulsory thing
+C680. Other compulsions
+C700-C899. Miscellaneous tabus
+C700. Miscellaneous tabus
+C710. Tabus connected with other-world journeys
+C720. Tabu: attending toilet needs
+C730. Tabu: resting
+C740. Tabu: doing deed of mercy or courtesy
+C750. Time tabus
+C770. Tabu: overweening pride
+C780. Tabu: buying, selling, etc.
+C810. Tabu: heeding persuasive person or thing
+C820. Tabu: finding certain secret
+C830-C899. Unclassified tabus
+C830. Unclassified tabus
+C900-C999. Punishment for breaking tabu
+C900. Punishment for breaking tabu
+C910. Permanent sign of disobedience for breaking tabu
+C920. Death for breaking tabu
+C930. Loss of fortune for breaking tabu
+C940. Sickness or weakness for breaking tabu
+C950. Person carried to other world for breaking tabu
+C960. Transformation for breaking tabu
+C980. Miscellaneous punishments for breaking tabu

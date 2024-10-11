@@ -1,0 +1,820 @@
+ref_id	class	ref_term	place_names	country	ccodes	subregion	variants	continent
+tmi_0043	cty	Angola	Angola	Angola	AO			
+tmi_0085	cty	Lat. Am. Africa (Angola)	Angola	Angola	AO			
+tmi_0044	cty	Antigua	Antigua and Barbuda	Antigua and Barbuda	AG			
+tmi_0045	cty	Argentina	Argentina	Argentina	AR			
+tmi_0046	cty	Armenia	Armenia	Armenia	AM			
+tmi_0047	cty	Australia	Australia	Australia	AU			
+tmi_0048	cty	Austrian	Austria	Austria	AT			
+tmi_0049	cty	Bahamas	Bahamas	Bahamas	BS			
+tmi_0258	rgn	White Russian	White Ruthenia	Belarus	BY			
+tmi_0212	rgn	American Indian (Central Brazil)		Brazil	BR			
+tmi_0050	cty	Brazil	Brazil	Brazil	BR			
+tmi_0218	rgn	Central Brazil	Central Brazil	Brazil	BR			
+tmi_0221	rgn	Eastern Brazil	Eastern Brazil	Brazil	BR			
+tmi_0245	rgn	So. Am. Indian (W. Brazil)	West Brazil	Brazil	BR			
+tmi_0051	cty	Bulgaria	Bulgaria	Bulgaria	BG			
+tmi_0055	cty	Cape Verde Islands	Cabo Verde	Cabo Verde	CV			
+tmi_0053	cty	Cameroon	Cameroon	Cameroon	CM			
+tmi_0084	cty	Lat Am. Africa (Cameroons)	Cameroon	Cameroon	CM			
+tmi_0054	cty	Canada	Canada	Canada	CA			
+tmi_0724		Eskimo (Cumberland Sound)	Cumberland Sound	Canada	CA			
+tmi_0225	rgn	Eskimo (West Hudson Bay)	West Hudson Bay	Canada	CA			
+tmi_0226	rgn	French-Canadian	French Canada	Canada	CA			
+tmi_0056	cty	Chile	Chile	Chile	CL			
+tmi_0150	isl	Easter Island	Easter Island	Chile	CH			
+tmi_0640	trb	So. Am. Indian (Patagonia)	Patagonia	Chile	CH			
+tmi_0810		Teheulche (Patagonian)		Chile	CH			
+tmi_0057	cty	China	China	China	CN			
+tmi_0248	rgn	Tibet	Tibet	China	CN			
+tmi_0058	cty	Colombia	Colombia	Colombia	CO			
+tmi_0781		Muzo (Colombia)		Colombia	CO			
+tmi_0550	trb	Pijaos (Colombia)		Colombia	CO			
+tmi_0815		Tunja (Colombia)		Colombia	CO			
+tmi_0759		Kassai (Congo)		Congo, Democratic Republic of the Congo	CG, CD			
+tmi_0059	cty	Cook Islands	Cook Islands	Cook Islands	CK			
+tmi_0060	cty	Cyprus	Cyprus	Cyprus	CY			
+tmi_0061	cty	Czech Republic	Czechia	Czechia	CZ			
+tmi_0062	cty	Denmark	Denmark	Denmark	DK			
+tmi_0153	isl	Faroe islands	Faroe islands	Denmark	DK			
+tmi_0238	rgn	No. Am. Indian (Eastern Ecuador)		Ecuador	EC		 	
+tmi_0063	cty	Egypt	Egypt	Egypt	EG			
+tmi_0065	cty	Estonia	Estonia	Estonia	EE			
+tmi_0213	rgn	Baltic	Estonia, Latvia, Lithuania	Estonia, Latvia, Lithuania	EE, TV, LT			
+tmi_0066	cty	Fiji	Fiji	Fiji	FJ			
+tmi_0067	cty	Finland	Finland	Finland	FI			
+tmi_0194	multi	Finnish-Swedish	Finland, Sweden	Finland, Sweden	FI, SE			
+tmi_0004	adm1	Brittany	Brittany	France	FR		Bretagne	
+tmi_0714		Corsican	Corsica	France	FR			
+tmi_0068	cty	France	France	France	FR			
+tmi_0069	cty	Georgia	Georgia	Georgia	GE			
+tmi_0195	multi	Germanic	Germany, Austria	Germany	DE, AT			
+tmi_0070	cty	Germany	Germany	Germany	DE			
+tmi_0257	rgn	Westphalia	Westphalia	Germany	DE			
+tmi_0071	cty	Greece	Greece	Greece	GR			
+tmi_0722		Eskimo (Cape York)	Cape York	Greenland	GL			
+tmi_0222	rgn	Eskimo (East Greenland)	East Greenland	Greenland	GL			
+tmi_0064	cty	Eskimo (Greenland)	Greenland	Greenland	GL			
+tmi_0224	rgn	Eskimo (West Greenland)	West Greenland	Greenland	GL			
+tmi_0072	cty	Greenland	Greenland	Greenland	GL			
+tmi_0727		Eskimo (Smith Sound)	Smith Sound	Greenland, Canada	GL, CA			
+tmi_0711		Chuh (Guatemala)		Guatemala	GT			
+tmi_0073	cty	Haiti	Haiti	Haiti	HT			
+tmi_0378	trb	Am. Indian (Honduras and Nicaragua)		Honduras, Nicaragua	HN, NI			
+tmi_0074	cty	Hungary	Hungary	Hungary	HU			
+tmi_0093	cty	Magyar	Hungary	Hungary	HU			
+tmi_0075	cty	Iceland	Iceland	Iceland	IS			
+tmi_0076	cty	India	India	India	IN			
+tmi_0012	adm1	India (Kashmir)	Kashmir	India	IN			
+tmi_0146	isl	Borneo	Borneo	Indonesia	ID		Kalimantan	
+tmi_0007	adm1	Celebes	Sulawesi	Indonesia	ID		Celebes	
+tmi_0077	cty	Indonesia	Indonesia	Indonesia	ID			
+tmi_0751		Indonesia (Soemba)		Indonesia	ID			
+tmi_0013	adm1	Java	Java	Indonesia	ID			
+tmi_0173	isl	Sumatra	Sumatra	Indonesia	ID			
+tmi_0078	cty	Iraq	Iraq	Iraq	IQ			
+tmi_0079	cty	Ireland	Ireland	Ireland	IE			
+tmi_0087	cty	Lat. Am. Irish myth	Ireland	Ireland	IE			
+tmi_0209	rgn	Amalfi	Amalfi Coast	Italy	IT			
+tmi_0080	cty	Italy	Italy	Italy	IT			
+tmi_0023	adm1	Sicily	Sicily	Italy	IT			
+tmi_0081	cty	Jamaica	Jamaica	Jamaica	JM			
+tmi_0082	cty	Japan	Japan	Japan	JP			
+tmi_0122	eth	Ainu		Japan, Russia	JP, RU			
+tmi_0037	cty	Africa (Kenya)	Kenya	Kenya	KE			
+tmi_0083	cty	Kyrgystan	Kyrgystan	Kyrgystan	KG			
+tmi_0089	cty	Latvia	Latvia	Latvia	LV			
+tmi_0233	rgn	Livonian	Latvia	Latvia	LV			
+tmi_0197	multi	Lettish and Lithuanian	Latvia, Lithuania	Latvia, Lithuania	LV, LT			
+tmi_0090	cty	Liberia	Liberia	Liberia	LR			
+tmi_0091	cty	Lithuania	Lithuania	Lithuania	LT			
+tmi_0092	cty	Madagascar	Madagascar	Madagascar	MG			
+tmi_0426	trb	Madagascar (Antankarana)		Madagascar	MG			
+tmi_0427	trb	Madagascar (Imerina)		Madagascar	MG			
+tmi_0428	trb	Madagascar (Marofotsy)		Madagascar	MG			
+tmi_0429	trb	Madagascar (Merina)		Madagascar	MG			
+tmi_0430	trb	Madagascar (Tsimihety)		Madagascar	MG			
+tmi_0094	cty	Malagasy	Madagascar	Madagascar	MG			
+tmi_0095	cty	Malaysia	Malaysia	Malaysia	MY			
+tmi_0096	cty	Marshall Islands	Marshall Islands	Marshall Islands	MH			
+tmi_0097	cty	Mexico	Mexico	Mexico	MX			
+tmi_0448	trb	No. Am. Indian (Aztec)		Mexico	MX			
+tmi_0101	cty	No. Am. Indian (Mexico)	Mexico	Mexico	MX			
+tmi_0572	trb	So. Am. Indian (Aztec)	Aztec Civilization	Mexico	MX			
+tmi_0199	multi	Mongolia, Turkey	Mongolia, Turkey	Mongolia, Turkey	MN, TR			
+tmi_0052	cty	Burma	Myanmar	Myanmar	MM			
+tmi_0126	eth	Kachin (North Burma)	North Burma	Myanmar	MM			
+tmi_0098	cty	Netherlands	Netherlands	Netherlands	NL			
+tmi_0149	isl	Chatham Islands	Chatham Islands	New Zealand	NZ			
+tmi_0099	cty	New Zealand	New Zealand	New Zealand	NZ			
+tmi_0816		Union Group		New Zealand	NZ		Tokelau, Union Islands	
+tmi_0776		Maori		New Zealand, Cook Islands	NZ, CK			
+tmi_0408	trb	Ibo (Nigeria)		Nigeria	NG			
+tmi_0100	cty	Nigeria	Nigeria	Nigeria	NG			
+tmi_0102	cty	Norway	Norway	Norway	NO			
+tmi_0752		Isthmian tribes (Panama)		Panama	PA			
+tmi_0755		Kai (German New Guinea)	German New Guinea	Papua New Guinea	PG			
+tmi_0784		New Britain		Papua New Guinea	PG			
+tmi_0794		Papua		Papua New Guinea	PG			
+tmi_0795		Papuan (British New Guinea)		Papua New Guinea	PG			
+tmi_0807		Sulka (New Britain)		Papua New Guinea	PG			
+tmi_0164	isl	New Guinea	Papua New Guinea, Indonesia	Papua New Guinea, Indonesia	PG, ID			
+tmi_0103	cty	Paraguay	Paraguay	Paraguay	PY			
+tmi_0708		Chincha (Peru)		Peru	PE			
+tmi_0086	cty	Lat. Am. Indian (Peru)	Peru	Peru	PE			
+tmi_0104	cty	Peru	Peru	Peru	PE			
+tmi_0683	trb	Yunca (Peru)		Peru	PE			
+tmi_0777		Massim (British New Guinea)	British New Guinea	PG, AU				
+tmi_0771		Luzon (Tinguian)	Luzon	Philippines	PH			
+tmi_0105	cty	Philippines	Philippines	Philippines	PH			
+tmi_0796		Philippines (Tinguian)		Philippines	PH			
+tmi_0106	cty	Portugal	Portugal	Portugal	PT			
+tmi_0042	cty	American Indian (Puerto Rico)	Puerto Rico	Puerto Rico	PR			
+tmi_0107	cty	Romania	Romania	Romania	RO			
+tmi_0108	cty	Russia	Russia	Russia	RU			
+tmi_0242	rgn	Siberia	Siberia	Russia	RU			
+tmi_0109	cty	Samoa	Samoa	Samoa	WS			
+tmi_0110	cty	Slovenian	Slovenia	Slovenia	SI			
+tmi_0698		Bougainville	Bougainville	Solomon Islands	SB			
+tmi_0111	cty	Solomon Islands	Solomon Islands	Solomon Islands	SB			
+tmi_0039	cty	Africa (Somali)	Somalia	Somalia	SO			
+tmi_0375	trb	Am. African (Kaffir)		South Africa	ZA			
+tmi_0112	cty	South Africa	South Africa	South Africa	ZA			
+tmi_0196	multi	Korea	South Korea, North Korea	South Korea, North Korea	KR, KP			
+tmi_0006	adm1	Catalonia	Catalonia	Spain	ES		Catalunya	
+tmi_0113	cty	Spain	Spain	Spain	ES			
+tmi_0114	cty	Spanish Exempla	Spain	Spain	ES			
+tmi_0351	trb	Africa (Sudanese)	Sudan, South Sudan	Sudan, South Sudan	SD, SS			
+tmi_0201	multi	Sudanese	Sudan, South Sudan	Sudan, South Sudan	SD, SS			
+tmi_0115	cty	Surinam	Suriname	Suriname	SR			
+tmi_0116	cty	Sweden	Sweden	Sweden	SE			
+tmi_0202	multi	Swedish-Finnish	Sweden, Finland	Sweden, Finland	SE, FI			
+tmi_0117	cty	Switzerland	Switzerland	Switzerland	CH			
+tmi_0118	cty	Taiwan	Taiwan	Taiwan	TW			
+tmi_0208	rgn	Africa (Zanzibar)	Zanzibar	Tanzania	TZ			
+tmi_0259	rgn	Zanzibar	Zanzibar	Tanzania	TZ			
+tmi_0040	cty	Africa (Togo)	Togo	Togo	TO			
+tmi_0088	cty	Lat. Am. Uganda	Uganda	Uganda	UG			
+tmi_0189	multi	British	England, Scotland, Wales	United Kingdom	GB			
+tmi_0008	adm1	England	England	United Kingdom	GB			
+tmi_0022	adm1	Scotland	Scotland	United Kingdom	GB			
+tmi_0033	adm1	Wales	Wales	United Kingdom	GB			
+tmi_0041	cty	American Indian	United States	United States	US			
+tmi_0001	adm1	American Negro (Georgia)	Georgia	United States	US			
+tmi_0002	adm1	American Negro (Pennsylvania)	Pennsylvania	United States	US			
+tmi_0003	adm1	American Negro (Virginia)	Virginia	United States	US			
+tmi_0005	adm1	California	California	United States	US			
+tmi_0397	trb	California tribes (Capistrano)		United States	US			
+tmi_0398	trb	California tribes (Diegueso)		United States	US			
+tmi_0399	trb	California tribes (Luiseso)		United States	US			
+tmi_0400	trb	California tribes (Mohave)		United States	US			
+tmi_0401	trb	Central Algonquian tribes		United States	US			
+tmi_0402	trb	Cherokee		United States	US			
+tmi_0403	trb	Cheyenne		United States	US			
+tmi_0404	trb	Choctaw		United States	US			
+tmi_0405	trb	Crow		United States	US			
+tmi_0406	trb	Dakota		United States	US			
+tmi_0009	adm1	Eskimo (Alaska)	Alaska	United States	US			
+tmi_0739		Georgia (U.S.)	Georgia	United States	US			
+tmi_0011	adm1	Hawaii	Hawaii	United States	US			
+tmi_0407	trb	Hopi		United States	US			
+tmi_0014	adm1	Louisiana Creole	Louisiana	United States	US			
+tmi_0236	rgn	Missouri French		United States	US			
+tmi_0015	adm1	N. Am. Negro (Georgia)	Georgia	United States	US			
+tmi_0016	adm1	N. Carolina	North Carolina	United States	US			
+tmi_0441	trb	Navaho		United States	US			
+tmi_0017	adm1	Nebraska	Nebraska	United States	US			
+tmi_0018	adm1	New Mexican	New Mexico	United States	US			
+tmi_0019	adm1	New York	New York	United States	US			
+tmi_0442	trb	No. Am. Indian (Apache)		United States	US			
+tmi_0443	trb	No. Am. Indian (Arapaho)		United States	US			
+tmi_0451	trb	No. Am. Indian (Biloxi)		United States	US			
+tmi_0452	trb	No. Am. Indian (Blackfoot)		United States	US			
+tmi_0020	adm1	No. Am. Indian (California)	California	United States	US			
+tmi_0456	trb	No. Am. Indian (Central Algonquin)		United States	US			
+tmi_0457	trb	No. Am. Indian (Cherokee)		United States	US			
+tmi_0458	trb	No. Am. Indian (Cheyenne)		United States	US			
+tmi_0459	trb	No. Am. Indian (Chickasaw)		United States	US			
+tmi_0461	trb	No. Am. Indian (Chippewyan)		United States	US			
+tmi_0464	trb	No. Am. Indian (Cree)		United States	US			
+tmi_0465	trb	No. Am. Indian (Creek)		United States	US			
+tmi_0466	trb	No. Am. Indian (Crow)		United States	US			
+tmi_0467	trb	No. Am. Indian (Dakota)		United States	US			
+tmi_0476	trb	No. Am. Indian (Iroquois)		United States	US			
+tmi_0492	trb	No. Am. Indian (Menominee)		United States	US			
+tmi_0495	trb	No. Am. Indian (Mohave)		United States	US			
+tmi_0496	trb	No. Am. Indian (Mohegan)		United States	US			
+tmi_0499	trb	No. Am. Indian (Navaho)		United States	US			
+tmi_0500	trb	No. Am. Indian (Northern Paiute)		United States	US			
+tmi_0501	trb	No. Am. Indian (Ojibwa)		United States	US			
+tmi_0503	trb	No. Am. Indian (Pawnee)		United States	US			
+tmi_0504	trb	No. Am. Indian (Penobscot)		United States	US			
+tmi_0505	trb	No. Am. Indian (Peoria)		United States	US			
+tmi_0507	trb	No. Am. Indian (Plains Cree)		United States	US			
+tmi_0508	trb	No. Am. Indian (Plains Tribes)		United States	US			
+tmi_0512	trb	No. Am. Indian (Pueblo)		United States	US			
+tmi_0518	trb	No. Am. Indian (Seneca)		United States	US			
+tmi_0519	trb	No. Am. Indian (Shasta)		United States	US			
+tmi_0521	trb	No. Am. Indian (Shoshone)		United States	US			
+tmi_0523	trb	No. Am. Indian (Sioux)		United States	US			
+tmi_0526	trb	No. Am. Indian (Southern Paiute)		United States	US			
+tmi_0528	trb	No. Am. Indian (Teton)		United States	US			
+tmi_0529	trb	No. Am. Indian (Thompson River)		United States	US			
+tmi_0530	trb	No. Am. Indian (Tillamook)		United States	US			
+tmi_0537	trb	No. Am. Indian (White Mountain Apache)		United States	US			
+tmi_0538	trb	No. Am. Indian (Wichita)		United States	US			
+tmi_0541	trb	No. Am. Indian (Yukon)		United States	US			
+tmi_0021	adm1	North Carolina	North Carolina	United States	US			
+tmi_0239	rgn	North Pacific Coast of America		United States	US			
+tmi_0545	trb	Ojibwa		United States	US			
+tmi_0546	trb	Omaha		United States	US			
+tmi_0548	trb	Pawnee		United States	US			
+tmi_0549	trb	Penobscot		United States	US			
+tmi_0551	trb	Plains Cree		United States	US			
+tmi_0552	trb	Plains Ojibwa		United States	US			
+tmi_0553	trb	Pueblo		United States	US			
+tmi_0555	trb	Seneca		United States	US			
+tmi_0024	adm1	South Carolina	South Carolina	United States	US			
+tmi_0672	trb	Southern Paiute		United States	US			
+tmi_0673	trb	Southern Paiute (Maopa)		United States	US			
+tmi_0674	trb	Southern Ute		United States	US			
+tmi_0025	adm1	Texas	Texas	United States	US			
+tmi_0026	adm1	U.S. (Georgia)	Georgia	United States	US			
+tmi_0250	rgn	U.S. (lumbermen)		United States	US			
+tmi_0027	adm1	U.S. (Maine)	Maine	United States	US			
+tmi_0028	adm1	U.S. (N. Carolina)	North Carolina	United States	US			
+tmi_0029	adm1	U.S. (New Hampshire)	New Hampshire	United States	US			
+tmi_0030	adm1	U.S. (New York State)	New York	United States	US			
+tmi_0251	rgn	U.S. (Ozarks)	Ozark Mountains	United States	US			
+tmi_0031	adm1	U.S. (S. Carolina)	South Carolina	United States	US			
+tmi_0119	cty	U.S. Negro	United States	United States	US			
+tmi_0120	cty	United States	United States	United States	US			
+tmi_0252	rgn	United States (Mormon)	Mormon US	United States	US			
+tmi_0032	adm1	Virginia	Virginia	United States	US			
+tmi_0785		New Hebrides	New Hebrides	Vanuatu	VU		Vanuatu	
+tmi_0121	cty	Venezuela	Venezuela	Venezuela	VE			
+tmi_0038	cty	Africa (Rhodesia)	Zimbabwe	Zimbabwe	ZW			
+tmi_0750		Ila (Rhodesia)		Zimbabwe	ZW			
+tmi_0687		Achawoi						
+tmi_0144	isl	Admiralty Island	Admiralty Island					
+tmi_0034	con	Africa	Africa					
+tmi_0260	trb	Africa (Akan-Ashanti)						
+tmi_0261	trb	Africa (Ashanti)						
+tmi_0262	trb	Africa (Ba-Ronga)						
+tmi_0263	trb	Africa (Baholoholo)						
+tmi_0264	trb	Africa (Bakuba)						
+tmi_0265	trb	Africa (Baluba)						
+tmi_0266	trb	Africa (Baluga)						
+tmi_0267	trb	Africa (Bambara)						
+tmi_0268	trb	Africa (Bangola)						
+tmi_0269	trb	Africa (Bankon)						
+tmi_0270	trb	Africa (Bantu)						
+tmi_0271	trb	Africa (Basuto)						
+tmi_0272	trb	Africa (Baukon)						
+tmi_0273	trb	Africa (Bayaka)						
+tmi_0274	trb	Africa (Bechuana)						
+tmi_0275	trb	Africa (Bena Makuni)						
+tmi_0276	trb	Africa (Benga)						
+tmi_0277	trb	Africa (Betsileo)						
+tmi_0278	trb	Africa (Boloki)						
+tmi_0279	trb	Africa (Bondei)						
+tmi_0280	trb	Africa (Bulu)						
+tmi_0281	trb	Africa (Bushman)					San	
+tmi_0282	trb	Africa (Bushonga)						
+tmi_0283	trb	Africa (Bushongo)						
+tmi_0284	trb	Africa (Chaga)						
+tmi_0285	trb	Africa (Cold Coast)						
+tmi_0286	trb	Africa (Congo)						
+tmi_0287	trb	Africa (Dahomey)					Benin	
+tmi_0288	trb	Africa (Dinka)						
+tmi_0289	trb	Africa (Dschagga)						
+tmi_0290	trb	Africa (Duala)						
+tmi_0291	trb	Africa (Dzalamo)						
+tmi_0292	trb	Africa (Efik-Ibibo)						
+tmi_0293	trb	Africa (Ekoi)						
+tmi_0294	trb	Africa (Fang)						
+tmi_0295	trb	Africa (Fjort)						
+tmi_0296	trb	Africa (Fulah)						
+tmi_0297	trb	Africa (Ganda)						
+tmi_0298	trb	Africa (Gold Coast)						
+tmi_0299	trb	Africa (Guinea Coast)						
+tmi_0300	trb	Africa (Hausa)						
+tmi_0301	trb	Africa (Hottentot)						
+tmi_0302	trb	Africa (Ibo of Nigeria)						
+tmi_0303	trb	Africa (Ibo)						
+tmi_0304	trb	Africa (Ila)						
+tmi_0305	trb	Africa (Jaunde)						
+tmi_0306	trb	Africa (Kaffir)						
+tmi_0307	trb	Africa (Kamerun)						
+tmi_0308	trb	Africa (Kiyansi)						
+tmi_0309	trb	Africa (Konde)						
+tmi_0310	trb	Africa (Konnoh)						
+tmi_0311	trb	Africa (Kordofan)						
+tmi_0312	trb	Africa (Kpelle)						
+tmi_0313	trb	Africa (Kweli)						
+tmi_0314	trb	Africa (Lamami)						
+tmi_0315	trb	Africa (Lamba)						
+tmi_0316	trb	Africa (Larusa)						
+tmi_0317	trb	Africa (Loango)						
+tmi_0318	trb	Africa (Luba)						
+tmi_0319	trb	Africa (Mambettu)						
+tmi_0320	trb	Africa (Masai)						
+tmi_0321	trb	Africa (Mbundu)						
+tmi_0322	trb	Africa (Mkulwe)						
+tmi_0323	trb	Africa (Mossi)						
+tmi_0324	trb	Africa (Mpongwe)						
+tmi_0325	trb	Africa (Mwimbe)						
+tmi_0326	trb	Africa (Nago)						
+tmi_0327	trb	Africa (Nama)						
+tmi_0328	trb	Africa (Nao)						
+tmi_0329	trb	Africa (Ndau)						
+tmi_0330	trb	Africa (Nuba)						
+tmi_0331	trb	Africa (Nubia)						
+tmi_0332	trb	Africa (Nupe)						
+tmi_0333	trb	Africa (Nyang)						
+tmi_0334	trb	Africa (Nyanja)						
+tmi_0335	trb	Africa (Nyika)						
+tmi_0336	trb	Africa (Pahouin)						
+tmi_0337	trb	Africa (Pahouine)						
+tmi_0338	trb	Africa (Pahouini)						
+tmi_0339	trb	Africa (Pangwe)						
+tmi_0340	trb	Africa (Pooloki)						
+tmi_0341	trb	Africa (Quelimane)						
+tmi_0342	trb	Africa (Ronga)						
+tmi_0343	trb	Africa (Rozwi)						
+tmi_0344	trb	Africa (Rundi)						
+tmi_0345	trb	Africa (San)						
+tmi_0346	trb	Africa (Sandeh)						
+tmi_0347	trb	Africa (Senegambia)						
+tmi_0348	trb	Africa (Shangang)						
+tmi_0349	trb	Africa (Shangani)						
+tmi_0350	trb	Africa (South of Zambesi)						
+tmi_0352	trb	Africa (Suto)						
+tmi_0353	trb	Africa (Swahili)						
+tmi_0354	trb	Africa (Swazi)						
+tmi_0355	trb	Africa (Temne)						
+tmi_0356	trb	Africa (Tim)						
+tmi_0357	trb	Africa (Timne)						
+tmi_0358	trb	Africa (Tosa)						
+tmi_0359	trb	Africa (Tshi)						
+tmi_0360	trb	Africa (Tsonga)						
+tmi_0361	trb	Africa (Upoto)						
+tmi_0362	trb	Africa (Vai)						
+tmi_0363	trb	Africa (Venda)						
+tmi_0364	trb	Africa (Wachaga)						
+tmi_0365	trb	Africa (Wakweli)						
+tmi_0366	trb	Africa (Washaga)						
+tmi_0207	rgn	Africa (Western Sudan)	Western Sudan					
+tmi_0367	trb	Africa (Weute)						
+tmi_0368	trb	Africa (Wolof)						
+tmi_0369	trb	Africa (Wute)						
+tmi_0370	trb	Africa (Yaunde)						
+tmi_0371	trb	Africa (Yoruba)						
+tmi_0372	trb	Africa (Zezuru)						
+tmi_0373	trb	Africa (Ziba)						
+tmi_0374	trb	Africa (Zulu)						
+tmi_0688		Alu						
+tmi_0376	trb	Am. Indian (Apapocuva)						
+tmi_0377	trb	Am. Indian (Cashinawa)						
+tmi_0379	trb	Am. Indian (Ladino)						
+tmi_0380	trb	Am. Indian (Quiche)						
+tmi_0210	rgn	Amazon tribes	Amazon					
+tmi_0211	rgn	American Indian (Andes)						
+tmi_0381	trb	American Indian (Aztec)						
+tmi_0382	trb	American Indian (Cheyenne)						
+tmi_0383	trb	American Indian (Chiriguano)						
+tmi_0384	trb	American Indian (Creek)						
+tmi_0385	trb	American Indian (Maya)						
+tmi_0386	trb	American Indian (Mono)						
+tmi_0387	trb	American Indian (Namba)						
+tmi_0388	trb	American Indian (Paiute)						
+tmi_0389	trb	American Indian (Salinan)						
+tmi_0390	trb	American Indian (Seneca)						
+tmi_0391	trb	American Indian (Thompson River)						
+tmi_0392	trb	American Indian (Tlingit)						
+tmi_0393	trb	American Indian (Zusi)						
+tmi_0123	eth	American Negro						
+tmi_0177	lng	Arab						
+tmi_0178	lng	Arabian						
+tmi_0179	lng	Arabic						
+tmi_0394	trb	Arapaho						
+tmi_0395	trb	Araucanian Mapuche						
+tmi_0396	trb	Arawak						
+tmi_0689		Arikara						
+tmi_0690		Arunta						
+tmi_0133	hrgn	Assyrian	Assyria					
+tmi_0691		Aurora (New Hebrides)						
+tmi_0134	hrgn	Aztec						
+tmi_0135	hrgn	Babylonia	Babylonia					
+tmi_0145	isl	Banks Islands	Banks Islands					
+tmi_0692		Basuto						
+tmi_0693		Batak						
+tmi_0694		Beckwith Myth						
+tmi_0695		Benga						
+tmi_0696		Berber						
+tmi_0697		Biscayans						
+tmi_0214	rgn	Bohemia						
+tmi_0215	rgn	British New Guinea	British New Guinea					
+tmi_0190	multi	British West Indies						
+tmi_0203	rel	Buddhist						
+tmi_0699		Buin						
+tmi_0700		Bulu						
+tmi_0701		Buriat						
+tmi_0702		Bushongo						
+tmi_0703		Cakchiquel						
+tmi_0216	rgn	Caribbean	Caribbean					
+tmi_0704		Caribbean (Cuan)						
+tmi_0147	isl	Caroline Islands	Caroline Islands					
+tmi_0217	rgn	Caucasian						
+tmi_0705		Ceiuci						
+tmi_0148	isl	Celebes						
+tmi_0180	lng	Celtic						
+tmi_0181	lng	Celtic-Norse						
+tmi_0191	multi	Central America	Central America					
+tmi_0219	rgn	Central Caroline Islands	Central Caroline Islands					
+tmi_0220	rgn	Central Polynesia	Central Polynesia					
+tmi_0706		Cheremis						
+tmi_0707		Chibcha						
+tmi_0709		Chitimacha						
+tmi_0710		Chuh						
+tmi_0712		Chuvashan						
+tmi_0713		Circassian						
+tmi_0192	multi	Congo						
+tmi_0715		Diegueso						
+tmi_0716		Ditmarsch						
+tmi_0717		Duala						
+tmi_0193	multi	East Africa	East Africa					
+tmi_0718		East Gothic						
+tmi_0719		Ekoi						
+tmi_0151	isl	Ellice Island	Ellice Island					
+tmi_0124	eth	Eskimo						
+tmi_0720		Eskimo (Aleut)						
+tmi_0721		Eskimo (Bering Strait)	Bering Strait					
+tmi_0723		Eskimo (Central)						
+tmi_0725		Eskimo (Kodiak)						
+tmi_0726		Eskimo (Koryak)						
+tmi_0152	isl	Eskimo (Labrador)	Labrador					
+tmi_0223	rgn	Eskimo (Mackenzie Area)						
+tmi_0728		Eskimo (Ungava)						
+tmi_0729		Espinosa						
+tmi_0136	hrgn	Etruscan						
+tmi_0730		Fable						
+tmi_0731		Farau						
+tmi_0732		Fartse						
+tmi_0733		Fauru						
+tmi_0734		Fdroe						
+tmi_0735		Finno-Ugric						
+tmi_0182	lng	Flemish						
+tmi_0137	hrgn	French Congo	French Congo					
+tmi_0736		Fuegian						
+tmi_0737		Gascon						
+tmi_0738		Gaster						
+tmi_0227	rgn	German New Guinea	German New Guinea					
+tmi_0154	isl	Gilbert Islands	Gilbert Islands					
+tmi_0228	rgn	Gold Coast	Gold Coast					
+tmi_0740		Gonzenbach						
+tmi_0138	hrgn	Greek-Roman						
+tmi_0741		Guaray'						
+tmi_0125	eth	Gypsy						
+tmi_0742		Halmahera						
+tmi_0743		Hanover						
+tmi_0183	lng	Hebrew						
+tmi_0744		Herero						
+tmi_0204	rel	Hindu						
+tmi_0745		Hivaoa (Marquesas)	Marquesas					
+tmi_0746		Hottentot						
+tmi_0747		Huichol						
+tmi_0748		Hupa						
+tmi_0749		Igorot (Luzon)						
+tmi_0139	hrgn	Inca	Inca Empire					
+tmi_0229	rgn	Indian (Amazon)	Amazonia					
+tmi_0409	trb	Indian (Bacairi)						
+tmi_0410	trb	Indian (Baikairi)						
+tmi_0411	trb	Indian (Cashinawa)						
+tmi_0412	trb	Indian (Cora)						
+tmi_0413	trb	Indian (Fuegian)						
+tmi_0414	trb	Indian (Guarayu)						
+tmi_0415	trb	Indian (Jivaro)						
+tmi_0416	trb	Indian (Mataco)						
+tmi_0417	trb	Indian (Sherente)						
+tmi_0418	trb	Indian (Tiatinagua)						
+tmi_0419	trb	Indians (Antioquians)						
+tmi_0230	rgn	Indo-China	Indochina					
+tmi_0231	rgn	Indo-China (Wa tribe)						
+tmi_0184	lng	Indo-Iranian						
+tmi_0420	trb	Iroquois						
+tmi_0232	rgn	Istria	Istria					
+tmi_0205	rel	Jewish						
+tmi_0753		Kabyle						
+tmi_0754		Kaffir						
+tmi_0756		Kamchadale						
+tmi_0757		Karok						
+tmi_0758		Kaska						
+tmi_0760		Klikitat						
+tmi_0761		Kodiak						
+tmi_0762		Koryak						
+tmi_0763		Ladino						
+tmi_0764		Laguna and Zusi						
+tmi_0185	lng	Lappish						
+tmi_0765		Lat. Am. Africa (Basuto)						
+tmi_0766		Lat. Am. Africa (Ekoi)						
+tmi_0767		Lat. Am. Indian	Latin America					
+tmi_0421	trb	Lat. Am. Indian (Cashinawa)						
+tmi_0422	trb	Lat. Am. Indian (Chibcha)						
+tmi_0423	trb	Lat. Am. Indian (Jibaro)						
+tmi_0424	trb	Lat. Am. Indian (Yuracare)						
+tmi_0425	trb	Lat. Am. Indian (Zusi)						
+tmi_0768		Lat. Am. Philippines (Tinguian)						
+tmi_0155	isl	Lat. Am. Tahiti	Tahiti					
+tmi_0186	lng	Latin						
+tmi_0769		Latin America	Latin America					
+tmi_0156	isl	Lau Islands	Lau Islands					
+tmi_0157	isl	Leper's Island	Leper's Island					
+tmi_0187	lng	Lettish	Latvia					
+tmi_0770		Loucheux						
+tmi_0772		Macobi						
+tmi_0773		Macobi (Pampean)						
+tmi_0774		Maidu						
+tmi_0775		Maliseet						
+tmi_0158	isl	Mangaia (Cook Island)						
+tmi_0159	isl	Marquesas	Marquesas				Marquesas Islands	
+tmi_0431	trb	Masai						
+tmi_0140	hrgn	Maya	Mayan Civilization					
+tmi_0234	rgn	Melanesia	Melanesia					
+tmi_0432	trb	Melanesia (Ysabel)						
+tmi_0433	trb	Menominee						
+tmi_0434	trb	Micmac						
+tmi_0198	multi	Micronesia	Micronesia					
+tmi_0235	rgn	Minahassa (Celebes)						
+tmi_0435	trb	Miwok						
+tmi_0206	rel	Mohammedan						
+tmi_0160	isl	Molucca	Molucca				Maluku Islands	
+tmi_0436	trb	Mono						
+tmi_0161	isl	Mono-Alu	Solomon Islands					
+tmi_0162	isl	Mono-Alu-Fauru	Solomon Islands					
+tmi_0437	trb	Montaignais						
+tmi_0778		Moreno						
+tmi_0779		Mpongwe						
+tmi_0780		Munderuc'						
+tmi_0782		N. Am. Africa (Benga)						
+tmi_0438	trb	N. Am. Indian (Chaco)						
+tmi_0439	trb	N. Indian (Cashinawa)						
+tmi_0440	trb	N. Pac. Indian (Toba)						
+tmi_0783		Naskapi						
+tmi_0163	isl	Nauru (Pleasant Island)	Pleasant Island				Nauru	
+tmi_0165	isl	Nias Island	Nias Island					
+tmi_0166	isl	Nieue Island	Nieue Island					
+tmi_0786		No. Am. Indian						
+tmi_0237	rgn	No. Am. Indian (Amazon)						
+tmi_0444	trb	No. Am. Indian (Arikara)						
+tmi_0445	trb	No. Am. Indian (Assiniboin)						
+tmi_0446	trb	No. Am. Indian (Assiniboine)						
+tmi_0447	trb	No. Am. Indian (Atsina)						
+tmi_0449	trb	No. Am. Indian (Bella Coola)						
+tmi_0450	trb	No. Am. Indian (Bella-Bella)						
+tmi_0453	trb	No. Am. Indian (Canadian Dakota)						
+tmi_0454	trb	No. Am. Indian (Carrier)						
+tmi_0455	trb	No. Am. Indian (Catawba)						
+tmi_0460	trb	No. Am. Indian (Chilcotin)						
+tmi_0462	trb	No. Am. Indian (Chiriguano)						
+tmi_0463	trb	No. Am. Indian (Chuckchee)						
+tmi_0468	trb	No. Am. Indian (Diegueso)						
+tmi_0469	trb	No. Am. Indian (Dini)						
+tmi_0127	eth	No. Am. Indian (Eskimo)						
+tmi_0470	trb	No. Am. Indian (Flathead)						
+tmi_0471	trb	No. Am. Indian (Fox)						
+tmi_0035	con	No. Am. Indian (general)	North America					
+tmi_0472	trb	No. Am. Indian (Gros Ventre)						
+tmi_0473	trb	No. Am. Indian (Haida)						
+tmi_0474	trb	No. Am. Indian (Hare)						
+tmi_0475	trb	No. Am. Indian (Hupa)						
+tmi_0477	trb	No. Am. Indian (Jicarilla Apache)						
+tmi_0478	trb	No. Am. Indian (Jnbaros)						
+tmi_0479	trb	No. Am. Indian (Joshua)						
+tmi_0480	trb	No. Am. Indian (Kaska)						
+tmi_0481	trb	No. Am. Indian (Kathlamet)						
+tmi_0482	trb	No. Am. Indian (Kato)						
+tmi_0483	trb	No. Am. Indian (Kickapoo)						
+tmi_0484	trb	No. Am. Indian (Klikitat)						
+tmi_0485	trb	No. Am. Indian (Kutenai)						
+tmi_0486	trb	No. Am. Indian (Lillooet)						
+tmi_0487	trb	No. Am. Indian (Luiseso)						
+tmi_0488	trb	No. Am. Indian (Maidu)						
+tmi_0489	trb	No. Am. Indian (Malecite)						
+tmi_0490	trb	No. Am. Indian (Maliseet)						
+tmi_0491	trb	No. Am. Indian (Mandan)						
+tmi_0493	trb	No. Am. Indian (Menomini)						
+tmi_0494	trb	No. Am. Indian (Micmac)						
+tmi_0497	trb	No. Am. Indian (Montagnais)						
+tmi_0498	trb	No. Am. Indian (N'tlaka'panaq)						
+tmi_0502	trb	No. Am. Indian (Passamaquoddy)						
+tmi_0506	trb	No. Am. Indian (Piegan)						
+tmi_0509	trb	No. Am. Indian (Ponca)						
+tmi_0510	trb	No. Am. Indian (Ponka)						
+tmi_0511	trb	No. Am. Indian (Potawatomi)						
+tmi_0513	trb	No. Am. Indian (Quileute)						
+tmi_0514	trb	No. Am. Indian (Quinault)						
+tmi_0515	trb	No. Am. Indian (Salishan)						
+tmi_0516	trb	No. Am. Indian (San Carlos Apache)						
+tmi_0517	trb	No. Am. Indian (Sarcee)						
+tmi_0520	trb	No. Am. Indian (Shivwits)						
+tmi_0522	trb	No. Am. Indian (Shuswap)						
+tmi_0524	trb	No. Am. Indian (Skaulitz)						
+tmi_0525	trb	No. Am. Indian (Snohomish)						
+tmi_0527	trb	No. Am. Indian (Tahltan)						
+tmi_0531	trb	No. Am. Indian (Tlingit)						
+tmi_0532	trb	No. Am. Indian (Toba)						
+tmi_0533	trb	No. Am. Indian (Tsimshian)						
+tmi_0534	trb	No. Am. Indian (Twana)						
+tmi_0535	trb	No. Am. Indian (Wampanoag)						
+tmi_0536	trb	No. Am. Indian (Wasco)						
+tmi_0539	trb	No. Am. Indian (Wyandot)						
+tmi_0540	trb	No. Am. Indian (Yana)						
+tmi_0542	trb	No. Am. Indian (Zuni)						
+tmi_0543	trb	No. Am. Indian (Zusi)						
+tmi_0544	trb	No. Am. Indians (Creek)						
+tmi_0787		Norlind						
+tmi_0128	eth	Norse						
+tmi_0788		Note						
+tmi_0789		Nubian						
+tmi_0167	isl	Nukuhiva (Marquesas)	Nukuhiva					
+tmi_0790		Nyang						
+tmi_0168	isl	Oahu (Hawaii)	Oahu					
+tmi_0791		Oberwallis						
+tmi_0240	rgn	Oceania	Oceania					
+tmi_0792		Ostiak						
+tmi_0547	trb	Palaung tribe						
+tmi_0793		Palestine						
+tmi_0169	isl	Pelew Island (Micronesia)						
+tmi_0141	hrgn	Persia	Persia					
+tmi_0797		Pochulata						
+tmi_0241	rgn	Polynesia	Polynesia					
+tmi_0129	eth	Polynesian (Maori)	Polynesia					
+tmi_0142	hrgn	Prussia	Prussia					
+tmi_0798		Quichi						
+tmi_0799		Quileute						
+tmi_0170	isl	Rarotonga	Rarotonga					
+tmi_0800		Rhaetian						
+tmi_0143	hrgn	Roman						
+tmi_0801		Salinan						
+tmi_0802		Salishan						
+tmi_0803		Samoyed						
+tmi_0554	trb	San Carlos Apache						
+tmi_0171	isl	San Cristobal	San Cristobal					
+tmi_0200	multi	Scandinavia	Scandinavia					
+tmi_0130	eth	Semitic						
+tmi_0804		Sequel						
+tmi_0805		Shuswap						
+tmi_0806		Sinkyone						
+tmi_0131	eth	Slavic						
+tmi_0243	rgn	Slavic (Elbe)						
+tmi_0036	con	So. Am. Indian	South America					
+tmi_0556	trb	So. Am. Indian (Ackawoi)						
+tmi_0244	rgn	So. Am. Indian (Amazon)						
+tmi_0557	trb	So. Am. Indian (Amuesha)						
+tmi_0558	trb	So. Am. Indian (Amyara)						
+tmi_0559	trb	So. Am. Indian (Amyra)						
+tmi_0560	trb	So. Am. Indian (Antilles)						
+tmi_0561	trb	So. Am. Indian (Apapocuva)						
+tmi_0562	trb	So. Am. Indian (Apinarje)						
+tmi_0563	trb	So. Am. Indian (Araucanian)						
+tmi_0564	trb	So. Am. Indian (Araucanman)						
+tmi_0565	trb	So. Am. Indian (Arawak)						
+tmi_0566	trb	So. Am. Indian (Arawakan Chanb)						
+tmi_0567	trb	So. Am. Indian (Arua)						
+tmi_0568	trb	So. Am. Indian (Ashlushlay)						
+tmi_0569	trb	So. Am. Indian (Ashluslay)						
+tmi_0570	trb	So. Am. Indian (Aspinayi)						
+tmi_0571	trb	So. Am. Indian (Aymara)						
+tmi_0573	trb	So. Am. Indian (Bacairi)						
+tmi_0574	trb	So. Am. Indian (Bakairi)						
+tmi_0575	trb	So. Am. Indian (Bakuiri)						
+tmi_0576	trb	So. Am. Indian (Botocudo)						
+tmi_0577	trb	So. Am. Indian (Cahita)						
+tmi_0578	trb	So. Am. Indian (Camacan)						
+tmi_0579	trb	So. Am. Indian (Camacoco)						
+tmi_0580	trb	So. Am. Indian (Canella)						
+tmi_0581	trb	So. Am. Indian (Caraja)						
+tmi_0582	trb	So. Am. Indian (Carajb)						
+tmi_0583	trb	So. Am. Indian (Carib)						
+tmi_0584	trb	So. Am. Indian (Cariri)						
+tmi_0585	trb	So. Am. Indian (Cashinawa)						
+tmi_0586	trb	So. Am. Indian (Cavisa)						
+tmi_0587	trb	So. Am. Indian (Ceiuci)						
+tmi_0588	trb	So. Am. Indian (Ceuici)						
+tmi_0589	trb	So. Am. Indian (Chaco)						
+tmi_0590	trb	So. Am. Indian (Chamacoco)						
+tmi_0591	trb	So. Am. Indian (Cherentes)						
+tmi_0592	trb	So. Am. Indian (Chibcha)						
+tmi_0593	trb	So. Am. Indian (Chincha)						
+tmi_0594	trb	So. Am. Indian (Chiriguano)						
+tmi_0595	trb	So. Am. Indian (Choroti)						
+tmi_0596	trb	So. Am. Indian (Chorotn)						
+tmi_0597	trb	So. Am. Indian (Comacan)						
+tmi_0598	trb	So. Am. Indian (Cubao)						
+tmi_0599	trb	So. Am. Indian (Cubeo)						
+tmi_0600	trb	So. Am. Indian (Eastern Ecuador)						
+tmi_0601	trb	So. Am. Indian (Fuegian)						
+tmi_0602	trb	So. Am. Indian (Fueginos)						
+tmi_0603	trb	So. Am. Indian (Gran Chaco)						
+tmi_0604	trb	So. Am. Indian (Guapori River)						
+tmi_0605	trb	So. Am. Indian (Guaraní)						
+tmi_0606	trb	So. Am. Indian (Guarayos)						
+tmi_0607	trb	So. Am. Indian (Guayaki)						
+tmi_0608	trb	So. Am. Indian (Guiana)						
+tmi_0609	trb	So. Am. Indian (Guianas)						
+tmi_0610	trb	So. Am. Indian (Gusinde)						
+tmi_0611	trb	So. Am. Indian (Huamachuco)						
+tmi_0612	trb	So. Am. Indian (Huarochiri)						
+tmi_0613	trb	So. Am. Indian (Ipurina)						
+tmi_0614	trb	So. Am. Indian (Jivaro)						
+tmi_0615	trb	So. Am. Indian (Kaigang)						
+tmi_0616	trb	So. Am. Indian (Kaigub)						
+tmi_0617	trb	So. Am. Indian (Kaingang)						
+tmi_0618	trb	So. Am. Indian (Karib)						
+tmi_0619	trb	So. Am. Indian (Kariri)						
+tmi_0620	trb	So. Am. Indian (Kaskiha)						
+tmi_0621	trb	So. Am. Indian (Kwakiutl)						
+tmi_0622	trb	So. Am. Indian (Kʼicheʼ)						
+tmi_0623	trb	So. Am. Indian (Lengua)						
+tmi_0624	trb	So. Am. Indian (Macovi)						
+tmi_0625	trb	So. Am. Indian (Maroja)						
+tmi_0626	trb	So. Am. Indian (Maropa)						
+tmi_0627	trb	So. Am. Indian (Mashacaln)						
+tmi_0628	trb	So. Am. Indian (Mataco)						
+tmi_0629	trb	So. Am. Indian (Maya)						
+tmi_0630	trb	So. Am. Indian (Mbayb)						
+tmi_0631	trb	So. Am. Indian (Mocovi)						
+tmi_0632	trb	So. Am. Indian (Mocovn)						
+tmi_0633	trb	So. Am. Indian (Mojo)						
+tmi_0634	trb	So. Am. Indian (Mori)						
+tmi_0635	trb	So. Am. Indian (Munduruku)						
+tmi_0636	trb	So. Am. Indian (Mura)						
+tmi_0637	trb	So. Am. Indian (Pampean)						
+tmi_0638	trb	So. Am. Indian (Paressi)						
+tmi_0639	trb	So. Am. Indian (Pas')						
+tmi_0641	trb	So. Am. Indian (Pilagb)						
+tmi_0642	trb	So. Am. Indian (Pilcomayo River Tribes)						
+tmi_0643	trb	So. Am. Indian (Pitcomayo-Chaco)						
+tmi_0644	trb	So. Am. Indian (Sharanti)						
+tmi_0645	trb	So. Am. Indian (Sherenti)						
+tmi_0646	trb	So. Am. Indian (Shipaya)						
+tmi_0647	trb	So. Am. Indian (Tapirapé)						
+tmi_0648	trb	So. Am. Indian (Tarahumare and Tepehuane)						
+tmi_0649	trb	So. Am. Indian (Taulipang)						
+tmi_0650	trb	So. Am. Indian (Tehuelche)						
+tmi_0651	trb	So. Am. Indian (Tembé)						
+tmi_0652	trb	So. Am. Indian (Tenetehara)						
+tmi_0653	trb	So. Am. Indian (Tenibi)						
+tmi_0654	trb	So. Am. Indian (Terena)						
+tmi_0655	trb	So. Am. Indian (Tiatinagua)						
+tmi_0656	trb	So. Am. Indian (Tierra del Fuego)						
+tmi_0657	trb	So. Am. Indian (Toba)						
+tmi_0658	trb	So. Am. Indian (Tropical Forest)						
+tmi_0659	trb	So. Am. Indian (Tucuna)						
+tmi_0660	trb	So. Am. Indian (Tumupasa)	Tumupasa					
+tmi_0661	trb	So. Am. Indian (Tupenamba)						
+tmi_0662	trb	So. Am. Indian (Tupi)						
+tmi_0663	trb	So. Am. Indian (Tupinamba)						
+tmi_0664	trb	So. Am. Indian (Uru-Chipaya)						
+tmi_0665	trb	So. Am. Indian (Viracocha)						
+tmi_0666	trb	So. Am. Indian (Warrau)						
+tmi_0667	trb	So. Am. Indian (Witoto)						
+tmi_0668	trb	So. Am. Indian (Yagua)						
+tmi_0669	trb	So. Am. Indian (Yana)						
+tmi_0670	trb	So. Am. Indian (Yunca)						
+tmi_0671	trb	So. Am. Indian (Yuracaré)						
+tmi_0172	isl	Society Islands	Society Islands					
+tmi_0246	rgn	Southeastern Africa	Southeastern Africa					
+tmi_0188	lng	Spanish						
+tmi_0247	rgn	Spanish America	Spanish America					
+tmi_0174	isl	Tahiti	Tahiti					
+tmi_0808		Tarascan						
+tmi_0809		Tehauno						
+tmi_0811		Telei						
+tmi_0249	rgn	Tirol						
+tmi_0175	isl	Tonga	Tonga					
+tmi_0176	isl	Torres Straits	Torres Straits					
+tmi_0812		Tsimshian						
+tmi_0813		Tuamotu						
+tmi_0814		Tungus						
+tmi_0817		Vai						
+tmi_0132	eth	Wa (Indo-China)						
+tmi_0818		Wakweli						
+tmi_0675	trb	Warrau (Carib tribe)						
+tmi_0819		Wendish						
+tmi_0253	rgn	West Africa	West Africa					
+tmi_0254	rgn	West Caroline Is.						
+tmi_0255	rgn	West Indies	West Indies					
+tmi_0256	rgn	Western Asia	Western Asia					
+tmi_0820		Western Mono						
+tmi_0676	trb	Wute						
+tmi_0677	trb	Wyandot						
+tmi_0678	trb	Yakuts						
+tmi_0679	trb	Yap						
+tmi_0680	trb	Yoruba						
+tmi_0681	trb	Yuchi						
+tmi_0682	trb	Yuma						
+tmi_0684	trb	Yuracare						
+tmi_0685	trb	Zulu						
+tmi_0686	trb	Zusi						

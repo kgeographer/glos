@@ -1,0 +1,73 @@
+type_range	parent	label
+ATU		Types of International Folktales
+1-299	ATU	Animal tales
+1–99	1-299	Wild Animals
+1–69	1-99	The Clever Fox (Other Animal)
+70–99	1-99	Other Wild Animals
+100–149	1-299	Wild Animals and Domestic Animals
+150–199	1-299	Wild Animals and Humans
+200–219	1-299	Domestic Animals
+220–299	1-299	Other Animals and Objects
+300-749	ATU	Tales of magic
+300–399	300-749	Supernatural Adversaries
+400–459	300-749	Supernatural or Enchanted Wife (Husband) or Other Relative
+400–424	300-749	Wife
+425–449	300-749	Husband
+450–459	300-749	Brother or Sister
+460–499	300-749	Supernatural Tasks
+500–559	300-749	Supernatural Helpers
+560–649	300-749	Magic Objects
+650–699	300-749	Supernatural Power or Knowledge
+700–749	300-749	Other Tales of the Supernatural
+750-849	ATU	Religious tales
+750–779	750-849	God Rewards and Punishes
+780–799	750-849	The Truth Comes to Light
+800–809	750-849	Heaven
+810–826	750-849	The Devil
+827–849	750-849	Other Religious Tales
+850-999	ATU	Realistic tales (Novelle)
+850–869	850-999	The Man Marries the Princess
+870–879	850-999	The Woman Marries the Prince
+880–899	850-999	Proofs of Fidelity and Innocence
+900–909	850-999	The Obstinate Wife Learns to Obey
+910–919	850-999	Good Precepts
+920–929	850-999	Clever Acts and Words
+930–949	850-999	Tales of Fate
+950–969	850-999	Robbers and Murderers
+970–999	850-999	Other Realistic Tales
+1000-1199	ATU	Tales of the Stupid Ogre (Giant, Devil)
+1000–1029	1000-1199	Labor Contract
+1030–1059	1000-1199	Partnership between Man and Ogre
+1060–1114	1000-1199	Contest between Man and Ogre
+1115–1144	1000-1199	Man Kills (Injures) Ogre
+1145–1154	1000-1199	Ogre Frightened by Man
+1155–1169	1000-1199	Man Outwits the Devil
+1170–1199	1000-1199	Souls Saved from the Devil
+1200-1999	ATU	Anecdotes and jokes
+1200–1349	1200-1999	Stories about a Fool
+1350–1439	1200-1999	Stories about Married Couples
+1380–1404	1200-1999	The Foolish Wife and Her Husband
+1405–1429	1200-1999	The Foolish Husband and His Wife
+1430–1439	1200-1999	The Foolish Couple
+1440–1524	1200-1999	Stories about a Woman
+1450–1474	1200-1999	Looking for a Wife
+1475–1499	1200-1999	Jokes about Old Maids
+1500–1524	1200-1999	Other Stories about Women
+1525–1724	1200-1999	Stories about a Man
+1525–1639	1200-1999	The Clever Man
+1640–1674	1200-1999	Lucky Accidents
+1675–1724	1200-1999	The Stupid Man
+1725–1849	1200-1999	Jokes about Clergymen and Religious Figures
+1725–1774	1200-1999	The Clergyman is Tricked
+1775–1799	1200-1999	Clergyman and Sexton
+1800–1849	1200-1999	Other Jokes about Religious Figures
+1850–1874	1200-1999	Anecdotes about Other Groups of People
+1875–1999	1200-1999	Tall Tales
+2000-2399	ATU	Formula tales
+2000–2100	2000-2399	Cumulative Tales
+2000–2020	2000-2399	Chains Based on Numbers, Objects, Animals, or Names
+2021–2024	2000-2399	Chains Involving Death
+2025–2028	2000-2399	Chains Involving Eating
+2029–2075	2000-2399	Chains Involving Other Events
+2200–2299	2000-2399	Catch Tales
+2300–2399	2000-2399	Other Formula Tales

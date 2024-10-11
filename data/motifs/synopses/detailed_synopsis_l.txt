@@ -1,0 +1,29 @@
+L. REVERSAL OF FORTUNE
+LO-L99. Victorious youngest child
+LO. Victorious youngest child
+L10. Victorious youngest son
+L50. Victorious youngest daughter
+L100-L199. Unpromising hero (heroine)
+L100. Unpromising hero (heroine)
+L110. Types of unpromising heroes (heroines)
+L130. Abode of unpromising hero (heroine)
+L140. The unpromising surpasses the promising
+L160. Success of the unpromising hero (heroine)
+L200 L299. Modesty brings reward
+L200. Modesty brings reward
+L210. Modest choice best
+L220. Modest request best
+L250. Modest business plans best
+L300-L399. Triumph of the weak
+L300. Triumph of the weak
+L310. Weak overcomes strong in conflict
+L330. Easy escape of weak (small)
+L350. Mildness triumphs over violence
+L390. Triumph of the weak - miscellaneous
+L400-L499. Pride brought low
+L400. Pride brought low
+L410. Proud ruler (deity) humbled
+L420. Overweening ambition punished
+L430. Arrogance repaid
+L450. Proud animal less fortunate than humble
+L460. Pride brought low - miscellaneous

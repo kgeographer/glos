@@ -1,0 +1,182 @@
+J. THE WISE AND THE FOOLISH
+JO-J199. Acquisition and possession of wisdom (knowledge)
+JO. Acquisition and possession of wisdom (knowledge)
+J10. Wisdom (knowledge) acquired from experience
+J30. Wisdom (knowledge) acquired from inference
+J50. Wisdom (knowledge) acquired from observation
+J80. Wisdom (knowledge) taught by parable
+J100. Wisdom (knowledge) taught by necessity
+J120. Wisdom learned from children
+J130. Wisdom (knowledge) acquired from animals
+J140. Wisdom (knowledge) through education
+J150. Other means of acquiring wisdom (knowledge)
+J180. Possession of wisdom
+J200-J1099. WISE AND UNWISE CONDUCT
+J200-J499. Choices
+J200. Choices
+J210. Choice between evils
+J230-J299. Real and apparent values
+J230. Choice: real and apparent values
+J240. Choice between useful and ornamental
+J260. Choice between worth and appearance
+J280. Quality preferred to quantity
+J300-J329. Present values chosen
+J310. The present preferred to the past
+J320. Present values preferred to future
+J330-J399. Gains and losses
+J340. Choices: little gain, big loss
+J350. Choices: small inconvenience, large gain
+J370. Choices: important and unimportant work
+J390. Choices: kind strangers, unkind relatives
+J400-J459. Choice of associates
+J400. Choice of associates
+J410. Association of equals and of unequals
+J420. Association of strong and weak
+J440. Association of young and old
+J450. Association of the good and the evil
+J460. Unnecessary choices
+J480. Other choices
+J500-J599. Prudence and discretion
+J510. Prudence in ambition
+J530. Prudence in demands
+J550. Zeal-temperate and intemperate
+J570. Wisdom of deliberation
+J580. Wisdom of caution
+J600-J799. Forethought
+J610-J679. Forethought in conflicts with others
+J620. Forethought in prevention of others' plans
+J640. Avoidance of others' power
+J670. Forethought in defences against others
+J680. Forethought in alliances
+J700-J749. Forethought in provision for life
+J700. Forethought in provision for life (general)
+J710. Forethought in provision for food
+J730. Forethought in provision for clothing
+J740. Forethought in provision for shelter
+J750-J799. Forethought-miscellaneous
+J800-J849. Adaptability
+J810. Policy in dealing with the great
+J830. Adaptability to overpowering force
+J850-J899. Consolation in misfortune
+J860. Consolation by a trifle
+J870. Consolation by pretending that one does not want the thing he cannot have
+J880. Consolation by thought of others worse placed
+J890. Consolation in misfortune-miscellaneous
+J900-J999. Humility
+J910. Humility of the great
+J950. Presumption of the lowly
+J1000-J1099. Other aspects of wisdom
+J1010. Value of industry
+J1020. Strength in unity
+J1030. Self-dependence
+J1040. Decisiveness of conduct
+J1050. Attention to warnings
+J1060. Miscellaneous aspects of wisdom
+J1100-J1699. CLEVERNESS
+J1100-J1249. Clever persons and acts
+J1110. Clever persons
+J1130-J1199. Cleverness in the law court
+J1130. Cleverness in law court-general
+J1140. Cleverness in detection of truth
+J1150. Cleverness connected with the giving of evidence
+J1160. Clever pleading
+J1170. Clever judicial decisions
+J1180. Clever means of avoiding legal punishment
+J1190. Cleverness in the law court-miscellaneous
+J1210-J1229. Clever man puts another out of countenance
+J1230-J1249. Clever dividing
+J1250-J1499. Clever verbal retorts (repartee)
+J1250. Clever verbal retorts-general
+J1260. Repartee based on church or clergy
+J1270. Repartee concerning the parentage of children
+J1280. Repartee with ruler (judge, etc.)
+J1290. Reductio ad absurdum of question or proposal
+J1300. Officiousness or foolish questions rebuked
+J1310. Repartee concerning wine
+J1320. Repartee concerning drunkenness
+J1330. Repartee concerning beggars
+J1340. Retorts from hungry persons
+J1350. Rude retorts
+J1370. Cynical retorts concerning honesty
+J1380. Retorts concerning debts
+J1390. Retorts concerning thefts
+J1400. Repartee concerning false reform
+J1410. Repartee concerning fatness
+J1420. Animals retort concerning their dangers
+J1430. Repartee concerning doctors and patients
+J1440. Repartee-miscellaneous
+J1500-J1649. Clever practical retorts
+J1500. Clever practical retort
+J1510. The cheater cheated
+J1530. One absurdity rebukes another
+J1540. Retorts between husband and wife
+J1550. Practical retorts: borrowers and lenders
+J1560. Practical retorts: hosts and guests
+J1580. Practical retorts connected with almsgiving
+J1600. Practical retorts-miscellaneous
+J1650-J1699. Miscellaneous clever acts
+J1700-J2749. FOOLS (AND OTHER UNWISE PERSONS)
+J1700 J1729. Fools. 
+J1710-J1729. Association with fools
+J1730-J1749. Absurd ignorance
+J1750-J1849. Absurd misunderstandings
+J1750-J1809. One thing mistaken for another
+J1750. One animal mistaken for another
+J1760. Animal or person mistaken for something else
+J1770. Objects with mistaken identity
+J1780. Things thought to be devils, ghosts, etc. 
+J1790. Shadow mistaken for substance
+J1800. One thing mistaken for another-miscellaneous
+J1810. Physical phenomena misunderstood
+J1820. Inappropriate action from misunderstanding
+J1850-J1999. Absurd disregard of facts
+J1850-J1899. Animals or objects treated as if human
+J1850. Gift or sale to animal (or object)
+J1860. Animal or object absurdly punished
+J1870. Absurd sympathy for animals or objects
+J1880. Animals or objects treated as if human - miscellaneous
+J1900. Absurd disregard or ignorance of animal's nature or habits
+J1910. Fatal disregard of anatomy
+J1920. Absurd searches for the lost
+J1930. Absurd disregard of natural laws
+J1960. Other absurd disregard of facts
+J2000-J2050. Absurd absent-mindedness
+J2010. Uncertainty about own identity
+J2020. Inability to find own members, etc. 
+J2030. Absurd inability to count
+J2040. Absurd absent-mindedness-miscellaneous
+J2050-J2199. Absurd short-sightedness
+J2050. Absurd short-sightedness
+J2060. Absurd plans: air castles
+J2070. Absurd wishes
+J2080. Foolish bargains
+J2100. Remedies worse than the disease
+J2120. Disregard of danger to objects (or animals)
+J2130. Foolish disregard of personal danger
+J2160. Other short-sighted acts
+J2200-J2259. Absurd lack of logic
+J2200. Absurd lack of logic-general
+J2210. Logical absurdity based upon certain false assumptions
+J2220. Other logical absurdities
+J2260-J2299. Absurd scientific theories
+J2260. Absurd scientific theories-general
+J2270. Absurd astronomical theories
+J2280. Other absurd scientific theories
+J2300-J2349. Gullible fools
+J2310. Nature of gullibility
+J2350-J2369. Talkative fools
+J2370-J2399. Inquisitive fools
+J2400-J2449. Foolish imitation
+J2410. Types of foolish imitation
+J2420. Foolish imitation-miscellaneous
+J2450-J2499. Literal fools
+J2450. Literal fool
+J2460. Literal obedience
+J2470. Metaphors literally interpreted
+J2490. Literal fool-miscellaneous
+J2500-J2549. Foolish extremes
+J2550-J2599. Thankful fools
+J2600-J2649. Cowardly fools
+J2650-J2699. Bungling fools
+J2700-J2749. The easy problem made hard
+J2750-J2799. Other aspects of wisdom or foolishness

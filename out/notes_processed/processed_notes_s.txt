@@ -1,0 +1,1037 @@
+D1357.	Magic object makes person cruel.
+J1675.2.	Clever ways of break- ing bad news to a king who will kill bearer of bad tidings. Inhuman decisions of king. S0-$99. Cruel relatives. SO. Cruel relative.
+K2210.	Treacherous relatives.
+K2211.	Treacherous brother. Usually elder brother.
+K2212.	Treacherous sister. Usually elder sister.
+P200.	The family.
+S10.	Cruel parents. *Types 327AB, 517, 832; Irish myth: Cross; India: Thompson-Balys. See also S300-S399, Abandoned or murdered children, and many of the motifs in S200-S299, Cruel sacrifices.
+G72.	Unnatural parents eat children.
+L52.	Abused youngest daughter.
+M411.	1 Curse by parent.
+S11.	Cruel father. *Types 451, 516, 671, 706, 725, 870; *Rösch FFC LXXVII 120; *Schlauch Constance and other accused Queens 40; Irish myth: *Cross; Jewish: *Neuman; India: *Thompson-Balys; N. A. Indian: *Thompson Tales 326 n. 177.
+H1210.1.	Quest assigned by father.
+K1614.	Father delivering daughter to be eaten by cannibal is himself eaten.
+S11.1.	Father mutilates children. (Cf.
+S160.	) *Type 706; Greek: Fox 74 (Phineus).
+S11.2.	Jealous father sends son to upper world on stretching tree. N. A. Indian: *Thompson Tales 332 n. 199; Africa (Benga): Nassau 176 No. 23.
+D482.1.	Transformation: stretching tree. A tree magically shoots upward.
+F54.1.	Tree stretches to sky.
+K1113.	Abandonment on stretching tree.
+S11.3.	Father kills child.
+S11.3.1.	Man who doubts his children's paternity kills them. Murders wife and paramour. Italian Novella: Rotunda.
+S11.3.2.	Father kills deformed children. (Cf.
+S325.0.1.	) Irish myth: Cross.
+S11.3.3.	Father kills son. India: Thompson-Balys.
+S11.3.3.1.	Father kills son (for stealing). Irish myth: *Cross.
+Q212.	Theft punished.
+S11.3.3.2.	Father murders his two sons for whining. Tonga: Gifford 24.
+S11.3.4.	Cruel father, learning that he is to be killed by his son, puts to death all children born to him. (Cf.
+M375.	) Irish myth: Cross.
+S11.3.5.	Cruel king slays brother and brother's son. Irish myth: *Cross.   ## p. 298 (#302) ############################################  298 Motif-Index of Folk-Literature
+S11.3.6.	Father throws boy into river (sea). Africa (Congo): Weeks Jungle 407, (Cameroon): Rosenhuber 20 No. 3, (Fang): Tessman 91.
+S11.3.7.	Father orders son assassinated. (Cf.
+K512.	) Buddhist myth: Malalasekera II 529; Africa (Fang): Tessman 92.
+S11.3.8.	Father eats own children. (Cf.
+G10.	) Buddhist myth: Mala- lasekera I 920; Africa (Pangwe): Tessman 108, 365.
+S11.4.	Father plans child's death. India: Thompson-Balys.
+S11.4.1.	Jealous father vows to kill daughter's suitors. Irish myth: *Cross.
+E765.4.3.	Father will die when daughter bears son.
+H913.2.1.	Task assigned at suggestion of father (of prospective bride).
+M311.1.	Pro- phecy: king's grandson will dethrone him.
+M343.2.	Prophecy: murder by grandson.
+P234.	Father and daughter.
+T50.1.2.	Girl carefully guarded by father.
+T91.1.	Giant's daughter loves hero.
+T97.	Father opposed to daughter's marriage.
+T314.	Father kills daughter lest she become prostitute.
+S11.4.2.	Father kisses son while planning to kill him. Icelandic: Boberg.
+S11.4.3.	Cruel fathers threaten to kill their children if they are of undesirable sex. India: Thompson-Balys.
+S11.4.4.	Cruel father seeks to kill infant son. Irish myth: *Cross.
+S11.5.	Father banishes son at request of fairy wife. (Cf. F302,
+S322.4.3.	) Irish myth: Cross.
+S11.6.	Father flogs child. India: Thompson-Balys.
+S12.	Cruel mother. *Types 511, 590, 706, 765, 781; *BP I 551, III 2; *Boje 62f.; *Child V 475 s.v. "Cruel”. Breton: Sébillot Incidents s.v. "mère"; French Canadian: Barbeau JAFL XXIX 14; Missouri French: Carrière; Spanish: Keller, Espinosa Jr. Nos. 115, 148f., Espinosa II Nos. 115f.; Italian Novella: *Rotunda; Eskimo: Rink 389, Kroeber JAFL XII 181; Africa (Basuto): Jacottet 76 No. 12, 168 No. 24, 190 No. 28, (Angola): Chatelain 30 No. 1.
+E225.	Ghost of murdered child.
+H491.1.	In large family father unwilling but mother willing to sell children.
+H914.	Tasks assigned because of mother's foolish boasting.
+R153.2.1.	Father hides children from murder- ous mother.
+S322.2.	Jealous mother casts daughter forth.
+S12.1.	Treacherous mother marries ogre and plots against son. *Type 590; *BP III 1; N. A. Indian: Thompson CColl. II 392.
+S12.1.1.	Treacherous mother and paramour plan son's death. India: Thompson-Balys.
+S12.2.	Cruel mother kills child. Spanish: Espinosa Jr. Nos. 139, 151, 157; India: *Thompson-Balys.
+S12.2.1.	
+B524.4.	Supernatural bird prevents mother from killing babe. Mother feeds newly-born illegitimate child to dog. (Cf.
+S312.	) Italian Novella: Rotunda.
+S12.2.2.	Mother throws children into fire. Jewish: *Neuman.
+S12.2.3.	Mother forces child to break eating tabu: child dies. Africa (Fang): Tessman 162.
+S12.3.	Mother orders son's death. Icelandic: Völsunga saga ch. 6-8, 40 (38), 43 (41); Italian Novella: Rotunda; India: Thompson-Balys.
+K948.	King lured to send sons on dangerous quests, where they are killed.
+P23.4.	Queen suffers son to be killed in order to spurn to fight   ## p. 299 (#303) ############################################  S. Unnatural cruelty 299 and revenge her first husband.
+P230.2.	Mother dislikes her children in forced marriage.
+P230.3.	Queen dislikes son who is unlike her and loves a poor girl; therefore she promises her daughter to the warrior who kills them,
+P231.	Mother and son.
+P232.1.	Wicked mother and her sons do everything to prevent daughter's marriage with beloved.
+S12.4.	Cruel mother blinds son. Spanish Exempla: Keller; Eskimo (Greenland): Rink 99, Rasmussen I 312, III 201, Holm 31.
+S12.5.	Cruel mother expels (drives away) child. India: Thompson-Balys.
+S12.5.1.	Girl impregnated by god driven from home by mother. S. A. Indian (Chiriguano): Métraux RMLP XXXIII 164.
+S12.6.	Cruel mother refuses children food. Eskimo (Central): Boas RBAE VI 625, (Cumberland Sound): Boas BAM XV 168; Cook Is- lands: Clark 77.
+S12.7.	Mother tells healthy sons to wipe soiled hands on lame son. Africa (Wakweli): Bender 79.
+S20.	Cruel children and grandchildren.
+K2214.1.	Treacherous daughter.
+K2214.1.1.	Daughter has aged father cremated with dead husband to honor the latter.
+P236.	Undutiful children.
+Q281.1.	Ungrateful children punished.
+S20.1.	Children sell mother. N. A. Indian (Zuñi): Benedict 340.
+S20.2.	Child hides food from starving parents. Marquesas: Handy 114.
+S21.	Cruel son. Irish myth: Cross; Spanish: Espinosa III Nos. 139, 151, 157; Buddhist myth: Malalasekera II 287, 547, 632; Africa (Fang): Einstein 161.
+J121.	Ungrateful son reproved by naive action of his own son: preparing for old age.
+N332.4.1.	Youth accidentally takes the poison he intended for his father.
+Q588.	Ungrateful son punished by having a son equally ungrateful.
+S21.1.	Son buries aged mother alive. Swiss: Jegerlehner Oberwallis 326 No. 4.
+S21.2.	Son blinds father. (Cf.
+Q451.	7,
+S165.	) Irish myth: Cross; Italian Novella: Rotunda.
+S21.3.	Son gives mother as hostage. Irish myth: Cross.
+S21.4.	King banishes mother to stables. India: Thompson-Balys.
+S21.5.	Cruel son tries to sterilize father. Jewish: *Neuman.
+S22.	Parricide. (Cf.
+Q211.1.	) Irish myth: *Cross; Icelandic: *Boberg; Jewish: Neuman; Buddhist myth: Malalasekera I 35, 1148, II 651, 1101, 1169; Tonga: Gifford 189.
+S22.1.	Parricide to obtain kingship. Irish myth: Cross.
+K2214.	Treacherous children.
+P16.	End of king's reign.
+S22.1.1.	Adopted son plots death of parents. Usurps the throne. Italian Novella: Rotunda.
+S22.2.	Prince plans to kill wicked father for cruelty. India: Thompson- Balys.
+S22.3.	Father learns that his son is planning to kill him. Gives his son a weapon to do so. Son repents. Italian Novella: Rotunda.
+S25.	Cruel grandson.   ## p. 300 (#304) ############################################  300 Motif-Index of Folk-Literature
+S25.1.	Boy kills his grandfather. Jewish: Neuman; India: Thompson- Balys.
+S30.	Cruel step- and foster relatives.
+K2212.1.	Treacherous stepsisters.
+S31.	Cruel stepmother. *Types 403, 425, 432, 450, 451, 480, 502, 510, 511, 516, 590, 592, 706, 708, 709, 720; BP I 42ff., 70ff., 79ff., 165ff., 207ff., 227ff., 412ff., *421, 427ff., 450ff., II 45ff., 229ff., 490ff., III 60ff., 137, 338f.; **W. Lincke Das tiefmuttermotiv im Märchen der germanischen Völker (Berlin, 1933); *MacCulloch Childhood 150; *Cox Cinderella passim; Böklen Sneewittchenstudien passim; *Arfert Unterschobene Braut passim; Rösch FFC LXXVII 120; Ranke FFC CXIV 154ff.; *Child V 497 s.v. "stepmother"; *Fb "stifmoder"; Dh III 414ff. Irish myth: *Cross; Icelandic: *Boberg; Breton: Sébillot Incidents s.v. "marâtre"; French Canadian: Barbeau JAFL XXIX 14; Spanish: Boggs FFC XC 63 No. 453; Italian: Basile Pentamerone I No. 6, III No. 10, V No. 8, Rotunda; Greek: Grote I 103, 116; Jewish: *Neuman, *bin Gorion Born Judas2 I 375; India: *Thompson-Balys; Hindu: Penzer I 185; Chinese: Ferguson 162, Eberhard FFC CXX 52f., 109, 125; Japanese: Ikeda, Anesaki 324; Korean: Zong in-Sob 201f. No. 97; Indonesia: DeVries's list No. 209, Dixon 238f.; Hawaii, Micronesia, Melanesia: ibid 89 nn. 97-102; N. A. Indian: *Thompson CColl II 382ff.; S. A. Indian (Karib): Métraux RMLP XXXIII 147; Africa (Cameroon): Mansfield 228; Jamaica: Beckwith MAFLS XVII 269 No. 81.
+E221.2.1.	Dead wife returns to reprove husband's second wife for abusing her stepchildren.
+G205.	Witch stepmother.
+H363.	Deceased wife marriage test.
+J134.1.	Cock's second mate lets her stepchildren starve: woman warns husband accordingly.
+K1911.	The false bride (substitute bride).
+K2056.	Hypocritical stepmother weeps as she tells departing husband she will take good care of stepchildren though they beat her (she beats them instead).
+K2111.1.	Woman makes vain overtures to stepson and accuses him of murder.
+K2211.2.	Treacherous foster brother.
+L55.	Stepdaughter heroine.
+L55.1.	Abused stepdaughter.
+M411.1.1.	Curse by stepmother.
+S322.3.	Jealous co-wife kills woman's children.
+T154.	Cruel stepmother enchants stepdaughter on eve of wedding.
+S31.1.	Adulteress and paramour plot against her stepson. They fear that he may betray them. Fischer-Bolte 214.
+S31.2.	Children enchanted by stepmother. (Cf.
+D683.	) Irish myth: *Cross; Icelandic: *Boberg.
+S31.3.	Cruel bird stepmother feeds young ones with thorns. India: *Thompson-Balys.
+S31.4.	Cruel stepmother feeds children with fish spines (thorns) to kill them. India: Thompson-Balys.
+S31.5.	Girl persuades her father to marry a widow who has treated her kindly. *Roberts 136.
+S32.	Cruel stepfather. Type 970**; Icelandic: Boberg; India: *Thompson- Balys.
+S33.	Cruel stepbrother. (Cf.
+K2211.3.	) Irish myth: Cross.
+S34.	Cruel stepsister(s). Icelandic: Boberg; India: Thompson-Balys; Chinese: Graham.
+S36.	Cruel foster father. Hawaii: Beckwith Myth 480.
+S37.	Cruel foster son. (Cf.
+S22.1.1.	) S. A. Indian (Warrau): Métraux RMLP XXXIII 146, (Jivaro): ibid. 148, (Amuesha): ibid. 150.   ## p. 301 (#305) ############################################  S. Unnatural cruelty 301
+S40.	Cruel grandparents.
+S41.	Cruel grandmother. Breton: Sébillot Incidents s.v. "grand'mère"; India: Thompson-Balys; Africa (Basuto): Jacottet 254 No. 37.
+S42.	Cruel grandfather. Kills his grandchildren. Italian Novella: Ro- tunda. $50. Cruel relatives-in-law. Chinese: Graham.
+K2211.1.	Treacherous brother-in-law.
+K2212.2.	Treacherous sister-in-law.
+K2218.	Treacherous relatives-in-law. -
+S51.	Cruel mother-in-law. See references to
+K2110.	1 and K2215, many of which have the present motif. *Type 706; *BP I 295ff.; *Dickson 25 n. 26, 29 n. 3, 30 n. 4, 31 n. 9, 41 n. 40; Saintyves Perrault 67; **Däumling Studie über den Typus des Mädchens ohne Hände (München, 1912); *Andree (1878) 159; Hibbard 26; Schlauch Con- stance and Accused Queens 40. English: Wells 96 (Chevalere Assigne), 118 (Octovian), 130 (Emare); Rumanian: Schullerus FFC LXXVIII No. 1480*; Italian: Basile Pentamerone V No. 5, *Rotunda; India: *Thompson-Balys; Hindu: Penzer III 44f.; Buddhist myth: Malalasekera I 342, 736; Chinese: Eberhard FFC CXX 125, 189; New Guinea: Dixon 136; S. A. Indian (Chiriguano): Métraux RMLP XXXIII 177; Cape Verde Islands: Parsons MAFLS XV (1) 180 n. 1.
+S322.6.	Cruel mother-in-law casts woman's children forth.
+S51.1.	Cruel mother-in-law plans death of daughter-in-law. India: *Thompson-Balys.
+S52.	Cruel father-in-law. *Type 516; *Rösch FFC LXXVII 120; *BP I 46ff.; Breton: Sébillot Incidents s.v. "gendre"; Spanish: Espinosa II Nos. 99-103, 105; India: Thompson-Balys; Eskimo (Greenland): Ras- mussen III 85, (Smith Sound): Kroeber JAFL XII 168.
+S54.	Cruel daughter-in-law. India: Thompson-Balys; Chinese: Eber- hard FFC CXX 256f.; Marquesas: Handy 111.
+S54.1.	Burned and underbaked bread. Wishing to rid herself of her father-in-law, the daughter-in-law starts to feed him burned bread; but the old man begins to thrive on it. When she tries underbaked bread, he dies very soon. Lithuanian: Balys Index No. 2427*.
+S55.	Cruel sister-in-law. Chinese: Graham.
+S56.	Cruel son-in-law. India: Thompson-Balys; Marquesas: Handy 126; S. A. Indian (Chiriguano): Métraux RMLP XXXIII 177.
+S56.1.	Lover asks girl to kill her father. India: Thompson-Balys.
+S60.	Cruel spouse.
+H492.1.	Husband refuses to murder wife for high honors; wife agrees to murder husband.
+K2213.	Treacherous wife.
+S62.	Cruel husband. *Type 760, 887. See references to
+H461.	Icelandic: *Boberg; French Canadian: Barbeau JAFL XXIX 14; India: *Thomp- son-Balys; Chinese: Graham; Hawaii: Beckwith Myth 152; Eskimo: Boas BAM XV 188, 310, 331.
+F301.5.	Elf-knight entices maiden away and kills her.
+H461.	Test of wife's patience.
+J122.	Naive remark of child: "You forgot to strike mother."
+K1916.	Robber bridegroom. Robber marries girl under pretence of being a fine gentleman.
+S400.	Cruel persecutions.
+T88.	Husband forsakes wife when she is stricken by plague.
+S62.1.	Bluebeard. Girl marries murderous husband. *Type 312; cf. Type   ## p. 302 (#306) ############################################  302 Motif-Index of Folk-Literature 955; *BP I 404ff.; Child I 47; Swiss: Jegerlehner Oberwallis 312f. Nos. 73, 77; Spanish: Espinosa Jr. Nos. 91-93.
+S62.2.	Man has bride drowned so that he may marry another. Italian Novella: Rotunda.
+S62.3.	Barren wife exposed by husband. Jewish: Neuman.
+S62.4.	Husband leaves wife to die of thirst. Marquesas: Handy 99.
+S63.	Spouse murder pact. Princess kills her husband. Prince kills his wife. Murderers marry and usurp the throne. Italian Novella: Rotunda; India: Thompson-Balys. $70. Other cruel relatives. Missouri French: Carrière.
+S71.	Cruel uncle. Irish myth: *Cross; English: Wells 19 (William of Palerne); Breton: Sébillot Incidents s.v. "oncle"; Italian Novella: *Rotunda; Greek: Aeschylus Agamemnon 1220 (Atreus); India: Thompson-Balys; Buddhist myth: Malalasekera II 447, 1303; Hindu: Keith 177; Chinese: Graham; Hawaii: Beckwith Myth 422; Samoa: ibid. 473; Mono: Wheeler No. 29; N. A. Indian: *Thompson Tales 313 n. 127.
+S71.1.	Cruel uncle poisons nephew (king). Irish myth: *Cross.
+P16.	End of king's reign.
+S111.	Murder by poisoning.
+S72.	Cruel aunt. Italian: Basile Pentamerone IV No. 7; India: *Thomp- son-Balys; Chinese: Graham.
+K2211.	Treacherous brother.
+K2212.	Treacherous sister.
+S73.1.	Fratricide. Krappe Revue des Études Anciennes XXXV (1933) 146ff.; Irish myth: *Cross; Icelandic: *Boberg; Greek: Grote I 219; Jewish: Neuman; Buddhist myth: Malalasekera II 13; Tonga: Gifford 83; Maori: Clark 157, Beckwith 157.
+F960.6.	Extraordinary nature phenomena on night of fratricide.
+Q211.9.	Fratricide punished.
+S73.1.0.1.	Murder of stepbrother (foster brother). Irish myth: *Cross.
+S73.1.1.	Fratricide in order to gain control of kingship. Irish myth: *Cross; Buddhist myth: Malalasekera II 492.
+S73.1.2.	Brother kills and eats brother. (Cf.
+G10.	) Tonga: Gifford 27, Mono: Wheeler No. 22.
+S73.1.3.	Elder brother threatens to kill younger as soon as he is born. Hawaii: Beckwith Myth 436.
+S73.1.4.	Fratricide motivated by love-jealousy. (Cf.
+T257.	) Irish myth: Cross.
+S73.2.	Person banishes brother (sister). Irish myth: Cross.
+S73.3.	Man blinds brother. (Cf.
+S165.	) Irish myth: *Cross.
+S74.	Cruel nephew. Irish myth: Cross; Spanish Exempla: Keller.
+S74.1.	Nephew (niece) kills uncle. Irish myth: *Cross. S100-
+S199.	Revolting murders or mutilations.
+S100.	Revolting murders or mutilations.   ## p. 303 (#307) ############################################  S. Unnatural cruelty 303
+S110.	Murders.. Irish myth: *Cross; Jewish: *Neuman; India: Thomp- son-Balys.
+D711.	Disenchantment by decapitation.
+D1361.8.	Heart of unborn child renders person invisible.
+D2135.1.	Power of flying from eating children's hearts.
+E12.	Resuscitation by decapitation.
+F615.	Strong man evades death. Vain attempts to kill him.
+G10.	Cannibalism.
+G321.	Cliff-ogre. Kicks victims over cliff.
+G327.	Swinging ogre. Girls who swing their lovers over pit, cut rope, and later devour them.
+G331.	Pot-tilter. Ogre who tilts a pot so that victims are drawn into it.
+G332.	Sucking monster. Giant (sometimes a giant hall or cave) sucks in its victims.
+G341.	Sharp-elbowed women. Kill with their elbows.
+H931.	Tasks assigned in order to get rid of hero.
+K950.	Various kinds of treacherous murder.
+Q211.	Murder punished.
+S110.1.	Old people killed in famine. *Wesselski Märchen 237 No. 48; Fb "gammel" IV 174a; Icelandic: *Boberg.
+F969.7.	Famine.
+F1041.1.11.1.	Suicide from fear of starving.
+J151.1.	Wisdom of hidden old man saves kingdom,
+K231.1.1.	Mutual agreement to sacrifice family members in famine.
+K1603.	Man falls into sacrificial grave prepared for others.
+S110.1.1.	Child condemned to be killed in famine. Irish myth: Cross.
+S110.2.	Man kills all guests, hoping some day to kill rival. Dickson 83 n. 47.
+S110.3.	Princess builds tower of skulls of unsuccessful suitors. Malone PMLA XLIII 414; India: Thompson-Balys.
+H310.	Suitor tests. A suitor is put to severe tests by his prospective bride or father-in-law.
+H331.5.0.1.	Loser in bride-race must die.
+H901.1.	Heads placed on stakes for failure in performance of task.
+Q410.	Capital punishment.
+Q421.1.	Heads on stakes. Punishment by beheading and placing the heads on stakes.
+T70.	The scorned lover.
+S110.3.1.	Princess makes necklace of heads of unsuccessful suitors. India: Thompson-Balys.
+S110.4.	Prince resolves to drive relatives from his domain. Kills many. Italian Novella: Rotunda.
+S110.5.	Murderer kills all who come to certain spot. India: Thompson- Balys.
+S111.	Murder by poisoning. *Type 709; *Böklen 100ff.; *Child V 491 s.v. "Poisoning"; Irish myth: *Cross; Icelandic: *Boberg; Spanish: Espi- nosa II Nos. 115f., Espinosa Jr. Nos. 143, 145; Missouri French: Carrière; Italian Novella: Rotunda; Jewish: *Neuman; India: *Thompson-Balys; Buddhist myth: Malalasekera II 80, 491, 510, 816.
+B776.	Venomous animals.
+N332.	Accidental poisoning.
+Q418.	Punish- ment by poisoning.
+Q582.8.	Person drinks poison he prepared for another. $71.1. Cruel uncle poisons nephew king.
+S111.1.	Murder with poisoned bread. *Type 709; *Böklen 102; India: *Thompson-Balys; Africa (Basuto): Jacottet 80 No. 12.
+S111.2.	Murder with poisoned lace. *Type 709; *BP I 450ff.; *Böklen 104.
+S111.3.	Murder with poisoned comb. *Type 709; *BP I 450ff.; *Böklen 109.
+S111.4.	Murder with poisoned apple. *Type 709; *BP I 450ff.; *Böklen 100; Italian Novella: Rotunda.
+S111.5.	Murder with poisoned book. King wets finger to turn leaves and falls dead. *Chauvin V 276 No. 156 n. 3.
+S111.6.	Murder with poisoned robe. Consumes wearer. Greek: Fox 115, *Frazer Apollodorus I 123; India: Thompson-Balys.   ## p. 304 (#308) ############################################  304 Motif-Index of Folk-Literature
+S111.7.	Murder with poisoned slippers. Africa (Thonga): Junod 266ff., (Swahili): Baker FL XXXVIII 299ff. No. 16.
+E21.4.	Resuscitation by removal of poisoned slippers.
+S111.8.	Murder by feeding poisonous snake. English ballad: Child No. 12 (Lord Randal); Icelandic: *Boberg; India: Thompson-Balys.
+S111.9.	Murder by placing a poisoned fingernail on step. India: *Thomp- son-Balys.
+S112.	Burning to death. (See notes to K955 and
+Q414.	) Irish myth: *Cross; English: Wells 97 (Chevalere Assigne); Spanish Exempla: Keller; India: *Thompson-Balys; Africa (Basuto): Jacottet 192 No. 28.
+A1861.2.	Creation of monkeys: old woman thrown into fire.
+E15.	Re- suscitation by burning.
+E446.2.	Ghost laid by burning body.
+G512.3.1.	Ogre killed by throwing hot stones (metal) into his throat.
+G512.3.2.	Ogre burned in his own oven.
+H1511.	Heat test. Attempt to kill hero by burning him in fire.
+K851.	Deceptive game: burning each other. Dupe burned (boiled) to death.
+K951.1.	Murder by throwing hot stones in the mouth.
+K955.	Murder by burning.
+K1612.	Message of death fatal to sender.
+K2135.	The complaint about bad breath.
+K2214.1.1.	Daughter has aged father cremated with dead husband to honor the latter.
+N482.1.	Secret learned by burning hand.
+P16.3.1.1.	Attempt to kill old king by suffocating in bathroom.
+Q414.	Punishment: burning alive.
+S326.1.	Disobedient child burned.
+S112.0.1.	City burned with all inhabitants. Irish myth: *Cross.
+S112.0.2.	House (hostel) burned with all inside. Irish myth: *Cross; Marquesas: Handy 132; Easter Island: Métraux Ethnology 386; Hawaii: Beckwith Myth 514.
+S112.1.	Boiling to death. Often in pitch or oil. *Cosquin Études 360ff.; Spanish: Boggs FFC XC 83 No. 711A*; Greek: *Frazer Apollodorus I 321 n. 1; India: Thompson-Balys; Japanese: Ikeda.
+D1865.2.	Beautification by boiling and resuscitation.
+D1885.	Rejuvenation by boiling.
+E15.1.	Resuscitation by boiling.
+Q414.1.	Punishment: boiling in oil (lead, tar).
+S112.2.	Murder with hot iron. Bored through eye or nose. *Krappe Balor 4ff.; Icelandic: Herrmann Saxo II 592, Boberg; India: Thompson- Balys.; Africa (Fjort): Dennett 52 No. 8.
+S112.2.1.	
+K1011.	Eye-remedy. Under pretence of curing eyesight the trickster blinds the dupe. (Often with a glowing mass thrust into the eye.)
+Q469.2.	Punishment: climbing red-hot rod.
+Q469.9.	Punishment: boring hot iron through ear. Murder by hot iron through heart. Icelandic: Herrmann Saxo II 592, Boberg.
+S112.2.2.	Murder by driving red-hot iron spits through soles of feet and into shins. Irish myth: *Cross.
+S112.3.	Murder by hot lead poured into ear. (Cf.
+S115.1.	) *Fb “øre" III 1180b, 1181a.
+S112.4.	Attempted murder by live coals in garments. India: Thompson- Balys.
+S112.5.	Murder by feeding on over-hot food. Person forced to eat. India: *Thompson-Balys.
+H1511.2.	Burning food test.
+K1043.	Dupe induced to eat sharp (stinging, bitter) fruit.
+S112.6.	Murder by roasting alive in oven furnace). Jewish: *Neuman; Tonga: Gifford 190.   ## p. 305 (#309) ############################################  S. Unnatural cruelty 305
+S112.7.	Son takes mother to woods and tries to burn her up while she sleeps. India: Thompson-Balys.
+S113.	Murder by strangling. See references to
+Q424.	Irish myth: Cross; Chinese: Werner 267.
+Q424.	Punishment: strangling.
+S113.1.	Murder by hanging. Dickson 186 n. 60; Icelandic: *Boberg; Missouri French: Carrière.
+H1533.	Hanging test. Unavailing attempt to kill hero by hanging.
+K852.	Deceptive game: hanging each other. Dupe really hanged. Punishment: hanging.
+S113.1.1.	Slaves killed by hanging. Icelandic: *Boberg.
+Q413.	
+S113.1.2.	Prisoners taken in war (enemy's messengers) hanged. Icelandic: *Boberg.
+S113.2.	Murder by suffocation. Irish myth: Cross; Spanish Exempla: Keller; West Indies: Flowers 575.
+Q274.2.	Devil suffocates swindling merchant.
+Q469.5.	Punishment: choking with smoke.
+S113.2.1.	Devil cuts off hand of woman and suffocates her. Pauli (ed. Bolte) No. 289; Scala Celi 57b No. 321.
+S161.	Mutilation: cutting off hands.
+S113.2.2.	Suffocating in bathroom. Icelandic: Boberg; Danish: Grundtvig No. 121; Lithuanian: M. Boehm u. F. Sprecht Lettische-Litauische Volksmärchen (Jena, 1924) 193 No. 11.
+S113.2.3.	Murder by luring to feast and suffocating. All holes are stopped and house set afire. India: Thompson-Balys.
+K811.1.	Enemies invited to banquet and killed.
+K2013.	Enemy invited for marriage with relative attacked.
+S114.	Murder by flaying. *Fb "hud" I 661; Icelandic: *Boberg; Jewish: Neuman.
+J167.	Wisdom from continual reminder of foolishness in the past. Unjust judge skinned and his skin stretched over a footstool kept in the presence of judges, so as to remind them to be just.
+Q457.	Flaying alive as punishment.
+S114.1.	Skin of murdered person found in enemy's house. Koryak: *Jochelson JE VI 377.
+S115.	Murder by stabbing. Heptameron No. 40; Icelandic: Herrmann Saxo II 592; Japanese: Ikeda.
+K916.	Dancer stabs spectator.
+S115.1.	Murder by stabbing in ear. (Cf.
+S112.3.	) Koryak: Jochelson JE VI 236, 265; N. A. Indian: *Thompson Tales 350 n. 264.
+S115.2.	Murder by sticking needle through head. Italian: Basile Penta- merone V No. 9; Eskimo (Greenland): Holm 52, Rasmussen III 65, (Cumberland Sound): Boas BAM XV 185.
+S115.2.1.	Murder by driving nail through head. West Africa: Nassau Fetischism in West Africa (London, 1904) 337ff. No. 2.
+S115.3.	Murder by piercing with pins and needles. India: *Thompson- Balys.
+S116.	Murder by crushing. (Cf.
+S167.	) Irish myth: Cross; Icelandic: Herr- mann Saxo II 592, Boberg; Africa (Basuto): Jacottet 168 No. 24. 20   ## p. 306 (#310) ############################################  306 Motif-Index of Folk-Literature
+S116.1.	Murder by grinding in mill. Irish myth: *Cross; India: *Thomp- son-Balys.
+S116.2.	Pregnant woman crushed beneath chariot. (Cf.
+S185.	) Irish myth: Cross.
+S116.3.	Murder by breaking back. Icelandic: *Boberg.
+S116.4.	Murder by crushing head. Icelandic: *Boberg.
+S116.5.	Murder by crushing beneath falling tree. India: Thompson- Balys; Tonga: Gifford 184.
+S116.6.	Murder by trampling of horses (elephants). English romance: Malory IX 25; Buddhist myth: Malalasekera I 647.
+S117.	Death by dragging behind horse. *Fb "hest" I 599b; India: *Thompson-Balys.
+J2132.	Numskull dragged.
+Q415.1.2.	Punishment: tying man to horses and setting vicious hounds after him.
+Q416.	Punishment: drawing asunder by horses.
+Q416.2.	Punishment: dragging to death by horse.
+S118.	Murder by cutting.
+S118.1.	Murder by cutting adversary in two. Icelandic: *Boberg.
+S118.2.	Murder by cutting throat. Africa (Cameroon): Mansfield 228.
+S121.	Murder by slamming down chest-lid. Done while victim is looking into the chest. *Type 720; *BP I 412ff., 422; *Cox 479; *Hdwb. d. Märchens I 91b n. 36; Italian: Basile Pentamerone I No. 6; Icelandic: *Boberg.
+K434.3.	Girl tells thief that money is in chest.
+S122.	Flogging to death. (Cf.
+Q458.2.	) Fb “piske" II 834; Icelandic: Bo- berg; Hawaii: Beckwith Myth 152. —
+S123.	Burial alive. **Feilberg "Levende begravet" (Årbog for dansk Kulturhistorie, 1892); *Liebrecht 284; *Fb “høj" I 741b, "levende" II 403a-404a, "jord" II 45b. Irish: *Cross, O'Suilleabhain 74, Beal XXI 327; Swiss: Jegerlehner Oberwallis 326 No. 4; Breton: Sébillot Incidents s.v. "enterrement"; Spanish: Espinosa Jr. Nos. 203f.; Greek: Sophocles' Antigone; India: *Thompson-Balys; Society Islands: Henry Ancient Tahiti (Honolulu, 1928) 557; Eskimo (Greenland): Rink 221, 232, Rasmussen II 94, III 53, (Cumberland Sound): Boas BAM XV 171, (Central Eskimo): Boas RBAE VI 639, (Mackenzie Area): Jenness 34, (Labrador): Hawkes GSCan XIV 161, (Ungava): Turner RBAE VI 262.
+S123.0.1.	
+P16.4.	Persons buried with dead king.
+Q456.	Burial alive as punishment.
+S21.1.	Son buries aged mother alive.
+S261.	Foundation sacrifice.
+S266.	Burial of live girl to banish plague. Hostages buried alive. Irish myth: *Cross.
+S123.1.	Burial alive of drugged person. *Chauvin VI 15 No. 188 n. 1.
+S123.2.	Burial of living husband or wife with dead spouse. Type 612; *BP I 126ff., 128; *Chauvin VII 20 No. 373D; Missouri French: Carrière.
+P16.4.1.	Suttee. Burning of wife with dead king.
+T211.2.1.	Wife throws herself on husband's funeral pyre.
+S123.2.1.	Burial of living man with dead blood brother. Icelandic: *Bo- berg.
+S123.3.	Living children buried with dead mother. Child I 180, 185, IV 450a (No. 15).   ## p. 307 (#311) ############################################  S. Unnatural cruelty 307
+S123.4.	Avenger plans to let king starve in mountain chamber. Ice- landic: Boberg.
+R51.1.	Prisoners starved.
+S123.5.	Burial alive of maiden to keep her safe from rival. Icelandic: Boberg.
+S123.6.	Enemies buried alive up to their necks and exposed to jackals. (Cf.
+Q456.1.	) Buddhist myth: Malalasekera II 570.
+S125.	Immolation. Greek: Grote I 278f.; Jewish: Neuman; S. A. Indian (Inca): Rowe BBAE CXLIII (2) 317.
+Q455.	Walling up as punishment.
+S261.	Foundation sacrifice.
+S125.1.	Self-immolation. Hindu: Tawney I 163, 398, 522, II 255, 490, 546, 558, 560, Panchatantra III 8 (tr. Ryder 334).
+S127.	Murder by throwing from height. Greek: Grote I 278.
+S131.	Murder by drowning. Hdwb. d. Märchens I 346b nn. 130-46; English: Wells 96 (Chevalere Assigne); Irish myth: *Cross; Icelandic: *Boberg; Missouri French: Carrière; Jewish: Neuman; Buddhist myth: Malalasekera II 651; Marquesas: Handy 53; Maori: Beckwith Myth 318; Eskimo (Greenland): Holm 56, Rasmussen I 363, III 200, (Labrador): Hawkes GSCan XIV 152, (Central Eskimo): Boas RBAE VI 637; Africa (Fang): Einstein 153.
+S131.1.	River carrier (whale, crocodile) throws passenger off and drowns him. India: Thompson-Balys; Africa (Madagascar): Renel II 207f. No. 119.
+K1042.	Water bird takes dupe to sea: shakes him off into water.
+R245.	Whale-boat.
+S132.	Murder by starvation. (Cf.
+R51.	1,
+S123.4.	) Jewish: *Neuman; In- dia: Thompson-Balys; Buddhist myth: Malalasekera II 287.
+S133.	Murder by beheading. (Cf.
+Q421.	) India: Thompson-Balys.
+S135.	Murder by springing bent tree. Man bound to it is torn to pieces. (Cf.
+H1522.1.	) Fb "træ" III 865b; India: Thompson-Balys; Icelandic: *Boberg.
+S139.	Miscellaneous cruel murders.
+S139.1.	Murder by twisting out intestines. (Cf. K1444,
+Q469.7.	) *Fb "tarm" III 776a; Icelandic: *Boberg; Easter Island: Métraux Ethno- logy 66, 384.
+S139.2.	Slain person dismembered. Irish myth: *Cross; Spanish Exempla: Keller; Greek: Frazer Apollodorus II 72 n. 1; India: Thompson- Balys.
+D1884.	Rejuvenation by dismemberment.
+E14.	Resuscitation by dismem- berment.
+Q416.	Punishment: drawing asunder by horses.
+S139.2.1.	Head of murdered man displayed before his own house. *Siberian and North Pacific Coast of America: Jochelson JE VI 381.
+H901.1.	Heads placed on stakes for failure in performance of tasks.
+S139.2.1.1.	Head of murdered man taken along as trophy. Icelandic: *Boberg; Jewish: Neuman; Philippine (Tinguian): Cole 43, 77.
+S452.	Outcast wife commits suicide when confronted with heads of relatives killed in revenge for her wrong-doing.
+S139.2.2.	Other indignities to corpse. Irish myth: Cross.
+P555.2.	Corpses of dead foes dismembered.
+Q491.	Indignity to corpse as punishment. 20⭑   ## p. 308 (#312) ############################################  308 Motif-Index of Folk-Literature
+S139.2.2.1.	Heads of slain enemies impaled upon stakes. (Cf.
+Q421.1.	) Irish myth: *Cross; Icelandic: *Boberg.
+S139.2.2.1.1.	Heads (tongues) of slain enemies as trophies. Irish myth: *Cross.
+S139.2.2.1.2.	Impaled head used as target. Irish myth: Cross.
+S139.2.2.1.3.	Custom: sitting upon head of slain enemy. Irish myth: *Cross.
+S139.2.2.1.4.	Heads of defeated enemies hung on conqueror's saddle. In- dia: Thompson-Balys.
+S139.2.2.1.5.	Hand of slain enemy nailed to castle. Irish myth: Cross.
+S139.2.2.1.6.	Heads brandished to intimidate foe. Irish myth: *Cross.
+S139.2.2.2.	Dead man gutted and filled with stones. India: Thompson- Balys.
+S139.2.2.3.	Dead dog buried with enemy. Irish myth: Cross.
+S139.2.2.3.1.	Corpse buried face down as indignity. Irish myth: *Cross.
+S139.2.2.4.	Parts of corpses used in sport. Irish myth: Cross.
+P203.	Game with ancestors' bones.
+S139.2.2.4.1.	Head used as ball. Irish myth: *Cross.
+S139.2.2.4.2.	Brains of enemies fashioned into balls (as trophies for play). Irish myth: *Cross.
+S139.2.2.4.3.	Chess board and men made from bones of slain enemies. Irish myth: Cross.
+S139.2.2.5.	Corpses burned as fuel for cooking. Irish myth: Cross.
+S139.2.2.6.	Corpse drawn asunder. Irish myth: Cross.
+S139.2.2.7.	Ash (hazel) stakes thrust through bodies of slain warriors. India: Thompson-Balys.
+D712.10.	Disenchantment by driving stake through body.
+D950.6.	Magic ash tree (quicken, rowan).
+E434.	Magic protection against revenants.
+E442.	Ghost laid by piercing grave with stake.
+S139.2.2.8.	Ashes of murdered person passed through sieve and remains put to manure heap. India: Thompson-Balys.
+S139.3.	Captured women hanged and crucified. Irish myth: Cross.
+S139.4.	Murder by mangling with axe. Irish myth: Cross.
+S139.5.	Murder by cutting off uvula. Icelandic: Boberg.
+S139.6.	Murder by tearing out heart. India: Thompson-Balys; Icelandic: *Boberg.
+S139.7.	Murder by slicing person into small pieces. Hawaii: Beckwith Myth 154; Tuamotu: Stimson MS (TpG. 3/912).
+S139.8.	Murder by biting the throat. Icelandic: *Boberg.
+S140.	Cruel abandonments and exposures. India: Thompson-Balys.
+K1113.	Abandonment on stretching tree.
+L111.1.	Exile returns and succeeds.
+L111.2.	Foundling hero (heroine).
+N732.3.	Parents accidentally   ## p. 309 (#313) ############################################  S. Unnatural cruelty 309 meet daughter who has survived their attempt to drown her.
+R131.	Exposed or abandoned child rescued.
+S300.	Abandoned or murdered children.
+S312.1.	Child of incest exposed.
+S433.	Cast-off wife abandoned on island.
+S140.1.	Abandonment of aged. Type 981*; *Encyc. Religion Ethics s.v. "Abandonment and exposure"; *F. Brouga-Brey Revista de dialecto- logia y tradiciones populares (Madrid) I 496–573; India: Thompson- Balys; Buddhist myth: Malalasekera II 547; Chinese: Eberhard FFC CXX 116; Japanese: Ikeda; Korean: Zong in-Sob 186 No. 82.
+K231.1.1.	Mutual agreement to sacrifice family members in famine.
+P16.3.	King killed when old.
+S110.1.	Old people killed in famine.
+S141.	Exposure in boat. A person (usually woman or child) set adrift in a boat (chest, basket, cask). *Types 590, 675, 708, 930; BP I 489, II 236f., III 2; **Cosquin Études 199ff., 215ff.; Chauvin VII 95ff.; *Hertel Zs. f. Vksk. XIX 83; *Aarne FFC XXIII 60; *Penzer II 4, VII 81 n. 1; Dickson 35 n. 16, 41f. nn. 40, 42, 169f. n. 23; *Krappe Balor 3ff., 17ff. nn. 57-60; *Sparnaay 31ff., 50; *Frazer Old Testament II 437ff.; *Fb "å" III 1187b, "båd" IV 87a; *Schoepperle II 374 n. 4; Hibbard 276; *Basset 1001 Contes II 371. Irish myth: *Cross; Breton: Sébillot Incidents s.v. "enfant"; French Canadian: Barbeau JAFL XXIX 14; Spanish: Espinosa Jr. No. 116; Italian: Basile Pen- tamerone III No. 2, *Rotunda; Greek: Frazer Apollodorus I 155, Grote I 86, *103, Fox 22, 33, 307; Egyptian: Müller 116; Babylonian: Spence 16; Jewish: *Neuman, bin Gorion Born Judas2 I 165, 372; India: *Thompson-Balys; Buddhist myth: Malalasekera II 103, 633; Japanese: *Ikeda; Chinese: Ferguson 192; Palaung tribe: Scott Indo- Chinese 276; Indonesian: DeVries's list No. 219; Tonga: Gifford 154; Tuamotu: Stimson MS (T-G. 3/45); Marquesas: *Beckwith Myth 502 n. 4; Eskimo (Cumberland Sound): Boas BAM XV 167, (Labrador): Hawkes GSCan XIV 152, (Ungava): Turner RBAE XI 261; N. A. Indian: *Thompson Tales 313 n. 131.
+H157.	King finds note with children in casket floated down river identifying them as his.
+H263.1.	Exposure in boat as test of sin.
+K1333.	Seduction by having maiden placed in floating chest.
+K1931.1.1.	Impostor tries to push foster brother into the water and then cuts rope.
+L111.2.1.	Future hero found in boat (basket, bushes).
+N781.	Hero embarks in rudderless boat.
+Q466.	Embarkation in leaky vessel as punishment.
+S331.	Exposure of child in boat (floating chest).
+S431.	Cast-off wife exposed in boat.
+S141.1.	Man springs ashore and pushes companion in boat out to sea. Icelandic: *Boberg.
+S141.2.	Father saves himself in storm and forgets his two children. They are abandoned in a boat. Italian Novella: Rotunda.
+S141.3.	Exposure astride a log of wood floated down river. India: *Thompson-Balys.
+S142.	Person thrown into the water and abandoned. *Types 450, 506, 612, 667*, 707; *BP I 79ff., 126ff., II 380ff., III 490ff.; *Krappe Balor 12 n. 43; *Fb "spinde" III 492b; Dickson 86. Irish: MacCulloch Celtic 167, *Cross; Icelandic: Boberg; Italian: Basile Pentamerone IV No. 7; India: *Thompson-Balys; Buddhist myth: Malalasekera II 526; Tahiti: Handy 408; Tonga: Gifford 122; Tuamotu: Stimson MS (T-G. 3/45, 403, z-G. 3/1117).
+K1931.1.	Impostors throw hero overboard into sea.
+Q467.1.	Casting into water in sack (barrel) as punishment,
+S432.	Cast-off wife thrown into water.
+S143.	Abandonment in forest. *Types 327, 450, 708, 872*; BP I 79ff., 115ff.; *Dickson 35 n. 16; *Sparnaay 41ff.; Roberts 128. English: Wells 118 (Octovian); Icelandic: Boberg; Breton: Sébillot Incidents   ## p. 310 (#314) ############################################  310 Matif-Index of Folk-Literature s.v. "abandon"; French Canadian: Barbeau JAFL XXIX 14; Missouri French: Carrière; Spanish: Espinosa II 99-105, Espinosa Jr. Nos. 142 -45; Greek: Grote I 109; India: *Thompson-Balys.
+M371.0.1.	Abandonment in forest to avoid fulfillment of prophecy.
+N316.	Separation in jungle (forest).
+Q438.	Punishment: abandonment in forest.
+S345.	Parents trick children into going on hunt, then abandon them in forest.
+S441.	Cast-off wife and child abandoned in forest.
+S465.	Abandoned person in woods comforted by prophet and birds.
+S143.1.	Child abandoned in hollow tree. English: Wells 126 (Lai Le Freine); Irish myth: *Cross.
+S143.2.	Abandonment in tall tree. India: *Thompson-Balys; S. A. Indian (Mundurucú): Horton BBAE CXLIII (3) 294, (Sherente): Lowie ibid. (1) 515.
+H151.14.1.	Recognition by tear falling from tree where girl has been abandoned.
+K1113.	Abandonment on stretching tree.
+S143.2.1.	Tortoise placed in tall tree and left. India: Thompson-Balys; Africa: Weeks Congo 209ff. No. 6.
+S143.3.	Mutilated man on horseback chased into the forest. Icelandic: Boberg.
+S143.4.	Husband abandons wife in childbirth in jungle. (Cf.
+S430.	) In- dia: *Thompson-Balys.
+S144.	Abandonment in desert. *Type 310; BP I 97ff.; India: Thompson- Balys.
+S144.1.	Abandonment alone on foreign coast. English: Wells 80 (Sir Tristrem).
+S145.	Abandonment on an island. (Marooning.) *Type 506, 890; BP III 490ff.; Icelandic: *Boberg; Breton: Sébillot Incidents s.v. "abandon"; French Canadian: Morin JAFL XXX 147; Italian Novella: *Rotunda; Greek: Frazer Apollodorus II 53 n. 5; Papua: Ker 7, 112; Hawaii: Beckwith Myth 358; Eskimo (Greenland): Holm 56, Rasmussen III 200, (Labrador): Hawkes GSCan XIV 152, (Central): Boas RBAE VI 637, (Cumberland Sound): Boas BAM XV 163, 166; N. A. Indian: *Thompson CColl II 405ff.
+K1616.	Marooned man reaches home and outwits marooner.
+S433.	Cast- off wife abandoned on island.
+S146.	Abandonment in pit. Chauvin VII 108 No. 379bis; Irish myth: *Cross; Icelandic: Lagerholm 161-63, Boberg; Missouri French: Carrière; Hebrew: Genesis ch. 37, *Neuman; India: *Thompson- Balys; Hawaii: Beckwith Myth 41.
+H1535.1.	Pit test.
+K1931.4.	Impostors throw hero into pit.
+S435.	Cast- off wife abandoned in pit.
+T581.2.	Child born of woman abandoned in pit.
+S146.1.	Abandonment in well. India: *Thompson-Balys.
+S146.2.	Abandonment in cave. Tuamotu: Beckwith Myth 471.
+S147.	Abandonment on mountain. *Type 675; Irish myth: Cross.
+S147.1.	Abandonment on cliff. French Canadian: Sister Marie Ursule; Greek: Aeschylus Prometheus Bound; India: Thompson-Balys.
+S147.1.1.	Abandonment on cliff near nest of a bird. S. A. Indian (Mun- durucú): Horton BBAE CXLIII (3) 294.
+S148.	Abandonment in bonds that cannot be loosed. Irish myth: Cross.   ## p. 311 (#315) ############################################  S. Unnatural cruelty 311
+S152.	Children abandoned in box in potter's kiln. India: Thompson- Balys.
+S153.	Abandonment in stable. India: *Thompson-Balys.
+S160.	Mutilations.. Nouvelles de Sens No. 24; Irish myth: Cross; India: Thompson-Balys.
+A128.	Mutilated god.
+C948.	Mutilation as punishment for breaking tabu.
+G313.	Procrustes. Monster makes men fit his bed. Tall men sawed off, short men stretched.
+H56.2.	Mutilation of children's bodies for identi- fication,
+K1111.	Dupe puts hand (paws) into cleft of tree (wedge, vise).
+M201.4.	Covenant between saints confirmed by cutting off their thumbs.
+M375.3.	Child mutilated to avoid fulfillment of prophecy.
+Q211.6.1.	Punishment for flaying live calf.
+Q451.	Mutilation as punish- ment.
+R51.3.	Prisoners mutilated.
+S11.1.	Father mutilates children.
+S160.1.	Self-mutilation. (Cf.
+T327.	1,
+T327.	2,
+T333.	) Irish myth: *Cross; Icelandic: *Boberg; India: Thompson-Balys; Hindu: Penzer III 21 n.; Chinese: Werner 314.
+J2411.4.	Imitation of magician unsuccessful. Person does self injury.
+S160.2.	Jealous women mutilate her who is most attractive to men. Irish myth: Cross.
+S160.3.	Fairies mutilate mortals. (Cf.
+F362.	) Irish myth: Cross.
+S160.4.	Mutilation of envoys. (Cf.
+R51.3.	) Buddhist myth: Malalasekera II 701.
+S160.5.	Moon mutilates his earth mistress. Eskimo (Smith Sound): Kroeber JAFL XII 180.
+S161.	Mutilation: cutting off hands (arms). Heptameron No. 48; Irish myth: *Cross; Icelandic: *Boberg; Missouri French: Carrière; Spanish: Keller, Espinosa II Nos. 99–103, Espinosa Jr. No. 137; Jewish: *Neuman; India: *Thompson-Balys; Buddhist myth: Malala- sekera I 710, 885; Eskimo (Labrador): Hawkes GSCan XIV 151.
+A128.4.	God with one hand. Hand cut or bitten off.
+F515.0.1.	Person without hands.
+H333.	2 Suitor test: tribute of his severed hands.
+Q451.1.	Hands cut off as punishment.
+S113.2.1.	Devil cuts off hand of woman. Masons who build mausoleum of princess lose their right hands so they may never again construct so fine a building. (Cf.
+S165.	7,
+W181.2.	) India: Thompson-Balys.
+S161.0.1.	
+S161.1.	Mutilation: cutting off fingers. *Fb “guld ring" I 514a; *Dick- son 41 n. 41; Icelandic: *Boberg; Buddhist myth: Malalasekera I 22; Eskimo (Greenland): Rink 17, Rasmussen III 58, (Smith Sound): Kroeber JAFL XII 168, (Ungava): Turner RBAE XI 262, (Labrador): Hawkes GSCan XIV 152, (Cumberland Sound): Boas BAM XV 165, (Central): Boas RBAE VI 584, 586, 637.
+S161.1.1.	Child's finger-ends cut off to give long life. Irish myth: Cross.
+S162.	Mutilation: cutting off legs (feet). *Type 519; *Krappe Archiv f. d. Studium d. neueren Sprachen CLX 161ff.; Irish myth: *Cross; Ice- landic: *Boberg; India: *Thompson-Balys; Buddhist myth: Malala- sekera I 710, 885; Hawaii: Beckwith Myth 242.
+A128.3.1.	God with one leg (foot).
+J2413.4.1.	Fowl makes another ani- mal believe that he has had his leg cut off.
+Q451.2.	Laming as punishment.
+S162.1.	Fighting on stumps of legs after they have been cut off at knee. Child V 497 s.v. "stumps"; Icelandic: Boberg.
+S162.2.	Hamstringing. E. H. Meyer Germanen 161f.; *P. Maurus Wie- landsage in der Literatur (Müncher Beiträge zur rom. und eng. Philologie XXV [1902]); Icelandic: *Boberg.   ## p. 312 (#316) ############################################  312 Motif-Index of Folk-Literature
+S162.3.	Mutilation: cutting off toes. Icelandic: *Boberg.
+S162.4.	Mutilation: cutting off heelbone. Icelandic: *Boberg.
+S162.5.	Mutilation: crushing feet and turning them backward. Ice- landic: *Boberg.
+S163.	Mutilation: cutting (tearing) out tongue. Often to prevent revela- tion of secret. Irish myth: *Cross; Spanish: Boggs FFC XC 67 No. 510, Keller; Greek: Fox 70 (Philomela), Grote I 181; India: Thomp- son-Balys; Japanese: Ikeda; Tuamotu: Stimson MS (T-G. 3/600); Koryak, American Indian: *Jochelson JE VI 372.
+A2344.2.	Why animal has no tongue.
+K825.	Victim persuaded to hold out his tongue: cut off.
+Q451.4.	Tongue cut off as punishment.
+S164.	Mutilation: knocking out teeth. Icelandic: *Boberg. -
+S165.	Mutilation: putting out eyes. *Types 310, 533, 590, 613; *BP I 97ff., II 273ff., 468ff., III 1ff.; **Christiansen FFC XXIV 46ff.; *Cox 501; Gaster Thespis 332f. Irish myth: *Cross; Icelandic: *Boberg; Missouri French: Carrière; Breton: Sébillot Incidents s.v. "yeux"; Spanish: Boggs FFC XC 63, 67 Nos. 455, 510, Espinosa II 99-103, 111-112, Espinosa Jr. No. 137; Greek: *Grote I 183, Fox 74 (Phineus); Jewish: Neuman; India: *Thompson-Balys; Buddhist myth: Malala- sekera I 111, 1163; Chinese: Eberhard FFC CXX 250 No. 193; Tahiti: Beckwith Myth 251; Hawaii: ibid. 248; Eskimo (Cumberland Sound): Boas BAM XV 165, (Central Eskimo): Boas RBAE VI 585; N. A. Indian: *Thompson CColl II 391ff.
+E781.2.	Eyes bought back and replaced.
+G511.	Ogre blinded.
+J2423.	The eye-juggler.
+K1011.	Eye-remedy. Under pretence of curing eyesight the trickster blinds the dupe.
+K1465.	The blinded slave's revenge.
+M225.	Eyes exchanged for food. A starving man lets himself be blinded in return for food.
+Q451.7.	Blinding as punishment.
+R176.	Executioner miraculously blinded: condemned man saved.
+S21.2.	Son blinds father.
+S73.3.	Man blinds brother.
+S165.1.	Eyes of beheaded person gouged out. Greek: Frazer Apollodorus I 278 n. 1.
+S165.2.	Crane pecks out tiger's eyes. India: Thompson-Balys.
+S165.3.	Blinding by thrusting needles into eyes. Irish myth: Cross.
+S165.4.	Eyes torn out and filled with sand. India: *Thompson-Balys.
+S165.5.	Necklace made of torn out human eyes. India: Thompson-Balys.
+S165.6.	Human eyes used as fishbait. Hawaii: Beckwith Myth 245.
+S165.7.	Artisan who has built palace blinded so he cannot build another like it. (Cf.
+S161.0.	1,
+W181.2.	) Buddhist myth: Malalasekera I 489, 672.
+S166.	Mutilation: skin cut from back. Hdwb. d. Märchens II 102a n. 140; Icelandic: Herrmann Saxo II 447, Boberg; Missouri French: Carrière; Spanish: Espinosa III Nos. 163-7; India: Thompson-Balys.
+Q457.	Flaying alive as punishment.
+S114.	Murder by flaying.
+S166.1.	Mutilation: beard torn off with the skin (and cheeks). (Cf.
+S187.1.	) Icelandic: *Boberg.
+S166.2.	Mutilation: cheek and chin cut off, but held together by biting the beard. Icelandic: *Boberg.   ## p. 313 (#317) ############################################  S. Unnatural cruelty 313
+S166.3.	Mutilation: shoulder-skin torn off in wrestling. Icelandic: Göngu-Hrólfs saga 264.
+S166.4.	Mutilation: cheeks cut off. (Cf.
+S166.2.	) Icelandic: *Boberg.
+S166.5.	Mutilation: chin and lips cut off. Icelandic: *Boberg.
+S166.6.	Blood-eagle cut on man's back by flaying and salting. Ice- landic: Herrmann Saxo II 656, *Boberg.
+S167.	Mutilation by crushing. (Cf.
+S116.	) Irish myth: *Cross.
+S167.1.	Mutilation: crushing victim's limbs. India: Thompson-Balys.
+S168.	Mutilation: tearing off ears. Icelandic: *Boberg.
+S172.	Mutilation: nose cut off or crushed. Icelandic: *Boberg.
+S172.1.	Angry paramour bites off his mistress's nose. India: Thompson- Balys; Buddhist myth: Malalasekera I 318, 328.
+S173.	Mutilation: breaking (two, three) ribs. Icelandic: *Boberg.
+S175.	
+F624.3.1.	Strong man throws carriage with horses and driver on top of haystack and breaks the driver's ribs. Horses mutilated: tails cut off and manes torn off with the skin in order to humiliate their owner. (Cf.
+J1169.5.	) Icelandic: Boberg.
+Q470.	Humiliating punishments.
+S176.	Mutilation: sex organs cut off. (Cf. Q241,
+Q451.10.	) Icelandic: *Bo- berg; Spanish Exempla: Keller.
+S176.1.	Mutilation: emasculation. Irish myth: *Cross; Eskimo (Green- land): Rasmussen I 270, III 293.
+S180.	Wounding or torturing.
+E10.	Resuscitation by rough treatment.
+K1016.	Beetles and barley introduced into wounds on pretence of healing them.
+K1111.	Dupe puts hand (paws) into cleft of tree (wedge, vise).
+K1111.1.	Ogre's (dwarf's) beard caught fast.
+K1212.	Lover left standing in snow while his mistress is with another. He later tricks her into standing a whole day in July in a tower naked exposed to the sun and flies.
+Q464.	Covering with honey and exposing to flies.
+Q501.	Unremitting torture as punishment.
+S181.	Wounding by trapping with sharp knives (glass). *Type 432; *BP II 261ff.; Italian: Basile Pentamerone II Nos. 2, 5; India: *Thomp- son-Balys.
+K1565.	Blades (broken glass) to wound and detect wife's lover.
+S181.1.	Victim bound to a bladed wheel. (Cf.
+Q423.	) *Loomis White Magic 118.
+S182.	Girl fastened by hair to rafter. *Fb "hår" I 771b.
+R111.2.3.	Princess rescued from giant's cave where she is fettered to a chair by the hair.
+S182.1.	Man hanged by hair to tree. Cheremis: Sebeok-Nyerges.
+S182.2.	706. Girl pulled about by her hair. Buddhist myth: Malalasekera II
+S183.	Frightful meal. (Cf.
+Q478.	) Irish myth: Cross.
+S183.0.1.	Person forced to eat red-hot meal. Irish myth: Cross.
+S183.1.	Person forced to eat hearts (flesh) of relatives (draw blood). Irish myth: *Cross.   ## p. 314 (#318) ############################################  314 Motif-Index of Folk-Literature
+S183.2.	Person forced to eat loathsome animal. Irish myth: *Cross.
+S185.	Cruelty to pregnant woman. Irish myth: Cross; India: Thompson- Balys.
+S116.2.	Pregnant woman crushed beneath chariot.
+S324.	Pregnant woman ordered by husband to kill child to be born.
+S185.1.	Co-wife forces pregnant woman to perform lowly tasks. (Cf.
+T257.2.	) Irish myth: *Cross.
+T257.2.	Jealousy of rival wives.
+S185.2.	King demands intercourse with woman in childbed. Irish myth: *Cross.
+S186.	Torturing by beating. Der Heiligen Leben und Leiden 100ff. (Santa Barbara); Buddhist myth: Malalasekera I 587.
+S187.	Torturing by scratching.
+S187.1.	Torture by tearing out the sides (of a person). (Cf.
+S166.1.	) Der Heiligen Leben und Leiden 100f. (Santa Barbara); Jewish: Neuman.
+S187.2.	Hair combed with iron combs. India: Thompson-Balys.
+S191.	Driving insane by keeping awake. Nouvelles Récréations No. 68. $200-$299. Cruel sacrifices.
+S200.	Cruel sacrifices.
+S21.3.	Sons give mother as hostage.
+S210.	Children sold or promised. *Type 930; Aarne FFC XXIII 54; BP I 98; Grimm Nos. 12, 31, 55, 92, 181; India: *Thompson-Balys; Japanese: Ikeda.
+B11.10.	Sacrifice of human being to dragon.
+S10.	Cruel parents.
+V115.2.	Girl sold for new church bell.
+S210.1.	Child sold into slavery. English: Wells 22 (Sir Beues of Ham- toun); Greek: Grote I 163; India: *Thompson-Balys; Buddhist myth: Malalasekera II 946. See also story of Joseph.
+Q437.1.	Criminal's wife and children sold into slavery.
+R61.	Person sold into slavery.
+S210.2.	Child sold to be killed. Jewish: *Neuman. --
+S211.	Child sold (promised) to devil (ogre). See also references to S220-S259, practically all of which apply here. *Types 314, 400, 502, 756B, 810; BP II 329, III 463, 531; *Cosquin Études 365, 542ff.; *Wesselski Märchen 242 No. 52; *Andrejev FFC LXIX 46; Sebillot France III 446, IV 127; Gaster Exempla 248 No. 352. Lappish: Qvigstad FFC LX 42 No. 29AB; Swiss: Jegerlehner Oberwallis 293 No. 1, 300 No. 2; Breton: Sébillot Incidents s.v. "enfant", "diable"; French Canadian: Barbeau JAFL XXIX 17; Missouri French: Car- rière; Spanish: Espinosa II Nos. 99–103, Espinosa Jr. No. 66; India: *Thompson-Balys; Indonesia: DeVries's list No. 147; Philippine: Fansler MAFLS XII 210, 212; Africa: Werner African 214.
+C12.4.1.	Mother wishes lazy daughter may marry devil. Devil appears and marries her.
+C25.1.	Child threatened with ogre. Latter takes child off.
+G461.	Youth promised to ogre visits his home.
+H1273.1.	Quest to devil in hell for return of contract.
+K218.2.	Devil cheated of his victim by boy having bible under his arm.
+M211.	Man sells soul to devil.   ## p. 315 (#319) ############################################  S. Unnatural cruelty 315
+S211.1.	Child of woman and devil taken to his father. Type 756B; *Andrejev FFC LXIX 49.
+S212.	Child sold to magician. *Type 325; *Cosquin Études 523; BP II 60; Jones PMLA XXIII 567; India: *Thompson-Balys.
+S213.	Child promised to wood-spirit. (Cf.
+F441.	) Type 667*.
+S214.	Child promised to mermaid. (Cf.
+B81.	) Köhler-Bolte I 178; Irish myth: Cross.
+S215.	Child promised to animal. (Cf.
+B620.1.	) India: *Thompson-Balys; Africa: Werner African 223.
+H188.	Princess appears before crane (who had demanded her in mar- riage) and is recognized by him despite loathly disguise.
+S221.1.	Bankrupt father sells his daughters in marriage to animals. (Some- times to pay gambling debt.)
+S232.	Daughter promised to tiger in marriage for help in carrying load.
+S247.	Daughter unwittingly promised to dog rescuer.
+S215.1.	Girl promises herself to animal suitor. *Type 440; BP I lff.; In- dia: Thompson-Balys.
+S216.	Mothers exchange children. India: Thompson-Balys.
+S220.	Reasons for promise (sale) of child.
+S10.	Cruel parents.
+S221.	Child sold (promised) for money. *Type 756B; *Andrejev FFC LXIX 50ff., 56ff., *223, 227 n., *230 n.; Fb "sælge" III 722a; *Ward II 661 No. 4 (wife sold); Spanish: Boggs FFC XC 65 No. 471B*, Espinosa II No 117.
+S221.1.	Bankrupt father sells his daughters in marriage to animals. (Sometimes to pay gambling debt.) (Cf.
+S215.	) *Types 425C, 552A; *BP II 234ff., III 424ff.; Spanish: Espinosa Jr. No. 65; India: *Thomp- son-Balys; Buddhist myth: Malalasekera I 149, II 1013.
+F451.5.18.1.	Dwarf promises money and property to mortal father for hand of daughter.
+N1.	Gamblers.
+T68.	Princess offered as prize.
+S221.2.	Youth sells himself to an ogre in settlement of a gambling debt. (Cf. M211,
+S215.	) *Type 313; BP I 442.
+S222.	Man promises (sells) child in order to save himself from danger or death. *Types 310, 425C, 756B, 500; BP I 490ff.; MacCulloch Child- hood 421; *Andrejev FFC LXIX 51, 58, 229 n.; India: *Thompson- Balys.
+T52.7.	Princess asked for in return for sparing palace.
+T69.3.	Man gives daughter in return for his release.
+S222.1.	Woman promises her unborn child to appease offended witch. Italian: Basile Pentamerone II No. 1.
+S222.2.	Woman promises unborn daughter to snake as wife for fer- rying her across stream. India: Thompson-Balys.
+B551.4.	Water snake carries man across water.
+S222.3.	Woman promises unborn child to tiger if he will spare her. India: Thompson-Balys.
+S222.4.	Sultan's daughter demanded by giant ogre as price for letting his subjects alone. India: Thompson-Balys.
+S223.	Childless couple promise child to the devil if they may only have one. *Type 756B; *BP III 107; *Wesselski Märchen 242 No. 52;   ## p. 316 (#320) ############################################  316 Motif-Index of Folk-Literature *Andrejev FFC LXIX 49, 52, *223ff.; Icelandic: *Boberg; India: *Thompson-Balys; Africa (Swahili): Steere 379.
+M219.1.	Bargain
+C758.1.	Monster born because of hasty wish of parents. with the devil for an heir.
+S271.	Sacrifice of child to remove barren- ness.
+T548.1.	Child born in answer to prayer.
+S223.0.1.	Robert the Devil. Childless couple wish for a child even if he comes from the devil. He is diabolical. *Wells 784; *Hibbard 49ff. (Sir Gowther); *Krappe Mod. Lang. Rev. XXIV (1929) 200ff.; Irish myth: Cross.
+T548.1.	Child born in answer to prayer.
+T556.	Woman gives birth to a demon.
+T614.	Diabolical child kills his wet-nurses.
+S223.0.2.	Maid pledged to devil dresses conspicuously. Finnish-Swedish: Wessman 14 No. 124.
+S223.1.	Girl promises unborn child to devil if he will suffer the birth pangs. Finnish: Aarne FFC XXXIII 40 No. 31**; Lithuanian: Balys Index No. 3254, Legends Nos. 370ff.
+S223.2.	Mother curses her unborn child. (Cf.
+M411.1.	) *Type 756B; *Andrejev FFC LXIX 49.
+S223.3.	An old maid promises the devil her first born. She wishes to get a husband. Lithuanian: Balys Legends No. 391.
+S223.4.	Childless couple promise one of two children to devil if they may only have them. India: *Thompson-Balys.
+S224.	Child promised to devil for acting as godfather. (Cf.
+N411.	) *Types 314, 502, 756B; *BP II 319ff., 329; Andrejev FFC LXIX 50; Breton: Sébillot Incidents s.v. "filleul".
+S225.	Child promised to devil for help on road with broken wagon. Andrejev FFC LXIX 50, 56, 228 n.
+S226.	Child promised to devil for directions out of woods when father is lost. *Andrejev FFC LXIX 51, 58, 229 n.; BP II 483f.
+S227.	Child promised to devil in exchange for a good catch of fish. *Andrejev FFC LXIX 51, 60, 230 n.; Irish: O'Suilleabhain 38, Beal XXI 314.
+S228.	Daughter promised to monster as bride to secure flower (bird) she has asked for. *Type 425C; *Tegethoff 12, 18; *BP II 229ff., *232 n. 2; India: *Thompson-Balys.
+L221.	Modest request: present from the journey.
+T118.	Girl married to (enamored of) a monster.
+S232.	Daughter promised to tiger in marriage for help in carrying load. (Cf.
+B620.1.	) India: *Thompson-Balys.
+S233.	Children given in return for being taught magic. India: *Thomp- son-Balys.
+S234.	Children sold in exchange for food. Africa (Wakweli): Bender 60.
+S235.	
+S240.	Angry man gives away his daughter to a beggar. Chinese: Eber- hard FFC CXX 248 No. 193. Children unwittingly promised (sold). (Cf.
+S211.	) *Types 314, 400, 710, 756B; *BP II 329; *Fb "frugtsommelig" I 376, "ufødt" III 926a; *Andrejev FFC LXIX 50ff., 56ff., 223; *MacCulloch Childhood 418; Irish: Baughman; Italian: Basile Pentamerone I No. 8.   ## p. 317 (#321) ############################################  S. Unnatural cruelty 317
+S240.1.	Girl promised unwittingly by her parents to ogre. India: Thomp- son-Balys.
+S241.	Child unwittingly promised: "first thing you meet." (Jephthah's vow.) *Types 425, 810; *BP II 329, 483; *Fb "først" I 404, "møde" II 647a; Wünsche 34f.; *Tegethoff 18; *Cox Cinderella 511; *Andrejev FFC LXIX 50, 62, 228 n.; Johnston MLN XXII 233. French Ca- nadian: Barbeau JAFL XXIX 17; Spanish: Espinosa Jr. No. 66; N. A. Indian (Zuñi): Boas JAFL XXXV 66 No. 2. -
+S241.1.	Unwitting bargain with devil evaded by driving dog over bridge first. The child has been unwittingly promised (the first thing that goes over the bridge). Kittredge Witchcraft 206, *518 n. 19; Hazlitt Shakespeare Jest Books I 86f. No. 67; Mensa Philosophica No. 11.
+D526.	Transformation through greeting. First creature to be greeted will be transformed.
+J1169.4.	The ass beheaded. King vows to sacrifice first thing he meets. It is a miller driving an ass. Miller pleads that the ass preceded him. They behead the ass.
+K210.	Devil cheated of his promised soul.
+K527.	Escape by substituting another person in place of the intended victim.
+S241.2.	Devil is to have last one who leaves "black school". Fb. "fan- den" I 267b; Scotland, England: Baughman.
+G303.19.	Devil takes the hindmost.
+S241.3.	Princess promised unwittingly to madman: “what you ask for." India: Thompson-Balys.
+S242.	Child unwittingly promised: "what you have at home." The man thinks it is a cat (dog). *Types 316, 710; *BP I 21; Köhler-Bolte I 312; *Andrejev FFC LXIX 50, 62, 228 n.; Finnish-Swedish: Wessman 54 No. 455; Spanish: Espinosa II Nos. 99-103.
+S242.1.	Child unwittingly promised: "What you wife has under her belt." BP I 98f.; Danish: Grundtvig No. 33.
+S243.	Child unwittingly promised: Nix-Naught-Nothing. The child born while the father is away is named Nix-Naught-Nothing. Köhler- Bolte I 279; English: Jacobs English Fairy Tales 33.
+K193.	Deceptive bargain based on an unusual name.
+S245.	Child unwittingly promised: what is born on your farm. Two women agree that what is born on the farm of each belongs ex- clusively to the owner. The child of one is born on the farm of the other. Africa (Fjort): Dennett 58 No. 11.
+S247.	Daughter unwittingly promised to dog rescuer. (Cf.
+B620.1.	) Without knowing that a dog has rescued her, the father offers her in marriage to her rescuer. India: *Thompson-Balys; Chinese: Wer- ner 421; Japanese: Ikeda:
+S250.	Saving the promised child.. Missouri French: Carrière.
+H1273.1.	Quest to devil in hell for return of contract.
+K210.	Devil cheated of his promised soul.
+S251.	Virgin Mary rescues child promised to the devil. *Meyer Romania XXXIII 163ff.; Ward II 632 No. 29, Herbert III 504; Spanish: Espinosa II Nos. 99-103.
+M211.	Man sells soul to devil. R150, Rescuers.
+V250.	The Virgin Mary.
+S252.	Vain attempt to save promised child.   ## p. 318 (#322) ############################################  318 Motif-Index of Folk-Literature
+S252.1.	Vain attempt to save promised child by use of substitute. *Type 425.
+K527.	Escape by substituting another person.
+K1840.	Deception by substitution.
+K1920.	Substituted children.
+S252.2.	Vain attempt to save promised child by evasions. India: Thomp- son-Balys.
+S255.	Deity saves person about to be sacrificed. (Cf.
+S263.2.1.	) India: *Thompson-Balys.
+S255.1.	Deity promises deliverance of promised child to mother in dream. India: *Thompson-Balys.
+S255.2.	Child sacrificed to deity returned to mother alive and whole after the ablution and ceremonial rites in honor of her. India: Thompson-Balys.
+S260.	Sacrifices. (Cf.
+S255.	) Irish myth: *Cross.
+A1545.	Origin of sacrifices.
+B11.10.0.1.	Sacrifice of animals to dragon.
+B82.2.	Merman demands cattle as offering.
+D1766.2.	Magic results produced by sacrifices.
+K1614.	Father delivering daughter to be eaten by cannibal is himself eaten.
+T301.	Sacrifice of virginity.
+V10.	Re- ligious sacrifices.
+S260.1.	Human sacrifice. *Penzer IV 65 n.; *Encyc. Religion Ethics s.v. "Human sacrifice"; *V. Manzini La superstizione omicida e i sacrifici umani, con particolare riguardo alle accuse contro gli Ebrei (2d. ed., Padua, 1930); Krappe Hessische Blätter für Volkskunde XXVI (1927) 18-25. Irish myth: *Cross; Icelandic: *Boberg; Spanish: Keller, Espinosa Jr. Nos. 61, 68f.; Greek: Fox 183; Jewish: *Neuman; India: *Thompson-Balys; Buddhist myth: Malalasekera I 189, II 54, 851; Marquesas: Beckwith 269, Handy 73; N. A. Indian (Sia): Alexander N. Am. 203, (Hopi): ibid. 205, (Zuñi): ibid. 201, *Benedict 342; Africa (Bushongo): Torday 250.
+B11.10.	Sacrifice of human being to dragon.
+P16.4.1.	Suttee. Burning of wife with dead king.
+P361.3.	Faithful servant sacrifices sons to save life of king. Sons resuscitated and servant enriched. V361, Christian child killed to furnish blood for Jewish rite.
+S260.1.1.	Child sacrifice as religious rite. Irish: *Cross, Beal XXI 329, O'Suilleabhain 90; Jewish: *Neuman; N. A. Indian (Aztec): Alex- ander Lat. Am. 72.
+S260.1.2.	Sacrifice of sister on advice of yogi. India: Thompson-Balys.
+S260.1.3.	Prisoners sacrificed to goddess. Irish myth: Cross.
+S260.1.4.	Sacrifice of child to save life of another. (Cf.
+S268.	) Korean: Zong in-Sob 44 No. 26.
+S261.	Foundation sacrifice. A human being buried alive at base of the foundation of a building or bridge. *Krappe Balor 165 n. 1; *Gaidoz Mélusine IV (1888) No. 2; Krappe Revue Celtique XLIII (1926) 124ff. Irish myth: *Cross; English: Wells 39 (Arthour and Merlin), 42 (Nennius' Historia Britonum); Welsh: MacCulloch Celtic 200; Finnish: Aarne FFC XXXIII 46 No. 81; Finnish-Swedish: Wessman 73 No. 620; Lithuanian: Balys Index No. 3519; Estonian: Aarne FFC XXV 133 No. 81; Spanish: Espinosa III Nos. 139, 151, 157; India: *Thompson-Balys; Japanese: Ikeda.
+C931.	Building falls because of breaking of tabu.
+D2192.	Work of day magically overthrown at night.
+S125.	Immolation.
+S261.0.1.	Human blood mixed with rice to make leaky tanks hold water. India: Thompson-Balys.   ## p. 319 (#323) ############################################  S. Unnatural cruelty 319
+S261.1.	Child as foundation sacrifice smiles and wins freedom. The king asks him why he smiles. "One first expects mercy from the parents; if they have none, then from the king. Now only God will have mercy." *Krappe Balor 171ff.; Penzer VII 87 n. 1, 88-96, 250ff.; *DeVries "De Sage van het ingemetselde Kind" Nederlandsche Tijdschrift voor Volkskunde XXXII (1917); India: *Thompson-Balys. Parent's heart (said by child being sacri- ficed).
+J120.	Wisdom learned from children.
+N456.	Enigmatical smile (laugh) reveals secret knowledge.
+H637.1.	What is hardest? -
+S262.	Periodic sacrifices to a monster. *Schoepperle II 326ff.; *Panzer Beowulf 276ff.; *Frazer Pausanias V 143; Brown Iwain 17 and pas- sim; *Freytag Am Urquell I (1890) 179ff., 197ff.; *Fb "glarbjærg" I 459, "jomfru" II 43; Chauvin VI 110 No. 274. Irish myth: *Cross; Missouri French: Carrière; Spanish: Espinosa III Nos. 139, 151, 157; Greek: *Frazer Apollodorus I 207 n. 2, II 119 n. 2, 134 n. 1; India: *Thompson-Balys; Buddhist myth: Malalasekera I 189, II 573, 1188; Japanese: Ikeda; Africa (Basuto): Jacottet 154 No. 22, (Fang): Trilles 166.
+B11.10.	Sacrifice of human being to dragon.
+B16.2.1.	Devastating fox. Monthly human sacrifice.
+S262.0.1.	One man disappears each night. English: Beowulf; Icelandic: *Boberg.
+S262.1.	Woman given to devastating monster as wife to appease it. Irish myth: *Cross; Japanese: Ikeda; N. A. Indian (Creek): Alexander N. Am. 71.
+S262.2.	Tribute of youths regularly sent to foreign king. English: Wells 80 (Sir Tristrem).
+S262.2.1.	Youths and maidens as yearly tribute to monsters (Fomorians). Irish myth: *Cross.
+S262.3.	Sacrificial victim chosen by lot. (Cf.
+N126.	) Icelandic: *Boberg; Buddhist myth: Malalasekera II 793; West Africa: Tauxier La Noir du Yatenga (Paris, 1917) 496f. No. 1, (Hausa): Basset Mélusine III 226f. No. 2, (Senegambia): Bérenger-Feraud II 185ff. No. 2.
+S262.4.	Girl offers to sacrifice herself to dragon in place of her parents. India: Thompson-Balys.
+S263.	Sacrifice to appease spirits (gods). (Cf. K1603,
+T211.1.1.	) Irish myth: Cross; Japanese: Ikeda,
+S263.1.	Highest ranking man in land to be sacrificed for good crops. Icelandic: *Boberg.
+S263.2.	Child sacrificed to gain favor of gods. Penzer II 214ff.; Irish myth: Cross; Greek: Frazer Apollodorus II 111, Fox 52, 126; India: Thompson-Balys.
+S263.2.1.	Gods furnish substitute for child sacrifice. (Cf.
+S255.	) Irish myth: *Cross; Greek: Frazer Apollodorus II 192 n. 1; Jewish: *Neu- man.
+S263.2.2.	Daughters sacrificed to avert famine. *Frazer Pausanias II 78.
+S263.2.3.	Man shows himself willing to sacrifice his child to prove his desire to follow God. He is prevented by abbot. Spanish Exempla: Keller.
+S263.3.	Person sacrificed to water spirit to secure water supply. India:   ## p. 320 (#324) ############################################  320 Motif-Index of Folk-Literature *Thompson-Balys; Africa (Lamba): Doke MAFLS XX 14 No. 11, (Hausa): Basset Mélusine III 226f. No. 2, (Fulah): Frobenius Atlantis VI 182ff. No. 4.
+A1111.	Impounded water. $263.3.1. Human sacrifice to water serpent to secure tribal prosperity. Africa Tauxier La Noir du Yatenga (Paris, 1917) 496f. No. 1, (Sene- gambia): Béranger-Feraud II 185ff. No. 2.
+S263.3.2.	Serpent in stream demands pair of human eyes for drink of water. (Cf.
+M225.	) India: Thompson-Balys.
+S263.3.3.	Raja sacrifices his entire family so as to purify lake water. In- dia: Thompson-Balys.
+S263.4.	Sacrifice to river-god who has stopped boat in mid-stream. India: *Thompson-Balys; Africa (Basuto): Jacottet 152ff. No. 22.
+S263.4.1.	Sacrifice to offended gods, who hold ship back. Icelandic: Herrmann Saxo II 586; Greek: Frazer Apollodorus II 111.
+D2072.0.3.	Ship held back by magic.
+S263.5.	Sacrificial suicide. (Cf.
+S264.1.2.	) Irish myth: Cross.
+S263.5.1.	Saints (monks) sacrifice themselves (to avert plague). Irish myth: *Cross.
+S263.5.2.	Monks sacrifice themselves (to save king and princes from pestilence). Irish myth: Cross.
+S263.5.3.	Man leaps from vessel into jaws of sea-beast, so as to save remaining passengers. Irish myth: Cross.
+S263.6.	Man sacrifices his wife to procure wealth in jars. India: Thomp- son-Balys.
+S264.	Sacrifice to rivers and seas. *Fb "sø" III 731a, "å" III 1187b.
+D1311.11.1.	River says, "The time has come but not the man."
+S264.1.	Man thrown overboard to placate storm. (Cf.
+S263.5.3.	) Type 973*; Child V 496 s.v. "Ships"; Chauvin VII 30 No. 212 n. 2; Irish myth: *Cross; Icelandic: *Boberg; Jewish: bin Gorion Born Judas2 I 227; Buddhist myth: Malalasekera I 1024; Korean: Zong in-Sob 107 No. 57.
+C41.3.	Tabu: crossing water when spirits are offended.
+S264.1.1.	Man carried on top of mast ready to be sacrificed to storm spirit. India: *Thompson-Balys.
+S264.1.2.	Woman drowns herself as sacrifice to water-gods to save husband's boat from capsizing. (Cf.
+S263.5.	) Japanese: Ikeda,
+S264.2.	Sacrifice to tank. India: Thompson-Balys. $265. Sacrifice of strangers. Greek: *Frazer Apollodorus I 224 n. 1, II 273 n. 2; Japanese: Ikeda.
+S265.1.	Hostages sacrificed. Irish myth: *Cross.
+S266.	Burial of live girl to banish plague. German: Knoop Sagen u. Erzählungen aus Posen 123.
+S267.	Flood stopped by sacrifice of boy and girl. N. A. Indian (Zuñi): Benedict 337.   ## p. 321 (#325) ############################################  S. Unnatural cruelty 321 —
+S268.	Child sacrificed to provide blood for cure of friend. (Cf.
+S260.1.4.	) *Type 516; **Rösch FFC LXXVII 138ff., 161ff.; BP I 56; *Chauvin VIII 195 No. 235: *Wells 787 (Amis and Amiloun); Hibbard 70ff.; Scala Celi 10a No. 64; Alphabet No. 55. Italian: Basile Pentame- rone IV No. 9, Rotunda; India: *Thompson-Balys; Japanese: Ikeda.
+E113.	Resuscitation by blood.
+H1558.	Tests of friendship.
+P310.	Friend- ship.
+P361.3.	Faithful servant sacrifices sons to save life of king.
+S268.1.	Sacrifice of child demanded as cure for feigned sickness. India: *Thompson-Balys.
+B335.2.	Life of helpful animal demanded as cure for feigned sickness.
+D866.2.	Magic object destroyed to cure feigned sickness.
+H1212.	Quest assigned because of feigned illness.
+S268.1.1.	Prince's life can only be prolonged if servant sacrifices his only son to goddess. India: *Thompson-Balys.
+S268.2.	Son sold for transfusion of blood to sick king. India: Thompson- Balys.
+S271.	Sacrifice of child to remove barrenness. Penzer I 154; Chauvin V 176 No. 100; India: Thompson-Balys.
+J2067.1.	Sacrifice of one son to get another.
+S223.	Childless couple promise child to the devil if they may only have one.
+T510.	Miracul- ous conception.
+S272.	Sacrifice of brothers promised if girl is born. *Type 451; BP I 71ff.
+S272.1.	Flight of brothers from home to avoid being sacrificed. *Type 451; BP I 70.
+S273.	Child bought to serve as sacrifice to demon. Penzer VII 87 n. 1; India: Thompson-Balys.
+S274.	Sacrifice as an agricultural rite. Irish myth: *Cross.
+S276.	Sacrifice as protection against disease. Irish myth: *Cross. S300-$399. Abandoned or murdered children.
+S300.	Abandoned or murdered children.
+E225.	Ghost of murdered child.
+G261.	Witch steals children.
+P230.	Parents and children.
+S10.	Cruel parents.
+T600.	Care of children. -
+S301.	Children abandoned (exposed). *Types 327, 450, 590, 675, 920, 930; *De Vries FFC LXXIII 40ff.; *Penzer VII 81 n. 1, 82 n. 250; *Boje 65; *Cosquin Études 199ff.; *Prato RTP IV 178; **Nutt FLR IV 1ff.; **Hartland FLJ IV 308; *Aarne FFC XXIII 60; Cowell Jātaka V 230; Dickson 152. Irish myth: *Cross; Icelandic: *Boberg; Breton: Sé- billot Incidents s.v. "enfant"; Spanish: Espinosa II Nos. 99-103, 119; Italian: Basile Pentamerone V No. 8, *Rotunda; Jewish: *Neuman; India: *Thompson-Balys; Chinese: Eberhard FFC CXX 94f.; Tua- motu: Beckwith Myth 471; Tonga: Gifford 122; Hawaii: Beckwith Myth 523; Easter Island: Métraux Ethnology 369, 385; N. A. Indian: *Thompson Tales 349 n. 255, (California): Gayton and Newman 89, (Zuñi): Benedict II 335; West Indies: Flowers 576.
+M312.7.	Prophecy of luck for outcast child.
+S302.	Children murdered. Irish myth: *Cross; Jewish: *Neuman.
+S302.1.	All new-born male children slaughtered. Jewish: *Neuman. 21   ## p. 322 (#326) ############################################  322 Motif-Index of Folk-Literature
+S303.	Son killed at instigation of lover. India: Thompson-Balys.
+S303.1.	Woman asks suitor to kill the child of his first wife. Africa (Ca- meroon): Mansfield 228.
+S310.	Reasons for abandonment of children. (Cf. K2015, M371, M373,
+M375.	)
+S311.	Undesirable children exposed, desirable preserved. *Frazer Old Testament II 437ff.; Icelandic: Boberg.
+S311.1.	Parents successively bury alive their sons who mention some- thing about smith's, potter's, washerman's, and tom-tom beater's trade, but keep fifth child who says something about being future king. India: Thompson-Balys.
+S312.	Illegitimate child exposed. (Cf.
+S12.2.	1,
+T640.	) *Encyc. Religion Ethics s.v. "Abandonment and exposure"; *Nutt FLR IV 1ff.; Frazer Apollodorus I 252 n. 2; Aarne FFC XXIII 63; *Hertel Zs. f. Vksk. XIX 83ff., 91. Irish myth: *Cross; Icelandic: *Boberg; Italian Novella: Rotunda; India: *Thompson-Balys.
+S312.1.	Child of incest exposed. (Cf.
+T410.	) *Type 933; Köhler-Bolte Zs. f. Vksk. VI 173 (to Gonzenbach No. 85); *Baum PMLA XXXI 562 n. 59; Krappe Neuphilologische Mitteilungen XXXIV (1933) 11-22; Irish myth: *Cross; Icelandic: Boberg.
+S312.2.	Violated woman's child exposed. Icelandic: *Boberg.
+S312.3.	Posthumous child to be exposed. Icelandic: Boberg.
+S312.4.	
+T645.1.	Sword left posthumous son to kill father's murderer.
+T682.	Hero a posthumous son. Woman abandons baby boy (of which she was artificially im- pregnated) in forest. India: Thompson-Balys.
+S313.	Child of supernatural birth exposed. (Cf.
+T520.	) *Nutt FLR IV 1ff.; Gaster Thespis 255; Greek: Grote I 103; Jewish: Neuman; India: Thompson-Balys.
+S314.	Twins (triplets) exposed. (Cf.
+T587.	) *Krappe Balor 17 n. 55; Dickson 103 n. 10; Gaster Thespis 255; Italian Novella: Rotunda; Greek: Grote I 103.
+S321.	Destitute parents abandon children. *Encyc. Religion Ethics s.v. "Abandonment and exposure"; *Type 327; *BP I 123; Missouri French: Carrière; Greek: Grote I 103; India: *Thompson-Balys; Chinese: Eberhard FFC CXX 256 No. 200a; Korean: Zong in-Sob 43 No. 25.
+S321.1.	Children abandoned in famine. Eskimo (Greenland): Rasmus- sen I 374, (Mackenzie Area): Jenness 34a; N. A. Indian (Zuñi): Bene- dict II 335; Africa (Wachaga): Gutmann 142.
+S322.	Children abandoned (driven forth, exposed) by hostile relative. *Roberts 128; Irish myth: *Cross; Spanish: Espinosa II No. 114, Espinosa Jr. No. 140.
+S322.0.1.	Orphaned boy deprived of his inheritance by relatives. India: *Thompson-Balys.
+S322.1.	Father casts daughter forth. Spanish: Espinosa II Nos. 107f., 154, Espinosa Jr. Nos. 120-123.
+M21.	King Lear judgment.   ## p. 323 (#327) ############################################  S. Unnatural cruelty 323
+S322.1.1.	Father who wanted son exposes (murders) daughter. Irish myth: *Cross; Greek: Fox 56 (Atalanta); India: *Thompson-Balys; Indonesia: DeVries's list No. 203.
+S322.1.2.	Father casts daughter forth when she will not marry him. (Cf.
+T411.1.	) *Type 510B; BP II 45; Cox passim; Krappe Zeitschrift für englische Philologie XLIX 361-69; Spanish: Espinosa II Nos. 99–103.
+S322.1.2.1.	Exposure in jungle for refusing to marry according to father's wishes. India: Thompson-Balys.
+S322.1.3.	Father condemns daughter to death because he believes her unchaste. Type 883A; India: Thompson-Balys; Africa (Somali): Kirk FL XV 319ff. No. 3, Reinisch Die Saho-Sprache (Wien, 1889) I 76ff. No. 3.
+S322.1.4.	Princess humiliated by father after she has married loathly bridegroom. India: Thompson-Balys.
+S322.1.5.	Boy turned out of doors by father. India: Thompson-Balys.
+S322.1.5.1.	King, jealous of son, banishes him and his wife. Buddhist myth: Malalasekera I 210.
+S322.2.	Jealous mother casts daughter forth. (Cf.
+S12.	) *Type 709; Africa (Angola): Chatelain 30 No. 1.
+S322.2.1.	Mother exposes child (for fear of jealous co-wife). Irish myth: *Cross.
+S322.3.	Jealous co-wife kills woman's children. (Cf.
+K2222.	) India: *Thompson-Balys; Africa (Basuto): Jacottet 246 No. 36, (Zulu): Callaway 237.
+S322.3.1.	Jealous co-wife demands murder of woman's children. India: *Thompson-Balys.
+S322.3.2.	Jealous concubine plots against real wife's daughter. Chinese: Graham.
+S322.4.	Evil stepmother casts boy forth. *Types 592; India: *Thompson- Balys.
+S322.4.1.	Banishment (death) of stepchildren demanded as cure for feigned illness. India: Thompson-Balys.
+B335.2.	Life of helpful animal demanded as cure for feigned sickness.
+H1212.	Quests assigned because of feigned illness.
+Q431.	Punishment: banishment (exile).
+S322.4.2.	Evil stepmother orders stepdaughter to be killed. Irish myth: *Cross.
+S322.4.3.	Stepmother irritates two stepsons so that one kills the other. India: Thompson-Balys.
+S322.5.	Repulsed lover kills woman's child. Dickson 73 n. 26.
+S322.6.	Jealous mother-in-law and sisters cast woman's children forth. Roberts 132; Italian Novella: Rotunda; India: *Thompson-Balys.
+K2110.1.	Calumniated wife.
+K2212.	Treacherous sister.
+S51.	Cruel mother-in-law.
+S322.7.	Evil stepmother works stepdaughter to death in absence of merchant husband. India: Thompson-Balys.
+S324.	Pregnant woman ordered by husband to kill child to be born. Irish myth: Cross. 21*   ## p. 324 (#328) ############################################  324 Motif-Index of Folk-Literature
+S325.	Diseased child exposed. Africa (Kaffir): Kidd 224 No. 1.
+S325.0.1.	Monstrous (deformed) child exposed. (Cf.
+S11.3.	2,
+T550.	) Irish myth: Cross; Greek: Grote I 55; Chinese: Graham; Marquesas: Handy 114; Tonga: Gifford 31, 60.
+S325.0.1.1.	Child born with caul exposed. Irish myth: Cross.
+S326.	Disobedient children cast forth. India: Thompson-Balys; Indonesia: DeVries's list No. 205.
+S326.1.	Disobedient child burned. Irish myth: Cross.
+S327.	Child cast out because of his stupidity. Type 563; Grimm No. 36; India: Thompson-Balys.
+S327.1.	Father wants to kill son because of foolish boasting. India: Thompson-Balys.
+S327.2.	Baby ordered killed because it pulls beard of father (raja). India: Thompson-Balys.
+P672.	Pulling a man's beard as an insult.
+S327.3.	Half-wit abandoned because of his tricks. Eskimo (Kodiak): Golder JAFL XXII 23.
+S328.	Mother sells her child to heathen sailors. Boje 63, *67.
+S329.	Reasons for abandonment of children-miscellaneous.
+S329.1.	Child exposed so as to avoid death decree. India: Thompson- Balys.
+S330.	Circumstances of murder or exposure of children.
+K1921.1.	Son of the king and of the smith exchanged.
+S142.	Person thrown into the water and abandoned.
+S143.	Abandonment in forest.
+S143.1.	Child abandoned in hollow tree.
+S146.	Abandonment in pit.
+S331.	Exposure of child in boat (floating chest). See references for S141, nearly all of which refer to this motif. Type 930; W. R. Halli- day Indo-European Folk Tales and Greek Legend (London, 1933) 55; Irish myth: Cross; Missouri French: Carrière; Greek: Grote I 103; Jewish: *Neuman; India: *Thompson-Balys; Buddhist myth: Malala- sekera I 558, 931; Japanese: Ikeda; Philippine (Tinguian): Cole 152.
+S141.	Exposure in boat.
+S431.	Cast-off wife exposed in boat.
+S332.	Queen hides her child and accuses wolf of eating it. Malone PMLA XLIII 437.
+S333.	Child's ankles pierced before exposing him. Greek: *Frazer Apol- lodorus I 344 n. 1 (Oedipus).
+S334.	Tokens of royalty (nobility) left with exposed child. (Cf.
+H80.	) *Penzer VII 81 n. 1; Irish myth: Cross; English: Wells 134 (Sir Degare), 126 (Lai Le Freine); Greek: Fox 71.
+S334.1.	Child exposed with twelve years' supply of food and attendants. India: Thompson-Balys.
+S335.	Child exposed at palace gate. Penzer VII 81 n. 1, 82 n., 250.
+S336.	Abandoned child wrapped in straw. DeVries FFC LXXIII 326f.
+S337.	Children enticed into grain pot and imprisoned. India: Thompson- Balys.
+S338.	Father abandons his daughter in forest and leaves axes tied so that they move in wind. Daughter thinks he is cutting wood. *Roberts 137.   ## p. 325 (#329) ############################################  S. Unnatural cruelty 325
+S341.	Exposure prevented.
+S341.1.	Exposure given up on account of newborn son's protesting stanza. Icelandic: Boberg.
+F611.3.2.	Hero's precocious strength.
+T585.	Precocious infant,
+S342.	Mother induced by rival to kill her children. India: *Thompson- Balys.
+S345.	Parents trick children into going on hunt, and then abandon them in forest. (Cf.
+S143.	) India: Thompson-Balys.
+S350.	Fate of abandoned child. India: Thompson-Balys; Chinese: Eber- hard FFC CXX 54 No. 33; Japanese: Ikeda.
+S350.1.	
+S350.2.	
+D1821.6.	Magic sight given to abandoned child.
+F615.	Strong man evades death. Vain attempts to kill him.
+G25.	Abandoned infant lives by eating corpse of murdered father.
+H80.	Identification by tokens.
+H90.	Identification by ornaments.
+H110.	Identification by cloth or clothing.
+K512.	Compassionate executioner. A servant charged with killing the hero (heroine) arranges the escape of the latter.
+L111.1.	Exile returns and succeeds.
+L111.2.	Foundling hero.
+N731.3.	Father unexpectedly meets abandoned son and reinstates him.
+P361.5.	Aban- doned maiden helped by her faithful nurse.
+R131.	Exposed or aban- doned child rescued.
+S371.	Abandoned daughter's son becomes hero. Infant condemned to death saved by a smile. Irish myth: Cross. Child driven out (exposed) brought up in secret. Irish myth: *Cross.
+A516.	Expulsion and return of culture hero.
+S351.	Abandoned child cared for by mother secretly. (Cf.
+R153.	) Africa (Zulu): Callaway 236, (Basuto): Jacottet 128ff. No. 18.
+S351.0.1.	Abandoned child made over to its own mother (sister) acting as wet nurse. Jewish: *Neuman.
+S351.1.	Abandoned child cared for by grandmother (aunt, foster mother). Irish: *Cross, MacCulloch Celtic 167; N. A. Indian (California): Gay- ton and Newman 91.
+S351.2.	Abandoned child reared by herdsman. (Cf.
+R131.3.	) Irish myth: Cross; Greek: Grote I 241, 263; Buddhist myth: Malalasekera I 458.
+S351.2.1.	Abandoned princess, brought up by herdsmen, becomes wife of king. Irish myth: *Cross; Buddhist myth: Malalasekera I 378.
+S352.	Animal aids abandoned child(ren). (Cf.
+B535.	) Missouri French: Carrière; India: *Thompson-Balys; S. A. Indian (Sherenti): Lowe BBAE CXLIII (1) 515; West Indies: Flowers 576.
+S352.1.	Animal preserves fire for abandoned children in a clam shell. N. A. Indian: *Thompson Tales 347, 349 nn. 247, 255.
+S353.	Abandoned child reared by supernatural beings. India: *Thomp- son-Balys; Maori: Dixon 42.
+S353.1.	Deity nurtures and rears abandoned child. India: *Thompson- Balys; Buddhist myth: Malalasekera II 1366.
+S353.2.	Exposed children miraculously fed by angels. Jewish: Neu- man.
+S354.	Exposed infant reared at strange king's court (Joseph, Oedipus).   ## p. 326 (#330) ############################################  326 Motif-Index of Folk-Literature *Type 931; Irish myth: *Cross; Jewish: Neuman, bin Gorion Born Judas2 I 165, 372; India: Thompson-Balys.
+L111.1.	Exile returns and succeeds.
+N836.1.	King adopts hero (heroine).
+R131.11.2.	King rescues abandoned child.
+S354.1.	Abandoned child adopted and found by queen. India: *Thomp- son-Balys.
+S354.2.	Travelers find exposed baby girl and take her to emperor's court. India: Thompson-Balys.
+S354.3.	Prince (princess) adopts exposed child. Jewish: Neuman; Africa (Wachaga): Gutmann 142.
+S355.	Exposed child carried off by wild beast. (Cf.
+R13.	) Dickson 169ff.
+S356.	Children left at home seek exposed brothers and sisters. Indonesia: DeVries's list No. 207.
+S357.	Abandoned sister rescued by brothers. When she is refused en- trance to house, she makes complaint in a song and brothers bring her clothes. Lithuanian: Balys Index No. 883C*.
+S361.	Bird carries food from deserted child to starving parents. N. A. Indian: *Thompson Tales 348 n. 250.
+S362.	Starving parents come to abandoned child for food. Jewish: *Neu- man (Joseph); Sulka of New Britain: Dixon 132 n. 2; N. A. Indian: *Thompson Tales 349 n. 255.
+S365.	Maltreated children transformed. (Cf.
+D642.	)
+S365.1.	Maltreated children transformed to doves. India: Thompson- Balys.
+S366.	Abandoned children return and kill parents. N. A. Indian (Cali- fornia): Gayton and Newman 89.
+S371.	Abandoned daughter's son becomes hero. *Dixon 130, 132 n. 2, 136 nn. 10, 11; Greek: Grote I 854; India: *Thompson-Balys.
+S375.	Old woman's maledictions inform abandoned hero of his parentage and future. He has knocked her over (broken pots). *Cosquin Contes indiens 398.
+M301.2.1.	Enraged old woman prophesies for youth.
+M411.5.	Old woman's curse.
+N825.3.	Old woman helper.
+S376.	Tree feeds abandoned children with its sap. India: Thompson- Balys.
+S378.	Deserted children become Thunder. N. A. Indian (California): Gayton and Newman 91.
+A1142.	Origin of thunder
+R321.	Escape to the stars. S400-
+S499.	Cruel persecutions. $400. Cruel persecutions.
+S401.	Unsuccessful attempts to kill person in successive reincarnations (transformations). Egyptian: Petrie Egyptian Tales (London, 1895) I 36ff., Von Sydow "Den fornegyptiska Sagan om de två Bröderna”   ## p. 327 (#331) ############################################  S. Unnatural cruelty 327 Yearbook of the New Society of Letters of Lund, 1930, 53ff.; India: *Thompson-Balys.
+D610.	Repeated transformations.
+E670.	Repeated reincarnation.
+H1510.	Tests of power to survive.
+K1911.2.1.	True bride transformed by false.
+S410.	Persecuted wife. *Types 450, 705, 706, 707, 708, 712, 872*; *BP II 236, 284; *Schlauch Constance and Accused Queens (New York, 1927); *Hibbard 29, 35ff.; *Wehrhan 51; *Krappe Anglia XLIX 361ff. Missouri French: Carrière; Spanish: Keller, Espinosa II No. 105; India: *Thompson-Balys; Eskimo (Greenland): Rasmussen I 365, III 104, Rink 441, (Cumberland Sound): Boas BAM XV 198.
+A773.2.	Pleiades six repudiated wives.
+C867.1.	Tabu: abusing women or children.
+D688.	Transformed mother suckles child.
+E323.1.1.	Dead mother returns to suckle child.
+H465.	Test of wife's endurance. Haugh- ty princess married to beggar and must endure poverty and menial work.
+K1911.	The false bride (substitute bride).
+K2110.1.	Calumniated wife.
+K2155.1.	Blood smeared on innocent person brings accusation of murder.
+P210.	Husband and wife.
+Q414.0.7.	Innocent queen burned at stake.
+Q421.0.8.	Beheading for persecution of wife.
+Q456.1.1.	Cast-forth wife buried up to waist.
+Q471.1.	Persecuted queen meanly clothed and set where all are commanded to spit on her.
+Q481.	Princess (queen) compelled to keep an inn.
+Q482.1.	Princess serves as menial.
+S62.	Cruel husband.
+T292.	Wife sold unwillingly by husband.
+S411.	Wife banished. India: *Thompson-Balys; Buddhist myth: Malala- sekera II 526.
+S411.1.	Misunderstood wife banished by husband. She has decorated the house for his homecoming, but he thinks that she is expecting a paramour. *Type 890 (Christiansen Norske Eventyr 113); Japanese: Ikeda.
+S411.2.	Wife banished for some small fault. India: *Thompson-Balys.
+S411.2.1.	Queen banished for saying that man's condition depends on what kind of wife he has. India: Thompson-Balys.
+S411.3.	Barren wife sent away. India: *Thompson-Balys.
+S411.4.	Wife banished because she eats by stealth. India: Thompson- Balys.
+K1984.2.	The girl who ate so little.
+S412.	Heroine taunted with her unknown past. (Cf.
+F302.	) Dickson 74.
+S412.1.	Husband expels wife because her industry indicates her peasant origin. Chinese: Graham.
+S413.	Unfaithful husband and his mistress persecute his wife. Italian Novella: Rotunda.
+S413.1.	Ogress-wife orders raja to turn out his six wives. India: *Thomp- son-Balys.
+S413.2.	Second wife orders husband to persecute first. India: *Thomp- son-Balys.
+S414.	Woman abandoned when with child. Buddhist myth: Malala- sekera II 1038.
+S416.	Queen banished when she defeats king in argument. India: *Thompson-Balys.
+S430.	Disposal of cast-off wife.   ## p. 328 (#332) ############################################  328 Motif-Index of Folk-Literature
+S431.	Cast-off wife exposed in boat. *Hertel Zs. f. Vksk. XIX 83ff.
+S141.	Exposure in boat.
+S331.	Exposure of child in boat (floating chest).
+S431.1.	Cast-off wife and child exposed in boat. Hibbard 26ff.; English: Wells 115 (Sir Eglamour of Artois), 117 (Sir Torrent of Portyngale), 129 (Emare), Chaucer's Man of Law's Tale; Italian: Basile Penta- merone I No. 3; Greek: *Frazer Apollodorus I 155 n. 3; India: Thomp- son-Balys; Japanese: Ikeda.
+S432.	Cast-off wife thrown into water. (Cf.
+S142.	) *Types 403, 450, 707; India: *Thompson-Balys; N. A. Indian: *Thompson CColl II 382ff., (Teton): Dorsey JAFL II 137.
+S433.	Cast-off wife abandoned on island. (Cf.
+S145.	) Type 890 (Chris- tiansen Norske Eventyr 113); Spanish: Espinosa II Nos. 105, 119.
+S435.	Cast-off wife abandoned in pit. (Cf.
+T581.2.	) India: *Thompson- Balys; Indonesia: DeVries's list No. 202.
+S436.	Cast-off wife's head shaven. India: Thompson-Balys.
+S437.	Cast-off wife sent to herd cows. India: Thompson-Balys.
+S438.	Abandoned queen blinded. India: *Thompson-Balys.
+S441.	Cast-off wife and child abandoned in forest. (Cf.
+S143.	) India: *Thompson-Balys.
+S442.	Outcast wife and her son live in poverty. India: *Thompson-Balys.
+S445.	Abandoned wife hidden under a tub. Cox 501; Grimm No. 9.
+S446.	Rejected wife asks to take away only what she brought. Type 887; Chinese: Graham.
+S450.	Fate of outcast wife.
+S451.	Outcast wife at last united with husband and children. *Types 706, 712, 938; *Loomis White Magic 118; *Chauvin VI 167ff. No. 327. Chauvin discusses the following stories having this motif: St. Clement, St. Eustace, Crescentia, Hildegarde, Florence, Octavianus, Sebile, Genevieve of Brabant, Euriant, the Maiden without Hands, Helena of Constantinople, the Count of Toulouse. Missouri French: Carri- ère; Spanish: Espinosa II Nos. 105, 119, Espinosa Jr. Nos. 138-41; India: *Thompson-Balys; Indonesia: DeVries's list Nos. 201, 202.
+H152.3.	Abandoned wife recognized among workers.
+N251.	Man pursued by misfortune He finally recovers all. .... -
+S452.	Outcast wife commits suicide when confronted with heads of relatives killed in revenge for her wrong-doing. Irish myth: Cross.
+S453.	Exposed woman helped by magician. India: Thompson-Balys.
+S460.	Other cruel persecutions.
+S461.	Tale-bearer unjustly drowned for lack of proof of accusation. Irish myth: Cross.
+N340.	Hasty killing or condemnation (mistake).
+Q428.	Punishment: drowning.
+S463.	Jealous wife has merchant turn out queen and son, whom he had befriended and taken into his home. India: Thompson-Balys.   ## p. 329 (#333) ############################################  S. Unnatural cruelty 329
+S464.	Deity appears before persecuted youngest brother and gives him a flock of sheep. India: Thompson-Balys.
+S465.	Abandoned person in woods comforted by prophet and birds. (Cf.
+S143.	) *Grünwald Hessische Blätter für Vksk. XXX-XXXI 315.
+S466.	Practice of one's religion forbidden. Jewish: *Neuman.
+S471.	Persecuted sons of co-wife. (Cf.
+K2222.	) India: Thompson-Balys.
+S481.	Cruelty to animals. India: Thompson-Balys; Chinese: Eberhard FFC CXX 181 No. 123.

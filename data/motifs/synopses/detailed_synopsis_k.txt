@@ -1,0 +1,144 @@
+K. DECEPTIONS
+KO-K99. Contests won by deception
+KO. Contest won by deception-general
+K10. Athletic contest won by deception
+K30. Hunting contest won by deception
+K40. Labor contest won by deception
+K50. Endurance contest won by deception
+K60. Absurd contest won by deception
+K70. Contest in strength won by deception
+K80. Contests in other physical accomplishments won by deception
+K90. Other contests won by deception
+K100-K299. Deceptive bargains
+K100. Deceptive bargain
+K110-K149. Sale of worthless articles
+K110. Sale of pseudo-magic objects
+K120. Sale of false treasure
+K130. Sale of worthless animals
+K140. Sale of other worthless objects
+K150. Sale of worthless services
+K170. Deception through pseudo-simple bargain
+K200-K249. Deception in payment of debt
+K200. Deception in payment of debt
+K210. Devil cheated of his promised soul
+K220. Payment precluded by terms of the bargain
+K230. Other deceptions in the payment of debt
+K250. Other deceptive bargains
+K300-K499. Thefts and cheats
+K300. Thefts and cheats-general
+K310-K439. Thefts
+K310. Means of entering house or treasury
+K330. Means of hoodwinking the guardian or owner
+K360. Other means of theft
+K400. Thief escapes detection
+K420. Thief loses his goods or is detected
+K440-K499. Other cheats
+K500-K699. Escape by deception
+K500. Escape from death or danger by deception
+K510. Death order evaded
+K520. Death escaped through disguise, shamming, or substitution
+K540. Escape by overawing captor
+K550. Escape by false plea
+K580. Captor persuaded into illusory punishment
+K600. Murderer or captor otherwise beguiled
+K620. Escape by deceiving the guard
+K630. Escape by disarming (making pursuit difficult)
+K640. Escape by help of confederate
+K650. Other means of escape
+K700-K799. Capture by deception
+K700. Capture by deception
+K710. Victim enticed into voluntary captivity or helplessness
+K730. Victim trapped
+K750. Capture by decoy
+K770. Other deceptive captures
+K800-K999. Fatal deception
+K800. Fatal deception
+K810. Fatal deception into trickster's power
+K840. Deception into fatal substitution
+K850. Fatal deceptive game
+K870. Fatal deception by narcotic (intoxication)
+K890. Dupe tricked into killing himself
+K910. Murder by strategy
+K930. Treacherous murder of enemy's children or charges
+K940. Deception into killing own children or animals
+K950. Various kinds of treacherous murder
+K960. Other fatal deceits
+K1000-K1199. Deception into self-injury
+K1000. Deception into self-injury
+K1010. Deception through false doctoring
+K1020. Deception into disastrous attempt to procure food
+K1040. Dupe otherwise persuaded to voluntary self-injury
+K1080. Persons duped into injuring each other
+K1110. Deceptions into self-injury-miscellaneous
+K1200-K1299. Deception into humiliating position
+K1200. Deception into humiliating position
+K1210. Humiliated or baffled lovers
+K1240. Deception into humiliating position-miscellaneous
+K1300-K1399. Seduction or deceptive marriage
+K1300. Seduction
+K1310. Seduction by disguise or substitution
+K1330. Girl tricked into man's room (or power)
+K1340. Entrance into girl's (man's) room (bed) by trick
+K1350. Woman persuaded (or wooed) by trick
+K1380. Seduction-miscellaneous
+K1400-K1499. Dupe's property destroyed
+K1400. Dupe's property destroyed
+K1410. Dupe's goods destroyed
+K1440. Dupe's animals destroyed or maimed
+K1460. Members of dupe's family killed
+K1500-K1599. Deceptions connected with adultery
+K1500. Deception connected with adultery
+K1510. Adulteress outwits husband
+K1550. Husband outwits adulteress and paramour
+K1570. Trickster outwits adulteress and paramour
+K1580. Other deceits connected with adultery
+K1600-K1699. Deceiver falls into own trap
+K1600. Deceiver falls into own trap
+K1610. Deceiver falls into his own trap-miscellaneous incidents
+K1700-K2099. DECEPTION THROUGH SHAMS
+K1700-K1799. Deception through bluffing
+K1700. Deception through bluffing
+K1710. Ogre (large animal) overawed
+K1760. Other bluffs
+K1800-K1899. Deception by disguise or illusion
+K1800. Deception by disguise or illusion
+K1810. Deception by disguise
+K1840. Deception by substitution
+K1860. Deception by feigned death (sleep)
+K1870. Illusions
+K1900-K1999. Impostures
+K1900. Impostures
+K1910. Marital impostures
+K1920. Substituted children
+K1930. Treacherous impostors
+K1950. Sham prowess
+K1970. Sham miracles
+K1980. Other impostures
+K2000-K2099. Hypocrites
+K2000. Hypocrites
+K2010. Hypocrite pretends friendship but attacks
+K2030. Double dealers
+K2050. Pretended virtue
+K2060. Detection of hypocricy
+K2100-K2199. False accusations
+K2100. False accusations
+K2110. Slanders
+K2130. Trouble-makers
+K2150. Innocent made to appear guilty
+K2200-K2299. Villains and traitors
+K2200. Villains and traitors
+K2210. Treacherous relatives
+K2220. Treacherous rivals
+K2230. Treacherous lovers
+K2240. Treacherous officers and tradesmen
+K2250. Treacherous servants
+K2260. Dark traitors
+K2270. Deformed villains
+K2280. Treacherous churchmen
+K2290. Other villains and traitors
+K2300-K2399. Other deceptions
+K2300. Other deceptions
+K2310. Deception by equivocation
+K2320. Deception by frightening
+K2350. Military strategy
+K2370. Miscellaneous deceptions

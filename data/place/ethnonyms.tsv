@@ -1,0 +1,44 @@
+class	ethnicity	term	countries	alternate
+eth	Flanders	Flemish	Belgium	
+eth	Wallonia	Walloon	Belgium	
+eth		English-Canadian	Canada	
+eth		French-Canadian	Canada	
+eth	Catalonia	Catalan	Catalunya	Cataluña
+eth		Tibetan	China	Tibet
+eth	Xinjiang 	Uighur	China	
+eth	Abkhazia	Abkhaz	Georgia	
+eth		Mingril	Georgia	Mingrilian
+eth	Slavic	Sorbian	Germany	
+eth		Ladinian	Italy	Ladin, Dolomites
+eth		Palestinian	Palestine	
+eth	Slavic	Kashubian	Poland	
+eth	Turkic	Bashkir	Russia	
+eth	Mongolian	Buryat	Russia	
+eth	Chechnya, Ingushetia	Chechen-Ingush	Russia	Chechnya, Ingushetia, Durdzuks, Gligvi and Kists
+eth	Uralic	Cheremis/Mari	Russia	
+eth		Chukchi	Russia	far East
+eth	Turkic	Chuvash	Russia	
+eth	Mongolian	Kalmyk	Russia	
+eth	Turkic	Karachay	Russia	
+eth		Mordvinian	Russia	Erzya, Moksha
+eth	Samoyedic 	Nenets	Russia	
+eth		Ostyak	Russia	Khanty
+eth		Syrjanian	Russia	Komi
+eth	Turkic	Tatar	Russia	Ukraine, Crimea
+eth	Tungusic	Tungus	Russia	Evenki
+eth	Finno-Ugric	Udmurt	Russia	
+eth		Vogul/Mansi	Russia	
+eth		Votyak	Russia	Udmurt
+eth	Finnic	Wepsian	Russia	Veos, Weps
+eth	Finnic	Wotian	Russia	Votic
+eth		Yakut	Russia	Sakha, Yakuts
+eth	Finnic	Karelian	Russia, Finland	
+eth		Ossetian	Russia, Georgia	Ossetia
+eth		Sardinian	Sardinia	Italy
+eth		Basque	Spain, France	Spain: Gipuzkoa (Guipúkzoa), Araba (Álava), Bizkaia (Vizcaya); France: Labourd (Lapurdi), Lower Navarre (Basse-Navarre, Behe Nafarroa), Soule (Zuberoa)
+eth		Lydian	Turkey	Lydia
+eth		Kurdish	Turkey, Iraq, Iran, Syria	Kurdistan
+eth		French-American	United States	
+eth		Eskimo	United States, Canada, Greenland, Russia	Inuit, Yupik
+eth	Turkic	Kara-Kalpak	Uzbekistan	Karakalpak
+eth		Welsh	Wales	

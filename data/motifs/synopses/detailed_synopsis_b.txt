@@ -1,0 +1,80 @@
+B0-B99. Mythical animals
+B10. Mythical beasts and hybrids
+B20. Beast-men
+B30. Mythical birds
+B40. Bird-beasts
+B50. Bird-men
+B60. Mythical fish
+B70. Fish-beasts
+B80. Fish-men
+B90. Other mythical animals
+B100-B199. Magic animals
+B100-B119. Treasure animals
+B100. Treasure animals - general
+B110. Treasure-producing parts of animals
+B120-B169. Animals with magic wisdom
+B120. Wise animals
+B130. Truth-telling animals
+B140. Prophetic animals
+B150. Oracular animals
+B160. Wisdom-giving animals
+B170-B189. Other magic animals
+B170. Magic birds, fish, reptiles, etc. 
+B180. Magic quadrupeds
+B190. Magic animals: miscellaneous motifs
+B200-B299. Animals with human traits
+B210. Speaking animals
+B220. Animal kingdom (community)
+B230. Parliament of animals
+B240. King of animals
+B250. Religious animals
+B260. Animal warfare
+B270. Animals in legal relations
+B280. Animal weddings
+B290. Other animals with human traits
+B300-B599. FRIENDLY ANIMALS
+B300-B349. Helpful animals - general
+B310. Acquisition of helpful animal
+B320. Reward of helpful animal
+B330. Death of helpful animal
+B340. Treatment of helpful animal - miscellaneous
+B350-B399. Grateful animals
+B360. Animals grateful for rescue from peril of death
+B370. Animals grateful to captor for release
+B380. Animals grateful for relief from pain
+B390. Animals grateful for other kind acts
+B400-B499. Kinds of helpful animals
+B400-B449. Helpful beasts
+B400. Helpful domestic beasts
+B430. Helpful wild beasts
+B450. Helpful birds
+B470. Helpful fish
+B480. Helpful insects
+B490. Other helpful animals
+B500-B599. Services of helpful animals
+B500. Magic power from animal
+B510. Healing by animal
+B520. Animals save person's life
+B530. Animals nourish men
+B540. Animal rescuer or retriever
+B550. Animals carry men
+B560. Animals advise men
+B570. Animals serve men
+B580. Animals help men to wealth and greatness
+B590. Miscellaneous services of helpful animals
+B600-B699. Marriage of person to animal
+B610. Animal paramour
+B620. Animal suitor
+B630. Offspring of marriage to animal
+B640. Marriage to person in animal form
+B650. Marriage to animal in human form
+B700-B799. Fanciful traits of animals
+B710. Fanciful origin of animals
+B720-B749. Fanciful physical qualities of animals
+B720. Fanciful bodily members of animals
+B730. Fanciful color, smell, etc. of animals
+B740. Fanciful marvelous strength of animals
+B750. Fanciful habits of animals
+B770. Other fanciful traits of animals
+B800-B899. Miscellaneous animal motifs
+B870. Giant animals

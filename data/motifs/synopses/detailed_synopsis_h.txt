@@ -1,0 +1,111 @@
+H. TESTS
+H0—H199. Identity tests: recognition
+HO. Identity tests
+H10. Recognition through common knowledge
+H20. Recognition by resemblance
+H30. Recognition through personal peculiarities
+H50. Recognition by bodily marks or physical attributes
+H80—H149. Identification by tokens
+H80. Identification by tokens
+H90. Identification by ornaments
+H100. Identification by matching parts of divided token
+H110. Identification by cloth or clothing
+H120. Identification by tokens—miscellaneous
+H150. Circumstances of recognition
+H200-H299. Tests of truth
+H210—H239. Tests of guilt or innocence
+H210. Test of guilt or innocence
+H220. Ordeals
+H240. Other tests of truth
+H300—H499. Marriage tests
+H300. Tests connected with marriage
+H310-H359. Suitor tests
+H310. Suitor tests
+H360-H399. Bride tests
+H360. Bride test
+H400—H459. Chastity tests
+H400. Chastity test
+H410. Chastity test by magic objects or ordeals
+H430. Chastity index
+H440. Other indications of chastity
+H460. Wife tests
+H480. Father tests
+H490. Other marriage tests
+H500—H899. TESTS OF CLEVERNESS
+H500. Test of cleverness or ability
+H510. Tests in guessing
+H530—H899. Riddles
+H540. Propounding of riddles
+H570. Means of solving riddles
+H580. Enigmatic statements
+H600. Symbolic interpretations
+H620. The unsolved problem: enigmatic ending of tale
+H630. Riddles of the superlative
+H660. Riddles of comparison
+H680. Riddles of distance
+H690. Riddles of weight and measure
+H700. Riddles of numbers
+H710. Riddles of value
+H720. Metaphorical riddles
+H770. Riddles of explanation
+H790. Riddles based on unusual circumstances
+H810. Riddles based on the Bible or legend
+H840. Other riddles
+H900-H1199. TESTS OF PROWESS: TASKS
+H900-H999. Assignment and performance of tasks
+H900-H949. Assignment of tasks
+H900. Tasks imposed
+H910. Assignment of tasks in response to suggestion
+H920. Assigners of tasks
+H940. Assignment of tasks--miscellaneous
+H950-H999. Performance of tasks
+H960. Tasks performed through cleverness or intelligence
+H970. Help in performing tasks
+H1000—H1199. Nature of tasks
+H1010_H1049. Impossible or absurd tasks
+H1010. Impossible tasks
+H1020. Tasks contrary to laws of nature
+H1030. Other impossible tasks
+H1050-H1089. Paradoxical tasks
+H1050. Paradoxical tasks
+H1090. Tasks requiring miraculous speed
+H1110. Tedious tasks
+H1130. Superhuman tasks
+H1150. Tasks: stealing, capturing, or slaying
+H1180. Miscellaneous tasks
+H1200-H1399. TESTS OF PROWESS: QUESTS
+H1200-H1249. Attendant circumstances of quests
+H1200. Quest
+H1210. Quest assigned
+H1220. Quest voluntarily undertaken
+H1240. Other circumstances of quests
+H1250—H1399. Nature of quests
+H1250-H1299. Quests to the other world
+H1250. Quest to the other world
+H1260. Quest to the upper world
+H1270. Quest to lower world
+H1280. Quests to other realms
+H1290. Quests to the other world-miscellaneous motifs
+H1300. Quests for the unique
+H1320. Quest for marvelous objects or animals
+H1360. Quest for dangerous animals
+H1370. Miscellaneous quests
+H1400—H1599. OTHER TESTS
+H1400-H1449. Tests of fear
+H1400. Fear test
+H1410. Fear test: staying in frightful place
+H1420. Fearless traffic with devils
+H1430. Fearless traffic with ghosts
+H1440. The learning of fear
+H1450—H1499. Tests of vigilance
+H1450. Vigilance test
+H1460. Test: vigil at tomb
+H1470. Other vigilance tests
+H1480. Accomplishment of vigilance test
+H1500—H1549. Tests of endurance and power of survival
+H1500. Tests of endurance
+H1510. Tests of power to survive
+H1540. Contests in endurance
+H1550—H1569. Tests of character
+H1550. Tests of character
+H1570—H1599. Miscellaneous tests

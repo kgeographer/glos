@@ -1,0 +1,16 @@
+finds start of each type
+\n{1,2}\d{1,3}[A-Z]?\*{0,4}\s{4,12}
+
+
+replace
+finds start of each type and insert a pipe '|'
+(\n{1,2})(\d{1,3}[A-Z]?\*{0,4}\s{4,12})
+
+\1|\2
+
+
+replace
+finds start of each type and insert a pipe '|'
+(\n{1,2})(\d{1,4}[A-Z]?\*{0,4}\s{4,12})
+
+\1|\2

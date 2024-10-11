@@ -1,0 +1,41 @@
+Q. REWARDS AND PUNISHMENTS
+Q0. Rewards and punishments
+Q10-Q99. Deeds rewarded
+Q10. Deeds rewarded
+Q20. Piety rewarded
+Q40. Kindness rewarded
+Q60. Other good qualities rewarded
+Q80. Rewards for other causes
+Q100-Q199. Nature of rewards
+Q100. Nature of rewards
+Q110. Material rewards
+Q140. Miraculous or magic rewards
+Q150. Immunity from disaster as reward
+Q170. Religious rewards
+Q190. Rewards - miscellaneous
+Q200-Q399. Deeds punished
+Q200. Deeds punished
+Q210. Crimes punished
+Q220. Impiety punished
+Q240. Sexual sins punished
+Q260. Deceptions punished
+Q270. Misdeeds concerning property punished
+Q280. Unkindness punished
+Q300. Contentiousness punished
+Q320. Evil personal habits punished
+Q330. Overweening punished
+Q340. Meddling punished
+Q380. Deeds punished - miscellaneous
+Q400-Q599. Kinds of punishment
+Q400. Kinds of punishment-general
+Q410. Capital punishment
+Q430. Abridgement of freedom as punishment
+Q450. Cruel punishments
+Q470. Humiliating punishments
+Q500. Tedious punishments
+Q520. Penances
+Q550. Miraculous punishments
+Q560. Punishments in hell
+Q570. Punishment and remission
+Q580. Punishment fitted to crime
+Q590. Miscellaneous punishments

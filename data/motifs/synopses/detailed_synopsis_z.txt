@@ -1,0 +1,24 @@
+Z. MISCELLANEOUS GROUPS OF MOTIFS
+ZO-Z99. Formulas
+ZO. Formulas
+Z10. Formulistic framework for tales
+Z20-Z59. Cumulative tales
+Z20. Cumulative tales
+Z30. Chains involving a single scene or event
+Z40. Chains with interdependent members
+Z50. Cumulative tales - miscellaneous
+Z60. Other formulistic motifs
+Z100-Z199. Symbolism
+Z100. Symbolism
+Z110. Personifications
+Z140. Color symbolism
+Z150. Other symbols
+Z200-Z299. Heroes
+Z200. Heroes
+Z210. Brothers as heroes
+Z230. Extraordinary exploits of hero
+Z300-Z399. Unique exceptions
+Z300. Unique exceptions
+Z310. Unique vulnerability
+Z320. Object will fit only one thing (or person)
+Z350. Other unique exceptions

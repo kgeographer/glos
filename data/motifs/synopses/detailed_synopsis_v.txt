@@ -1,0 +1,34 @@
+V. RELIGION
+VO-V99. Religious services
+V0. Religious services
+V10. Religious sacrifices
+V20. Confession of sins
+V30. Sacrament
+V40. Mass
+V50. Prayer
+V60. Funeral rites
+V70. Religious feasts and fasts
+V80. Religious services - miscellaneous
+V100-V199. Religious edifices and objects
+V100. Religious edifices and objects
+V110. Religious buildings
+V120. Images
+V130. Other sacred objects connected with worship
+V140. Sacred relics
+V150. Sacred objects - miscellaneous
+V200-V299. Sacred persons
+V200. Sacred persons
+V210. Religious founders
+V220. Saints
+V230. Angels
+V250. The Virgin Mary
+V290. Other sacred persons
+V300-V399. Religious beliefs
+V300. Religious beliefs
+V310. Particular dogmas
+V320. Heretics
+V330. Conversion from one religion to another
+V340. Miracle manifested to non-believers
+V350. Conflicts between religions
+V360. Christian and Jewish traditions about each other
+V380. Religious beliefs - miscellaneous

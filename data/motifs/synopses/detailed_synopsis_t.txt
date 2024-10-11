@@ -1,0 +1,48 @@
+T. SEX
+TO-T99. Love
+TO. Love
+T10. Falling in love
+T30. Lovers' meeting
+T50. Wooing
+T70. The scorned lover
+T80. Tragic love
+T90. Love miscellaneous motifs
+T100-T199. Marriage
+T100. Marriage
+T110. Unusual marriage
+T130. Marriage customs
+T150. Happenings at weddings
+T160. Consummation of marriage
+T200-T299. Married life
+T200. Married life
+T210. Faithfulness in marriage
+T230. Faithlessness in marriage
+T250. Characteristics of wives and husbands
+T280. Other aspects of married life
+T300-T399. Chastity and celibacy
+T300. Chastity and celibacy
+T310. Celibacy and continence
+T320. Escape from undesired lover
+T330. Anchorites under temptation
+T350. Chaste sleeping together
+T360. Chastity and celibacy - miscellaneous
+T400-T499. Illicit sexual relations
+T400. Illicit sexual relations
+T410. Incest
+T450. Prostitution and concubinage
+T460. Sexual perversions
+T470. Illicit sexual relations - miscellaneous motifs
+T500-T599. Conception and birth
+T500. Conception and birth
+T510. Miraculous conception
+T540. Miraculous birth
+T550. Monstrous births
+T570. Pregnancy
+T580. Childbirth
+T590. Conception and birth - miscellaneous motifs
+T600-T699. Care of children
+T600. Care of children
+T610. Nurture and growth of children
+T640. Illegitimate children
+T670. Adoption of children
+T680. Care of children - miscellaneous motifs

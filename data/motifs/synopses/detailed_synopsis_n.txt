@@ -1,0 +1,55 @@
+N. CHANCE AND FATE
+NO-N99. Wagers and gambling
+NO. Wagers and gambling
+N10. Wagers on wives, husbands, or servants
+N50. Other wagers
+N90. Wagers and gambling - miscellaneous
+N100-N299. The ways of luck and fate
+N100-N169. Nature of luck and fate
+N100. Nature of luck and fate
+N110. Luck and fate personified
+N120. Determination of luck or fate
+N130. Changing of luck or fate
+N140. Nature of luck and fate - miscellaneous motifs
+N170. The capriciousness of luck
+N200. The good gifts of fortune
+N250. Persistent bad luck
+N270. Crime inevitably comes to light
+N300-N399. Unlucky accidents
+N300. Unlucky accidents
+N310. Accidental separations
+N320. Person unwittingly killed
+N330. Accidental killing or death
+N340. Hasty killing or condemnation
+N350. Accidental loss of property
+N360. Man unwittingly commits crime
+N380. Other unlucky accidents
+N400-N699. Lucky accidents
+N410 N439. Lucky business ventures
+N440-N499. Valuable secrets learned
+N440. Valuable secrets learned
+N450. Secrets overheard
+N500-N599. Treasure trove
+N500. Treasure trove
+N510. Where treasure is found
+N530. Discovery of treasure
+N550. Unearthing hidden treasure
+N570. Guardian of treasure
+N590. Treasure trove - miscellaneous motifs
+N600-N699. Other lucky accidents
+N610. Accidental discovery of crime
+N620. Accidental success in hunting or fishing
+N630. Accidental acquisition of treasure or money
+N640. Accidental healing
+N650. Life saved by accident
+N680. Lucky accidents - miscellaneous
+N700-N799. Accidental encounters
+N700. Accidental encounters
+N710. Accidental meeting of hero and heroine
+N730. Accidental reunion of families
+N760. Other accidental encounters
+N770. Experiences leading to adventures
+N800-N899. Helpers
+N800. Helpers
+N810. Supernatural helpers
+N820. Human helpers

@@ -1,0 +1,13 @@
+# folders
+.idea/
+.venv/
+_older/
+_dumps/
+citations/
+downloads/
+notes/
+src/.ipynb_checkpoints
+
+#files
+.env
+~*
