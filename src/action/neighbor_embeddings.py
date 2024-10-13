@@ -57,11 +57,18 @@ def main():
 
   # Connect to the Postgres database
   conn = psycopg2.connect(
-    dbname="staging",
-    user="postgres",
-    host="localhost",
-    port="5435"
+    dbname=os.getenv('DB_NAME'),
+    user=os.getenv('DB_USER'),
+    host=os.getenv('DB_HOST'),
+    port=os.getenv('DB_PORT')
   )
+
+  # conn = psycopg2.connect(
+  #   dbname="staging",
+  #   user="postgres",
+  #   host="localhost",
+  #   port="5435"
+  # )
 
   # Find closest neighbors based on the specified table
   closest_neighbors = find_closest_neighbors(conn, embedding, table, id_col, text_col)

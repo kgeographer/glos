@@ -47,11 +47,18 @@ def neighbors():
     embedding = get_embedding(input_text)
 
     conn = psycopg2.connect(
-        dbname="staging",
-        user="postgres",
-        host="localhost",
-        port="5435"
+        dbname=os.getenv('DB_NAME'),
+        user=os.getenv('DB_USER'),
+        host=os.getenv('DB_HOST'),
+        port=os.getenv('DB_PORT')
     )
+
+    # conn = psycopg2.connect(
+    #     dbname="staging",
+    #     user="postgres",
+    #     host="localhost",
+    #     port="5435"
+    # )
 
     closest_neighbors = find_closest_neighbors(conn, embedding, table, id_col, text_col)
     conn.close()

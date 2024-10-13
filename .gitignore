@@ -9,5 +9,8 @@ notes/
 src/.ipynb_checkpoints
 
 #files
+web/app.wsgi
 .env
 ~*
+*.pyc
+.DS_Store
