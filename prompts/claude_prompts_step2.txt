@@ -1,0 +1,87 @@
+4)
+Re: utilizing the ATU tale types index integrated with the TMI (Thompson Motif Index), for context going forward, as I ask you for working python code and/or sql as required, I have the following postgres tables already. Please start by adjusting the code for your "1. Hierarchical Category Matching" step(s)
+
+== TABLES ==
+
+'atu_type_groups' with rows like this
+
+id	type_range	parent	label
+1	ATU		Types of International Folktales
+2	1-299	ATU	Animal tales
+3	1–99	1-299	Wild Animals
+4	1–69	1-99	The Clever Fox (Other Animal)
+5	70–99	1-99	Other Wild Animals
+...
+
+'type_embeddings_3m' like this (2232 rows)
+
+type_id	label	text	embedding
+1	The Theft of Fish	The Theft of Fish. A fox (hare, rabbit, coyote, jackal) lies in the road pretending to be dead. A fisherman throws him on his wagon which is full of fish (cheese, butter, meat, bread, money). The fox throws the fish out of the wagon and jumps down after them. A wolf (bear, fox, coyote, hyena) tries to imitate this and pretends to be dead, too. ...	[-0.00068648194,0.003631875,...]
+100	The Wolf is Caught because of his Singing 	The Wolf is Caught because of his Singing. A dog (fox) invites a wolf to a feast (cellar full of food). The wolf eats and drinks too much. When he sings in spite of the dog's objections, he is thrashed or killed. The dog escapes.		[-0.004882726,0.0009790395,...]
+...
+
+'edges_atu_tmi' like this (4654 rows)
+
+type_id	motif_id
+1004	K404.3
+1017	K1425
+1099	F531.6.6
+1139	K522.2
+113B	K815.7
+...
+
+'motif_embedding' (46234 rows)
+id	motif_id	motif_text	embedding
+1	A0	Creator. Referenced in Buddhist religious texts, Linked to Armenia, On the continent of Africa, Referenced in Hindu religious texts, Linked to Iceland, Linked to India, Linked to Ireland, Referenced in Jewish religious texts, Linked to Mexico	[-0.00068648194,0.003631875,...]
+2	A1	Identity of creator.	[0.011463605,0.020998498,...]
+3	A1.1	Sun-god as creator. Linked to Egypt, In the historic region of Persia	[0.004669467,0.04352635,...]
+...
+
+I also have tables mapping ATU tale types and motifs to cultural reference terms ('ref_term'). Work to normalize these, and classify them (cty, rgn, isl, trb, multi, adm1, eth, con, lng, hrgn, rel -- country, region, island, tribe, etc) is in progress in a spreadsheet.
+
+'type_ref' (41294 rows; 196 distinct)
+id	type_id	ref_term
+123	2	Wotian
+124	2	Yakut
+125	2A	Algerian
+...
+
+'motif_ref' (46719 rows; 818 distinct)
+id	motif_id	ref_term
+13	A1.3	So. Am. Indian (Paressi)
+14	A1.4	Buddhist
+15	A2.1	Hawaii
+...
+
+
+
+3)
+WOuldn't this require categorizing each ATU tale type as a precursor to categorizing the input tale/myth?
+
+2)
+In my pilot app, I can already find nearest neighbors of a given text (e.g. the Tsui||goab myth) within the ATU tale types. The result in the existing pilot is not promising. The following are the three closest tale types returned (I don't yet return associated motifs in the app)
+
+
+700 - Thumbling. (Däumling, Petit Poucet, Svend Tomling, Pulgarcillo.) A childless couple wish for a child, however small he may be. They have a boy (by supernatural birth) the size of a thumb. Thumbling takes food to his father on the farm and drives the wagon (plow) by sitting in the horse's (ox's) ear. He allows himself to be sold to strangers and then runs away from them. He lets himself be sold to thieves and accompanies them while they steal. Thumbling either helps them or he betrays them by his shouting; he then robs the thieves. He is swallowed by a cow , talks from the cow's insides and reappears (in the sausage prepared from the intestines of the slaughtered cow ). Someone takes the intestines (sausage) and, frightened by Thumbling's voice inside, throws them away. Thumbling is swallowed by a wolf (fox) who eats the intestines. He talks from the wolf's belly and the wolf becomes sick and frightens (warns) shepherds. The wolf dies (is killed) and Thumbling is rescued , or he persuades the wolf to take him to his father's house. (Distance: 1.105963606320135)
+655 - The Wise Brothers.. A father leaves his wealth to his three sons. One of them steals diamonds (pieces of gold) that had been willed to all three brothers. In order to settle the case they consult a wise man. On their way they see tracks of an animal and make the following deductions : It was a camel (horse, pack-animal), it was one-eyed (grass is eaten on one side of the road only) , it was lame (because of its tracks), it was carrying oil or honey, etc. (drops are seen on the ground), it had no tail (dung on a heap instead of being spread by the tail), etc. When they meet the owner of the lost animal he overhears their remarks, takes them for thieves, and brings them to the judge. They explain their observations to the judge and are absolved. When they are invited for dinner (by the judge) they say the meat is dogmeat , the wine (bread) smells like a corpse , and their host is a bastard. On investigation all their statements are found to be true. The animal had been suckled by a bitch, the vine (corn) had grown on a cemetery, and the mother (of the judge) confesses her adultery. In some variants the judge tells the story of the noblest act ( Based on his reaction he declares the youngest to be the thief. Or, the brothers are asked to shoot on their father's corpse, so that their behavior discloses the real son and heir ( In other versions the judge enforces another test of paternity , or he pronounces another of Solomon's judgments. (Distance: 1.1076580784702263)
+1525J - Thieves Cheated of their Booty. This tale exists chiefly in two different forms: (1) An uncle and his nephew (grandfather and grandson, group of thieves) steal an ox (sheep) and roast it. The nephew (apprentice thief) wants to keep all the meat for himself. He takes the hide to a waterhole. Hiding in the bushes, he beats the hide as if he himself were being beaten. He cries and shouts that it was not he but his uncle who stole the ox. The uncle thinks that the boy has been caught, so he runs away. In some variants the thieves cut the tail (head) off the ox (sheep) and stick it in the mouth (backside) of another, so that it looks as if one ox has eaten the other. Or they put the severed part in a swamp. When the owner swims out to get his drowned animal, they steal his clothes. (2) A boy (woman) tells a passing thief (soldier) that he has lost a silver cup (pail, etc.) in the well (river), and asks him to get it back for him. The thief takes off his clothes, climbs in the well, and finds nothing. When he comes back up, he finds that his clothes have been stolen. (Distance: 1.1139158347642233)
+
+
+1)
+another thought: I have also logged Uther's Tale Types (ATU) index in a postgres database, which has much longer text entries - actual tale summaries, which could provide actor roles, actions, themes, etc. Many (most?) have mappings to Thompson motif IDs, e.g. this tale (1525J)
+
+Thieves Cheated of their Booty.  This tale exists chiefly in two different forms: (1) An uncle and his nephew (grandfather and grandson, group of thieves) steal an ox (sheep) and roast it. The nephew (apprentice thief) wants to keep all the meat for himself. He takes the hide to a waterhole. Hiding in the bushes, he beats the hide as if he himself were being beaten. He cries and shouts that it was not he but his uncle who stole the ox. The uncle thinks that the boy has been caught, so he runs away. In some variants the thieves cut the tail (head) off the ox (sheep) and stick it in the mouth (backside) of another, so that it looks as if one ox has eaten the other. Or they put the severed part in a swamp. When the owner swims out to get his drowned animal, they steal his clothes. (2) A boy (woman) tells a passing thief (soldier) that he has lost a silver cup (pail, etc.) in the well (river), and asks him to get it back for him. The thief takes off his clothes, climbs in the well, and finds nothing. When he comes back up, he finds that his clothes have been stolen.
+
+is mapped to motifs K345.2, K335.1.3, K404.1, the text for these is:
+
+K345.2	Thief sent into well by trickster. A weeping boy tells a passing thief that he has lost a silver cup in a well. The thief takes off his clothes and goes after the cup, intending to keep it. He finds nothing. When he comes up, his clothes have been stolen. Linked to India
+K335.1.3	"Robbers frightened from goods by man's outcry. Trickster hits a slain ox and cries out, ""Those others did it!"" The thieves flee and leave their treasure." Linked to India
+K404.1	Tails in ground. Thief steals animals and sticks severed tails into the ground, claiming that animals have escaped underground. Found in American Negro (Georgia), Associated with the tribe Africa (Vai)
+
+And for each of the ATU tale types, I have associated ref_term values for variants of the tale type as determined by Uther, e.g. for 1525J:
+Algerian, Bulgarian, Catalan, Cheremis/Mari, Chinese, Croatian, Czech, Dutch, Egyptian, English, Finnish, Flemish, French, Frisian, German, Greek, Hungarian, Indian, Iranian, Italian, Jewish, Kazakh, Kuwaiti, Latvian, Maltese, Mordvinian, Persian Gulf, Portuguese, Qatar, Saudi Arabian, Scottish, Serbian, Slovakian, Somalian, Spanish, Sudanese, Swiss, Syrian, Turkish, Ukrainian, Vietnamese
+
+Not only that, but many ATU tale type have a "combinations" field - a list of other tale type ids found 'in combination' with the given one
+
+Seems like the ATU data might be the most productive starting point for building a better 'conceptual analysis/similarity' tool that can be applied for any given tale or myth I add to a corpus for analysis -- e.g. the creation myths, or various folktale sources I can mine.
+

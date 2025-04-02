@@ -1,0 +1,87 @@
+[
+  {
+    "cluster_id": "CG01",
+    "label": "Power Struggles and Conflicts in Divine Realms",
+    "description": "These motifs belong together conceptually as they all involve struggles or conflicts for power, often in a divine or mythological context. The variation in theme labels reflects different narrative focuses: 'Struggle for power/control' emphasizes the internal dynamics of a divine hierarchy; 'Conflict between Chiefs' suggests a clash of authority figures; 'Struggle between Light and Darkness' introduces a moral or cosmic dimension to the struggle.",
+    "motif_ids": [
+      "A611",
+      "A621",
+      "A621.1",
+      "A621.2",
+      "A622",
+      "A623",
+      "A624",
+      "A625",
+      "A625.1"
+    ]
+  },
+  {
+    "cluster_id": "CG02",
+    "label": "Creation and Cosmic Order",
+    "description": "These motifs belong together as they all deal with the creation of life and the establishment of cosmic order, as seen in the themes of creating living creatures and separating day from night. The variation in theme labels reflects different aspects of creation - one focusing on the creation of life and the other on the establishment of time and cosmic order.",
+    "motif_ids": [
+      "A130",
+      "A131",
+      "A131.1",
+      "A131.2",
+      "A131.3",
+      "A132",
+      "A133"
+    ]
+  },
+  {
+    "cluster_id": "CG03",
+    "label": "Creation and Divine Power",
+    "description": "These motifs belong together as they all revolve around the theme of creation, specifically the creation of humans, and the power and wisdom of a Supreme Being. The variation in theme labels reflects different narrative emphases: one focusing on the act of creation itself, the other on the characteristics of the Supreme Being responsible for the creation.",
+    "motif_ids": [
+      "A191",
+      "A191.1",
+      "A191.2",
+      "A191.3",
+      "A191.4"
+    ]
+  },
+  {
+    "cluster_id": "CG04",
+    "label": "Creation and Authority of Supreme Being",
+    "description": "These motifs belong together as they all revolve around the creation, power, and authority of a supreme being or gods. The variation in theme labels reflects different aspects or interpretations of this overarching theme. 'Power and Authority' focuses on the might and rule of the deity, 'Creation of the Supreme Being' emphasizes the deity's origin, and 'Dualistic Creation' suggests a creation story involving two opposing forces or entities.",
+    "motif_ids": [
+      "A111",
+      "A111.1",
+      "A111.2",
+      "A111.3",
+      "A111.4",
+      "A111.5"
+    ]
+  },
+  {
+    "cluster_id": "CG05",
+    "label": "Divine Beings and Their Actions",
+    "description": "These motifs belong together as they all revolve around the actions and characteristics of divine or mythical beings. The variation in theme labels reflects different aspects of these beings' roles in mythological narratives. While 'Mythical Beings and Gods' emphasizes their existence and characteristics, 'Divine Intervention and Redemption' focuses on their actions, particularly those that influence human lives or the world's creation.",
+    "motif_ids": [
+      "A810",
+      "A812.1.1",
+      "A830",
+      "A851",
+      "A852",
+      "A853",
+      "A854",
+      "A855"
+    ]
+  },
+  {
+    "cluster_id": "CG06",
+    "label": "Conflict and Supernatural Intervention",
+    "description": "These motifs all deal with the concept of conflict, often between good and evil, and the use of supernatural aid or charms in resolving these conflicts. The variation in theme labels reflects different narrative focuses: 'Battle between good and evil' emphasizes the conflict aspect, while 'Power of charms and supernatural aid' emphasizes the role of supernatural elements in these stories.",
+    "motif_ids": [
+      "A421",
+      "A422",
+      "A423",
+      "A424",
+      "A425",
+      "A431.1.1",
+      "A442.1",
+      "A464"
+    ]
+  }
+]

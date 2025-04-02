@@ -1,0 +1,55 @@
+{
+  "society": "Old Testament",
+  "title": "Genesis 1-2:3",
+  "filename": "pm027_genesis1.txt",
+  "themes": [
+    {
+      "theme": "Creation of the world",
+      "motifs": [
+        "A100",
+        "A101",
+        "A102",
+        "A103",
+        "A104"
+      ]
+    },
+    {
+      "theme": "Separation of light and darkness",
+      "motifs": [
+        "A305",
+        "A305.1",
+        "A305.2",
+        "A305.3"
+      ]
+    },
+    {
+      "theme": "Creation of living creatures",
+      "motifs": [
+        "A130",
+        "A131",
+        "A131.1",
+        "A132",
+        "A133"
+      ]
+    },
+    {
+      "theme": "Creation of humans",
+      "motifs": [
+        "A191",
+        "A191.1",
+        "A191.2",
+        "A191.3",
+        "A191.4"
+      ]
+    },
+    {
+      "theme": "Rest on the seventh day",
+      "motifs": [
+        "A81",
+        "A81.1",
+        "A81.2",
+        "A81.3"
+      ]
+    }
+  ]
+}

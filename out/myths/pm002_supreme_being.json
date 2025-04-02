@@ -1,0 +1,54 @@
+{
+  "society": "Hottentot",
+  "title": "The Supreme Being",
+  "filename": "pm002_supreme_being.txt",
+  "themes": {
+    "themes": [
+      {
+        "label": "Conflict between Chiefs",
+        "description": "The myth revolves around the conflict between Tsui||goab and ||Gaunab, where Tsui||goab ultimately emerges victorious after being repeatedly overpowered by his enemy. This theme highlights the struggle for power and dominance between two powerful figures.",
+        "motifs": [
+          "A241.1",
+          "A611.1",
+          "A621.1"
+        ]
+      },
+      {
+        "label": "Transformation and Renaming",
+        "description": "Tsui||goab undergoes a transformation both physically and in terms of his identity after defeating ||Gaunab. He receives a new name, Tsui||goab, which reflects his physical wound and serves as a reminder of his victory.",
+        "motifs": [
+          "A231.1",
+          "A231.2",
+          "A231.3"
+        ]
+      },
+      {
+        "label": "Resurrection and Rebirth",
+        "description": "Tsui||goab is depicted as a figure who dies multiple times but is able to rise again, symbolizing themes of resurrection and rebirth. This aspect of the myth emphasizes the cyclical nature of life and death.",
+        "motifs": [
+          "A111.1",
+          "A111.2",
+          "A111.3"
+        ]
+      },
+      {
+        "label": "Wisdom and Prophecy",
+        "description": "Tsui||goab is described as being very wise and possessing the ability to foresee future events. This theme highlights the importance of wisdom and foresight in the myth, as well as the role of prophecy in shaping the narrative.",
+        "motifs": [
+          "A921.1",
+          "A921.2",
+          "A921.3"
+        ]
+      },
+      {
+        "label": "Divine Powers and Blessings",
+        "description": "Tsui||goab is portrayed as a divine figure who has the ability to control natural elements, bring rain, and ensure the fertility of livestock. This theme underscores the supernatural powers and blessings attributed to Tsui||goab in the myth.",
+        "motifs": [
+          "A141.1",
+          "A142.1",
+          "A142.2"
+        ]
+      }
+    ]
+  }
+}

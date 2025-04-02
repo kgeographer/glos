@@ -1,0 +1,57 @@
+{
+  "society": "Ancient Egypt",
+  "title": "Theology from Memphis",
+  "filename": "pm014_theology_from_memphis.txt",
+  "themes": [
+    {
+      "theme": "Divine Creation and Order",
+      "motifs": [
+        "A121.1.1",
+        "A121.2.1",
+        "A121.6.1",
+        "A122",
+        "A122.1"
+      ]
+    },
+    {
+      "theme": "Unity and Balance",
+      "motifs": [
+        "A151",
+        "A151.1",
+        "A151.2",
+        "A151.3",
+        "A151.4"
+      ]
+    },
+    {
+      "theme": "Power and Authority",
+      "motifs": [
+        "A111",
+        "A111.1",
+        "A111.2",
+        "A111.3",
+        "A111.4"
+      ]
+    },
+    {
+      "theme": "Creation of Life",
+      "motifs": [
+        "A671.1",
+        "A671.2",
+        "A671.3",
+        "A671.4",
+        "A671.5"
+      ]
+    },
+    {
+      "theme": "Mythical Beings and Gods",
+      "motifs": [
+        "A810",
+        "A812.1.1",
+        "A830",
+        "A852",
+        "A854"
+      ]
+    }
+  ]
+}

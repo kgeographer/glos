@@ -1,0 +1,56 @@
+{
+  "society": "Fon",
+  "title": "The Great Gods",
+  "filename": "pm013_great_gods.txt",
+  "themes": [
+    {
+      "theme": "Dualistic Creation",
+      "motifs": [
+        "A111.1",
+        "A111.2",
+        "A111.3",
+        "A111.4",
+        "A111.5"
+      ]
+    },
+    {
+      "theme": "Celestial Deities",
+      "motifs": [
+        "A440",
+        "A441",
+        "A451.1",
+        "A451.2",
+        "A451.3"
+      ]
+    },
+    {
+      "theme": "Day and Night",
+      "motifs": [
+        "A130",
+        "A131.1",
+        "A131.2",
+        "A131.3",
+        "A132"
+      ]
+    },
+    {
+      "theme": "Eclipse Symbolism",
+      "motifs": [
+        "A845",
+        "A846",
+        "A847",
+        "A848",
+        "A849"
+      ]
+    },
+    {
+      "theme": "Divine Procreation",
+      "motifs": [
+        "A660.1",
+        "A660.2",
+        "A660.3",
+        "A660.4"
+      ]
+    }
+  ]
+}

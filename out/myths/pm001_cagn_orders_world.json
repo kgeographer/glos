@@ -1,0 +1,57 @@
+{
+  "society": "Bushman",
+  "title": "Cagn orders the world",
+  "filename": "pm001_cagn_orders_world.txt",
+  "themes": [
+    {
+      "theme": "Creation of the world and beings",
+      "motifs": [
+        "A151.1.1",
+        "A151.1.2",
+        "A151.1.3",
+        "A151.1.4",
+        "A151.1.5"
+      ]
+    },
+    {
+      "theme": "Rescue and transformation",
+      "motifs": [
+        "A115",
+        "A116",
+        "A121",
+        "A124",
+        "A128"
+      ]
+    },
+    {
+      "theme": "Conflict and resolution",
+      "motifs": [
+        "A431",
+        "A432",
+        "A433",
+        "A434.1",
+        "A436"
+      ]
+    },
+    {
+      "theme": "Power of charms and supernatural aid",
+      "motifs": [
+        "A421",
+        "A422",
+        "A423",
+        "A424",
+        "A425"
+      ]
+    },
+    {
+      "theme": "Transformation of creatures",
+      "motifs": [
+        "A261",
+        "A262",
+        "A263",
+        "A264",
+        "A265"
+      ]
+    }
+  ]
+}

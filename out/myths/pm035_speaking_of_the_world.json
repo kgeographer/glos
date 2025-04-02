@@ -1,0 +1,57 @@
+{
+  "society": "Zoroastrian",
+  "title": "Speaking Of the World",
+  "filename": "pm035_speaking_of_the_world.txt",
+  "themes": [
+    {
+      "theme": "Creation of the world",
+      "motifs": [
+        "A121.1.1",
+        "A127.1.1",
+        "A151.1.1",
+        "A181",
+        "A183"
+      ]
+    },
+    {
+      "theme": "Battle between good and evil",
+      "motifs": [
+        "A421",
+        "A422",
+        "A431.1.1",
+        "A442.1",
+        "A464"
+      ]
+    },
+    {
+      "theme": "Role of Time in creation",
+      "motifs": [
+        "A649",
+        "A651",
+        "A652.1",
+        "A653.1",
+        "A654"
+      ]
+    },
+    {
+      "theme": "Creation of beings",
+      "motifs": [
+        "A211",
+        "A231",
+        "A241",
+        "A251.1.1",
+        "A261"
+      ]
+    },
+    {
+      "theme": "Defeat and imprisonment of evil",
+      "motifs": [
+        "A541.1",
+        "A542.1.1",
+        "A551.1",
+        "A561",
+        "A571"
+      ]
+    }
+  ]
+}

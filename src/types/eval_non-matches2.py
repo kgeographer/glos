@@ -162,7 +162,7 @@ def process_all_types(output_file, unmatched_file, top_n=10, similarity_metric='
         # Step 5: Calculate rank and weighted score
         rank, weighted_score = calculate_rank_and_weighted_score(associated_motif_ids, fetched_motif_ids)
 
-        # Step 6: If no match, generate detailed output for further analysis
+        # Step 6: If no match, generate detailed output for further anthropic
         if match_percentage == 0:
           unmatched_output.append(
             output_unmatched_types(conn, type_id, type_text, associated_motif_ids, fetched_motifs))

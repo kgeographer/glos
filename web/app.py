@@ -40,9 +40,17 @@ def neighbors():
     input_text = data['text']
     query_type = data['queryType']
 
-    table = 'motif_embeddings_3sm' if query_type == 'motif' else 'type_embeddings_3sm'
-    id_col = 'motif_id' if query_type == 'motif' else 'type_id'
-    text_col = 'motif_text' if query_type == 'motif' else 'text'
+    # table = 'motif_embeddings_3sm' if query_type == 'motif' else 'type_embeddings_3sm'
+    # add option to access the extended motif table holding only 'A' motifs
+    if query_type == 'motif':
+        table = 'motif_embeddings_3sm'
+    elif query_type == 'type':
+        table = 'type_embeddings_3sm'
+    elif query_type == 'myth_motif':
+        table = 'motif_extended_3sm'
+
+    id_col = 'motif_id' if query_type in ['motif', 'myth_motif'] else 'type_id'
+    text_col = 'motif_text' if query_type in ['motif', 'myth_motif'] else 'text'
 
     embedding = get_embedding(input_text)
 
@@ -52,13 +60,6 @@ def neighbors():
         host=os.getenv('DB_HOST'),
         port=os.getenv('DB_PORT')
     )
-
-    # conn = psycopg2.connect(
-    #     dbname="staging",
-    #     user="postgres",
-    #     host="localhost",
-    #     port="5435"
-    # )
 
     closest_neighbors = find_closest_neighbors(conn, embedding, table, id_col, text_col)
     conn.close()

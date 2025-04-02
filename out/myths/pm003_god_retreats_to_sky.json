@@ -1,0 +1,57 @@
+{
+  "society": "Barotse",
+  "title": "God retreats to the sky",
+  "filename": "pm003_god_retreats_to_sky.txt",
+  "themes": [
+    {
+      "theme": "Conflict between creator and creation",
+      "motifs": [
+        "A321",
+        "A321.1",
+        "A321.2",
+        "A321.3",
+        "A321.4"
+      ]
+    },
+    {
+      "theme": "Struggle for power/control",
+      "motifs": [
+        "A621",
+        "A621.1",
+        "A621.2",
+        "A625",
+        "A625.1"
+      ]
+    },
+    {
+      "theme": "Escape to the sky/heaven",
+      "motifs": [
+        "A181",
+        "A181.1",
+        "A181.2",
+        "A181.3",
+        "A181.4"
+      ]
+    },
+    {
+      "theme": "Divine guidance through animals/creatures",
+      "motifs": [
+        "A231",
+        "A231.1",
+        "A231.2",
+        "A231.3",
+        "A231.4"
+      ]
+    },
+    {
+      "theme": "Cultural transmission of beliefs/myths",
+      "motifs": [
+        "A514",
+        "A514.1",
+        "A514.2",
+        "A514.3",
+        "A514.4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "society": "Assyria",
+  "title": "Another Version of the Creation",
+  "filename": "pm024_another_version_of_the_creation.txt",
+  "themes": [
+    {
+      "theme": "Creation of mankind",
+      "motifs": [
+        "A361.1",
+        "A361.2",
+        "A361.3",
+        "A361.4",
+        "A362"
+      ]
+    },
+    {
+      "theme": "Divine planning and decision-making",
+      "motifs": [
+        "A116",
+        "A116.1",
+        "A118",
+        "A119",
+        "A122"
+      ]
+    },
+    {
+      "theme": "Establishing order and boundaries",
+      "motifs": [
+        "A601",
+        "A601.1",
+        "A601.2",
+        "A601.3",
+        "A601.4"
+      ]
+    },
+    {
+      "theme": "Fulfilling destinies and roles",
+      "motifs": [
+        "A141",
+        "A141.1",
+        "A172",
+        "A172.1",
+        "A172.2"
+      ]
+    },
+    {
+      "theme": "Teaching and passing on knowledge",
+      "motifs": [
+        "A251",
+        "A251.1",
+        "A256",
+        "A261",
+        "A261.1"
+      ]
+    }
+  ]
+}

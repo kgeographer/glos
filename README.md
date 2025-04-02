@@ -1,4 +1,13 @@
+# Geographic Lens on Stories (GLOS) Project
 
-![Geographic Lens On Stories](glos_logo_800w.jpg)
+This is a multi-phase digital humanities project exploring the conceptual structures and geographic distribution of motifs, themes, and relationships in global vernacular literature, particularly folktales and creation myths.
 
-The Geographic Lens on Stories (GLOS) project aims to develop and publish a set of digital resources that extend current capabilities for the exploration and comparative analyses of written and transcribed stories across multiple genres and cultural traditions. In the project’s initial phase focusing on folklore, novel digital representations of two canonical indexes of folk literature, “The Types of International Folktales” and “Motif-Index of Folk-Literature” will be developed: a network graph of explicit relationships between tales, their component motifs, and language-based regions, and a database tuned to support semantic similarity measures and to supplement queries made to large language models (LLMs).
+## 📚 Phase 1: Motif and Tale Type Embeddings
+In this initial phase, the Thompson Motif Index and Uther Tale Type Index were digitized, organized in a database, and embedded using NLP techniques. A prototype tool was built to retrieve nearest-neighbor motifs or tale types from any input text.
+
+➡️ [README_Motifs](README_Motifs.md)
+
+## 🌍 Phase 2: Creation Myth Structuring and Analysis
+This ongoing phase focuses on extracting and modeling conceptual content from 124 creation myths sourced from Barbara Sproul’s *Primal Myths*. Using JSON-LD representations, ontological classes, and conceptual profiling, this phase supports similarity analysis, clustering, and eventual geographic visualization.
+
+➡️ [README_Myths](README_Myths.md)

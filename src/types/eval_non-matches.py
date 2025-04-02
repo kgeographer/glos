@@ -141,7 +141,7 @@ def process_all_types(output_file, unmatched_file, top_n=10, similarity_metric='
         # Step 4: Calculate match percentage based on Uther's ground truth
         match_percentage = calculate_match_percentage(associated_motif_ids, fetched_motif_ids)
 
-        # Step 5: If no match, generate detailed output for further analysis
+        # Step 5: If no match, generate detailed output for further anthropic
         if match_percentage == 0:
           unmatched_output.append(
             output_unmatched_types(conn, type_id, type_text, associated_motif_ids, fetched_motifs))

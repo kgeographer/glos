@@ -1,0 +1,1102 @@
+[
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:cagn_orders_world",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm001_cagn_orders_world.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:Cagn",
+        "@type": "myth:SupremeBeing"
+      },
+      {
+        "@id": "myth:Coti",
+        "@type": "myth:Spouse"
+      },
+      {
+        "@id": "myth:Cogaz",
+        "@type": "myth:Son"
+      },
+      {
+        "@id": "myth:Gewi",
+        "@type": "myth:Son"
+      },
+      {
+        "@id": "myth:DaughterOfCagn",
+        "@type": "myth:Child"
+      },
+      {
+        "@id": "myth:Snakes",
+        "@type": "myth:MythicCreature"
+      },
+      {
+        "@id": "myth:Baboons",
+        "@type": "myth:MythicCreature"
+      },
+      {
+        "@id": "myth:Cgorioinsi",
+        "@type": "myth:MythicCreature"
+      },
+      {
+        "@id": "myth:Quuisi",
+        "@type": "myth:Person"
+      },
+      {
+        "@id": "myth:Thorns",
+        "@type": "myth:MythicCreature"
+      },
+      {
+        "@id": "myth:BitingAnts",
+        "@type": "myth:MythicCreature"
+      },
+      {
+        "@id": "myth:Eagle",
+        "@type": "myth:MythicCreature"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:creation_event",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Cagn"
+      },
+      {
+        "@id": "myth:snake_marriage",
+        "@type": "myth:TransformationEvent",
+        "myth:subject": "myth:DaughterOfCagn"
+      },
+      {
+        "@id": "myth:rescue_daughter",
+        "@type": "myth:RescueEvent",
+        "myth:agent": "myth:Cogaz",
+        "myth:recipient": "myth:DaughterOfCagn"
+      },
+      {
+        "@id": "myth:baboons_kill_cogaz",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:Baboons",
+        "myth:patient": "myth:Cogaz"
+      },
+      {
+        "@id": "myth:cagn_revenge_baboons",
+        "@type": "myth:PunishmentEvent",
+        "myth:agent": "myth:Cagn",
+        "myth:recipient": "myth:Baboons"
+      },
+      {
+        "@id": "myth:revive_cogaz",
+        "@type": "myth:ResurrectionEvent",
+        "myth:agent": "myth:Cagn",
+        "myth:patient": "myth:Cogaz"
+      },
+      {
+        "@id": "myth:eagle_betrayal",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:Eagle",
+        "myth:patient": "myth:Cagn"
+      },
+      {
+        "@id": "myth:cagn_kills_eagle",
+        "@type": "myth:RevengeEvent",
+        "myth:agent": "myth:Cagn",
+        "myth:recipient": "myth:Eagle"
+      },
+      {
+        "@id": "myth:cagn_vs_cgorioinsi",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:Cagn",
+        "myth:patient": "myth:Cgorioinsi"
+      },
+      {
+        "@id": "myth:cagn_help_quuisi",
+        "@type": "myth:RescueEvent",
+        "myth:agent": "myth:Cagn",
+        "myth:recipient": "myth:Quuisi"
+      },
+      {
+        "@id": "myth:quuisi_betrays_cagn",
+        "@type": "myth:BetrayalEvent",
+        "myth:agent": "myth:Quuisi",
+        "myth:patient": "myth:Cagn"
+      },
+      {
+        "@id": "myth:cagn_killed_by_thorns",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:Thorns",
+        "myth:patient": "myth:Cagn"
+      },
+      {
+        "@id": "myth:cagn_revived_and_avenges",
+        "@type": "myth:ResurrectionEvent",
+        "myth:agent": "myth:Cogaz",
+        "myth:patient": "myth:Cagn"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:tsui_goab_conflict",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm002_supreme_being.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:TsuiGoab",
+        "@type": "myth:SupremeBeing",
+        "myth:originalName": "unknown",
+        "myth:roles": [
+          "ancestor",
+          "warrior",
+          "prophet",
+          "creator",
+          "rainGiver"
+        ],
+        "myth:injury": "knee",
+        "myth:resurrections": "multiple",
+        "myth:domain": "myth:BeautifulHeaven"
+      },
+      {
+        "@id": "myth:Gaunab",
+        "@type": "myth:AdversaryDeity",
+        "myth:domain": "myth:DarkHeaven"
+      },
+      {
+        "@id": "myth:Khoikhoi",
+        "@type": "myth:People",
+        "myth:origin": "myth:TsuiGoab"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:war_with_gaunab",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:TsuiGoab",
+        "myth:patient": "myth:Gaunab",
+        "myth:outcome": "myth:Victory",
+        "myth:result": "myth:TsuiGoabInjured"
+      },
+      {
+        "@id": "myth:naming_event",
+        "@type": "myth:TransformationEvent",
+        "myth:subject": "myth:TsuiGoab",
+        "myth:cause": "myth:TsuiGoabInjured",
+        "myth:resultingName": "Tsui||goab"
+      },
+      {
+        "@id": "myth:resurrections",
+        "@type": "myth:ResurrectionEvent",
+        "myth:subject": "myth:TsuiGoab",
+        "myth:frequency": "multiple"
+      },
+      {
+        "@id": "myth:feasting",
+        "@type": "myth:CelebrationEvent",
+        "myth:occasion": "myth:TsuiGoabReturn",
+        "myth:activities": [
+          "milkShared",
+          "animalsSlaughtered"
+        ]
+      },
+      {
+        "@id": "myth:rain_fertility",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:TsuiGoab",
+        "myth:actions": [
+          "givesRain",
+          "makesClouds",
+          "causesFertility"
+        ]
+      },
+      {
+        "@id": "myth:divine_gift",
+        "@type": "myth:GiftGivingEvent",
+        "myth:agent": "myth:TsuiGoab",
+        "myth:recipient": "myth:Khoikhoi",
+        "myth:itemsGiven": [
+          "myth:Cattle",
+          "myth:Sheep"
+        ],
+        "myth:reason": "myth:DivineWealth"
+      }
+    ],
+    "myth:hasPlace": [
+      {
+        "@id": "myth:BeautifulHeaven",
+        "@type": "myth:Place",
+        "myth:inhabitant": "myth:TsuiGoab"
+      },
+      {
+        "@id": "myth:DarkHeaven",
+        "@type": "myth:Place",
+        "myth:inhabitant": "myth:Gaunab"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:nyambi_retreats_to_sky",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm003_god_retreats_to_sky.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:Nyambi",
+        "@type": "myth:CreatorDeity"
+      },
+      {
+        "@id": "myth:Nasilele",
+        "@type": "myth:Spouse"
+      },
+      {
+        "@id": "myth:Kamonu",
+        "@type": "myth:Human"
+      },
+      {
+        "@id": "myth:Spider",
+        "@type": "myth:HelperCreature"
+      },
+      {
+        "@id": "myth:Diviner",
+        "@type": "myth:Seer"
+      },
+      {
+        "@id": "myth:Birds",
+        "@type": "myth:AnimalMessengers"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:creation",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Nyambi"
+      },
+      {
+        "@id": "myth:imitation",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:Kamonu",
+        "myth:target": "myth:Nyambi"
+      },
+      {
+        "@id": "myth:exile_return",
+        "@type": "myth:ReturnEvent",
+        "myth:agent": "myth:Kamonu"
+      },
+      {
+        "@id": "myth:killing_animals",
+        "@type": "myth:ActionEvent",
+        "myth:agent": "myth:Kamonu",
+        "myth:action": "killsAnimals"
+      },
+      {
+        "@id": "myth:request_for_medicine",
+        "@type": "myth:PetitionEvent",
+        "myth:agent": "myth:Kamonu",
+        "myth:recipient": "myth:Nyambi"
+      },
+      {
+        "@id": "myth:divine_escape_attempts",
+        "@type": "myth:EscapeEvent",
+        "myth:agent": "myth:Nyambi"
+      },
+      {
+        "@id": "myth:spider_guides_escape",
+        "@type": "myth:GuidanceEvent",
+        "myth:agent": "myth:Spider",
+        "myth:recipient": "myth:Nyambi"
+      },
+      {
+        "@id": "myth:sky_ascent",
+        "@type": "myth:AscensionEvent",
+        "myth:agent": "myth:Nyambi"
+      },
+      {
+        "@id": "myth:blinding_spider",
+        "@type": "myth:PunishmentEvent",
+        "myth:agent": "myth:Nyambi",
+        "myth:recipient": "myth:Spider"
+      },
+      {
+        "@id": "myth:tower_building",
+        "@type": "myth:AttemptedAscensionEvent",
+        "myth:agent": "myth:Kamonu"
+      },
+      {
+        "@id": "myth:solar_salutation",
+        "@type": "myth:RitualEvent",
+        "myth:agent": "myth:Kamonu",
+        "myth:action": "greetSun"
+      },
+      {
+        "@id": "myth:moon_invocation",
+        "@type": "myth:RitualEvent",
+        "myth:agent": "myth:People",
+        "myth:recipient": "myth:Nasilele"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:great_gods",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm013_great_gods.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:NanaBuluku",
+        "@type": "myth:SupremeBeing",
+        "myth:gender": "both"
+      },
+      {
+        "@id": "myth:Mawu",
+        "@type": "myth:Deity",
+        "myth:gender": "female",
+        "myth:domain": "night",
+        "myth:symbol": "moon",
+        "myth:location": "west"
+      },
+      {
+        "@id": "myth:Lisa",
+        "@type": "myth:Deity",
+        "myth:gender": "male",
+        "myth:domain": "day",
+        "myth:symbol": "sun",
+        "myth:location": "east"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:creation_by_nana",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:NanaBuluku"
+      },
+      {
+        "@id": "myth:birth_of_twins",
+        "@type": "myth:BirthEvent",
+        "myth:parent": "myth:NanaBuluku",
+        "myth:children": [
+          "myth:Mawu",
+          "myth:Lisa"
+        ]
+      },
+      {
+        "@id": "myth:domain_assignment",
+        "@type": "myth:GovernanceEvent",
+        "myth:assigner": "myth:NanaBuluku",
+        "myth:assignees": [
+          {
+            "myth:deity": "myth:Mawu",
+            "myth:domain": "night"
+          },
+          {
+            "myth:deity": "myth:Lisa",
+            "myth:domain": "day"
+          }
+        ]
+      },
+      {
+        "@id": "myth:celestial_union",
+        "@type": "myth:SymbolicUnionEvent",
+        "myth:agents": [
+          "myth:Mawu",
+          "myth:Lisa"
+        ],
+        "myth:symbolism": [
+          "eclipse_moon",
+          "eclipse_sun"
+        ]
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:theology_from_memphis",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm014_theology_from_memphis.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:Ptah",
+        "@type": "myth:CreatorDeity"
+      },
+      {
+        "@id": "myth:Atum",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Horus",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Seth",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Osiris",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Isis",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Nephthys",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Geb",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Ennead",
+        "@type": "myth:DivineAssembly"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:judgment_of_horus_and_seth",
+        "@type": "myth:JudgmentEvent",
+        "myth:agent": "myth:Geb",
+        "myth:participants": [
+          "myth:Horus",
+          "myth:Seth"
+        ]
+      },
+      {
+        "@id": "myth:division_and_reconciliation",
+        "@type": "myth:GovernanceEvent",
+        "myth:agents": [
+          "myth:Horus",
+          "myth:Seth"
+        ],
+        "myth:outcome": "reconciliation_and_allocation"
+      },
+      {
+        "@id": "myth:inheritance_to_horus",
+        "@type": "myth:InheritanceEvent",
+        "myth:assigner": "myth:Geb",
+        "myth:recipient": "myth:Horus"
+      },
+      {
+        "@id": "myth:creation_by_speech",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Ptah",
+        "myth:method": "thought_and_speech"
+      },
+      {
+        "@id": "myth:manifestation_in_materials",
+        "@type": "myth:EmbodimentEvent",
+        "myth:agent": "myth:Ptah",
+        "myth:mediums": [
+          "wood",
+          "stone",
+          "clay"
+        ]
+      },
+      {
+        "@id": "myth:rescue_of_osiris",
+        "@type": "myth:RescueEvent",
+        "myth:agents": [
+          "myth:Isis",
+          "myth:Nephthys"
+        ],
+        "myth:recipient": "myth:Osiris"
+      },
+      {
+        "@id": "myth:enthronement_of_horus",
+        "@type": "myth:AscensionEvent",
+        "myth:agent": "myth:Horus"
+      },
+      {
+        "@id": "myth:restoration_by_shabaka",
+        "@type": "myth:RestorationEvent",
+        "myth:agent": "myth:Sha-ba-ka",
+        "myth:location": "House_of_Ptah"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:assyrian_creation",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm024_another_version_of_the_creation.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:Anu",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Enlil",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Ea",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Shamash",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Ninmah",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Aruru",
+        "@type": "myth:Goddess"
+      },
+      {
+        "@id": "myth:Nisaba",
+        "@type": "myth:Goddess"
+      },
+      {
+        "@id": "myth:Anunnaki",
+        "@type": "myth:DivineAssembly"
+      },
+      {
+        "@id": "myth:LamgaGods",
+        "@type": "myth:DeityGroup"
+      },
+      {
+        "@id": "myth:Ulligarra",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Zalgarra",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Enul",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Ereshul",
+        "@type": "myth:Deity"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:cosmic_order",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Anunnaki",
+        "myth:featuresCreated": [
+          "heaven",
+          "earth",
+          "canals",
+          "Tigris",
+          "Euphrates"
+        ]
+      },
+      {
+        "@id": "myth:divine_council",
+        "@type": "myth:AssemblyEvent",
+        "myth:participants": [
+          "myth:Anu",
+          "myth:Enlil",
+          "myth:Ea",
+          "myth:Shamash",
+          "myth:Anunnaki"
+        ]
+      },
+      {
+        "@id": "myth:slaying_of_lamga",
+        "@type": "myth:SacrificeEvent",
+        "myth:agent": "myth:Anunnaki",
+        "myth:recipients": [
+          "myth:LamgaGods"
+        ]
+      },
+      {
+        "@id": "myth:creation_of_humans",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Anunnaki",
+        "myth:material": "blood_of_LamgaGods",
+        "myth:purpose": "service_of_gods"
+      },
+      {
+        "@id": "myth:assignment_of_labor",
+        "@type": "myth:GovernanceEvent",
+        "myth:agent": "myth:Aruru",
+        "myth:decree": "division_of_labors"
+      },
+      {
+        "@id": "myth:decree_of_abundance",
+        "@type": "myth:BlessingEvent",
+        "myth:agents": [
+          "myth:Ulligarra",
+          "myth:Zalgarra",
+          "myth:Enul",
+          "myth:Ereshul"
+        ]
+      },
+      {
+        "@id": "myth:foundation_of_knowledge",
+        "@type": "myth:AppointmentEvent",
+        "myth:agent": "myth:Nisaba",
+        "myth:role": "teacher_of_mysteries"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:genesis_creation",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm027_genesis1.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:God",
+        "@type": "myth:SupremeBeing"
+      },
+      {
+        "@id": "myth:Light",
+        "@type": "myth:Creation"
+      },
+      {
+        "@id": "myth:Darkness",
+        "@type": "myth:PrimordialState"
+      },
+      {
+        "@id": "myth:Waters",
+        "@type": "myth:PrimordialSubstance"
+      },
+      {
+        "@id": "myth:Heaven",
+        "@type": "myth:Place"
+      },
+      {
+        "@id": "myth:Earth",
+        "@type": "myth:Place"
+      },
+      {
+        "@id": "myth:Plants",
+        "@type": "myth:Creation"
+      },
+      {
+        "@id": "myth:Animals",
+        "@type": "myth:Creation"
+      },
+      {
+        "@id": "myth:Humans",
+        "@type": "myth:CreatedBeings"
+      },
+      {
+        "@id": "myth:Sun",
+        "@type": "myth:CelestialBody"
+      },
+      {
+        "@id": "myth:Moon",
+        "@type": "myth:CelestialBody"
+      },
+      {
+        "@id": "myth:Stars",
+        "@type": "myth:CelestialBody"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:creation_light",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:God",
+        "myth:product": "myth:Light"
+      },
+      {
+        "@id": "myth:creation_firmament",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:God",
+        "myth:product": "myth:Heaven"
+      },
+      {
+        "@id": "myth:separation_waters",
+        "@type": "myth:SeparationEvent",
+        "myth:agent": "myth:God",
+        "myth:substance": "myth:Waters"
+      },
+      {
+        "@id": "myth:appearance_dry_land",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:God",
+        "myth:product": "myth:Earth"
+      },
+      {
+        "@id": "myth:creation_plants",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:God",
+        "myth:product": "myth:Plants"
+      },
+      {
+        "@id": "myth:creation_lights",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:God",
+        "myth:products": [
+          "myth:Sun",
+          "myth:Moon",
+          "myth:Stars"
+        ]
+      },
+      {
+        "@id": "myth:creation_animals",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:God",
+        "myth:product": "myth:Animals"
+      },
+      {
+        "@id": "myth:creation_humans",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:God",
+        "myth:product": "myth:Humans"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:zoroastrian_creation",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm035_speaking_of_the_world.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:Time",
+        "@type": "myth:PrimordialForce"
+      },
+      {
+        "@id": "myth:Ohrmazd",
+        "@type": "myth:CreatorDeity"
+      },
+      {
+        "@id": "myth:Ahriman",
+        "@type": "myth:AdversaryDeity"
+      },
+      {
+        "@id": "myth:Sky",
+        "@type": "myth:Creation"
+      },
+      {
+        "@id": "myth:Water",
+        "@type": "myth:Creation"
+      },
+      {
+        "@id": "myth:Earth",
+        "@type": "myth:Creation"
+      },
+      {
+        "@id": "myth:Plants",
+        "@type": "myth:Creation"
+      },
+      {
+        "@id": "myth:Bull",
+        "@type": "myth:PrimordialBeing"
+      },
+      {
+        "@id": "myth:Gayomart",
+        "@type": "myth:PrimordialBeing"
+      },
+      {
+        "@id": "myth:Humanity",
+        "@type": "myth:CreatedBeings"
+      },
+      {
+        "@id": "myth:SevenDemons",
+        "@type": "myth:MythicCreature"
+      },
+      {
+        "@id": "myth:Ardibihist",
+        "@type": "myth:Angel"
+      },
+      {
+        "@id": "myth:Varhram",
+        "@type": "myth:Deity"
+      },
+      {
+        "@id": "myth:Amahraspand",
+        "@type": "myth:Angel"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:time_is_creator",
+        "@type": "myth:CosmicPrincipleEvent",
+        "myth:agent": "myth:Time"
+      },
+      {
+        "@id": "myth:time_creates_elements",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Time",
+        "myth:products": [
+          "myth:Fire",
+          "myth:Water"
+        ]
+      },
+      {
+        "@id": "myth:birth_of_ohrmazd",
+        "@type": "myth:EmergenceEvent",
+        "myth:agent": "myth:Time",
+        "myth:result": "myth:Ohrmazd"
+      },
+      {
+        "@id": "myth:vision_of_ahriman",
+        "@type": "myth:RecognitionEvent",
+        "myth:agent": "myth:Ohrmazd",
+        "myth:target": "myth:Ahriman"
+      },
+      {
+        "@id": "myth:creation_plan",
+        "@type": "myth:StrategicIntentEvent",
+        "myth:agent": "myth:Ohrmazd",
+        "myth:purpose": "destruction_of_ahriman"
+      },
+      {
+        "@id": "myth:spiritual_creation",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Ohrmazd",
+        "myth:duration": "3000_years"
+      },
+      {
+        "@id": "myth:material_creation",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:Ohrmazd",
+        "myth:products": [
+          "myth:Sky",
+          "myth:Water",
+          "myth:Earth",
+          "myth:Plants",
+          "myth:Bull",
+          "myth:Gayomart",
+          "myth:Humanity"
+        ]
+      },
+      {
+        "@id": "myth:ahriman_attack",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:Ahriman",
+        "myth:target": "myth:Creation"
+      },
+      {
+        "@id": "myth:battle_in_material_world",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:Ahriman",
+        "myth:duration": "90_days"
+      },
+      {
+        "@id": "myth:demon_binding",
+        "@type": "myth:CaptureEvent",
+        "myth:agents": [
+          "myth:SpiritualBeings"
+        ],
+        "myth:targets": [
+          "myth:SevenDemons"
+        ]
+      },
+      {
+        "@id": "myth:death_of_gayomart",
+        "@type": "myth:DeathEvent",
+        "myth:agent": "myth:Ahriman",
+        "myth:patient": "myth:Gayomart"
+      },
+      {
+        "@id": "myth:banishment_of_ahriman",
+        "@type": "myth:ExileEvent",
+        "myth:agent": "myth:SpiritualBeings",
+        "myth:target": "myth:Ahriman",
+        "myth:location": "hell"
+      },
+      {
+        "@id": "myth:guardians_of_hell",
+        "@type": "myth:GuardingEvent",
+        "myth:agents": [
+          "myth:Ardibihist",
+          "myth:Varhram",
+          "myth:Amahraspand"
+        ],
+        "myth:location": "hell"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "myth": "http://example.org/myth#"
+    },
+    "@id": "myth:creation_according_to_mani",
+    "@type": "myth:MythNarrative",
+    "myth:sourceFile": "pm039_creation_according_to_mani.txt",
+    "myth:hasEntity": [
+      {
+        "@id": "myth:FatherOfGreatness",
+        "@type": "myth:SupremeBeing"
+      },
+      {
+        "@id": "myth:KingOfDarkness",
+        "@type": "myth:AdversaryDeity"
+      },
+      {
+        "@id": "myth:FiveShkinas",
+        "@type": "myth:DivineAspect"
+      },
+      {
+        "@id": "myth:FiveAeons",
+        "@type": "myth:DarkAspect"
+      },
+      {
+        "@id": "myth:PrimalMan",
+        "@type": "myth:WarriorDeity"
+      },
+      {
+        "@id": "myth:FiveSonsOfPrimalMan",
+        "@type": "myth:DivineForce"
+      },
+      {
+        "@id": "myth:ArchDevil",
+        "@type": "myth:AdversaryDeity"
+      },
+      {
+        "@id": "myth:LivingSpirit",
+        "@type": "myth:Rescuer"
+      },
+      {
+        "@id": "myth:GreatArchitect",
+        "@type": "myth:Creator"
+      },
+      {
+        "@id": "myth:FriendOfLights",
+        "@type": "myth:DivineAgent"
+      },
+      {
+        "@id": "myth:MotherOfLife",
+        "@type": "myth:DivineMother"
+      },
+      {
+        "@id": "myth:Messenger",
+        "@type": "myth:Savior"
+      },
+      {
+        "@id": "myth:TwelveVirgins",
+        "@type": "myth:Virtues"
+      },
+      {
+        "@id": "myth:Archons",
+        "@type": "myth:AdversaryGroup"
+      },
+      {
+        "@id": "myth:Adam",
+        "@type": "myth:FirstMan"
+      },
+      {
+        "@id": "myth:Eve",
+        "@type": "myth:FirstWoman"
+      },
+      {
+        "@id": "myth:JesusLuminous",
+        "@type": "myth:Redeemer"
+      },
+      {
+        "@id": "myth:Demons",
+        "@type": "myth:AdversaryGroup"
+      }
+    ],
+    "myth:hasEvent": [
+      {
+        "@id": "myth:primordial_dualism",
+        "@type": "myth:CosmicSeparationEvent",
+        "myth:agents": [
+          "myth:FatherOfGreatness",
+          "myth:KingOfDarkness"
+        ]
+      },
+      {
+        "@id": "myth:darkness_rises",
+        "@type": "myth:ConflictEvent",
+        "myth:agent": "myth:KingOfDarkness",
+        "myth:target": "myth:RealmOfLight"
+      },
+      {
+        "@id": "myth:primal_man_battle",
+        "@type": "myth:CombatEvent",
+        "myth:agents": [
+          "myth:PrimalMan",
+          "myth:ArchDevil"
+        ]
+      },
+      {
+        "@id": "myth:sacrifice_of_light",
+        "@type": "myth:SacrificeEvent",
+        "myth:agent": "myth:PrimalMan",
+        "myth:recipients": [
+          "myth:Archons"
+        ]
+      },
+      {
+        "@id": "myth:rescue_of_primal_man",
+        "@type": "myth:RescueEvent",
+        "myth:agent": "myth:LivingSpirit",
+        "myth:recipient": "myth:PrimalMan"
+      },
+      {
+        "@id": "myth:world_construction",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:LivingSpirit",
+        "myth:materials": [
+          "mixture_of_light_and_darkness"
+        ]
+      },
+      {
+        "@id": "myth:creation_of_cosmos",
+        "@type": "myth:CosmicStructuringEvent",
+        "myth:agent": "myth:LivingSpirit",
+        "myth:result": "ten_heavens_eight_earths"
+      },
+      {
+        "@id": "myth:messenger_appears",
+        "@type": "myth:SalvationEvent",
+        "myth:agent": "myth:Messenger"
+      },
+      {
+        "@id": "myth:release_of_light",
+        "@type": "myth:ExtractionEvent",
+        "myth:agent": "myth:Messenger",
+        "myth:recipients": [
+          "myth:AngelsOfLight"
+        ]
+      },
+      {
+        "@id": "myth:creation_of_adam_eve",
+        "@type": "myth:CreationEvent",
+        "myth:agent": "myth:KingOfDarkness"
+      },
+      {
+        "@id": "myth:seduction_by_darkness",
+        "@type": "myth:CorruptionEvent",
+        "myth:agent": "myth:Demons",
+        "myth:target": "myth:Adam"
+      },
+      {
+        "@id": "myth:awakening_of_adam",
+        "@type": "myth:RedemptionEvent",
+        "myth:agent": "myth:JesusLuminous",
+        "myth:recipient": "myth:Adam"
+      },
+      {
+        "@id": "myth:adam_self_awareness",
+        "@type": "myth:RealizationEvent",
+        "myth:agent": "myth:Adam"
+      }
+    ]
+  }  
+]

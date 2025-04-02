@@ -175,7 +175,7 @@ def process_all_types(output_file, unmatched_file, top_n=10, similarity_metric='
         elif match_percentage > 0:
           total_partial_match += 1
 
-        # Step 6: If no match, generate detailed output for further analysis
+        # Step 6: If no match, generate detailed output for further anthropic
         if match_percentage == 0:
           unmatched_output.append(
             output_unmatched_types(conn, type_id, type_text, associated_motif_ids, fetched_motifs))

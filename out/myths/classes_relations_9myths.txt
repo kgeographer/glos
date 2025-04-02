@@ -1,0 +1,104 @@
+Here’s a grouped summary of all classes and relations actually used across your full nine-myth corpus, extracted from sample9.jsonld:
+
+🧙 Entity Classes (Types of Beings and Things)
+
+These are used for entities like gods, people, places, and conceptual objects:
+	•	myth:AdversaryDeity
+	•	myth:AnimalMessengers
+	•	myth:CelestialBody
+	•	myth:Child
+	•	myth:CreatedBeings
+	•	myth:Creation
+	•	myth:CreatorDeity
+	•	myth:Deity
+	•	myth:DeityGroup
+	•	myth:DivineAssembly
+	•	myth:Goddess
+	•	myth:HelperCreature
+	•	myth:Human
+	•	myth:MythNarrative (container, not an actor)
+	•	myth:MythicCreature
+	•	myth:People
+	•	myth:Person
+	•	myth:Place
+	•	myth:PrimordialState
+	•	myth:PrimordialSubstance
+	•	myth:Seer
+	•	myth:Son
+	•	myth:Spouse
+	•	myth:SupremeBeing
+
+📌 New additions beyond the original list include:
+	•	myth:PrimordialState, myth:PrimordialSubstance, myth:CreatedBeings
+	•	Specific relational classes like myth:Spouse, myth:Son, myth:Seer, myth:Child, etc.
+
+🕰️ Event Classes (Narrative Moments or Actions)
+
+These represent mythic actions or transformations:
+	•	myth:ActionEvent
+	•	myth:AppointmentEvent
+	•	myth:AscensionEvent
+	•	myth:AssemblyEvent
+	•	myth:AttemptedAscensionEvent
+	•	myth:BetrayalEvent
+	•	myth:BirthEvent
+	•	myth:BlessingEvent
+	•	myth:CelebrationEvent
+	•	myth:ConflictEvent
+	•	myth:CreationEvent
+	•	myth:EmbodimentEvent
+	•	myth:EscapeEvent
+	•	myth:GiftGivingEvent
+	•	myth:GovernanceEvent
+	•	myth:GuidanceEvent
+	•	myth:InheritanceEvent
+	•	myth:JudgmentEvent
+	•	myth:PetitionEvent
+	•	myth:PunishmentEvent
+	•	myth:RescueEvent
+	•	myth:RestorationEvent
+	•	myth:ResurrectionEvent
+	•	myth:ReturnEvent
+	•	myth:RevengeEvent
+	•	myth:RitualEvent
+	•	myth:SacrificeEvent
+	•	myth:SeparationEvent
+	•	myth:SymbolicUnionEvent
+	•	myth:TransformationEvent
+
+📌 New event types include many refinements:
+e.g. myth:AppointmentEvent, myth:SacrificeEvent, myth:SymbolicUnionEvent, myth:RitualEvent, myth:GuidanceEvent, myth:RestorationEvent
+
+🎭 Role & Event Properties
+
+These describe the roles or attributes within events:
+	•	myth:action, myth:actions, myth:activities
+	•	myth:agent, myth:agents
+	•	myth:assignees, myth:assigner
+	•	myth:cause, myth:reason
+	•	myth:children, myth:parent
+	•	myth:decree, myth:role
+	•	myth:featuresCreated, myth:material, myth:mediums, myth:method, myth:product, myth:products, myth:purpose
+	•	myth:occasion, myth:outcome, myth:result, myth:resultingName
+	•	myth:recipient, myth:recipients
+	•	myth:frequency
+	•	myth:itemsGiven, myth:symbolism
+	•	myth:location, myth:substance, myth:subject, myth:target
+	•	myth:participants, myth:patient
+
+📌 You now have a rich vocabulary of semantic roles, many of which emerged naturally from myth structure.
+
+🔗 Other Structural Relations
+
+These are relations not tied directly to events:
+	•	myth:hasPlace
+
+📌 Notably, semantic relations like myth:parentOf, myth:enemyOf, myth:created and others from your original schema were not used explicitly in the JSON-LD structure (though they are often implicit via roles and events).
+
+✅ Summary
+	•	Your initial schema has expanded organically as myth modeling required.
+	•	Event types are particularly diverse now, with many expressive subtypes.
+	•	Entity classes have grown modestly, mainly through specificity (e.g., Spouse, Son).
+	•	Role and event properties now offer rich vocabulary for querying and inference.
+
+Would you like this grouped list saved as a file for reference? Or shall we begin inspecting and normalizing any of these? ￼

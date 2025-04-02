@@ -1,0 +1,229 @@
+{
+  "theme": "Conflict between Chiefs",
+  "verified_motifs": [
+    {
+      "motif_id": "A106.1",
+      "label": "Revolt of bad gods against good."
+    },
+    {
+      "motif_id": "A106.2",
+      "label": "Revolt of evil angels against God."
+    },
+    {
+      "motif_id": "A1081",
+      "label": "Battle of the gods at end of world."
+    },
+    {
+      "motif_id": "A1082",
+      "label": "Battle of gods and monster at end of world."
+    },
+    {
+      "motif_id": "A1080",
+      "label": "Battle at end of world. Armageddon."
+    },
+    {
+      "motif_id": "A1341",
+      "label": "Origin of war among men."
+    },
+    {
+      "motif_id": "A1342",
+      "label": "Origin of quarrelling."
+    },
+    {
+      "motif_id": "A1343",
+      "label": "Origin of lying."
+    },
+    {
+      "motif_id": "A1341.3",
+      "label": "Origin of thefts and quarrels."
+    },
+    {
+      "motif_id": "A1341.2",
+      "label": "Origin of duelling."
+    },
+    {
+      "motif_id": "A1384",
+      "label": "Origin of evil inclinations."
+    },
+    {
+      "motif_id": "A1388",
+      "label": "Origin of hatred."
+    },
+    {
+      "motif_id": "A1388.1",
+      "label": "Hate released among mankind."
+    },
+    {
+      "motif_id": "A1416",
+      "label": "Country ridded of ogres and made peaceful."
+    },
+    {
+      "motif_id": "A1473",
+      "label": "Origin of slavery."
+    },
+    {
+      "motif_id": "A1582",
+      "label": "Origin of government."
+    },
+    {
+      "motif_id": "A1583",
+      "label": "Origin of kingdom."
+    },
+    {
+      "motif_id": "A162.8",
+      "label": "Rebellion of lesser gods against chief."
+    },
+    {
+      "motif_id": "A1653",
+      "label": "Origin of royalty."
+    },
+    {
+      "motif_id": "A1599.11.1",
+      "label": "Origin of war."
+    },
+    {
+      "motif_id": "A189.14",
+      "label": "God's enemies."
+    },
+    {
+      "motif_id": "A192.1.1",
+      "label": "Old god slain by young god."
+    },
+    {
+      "motif_id": "A194.2",
+      "label": "God's vengeance."
+    },
+    {
+      "motif_id": "A194.3",
+      "label": "God's jealousy."
+    },
+    {
+      "motif_id": "A189.9",
+      "label": "Early period when gods and men lived together, gods ruling men, ordaining how they should live and originating various customs."
+    },
+    {
+      "motif_id": "A2250",
+      "label": "Animal characteristics: result of contest."
+    },
+    {
+      "motif_id": "A2250.1",
+      "label": "Cock and ptarmigan in contest: winner to live in town."
+    },
+    {
+      "motif_id": "A2257",
+      "label": "Animal characteristics from duel."
+    },
+    {
+      "motif_id": "A2257.1",
+      "label": "Why tiger does not attack wild boar until latter is old: result of duel."
+    },
+    {
+      "motif_id": "A2258",
+      "label": "Animal characteristics: as a result of quarrel."
+    },
+    {
+      "motif_id": "A2460",
+      "label": "Animal characteristics: attack and defense."
+    },
+    {
+      "motif_id": "A2463",
+      "label": "Animal's means of attack."
+    },
+    {
+      "motif_id": "A2494",
+      "label": "Why certain animals are enemies."
+    },
+    {
+      "motif_id": "A2493.30.1",
+      "label": "Friendship between lion and jackal."
+    },
+    {
+      "motif_id": "A2492",
+      "label": "Why certain animals go in herds."
+    },
+    {
+      "motif_id": "A300",
+      "label": "God of the underworld."
+    },
+    {
+      "motif_id": "A308",
+      "label": "Warrior chieftain of underworld."
+    },
+    {
+      "motif_id": "A415",
+      "label": "God of clans or nations."
+    },
+    {
+      "motif_id": "A417",
+      "label": "Gods of the Quarters."
+    },
+    {
+      "motif_id": "A433.3",
+      "label": "God of the vine."
+    },
+    {
+      "motif_id": "A485",
+      "label": "God of war."
+    },
+    {
+      "motif_id": "A485.3",
+      "label": "God of single-combats."
+    },
+    {
+      "motif_id": "Justification: This motif suggests a deity presiding over one",
+      "label": "on-one battles, which could be representative of conflicts between individual chiefs."
+    },
+    {
+      "motif_id": "A486",
+      "label": "The Furies. Goddesses of vengeance."
+    },
+    {
+      "motif_id": "A488",
+      "label": "God of destruction."
+    },
+    {
+      "motif_id": "A489.2",
+      "label": "God of strength."
+    },
+    {
+      "motif_id": "A716",
+      "label": "Dispute at creation of sun. God and devil discuss creation. God plans two suns; devil persuades him to create only one."
+    },
+    {
+      "motif_id": "A716.1",
+      "label": "Four suns at first: culture hero shoots three down."
+    },
+    {
+      "motif_id": "A739.2",
+      "label": "War with the sun."
+    },
+    {
+      "motif_id": "A736.11",
+      "label": "Contest between sun and moon."
+    },
+    {
+      "motif_id": "A736.1.4.1",
+      "label": "Sun and moon quarrel when sun eats up all their children but two."
+    },
+    {
+      "motif_id": "A901.1",
+      "label": "Topographical changes or landmarks due to battle between gods."
+    },
+    {
+      "motif_id": "A964",
+      "label": "Mountains (hills) from ancient contest (fight)."
+    },
+    {
+      "motif_id": "A986",
+      "label": "Bridge of the Gods. A conflict of the gods breaks a primeval bridge and thus causes a rapid in a river."
+    },
+    {
+      "motif_id": "A964.2",
+      "label": "Mountains fight each other: cause of their present shape."
+    },
+    {
+      "motif_id": "A964.2.1",
+      "label": "Mountains fight each other for honor of being the spot for the revelation."
+    }
+  ]
+}

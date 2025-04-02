@@ -1,0 +1,197 @@
+[
+  {
+    "candidate_group_id": "CG01",
+    "members": [
+      {
+        "id": "pm003_god_retreats_to_sky_T2",
+        "theme": "Struggle for power/control",
+        "motifs": [
+          "A621.1",
+          "A621",
+          "A625.1",
+          "A621.2",
+          "A625"
+        ],
+        "myth": "God retreats to the sky"
+      },
+      {
+        "id": "pm002_supreme_being_T2",
+        "theme": "Conflict between Chiefs",
+        "motifs": [
+          "A621",
+          "A622",
+          "A621.1",
+          "A623"
+        ],
+        "myth": "The Supreme Being"
+      },
+      {
+        "id": "pm039_creation_according_to_mani_T2",
+        "theme": "Struggle between Light and Darkness",
+        "motifs": [
+          "A624",
+          "A611",
+          "A621",
+          "A623",
+          "A622"
+        ],
+        "myth": "The Creation According to Mani"
+      }
+    ]
+  },
+  {
+    "candidate_group_id": "CG02",
+    "members": [
+      {
+        "id": "pm027_genesis1_T3",
+        "theme": "Creation of living creatures",
+        "motifs": [
+          "A132",
+          "A131.1",
+          "A130",
+          "A133",
+          "A131"
+        ],
+        "myth": "Genesis 1-2:3"
+      },
+      {
+        "id": "pm013_great_gods_T3",
+        "theme": "Day and Night",
+        "motifs": [
+          "A132",
+          "A131.3",
+          "A131.1",
+          "A130",
+          "A131.2"
+        ],
+        "myth": "The Great Gods"
+      }
+    ]
+  },
+  {
+    "candidate_group_id": "CG03",
+    "members": [
+      {
+        "id": "pm027_genesis1_T4",
+        "theme": "Creation of humans",
+        "motifs": [
+          "A191.3",
+          "A191",
+          "A191.4",
+          "A191.1",
+          "A191.2"
+        ],
+        "myth": "Genesis 1-2:3"
+      },
+      {
+        "id": "pm002_supreme_being_T3",
+        "theme": "Power and Wisdom of the Supreme Being",
+        "motifs": [
+          "A191.3",
+          "A191.1",
+          "A191.2",
+          "A191"
+        ],
+        "myth": "The Supreme Being"
+      }
+    ]
+  },
+  {
+    "candidate_group_id": "CG04",
+    "members": [
+      {
+        "id": "pm014_theology_from_memphis_T3",
+        "theme": "Power and Authority",
+        "motifs": [
+          "A111",
+          "A111.3",
+          "A111.4",
+          "A111.1",
+          "A111.2"
+        ],
+        "myth": "Theology from Memphis"
+      },
+      {
+        "id": "pm002_supreme_being_T1",
+        "theme": "Creation of the Supreme Being",
+        "motifs": [
+          "A111",
+          "A111.3",
+          "A111.2",
+          "A111.1"
+        ],
+        "myth": "The Supreme Being"
+      },
+      {
+        "id": "pm013_great_gods_T1",
+        "theme": "Dualistic Creation",
+        "motifs": [
+          "A111.3",
+          "A111.4",
+          "A111.1",
+          "A111.5",
+          "A111.2"
+        ],
+        "myth": "The Great Gods"
+      }
+    ]
+  },
+  {
+    "candidate_group_id": "CG05",
+    "members": [
+      {
+        "id": "pm014_theology_from_memphis_T5",
+        "theme": "Mythical Beings and Gods",
+        "motifs": [
+          "A830",
+          "A810",
+          "A812.1.1",
+          "A854",
+          "A852"
+        ],
+        "myth": "Theology from Memphis"
+      },
+      {
+        "id": "pm039_creation_according_to_mani_T3",
+        "theme": "Divine Intervention and Redemption",
+        "motifs": [
+          "A851",
+          "A852",
+          "A855",
+          "A854",
+          "A853"
+        ],
+        "myth": "The Creation According to Mani"
+      }
+    ]
+  },
+  {
+    "candidate_group_id": "CG06",
+    "members": [
+      {
+        "id": "pm035_speaking_of_the_world_T2",
+        "theme": "Battle between good and evil",
+        "motifs": [
+          "A421",
+          "A442.1",
+          "A422",
+          "A464",
+          "A431.1.1"
+        ],
+        "myth": "Speaking Of the World"
+      },
+      {
+        "id": "pm001_cagn_orders_world_T4",
+        "theme": "Power of charms and supernatural aid",
+        "motifs": [
+          "A421",
+          "A424",
+          "A422",
+          "A425",
+          "A423"
+        ],
+        "myth": "Cagn orders the world"
+      }
+    ]
+  }
+]

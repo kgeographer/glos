@@ -1,0 +1,57 @@
+{
+  "society": "Gnostic",
+  "title": "The Creation According to Mani",
+  "filename": "pm039_creation_according_to_mani.txt",
+  "themes": [
+    {
+      "theme": "Dualistic Nature of Good and Evil",
+      "motifs": [
+        "A121",
+        "A151",
+        "A152",
+        "A156.1",
+        "A156.3"
+      ]
+    },
+    {
+      "theme": "Struggle between Light and Darkness",
+      "motifs": [
+        "A611",
+        "A621",
+        "A622",
+        "A623",
+        "A624"
+      ]
+    },
+    {
+      "theme": "Divine Intervention and Redemption",
+      "motifs": [
+        "A851",
+        "A852",
+        "A853",
+        "A854",
+        "A855"
+      ]
+    },
+    {
+      "theme": "Creation of the World and Life",
+      "motifs": [
+        "A111",
+        "A112",
+        "A113",
+        "A114",
+        "A115"
+      ]
+    },
+    {
+      "theme": "Temptation and Redemption of Humanity",
+      "motifs": [
+        "A231",
+        "A232",
+        "A233",
+        "A234",
+        "A235"
+      ]
+    }
+  ]
+}

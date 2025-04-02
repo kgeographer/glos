@@ -1,0 +1,55 @@
+OntologyTerm,Type,ScopeNote,UsageCount
+myth:AdversaryDeity,EntityClass,"A divine figure who opposes or threatens the Supreme Being, creator, or order in the myth. Often represents chaos, destruction, or moral contrast.",4
+myth:AnimalMessengers,EntityClass,"Non-human creatures who serve as messengers, go-betweens, or carriers of divine will or knowledge.",0
+myth:CelestialBody,EntityClass,"A personified or symbolic object in the sky (e.g., sun, moon, stars) that holds mythic significance.",3
+myth:Child,EntityClass,"A younger being or offspring, often of divine or symbolic parentage.",0
+myth:CreatedBeings,EntityClass,"Entities brought into existence through a creative act, often by gods or primordial forces.",0
+myth:Creation,EntityClass,"A symbolic or abstract representation of the world, cosmos, or life as it comes into being.",0
+myth:CreatorDeity,EntityClass,"A god responsible for bringing the universe, life, or structure into existence. May or may not be supreme.",3
+myth:Deity,EntityClass,A general class for divine or supernatural beings involved in mythic action. May include both major and minor gods.,19
+myth:DeityGroup,EntityClass,"A collective or council of gods functioning as a deliberative or judgmental body (e.g., the Ennead).",0
+myth:DivineAssembly,EntityClass,"A formal gathering of gods to make decisions, judge others, or assign roles.",0
+myth:Goddess,EntityClass,"A female deity, sometimes with generative, maternal, or destructive roles.",2
+myth:HelperCreature,EntityClass,"A non-human being who assists a god or human in a mythic task, often appearing only at a key moment.",0
+myth:Human,EntityClass,"Mortal beings distinct from gods or animals. Often recipients of divine creation, blessing, or punishment.",8
+myth:MythNarrative,EntityClass,"A container entity representing the myth as a whole, not a being within the story.",0
+myth:MythicCreature,EntityClass,"Supernatural or fantastical beings that defy ordinary classification (e.g., dragons, monsters).",12
+myth:People,EntityClass,"A group of humans often defined by lineage, place, or divine origin.",1
+myth:Person,EntityClass,"A generalized human individual, not further categorized by role.",0
+myth:Place,EntityClass,"A specific location relevant to mythic action — can be terrestrial, celestial, or symbolic.",2
+myth:PrimordialState,EntityClass,"A condition or state of the universe before creation or transformation (e.g., chaos, darkness, silence).",1
+myth:PrimordialSubstance,EntityClass,"A basic element from which creation is formed (e.g., water, wind, clay).",1
+myth:Seer,EntityClass,"A figure with insight into future events or hidden knowledge, sometimes divine, sometimes human.",0
+myth:Son,EntityClass,"A specifically male child figure, often playing a role in succession, rivalry, or inheritance.",0
+myth:Spouse,EntityClass,"A partner in a divine or symbolic union, often part of mythic procreation or symbolic dualities.",0
+myth:SupremeBeing,EntityClass,"A unique or highest deity associated with omnipotence, cosmic creation, or transcendent wisdom.",5
+myth:ActionEvent,EventClass,A general-purpose event where an agent performs an action that doesn’t fall into a more specific category.,4
+myth:AppointmentEvent,EventClass,"An act of assigning a role or position, often within a divine or cosmic hierarchy.",1
+myth:AscensionEvent,EventClass,Movement from a lower to a higher realm — often symbolic of deification or access to divine space.,3
+myth:AssemblyEvent,EventClass,"A gathering of beings (usually gods) for deliberation, judgment, or decision-making.",1
+myth:AttemptedAscensionEvent,EventClass,"A failed or thwarted effort to reach the divine or cosmic realm, often involving punishment.",0
+myth:BetrayalEvent,EventClass,"A rupture of trust or alliance, especially among gods or symbolic relatives.",1
+myth:BirthEvent,EventClass,"The emergence of a being into existence, divine or mortal, sometimes through non-standard processes.",1
+myth:BlessingEvent,EventClass,"An event where a figure bestows fertility, wealth, knowledge, or protection.",1
+myth:CelebrationEvent,EventClass,"A feast, ritual, or communal act of joy that follows a mythic return, resurrection, or fulfillment.",1
+myth:ConflictEvent,EventClass,"A clash between two or more beings, ideologies, or forces. Can be physical, symbolic, or cosmic.",9
+myth:CreationEvent,EventClass,"The act of forming the cosmos, land, sky, or life from nothing or from primordial material.",19
+myth:EmbodimentEvent,EventClass,An abstract force or concept becomes a physical being or presence.,1
+myth:EscapeEvent,EventClass,"A departure from imprisonment, threat, or chaos — often symbolic of divine intervention.",1
+myth:GiftGivingEvent,EventClass,"An event where a powerful being bestows goods, animals, or blessings to others.",1
+myth:GovernanceEvent,EventClass,"The organization of roles, laws, or cosmic functions — typically involves deity authority.",3
+myth:GuidanceEvent,EventClass,"A moment where one figure provides direction or wisdom to another, often shaping future events.",0
+myth:InheritanceEvent,EventClass,"A transfer of status, power, or territory from one being to another — often across generations.",1
+myth:JudgmentEvent,EventClass,"A divine or mythic being passes verdict on actions, behaviors, or claims.",1
+myth:PetitionEvent,EventClass,"A request made by a lesser being to a greater one, often seeking intervention or change.",1
+myth:PunishmentEvent,EventClass,The imposition of consequences by a higher being on a lower one — often dramatic and symbolic.,3
+myth:RescueEvent,EventClass,"The retrieval or saving of a figure from danger, often involving moral or cosmic stakes.",4
+myth:RestorationEvent,EventClass,"A return to order, fertility, or proper balance after disruption or punishment.",0
+myth:ResurrectionEvent,EventClass,A being returns to life after death — can be literal or symbolic. Often a sign of power.,3
+myth:ReturnEvent,EventClass,"A figure comes back to a prior place or state, often triggering celebration or recognition.",0
+myth:RevengeEvent,EventClass,"A response to a prior harm, injury, or betrayal — usually escalating conflict.",0
+myth:RitualEvent,EventClass,"A formalized act often involving sacrifice, offerings, or cosmic alignment.",2
+myth:SacrificeEvent,EventClass,"The giving up or destruction of something valuable — often to create, appease, or transform.",2
+myth:SeparationEvent,EventClass,"A cosmic or symbolic division (e.g., sky from earth), marking the start of structured reality.",1
+myth:SymbolicUnionEvent,EventClass,"A merging or mating of contrasting forces (e.g., sky/earth) to generate life or balance.",0
+myth:TransformationEvent,EventClass,"A change in form, status, or essence — can apply to beings, substances, or realities.",2

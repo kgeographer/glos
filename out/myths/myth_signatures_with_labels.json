@@ -1,0 +1,237 @@
+[
+  {
+    "myth": "God retreats to the sky",
+    "filename": "pm003_god_retreats_to_sky.txt",
+    "cluster_signature": {
+      "CG01": "Power Struggles and Conflicts in Divine Realms"
+    },
+    "residual_motifs": {
+      "A321.1": "(label not found)",
+      "A321.2": "(label not found)",
+      "A181.4": "(label not found)",
+      "A231.4": "(label not found)",
+      "A514": "(label not found)",
+      "A181.2": "God as cultivator.",
+      "A231.2": "(label not found)",
+      "A321.3": "(label not found)",
+      "A514.2": "(label not found)",
+      "A321.4": "(label not found)",
+      "A181": "God serves as menial on earth.",
+      "A231.1": "(label not found)",
+      "A514.1": "(label not found)",
+      "A514.4": "(label not found)",
+      "A321": "(label not found)",
+      "A514.3": "(label not found)",
+      "A181.3": "(label not found)",
+      "A231": "(label not found)",
+      "A231.3": "(label not found)",
+      "A181.1": "God clears plains."
+    }
+  },
+  {
+    "myth": "Genesis 1-2:3",
+    "filename": "pm027_genesis1.txt",
+    "cluster_signature": {
+      "CG02": "Creation and Cosmic Order",
+      "CG03": "Creation and Divine Power"
+    },
+    "residual_motifs": {
+      "A81": "Creator goes to sky.",
+      "A103": "Father-god.",
+      "A305.3": "(label not found)",
+      "A102": "Characteristics of deity.",
+      "A104": "The making of gods.",
+      "A305.2": "(label not found)",
+      "A81.3": "(label not found)",
+      "A81.1": "(label not found)",
+      "A305": "Demigod of underworld.",
+      "A81.2": "(label not found)",
+      "A100": "Deity.",
+      "A101": "Supreme god. One god chief of all other gods. (Often not worshipped as other gods are.)",
+      "A305.1": "(label not found)"
+    }
+  },
+  {
+    "myth": "Theology from Memphis",
+    "filename": "pm014_theology_from_memphis.txt",
+    "cluster_signature": {
+      "CG04": "Creation and Authority of Supreme Being",
+      "CG05": "Divine Beings and Their Actions"
+    },
+    "residual_motifs": {
+      "A671.5": "Gate around hell.",
+      "A121.1.1": "(label not found)",
+      "A671.2": "Horrible sights in hell.",
+      "A671.4": "Well in hell (Hvergelmir).",
+      "A151.2": "Garden of the gods.",
+      "A121.6.1": "(label not found)",
+      "A122": "God half mortal, half immortal. Hair, skin, flesh, bones and marrow are mortal; mind, voice, breath, eye, and ear are immortal. (prajapati).",
+      "A121.2.1": "(label not found)",
+      "A671.1": "Doorkeeper of hell.",
+      "A151.4": "Palaces of the gods.",
+      "A122.1": "(label not found)",
+      "A671.3": "Frigidity of hell.",
+      "A151.3": "Home of the gods under the sea.",
+      "A151": "Home of the gods. Elysium, Avalon, earthly paradise.",
+      "A151.1": "Home of gods on high mountain. Mt. Olympus."
+    }
+  },
+  {
+    "myth": "Speaking Of the World",
+    "filename": "pm035_speaking_of_the_world.txt",
+    "cluster_signature": {
+      "CG06": "Conflict and Supernatural Intervention"
+    },
+    "residual_motifs": {
+      "A541.1": "Culture hero invents and teaches the Irish language.",
+      "A261": "(label not found)",
+      "A121.1.1": "(label not found)",
+      "A551.1": "(label not found)",
+      "A652.1": "Tree to heaven.",
+      "A151.1.1": "Home of gods inside of hill.",
+      "A653.1": "(label not found)",
+      "A127.1.1": "(label not found)",
+      "A571": "Culture hero asleep in mountain.",
+      "A181": "God serves as menial on earth.",
+      "A251.1.1": "(label not found)",
+      "A211": "God of heaven.",
+      "A183": "Deity invoked.",
+      "A654": "Primary elements of universe. (Earth, air, fire, water, etc.).",
+      "A542.1.1": "(label not found)",
+      "A651": "Hierarchy of worlds. A series of worlds, one above the other.",
+      "A241": "(label not found)",
+      "A231": "(label not found)",
+      "A649": "(label not found)",
+      "A561": "Divinity's departure for west."
+    }
+  },
+  {
+    "myth": "The Supreme Being",
+    "filename": "pm002_supreme_being.txt",
+    "cluster_signature": {
+      "CG04": "Creation and Authority of Supreme Being",
+      "CG01": "Power Struggles and Conflicts in Divine Realms",
+      "CG03": "Creation and Divine Power"
+    },
+    "residual_motifs": {
+      "A197.2": "(label not found)",
+      "A197": "Deity controls elements.",
+      "A113": "Totemistic gods. Gods which have animal associations; e.g., Athena with the owl, Venus with the sparrow.",
+      "A113.3": "(label not found)",
+      "A113.2": "(label not found)",
+      "A197.1": "(label not found)",
+      "A197.3": "(label not found)",
+      "A113.1": "(label not found)"
+    }
+  },
+  {
+    "myth": "The Great Gods",
+    "filename": "pm013_great_gods.txt",
+    "cluster_signature": {
+      "CG04": "Creation and Authority of Supreme Being",
+      "CG02": "Creation and Cosmic Order"
+    },
+    "residual_motifs": {
+      "A451.1": "God of smith-work.",
+      "A441": "God (goddess) of domestic animals.",
+      "A846": "(label not found)",
+      "A451.2": "God of carpenters.",
+      "A845": "(label not found)",
+      "A660.2": "(label not found)",
+      "A451.3": "God of handicrafts.",
+      "A847": "(label not found)",
+      "A848": "(label not found)",
+      "A849": "Support of the earth miscellaneous.",
+      "A660.3": "(label not found)",
+      "A440": "God of animals.",
+      "A660.1": "(label not found)",
+      "A660.4": "(label not found)"
+    }
+  },
+  {
+    "myth": "Cagn orders the world",
+    "filename": "pm001_cagn_orders_world.txt",
+    "cluster_signature": {
+      "CG06": "Conflict and Supernatural Intervention"
+    },
+    "residual_motifs": {
+      "A264": "(label not found)",
+      "A151.1.3": "Home of gods in volcano crater.",
+      "A121": "Stars as deities.",
+      "A261": "(label not found)",
+      "A115": "Emergence of deity.",
+      "A262": "(label not found)",
+      "A432": "God of agriculture.",
+      "A151.1.2": "Home of gods in cave.",
+      "A151.1.1": "Home of gods inside of hill.",
+      "A116": "Twin gods.",
+      "A124": "Luminous god.",
+      "A263": "(label not found)",
+      "A431": "God of fertility.",
+      "A265": "(label not found)",
+      "A433": "Gods or goddesses of special crops. Mangaia (Cook Is.)",
+      "A151.1.5": "(label not found)",
+      "A436": "(label not found)",
+      "A151.1.4": "Gods live in cloudland.",
+      "A434.1": "(label not found)",
+      "A128": "Mutilated god."
+    }
+  },
+  {
+    "myth": "Another Version of the Creation",
+    "filename": "pm024_another_version_of_the_creation.txt",
+    "cluster_signature": {},
+    "residual_motifs": {
+      "A601": "Universe created in specified time and order.",
+      "A116.1": "Twin gods one mortal, other immortal.",
+      "A261": "(label not found)",
+      "A251.1": "(label not found)",
+      "A119": "Origin of gods miscellaneous.",
+      "A172.2": "(label not found)",
+      "A361.4": "(label not found)",
+      "A261.1": "(label not found)",
+      "A141.1": "God makes automata and vivifies them.",
+      "A141": "God as craftsman. Hephaistos.",
+      "A361.3": "(label not found)",
+      "A362": "(label not found)",
+      "A361.2": "(label not found)",
+      "A116": "Twin gods.",
+      "A601.4": "(label not found)",
+      "A361.1": "(label not found)",
+      "A251": "God of morning star.",
+      "A118": "Self-created deity.",
+      "A172.1": "(label not found)",
+      "A601.3": "(label not found)",
+      "A172": "Gods intervene in battle.",
+      "A601.1": "Universe created in five periods of time.",
+      "A122": "God half mortal, half immortal. Hair, skin, flesh, bones and marrow are mortal; mind, voice, breath, eye, and ear are immortal. (prajapati).",
+      "A601.2": "Universe created in six days.",
+      "A256": "(label not found)"
+    }
+  },
+  {
+    "myth": "The Creation According to Mani",
+    "filename": "pm039_creation_according_to_mani.txt",
+    "cluster_signature": {
+      "CG01": "Power Struggles and Conflicts in Divine Realms",
+      "CG05": "Divine Beings and Their Actions",
+      "CG04": "Creation and Authority of Supreme Being"
+    },
+    "residual_motifs": {
+      "A156.1": "Jewels of the gods.",
+      "A234": "(label not found)",
+      "A113": "Totemistic gods. Gods which have animal associations; e.g., Athena with the owl, Venus with the sparrow.",
+      "A152": "God's throne.",
+      "A121": "Stars as deities.",
+      "A112": "Birth of gods.",
+      "A114": "Gods born from object.",
+      "A235": "(label not found)",
+      "A156.3": "God's scepters.",
+      "A233": "(label not found)",
+      "A231": "(label not found)",
+      "A232": "(label not found)",
+      "A151": "Home of the gods. Elysium, Avalon, earthly paradise.",
+      "A115": "Emergence of deity."
+    }
+  }
+]

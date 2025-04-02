@@ -1,0 +1,645 @@
+[
+  {
+    "theme_label": "Conflict between Chiefs",
+    "description": "The myth revolves around the conflict between Tsui||goab and ||Gaunab, where Tsui||goab ultimately emerges victorious after being repeatedly overpowered by his enemy. This theme highlights the struggle for power and dominance between two powerful figures.",
+    "matched_motifs": [
+      {
+        "motif_id": "A100",
+        "justification": "Deity. The theme involves powerful figures, which often are deities in mythological contexts."
+      },
+      {
+        "motif_id": "A101",
+        "justification": "Supreme god. One god chief of all other gods. (Often not worshipped as other gods are.) The victorious figure, Tsui||goab, could be interpreted as a supreme god figure within the context of the myth."
+      },
+      {
+        "motif_id": "A106",
+        "justification": "Opposition of good and evil gods. The conflict between Tsui||goab and ||Gaunab suggests a dualistic opposition often found in myths where good and evil or order and chaos are personified by gods."
+      },
+      {
+        "motif_id": "A123",
+        "justification": "Monstrous gods. (The conflict between two powerful figures often involves deities or beings with extraordinary or monstrous attributes in mythology.)"
+      },
+      {
+        "motif_id": "A133",
+        "justification": "Giant god. (The theme of a struggle for power and dominance could imply that the figures are of immense size or strength, akin to giants.)"
+      },
+      {
+        "motif_id": "A1341",
+        "justification": "Origin of war among men. (The conflict between two powerful figures could symbolize or lead to the origin of war and strife among humans in mythological narratives.)"
+      },
+      {
+        "motif_id": "A1384",
+        "justification": "Origin of evil inclinations. (The conflict between Tsui||goab and ||Gaunab can be seen as a symbolic representation of the struggle between good and evil forces, which is a common theme in myths explaining the origin of evil inclinations in humanity.)"
+      },
+      {
+        "motif_id": "A1388",
+        "justification": "Origin of hatred. (The intense conflict and struggle for power between the two figures may symbolize the emergence of hatred and animosity in the world, which is a common motif in creation myths.)"
+      },
+      {
+        "motif_id": "A139",
+        "justification": "Nature and appearance of the gods miscellaneous. (The description of the myth involves powerful figures, which might be deities or god-like beings, and their nature and characteristics are central to the theme of the myth.)"
+      },
+      {
+        "motif_id": "A156",
+        "justification": "Precious properties of the gods."
+      },
+      {
+        "motif_id": "A157",
+        "justification": "Weapons of the gods."
+      },
+      {
+        "motif_id": "A162",
+        "justification": "Conflicts of the gods."
+      },
+      {
+        "motif_id": "A189.14",
+        "justification": "God's enemies: This motif is relevant as it directly relates to the theme of conflict between two powerful figures, which in this case are Tsui||goab and ||Gaunab, who are adversaries in the myth."
+      },
+      {
+        "motif_id": "A192.1.1",
+        "justification": "Old god slain by young god: While it does not specify that Tsui||goab is younger, the motif of one god slaying another fits the theme of a struggle for power and dominance between deities."
+      },
+      {
+        "motif_id": "A194.2",
+        "justification": "God's vengeance: This motif may be relevant if the victory of Tsui||goab over ||Gaunab is seen as an act of vengeance or as a response to previous defeats, which is often a theme in myths where gods are in conflict."
+      },
+      {
+        "motif_id": "A2250",
+        "justification": "Animal characteristics: result of contest. (The myth describes a contest between two powerful figures, which aligns with the motif of animal characteristics emerging as a result of a contest.)"
+      },
+      {
+        "motif_id": "A2257",
+        "justification": "Animal characteristics from duel. (The conflict between Tsui||goab and ||Gaunab can be seen as a type of duel, which this motif reflects.)"
+      },
+      {
+        "motif_id": "A2286.2",
+        "justification": "Animal characteristics result of contest between God and devil. (The struggle for power and dominance between two powerful figures can be metaphorically represented as a contest between a godly and a devilish entity, which is what this motif describes.)"
+      },
+      {
+        "motif_id": "A240",
+        "justification": "Moon-god."
+      },
+      {
+        "motif_id": "A240.1",
+        "justification": "Moon-goddess."
+      },
+      {
+        "motif_id": "A2460",
+        "justification": "Animal characteristics: attack and defense. (The theme describes a conflict between two powerful figures, which aligns with the motif of animals' characteristics related to attack and defense.)"
+      },
+      {
+        "motif_id": "A255",
+        "justification": "Star-deity and drought-demon fight. (This motif directly corresponds to the conflict between two powerful entities, which is central to the theme described.)"
+      },
+      {
+        "motif_id": "A2494",
+        "justification": "Why certain animals are enemies. (The theme involves a struggle between two adversaries, similar to the motif of why certain animals are natural enemies.)"
+      },
+      {
+        "motif_id": "A270",
+        "justification": "God of dawn. (The theme of conflict and struggle for power can be associated with the cyclical battle between light and darkness, where the god of dawn represents the victory of light each morning.)"
+      },
+      {
+        "motif_id": "A281",
+        "justification": "Storm-god. (The struggle and conflict in the myth may metaphorically represent natural forces or elements, with the storm-god embodying the chaotic and powerful aspects of nature.)"
+      },
+      {
+        "motif_id": "A300",
+        "justification": "God of the underworld. (The repeated overpowering and eventual victory could symbolize the mythological narrative of death and rebirth, or the seasonal cycle, often associated with the underworld deity's domain.)"
+      },
+      {
+        "motif_id": "A485",
+        "justification": "God of war. (The conflict between Tsui||goab and ||Gaunab suggests a war-like scenario where a deity or powerful figure is associated with war and combat.)"
+      },
+      {
+        "motif_id": "A50",
+        "justification": "Conflict of good and evil creators. (The struggle for power and dominance between Tsui||goab and ||Gaunab fits the motif of a cosmic battle between forces that can be seen as representing good and evil.)"
+      },
+      {
+        "motif_id": "A489.2",
+        "justification": "God of strength. (The theme of one entity ultimately emerging victorious after being overpowered suggests a motif related to strength and the overcoming of a powerful adversary.)"
+      },
+      {
+        "motif_id": "A71",
+        "justification": "Creator tries to devour his son, the culture hero. (This motif reflects the idea of conflict and struggle between powerful figures, which aligns with the theme of the myth.)"
+      },
+      {
+        "motif_id": "A72",
+        "justification": "Original creator followed by transformers. (This motif suggests a sequence of powerful beings influencing creation, which can be related to the theme of power struggle between Tsui||goab and ||Gaunab.)"
+      },
+      {
+        "motif_id": "A739.2",
+        "justification": "War with the sun. (Although not directly about the sun, this motif involves the concept of a cosmic battle, which is thematically similar to the conflict described in the myth.)"
+      },
+      {
+        "motif_id": "A901.1",
+        "justification": "Topographical changes or landmarks due to battle between gods. (The conflict between Tsui||goab and ||Gaunab suggests a battle of such magnitude that it could have left lasting marks on the landscape, aligning with this motif.)"
+      },
+      {
+        "motif_id": "A986",
+        "justification": "Bridge of the Gods. (While this specific motif refers to a bridge and a rapid, it symbolizes the broader idea of geographical features resulting from divine conflict, which resonates with the theme of the myth.)"
+      },
+      {
+        "motif_id": "A962",
+        "justification": "Mountains (hills) from ancient activities of god (hero). (This motif captures the essence of landscapes being shaped by the actions of powerful divine beings, which is a common element in myths that involve struggles between gods.)"
+      }
+    ]
+  },
+  {
+    "theme_label": "Transformation and Renaming",
+    "description": "Tsui||goab undergoes a transformation both physically and in terms of his identity after defeating ||Gaunab. He receives a new name, Tsui||goab, which reflects his physical wound and serves as a reminder of his victory.",
+    "matched_motifs": [
+      {
+        "motif_id": "A100",
+        "justification": "Deity. (The character Tsui||goab is depicted as a deity who undergoes transformation after a battle.)"
+      },
+      {
+        "motif_id": "A101",
+        "justification": "Supreme god. One god chief of all other gods. (Often not worshipped as other gods are.) (Tsui||goab's transformation and victory suggest a supreme status among gods, akin to the motif of a chief deity.)"
+      },
+      {
+        "motif_id": "A102",
+        "justification": "Characteristics of deity. (The transformation and renaming of Tsui||goab reflect characteristics often attributed to deities, such as changes in form and identity.)"
+      },
+      {
+        "motif_id": "A123.1",
+        "justification": "God monstrous as to body. (Tsui||goab's transformation and physical wound after defeating ||Gaunab suggest a change in physical form, which can be seen as monstrous or unusual.)"
+      },
+      {
+        "motif_id": "A128",
+        "justification": "Mutilated god. (Tsui||goab's new name reflects his physical wound, indicating a form of mutilation or physical alteration.)"
+      },
+      {
+        "motif_id": "A1281.6",
+        "justification": "Adam at first nameless. (The theme of receiving a new name after a significant event or transformation is echoed here, as Tsui||goab is given a name that reflects his new identity and victory.)"
+      },
+      {
+        "motif_id": "A138",
+        "justification": "God's ineffable name."
+      },
+      {
+        "motif_id": "A139.1",
+        "justification": "Gods (supernatural beings) have many names."
+      },
+      {
+        "motif_id": "A139.9",
+        "justification": "Extraordinary physical characteristics of gods."
+      },
+      {
+        "motif_id": "A1577",
+        "justification": "Origin of personal names. (The new name Tsui||goab reflects the transformation of identity and physical change after the victory.)"
+      },
+      {
+        "motif_id": "A162",
+        "justification": "Conflicts of the gods. (The description implies a conflict between Tsui||goab and ||Gaunab, which is a common motif in mythologies involving battles between deities.)"
+      },
+      {
+        "motif_id": "A162.3",
+        "justification": "Combat between thundergod and devil. (Although not explicitly mentioned as a thundergod, Tsui||goab's battle with ||Gaunab can be likened to the archetypal battle between a god representing good and a devil representing evil.)"
+      },
+      {
+        "motif_id": "A192.1.1",
+        "justification": "Old god slain by young god: This motif reflects the theme of a deity being defeated, which is similar to the defeat of ||Gaunab by Tsui||goab."
+      },
+      {
+        "motif_id": "A189.16",
+        "justification": "Gods give divinity to mortal: This motif could represent the transformation in identity and the elevation of status that Tsui||goab experiences after his victory."
+      },
+      {
+        "motif_id": "A189.1",
+        "justification": "Mortal as ally of gods: Although Tsui||goab is not described as an ally in the traditional sense, his victory over a godlike figure and subsequent transformation could be seen as an alliance with divine forces, reflecting this motif."
+      },
+      {
+        "motif_id": "A2260",
+        "justification": "Animal characteristics from transformation. (Tsui||goab's transformation after defeating ||Gaunab reflects a change in physical and identity characteristics, which is a common theme in myths where characters undergo transformations that also affect their physical attributes.)"
+      },
+      {
+        "motif_id": "A2250.1",
+        "justification": "Cock and ptarmigan in contest: winner to live in town. (The theme of a contest is present in the description, where Tsui||goab defeats ||Gaunab, and as a result, undergoes a transformation.)"
+      },
+      {
+        "motif_id": "A2247",
+        "justification": "Animal characteristics: exchange of qualities. (Although not an exact match, the concept of an exchange or change in identity or qualities after a significant event, such as a victory in a battle, is a common motif in mythology.)"
+      },
+      {
+        "motif_id": "A255",
+        "justification": "Star-deity and drought-demon fight."
+      },
+      {
+        "motif_id": "Explanation: The theme describes a battle between Tsui||goab and ||Gaunab, which can be interpreted as a fight between a deity (Tsui||goab) and a demon (||Gaunab), similar to the motif of a star",
+        "justification": "deity fighting a drought-demon."
+      },
+      {
+        "motif_id": "A2571",
+        "justification": "How animals received their names."
+      },
+      {
+        "motif_id": "A2575",
+        "justification": "Quarrels introduced among animals."
+      },
+      {
+        "motif_id": "A2731",
+        "justification": "Plant characteristics from transformation. (The transformation of Tsui||goab after his victory and the acquisition of a new name reflecting his physical wound is akin to the motif of plants gaining characteristics from a transformation.)"
+      },
+      {
+        "motif_id": "A2781",
+        "justification": "Origin of plant names. (Tsui||goab receiving a new name that reflects his victory and physical wound aligns with the motif of plants or entities receiving names based on significant events or characteristics.)"
+      },
+      {
+        "motif_id": "A2711.4.3",
+        "justification": "Plant receives name because of service to Virgin Mary. (Although this specific motif is about a plant receiving a name for service to the Virgin Mary, it represents the broader theme of names being given to reflect an important aspect of the entity's history or service, similar to Tsui||goab's new name reflecting his history and victory.)"
+      },
+      {
+        "motif_id": "A500",
+        "justification": "Demigods and culture heroes. (Tsui||goab is a culture hero who undergoes a transformation after a significant event, which is a common theme in myths involving demigods or culture heroes.)"
+      },
+      {
+        "motif_id": "A510",
+        "justification": "Origin of the culture hero (demigod). (The transformation and renaming of Tsui||goab after defeating ||Gaunab signify a rebirth or origin story, which is a typical aspect of culture hero myths.)"
+      },
+      {
+        "motif_id": "A526.1",
+        "justification": "Culture hero can be wounded. (Tsui||goab's new name reflects his physical wound, which is a motif where a culture hero bears marks or wounds from their battles or challenges.)"
+      },
+      {
+        "motif_id": "A71",
+        "justification": "Creator tries to devour his son, the culture hero. (This motif reflects the idea of a transformative conflict between a powerful entity and a hero, which can be analogous to the battle between Tsui||goab and ||Gaunab.)"
+      },
+      {
+        "motif_id": "A72",
+        "justification": "Original creator followed by transformers. (The transformation of Tsui||goab after his victory suggests a change in the state of the world or identity, which is a theme found in myths where initial creation is followed by transformation.)"
+      },
+      {
+        "motif_id": "A718",
+        "justification": "Sun from transformation. (While this motif specifically mentions the sun, the broader theme of transformation after a significant event or victory is relevant to Tsui||goab's change after defeating ||Gaunab.)"
+      },
+      {
+        "motif_id": "A901",
+        "justification": "Topographical features caused by experiences of primitive hero (demigod, deity). Footprints of the gods, thoroughfares of heroes, etc."
+      },
+      {
+        "motif_id": "A901.1",
+        "justification": "Topographical changes or landmarks due to battle between gods."
+      },
+      {
+        "motif_id": "A962",
+        "justification": "Mountains (hills) from ancient activities of god (hero)."
+      }
+    ]
+  },
+  {
+    "theme_label": "Resurrection and Rebirth",
+    "description": "Tsui||goab is depicted as a figure who dies multiple times but is able to rise again, symbolizing themes of resurrection and rebirth. This aspect of the myth emphasizes the cyclical nature of life and death.",
+    "matched_motifs": [
+      {
+        "motif_id": "A1006",
+        "justification": "Renewal of world after world calamity. This motif encompasses the idea of rebirth and renewal after a catastrophic event, which aligns with the theme of Tsui||goab's repeated deaths and resurrections."
+      },
+      {
+        "motif_id": "A102.18",
+        "justification": "Imperfect god, subject to death and rebirth. This motif directly reflects the theme of a deity who experiences death and is capable of coming back to life, symbolizing resurrection."
+      },
+      {
+        "motif_id": "A100",
+        "justification": "Deity. Since Tsui||goab is depicted as a figure who dies and rises again, this motif is relevant because it identifies the character as a divine entity within the myth."
+      },
+      {
+        "motif_id": "A123.1",
+        "justification": "God monstrous as to body. (Tsui||goab's repeated deaths and resurrections could be seen as a monstrous or supernatural ability, fitting the motif of a god with unusual bodily characteristics.)"
+      },
+      {
+        "motif_id": "A1234",
+        "justification": "Mankind emerges from ground. (The cyclical nature of life and death in the theme description is akin to the motif of mankind emerging from the earth, which is often associated with rebirth and regeneration.)"
+      },
+      {
+        "motif_id": "A1331",
+        "justification": "Paradise lost. (The theme of resurrection and the cyclical nature of life and death may imply a loss of an original state of immortality or perfection, which aligns with the motif of paradise lost.)"
+      },
+      {
+        "motif_id": "A139.12",
+        "justification": "Long-suffering God: This motif can be associated with the theme of a deity who undergoes death and resurrection repeatedly, as it implies endurance through trials or suffering, which can be likened to the cyclical nature of life and death."
+      },
+      {
+        "motif_id": "A139.9.2",
+        "justification": "Gods have ichor, not blood: can be wounded but not killed: This motif is relevant because it speaks to the idea of a god who can be wounded (or die) but not permanently killed, aligning with the theme of resurrection and rebirth in the myth."
+      },
+      {
+        "motif_id": "A1390",
+        "justification": "Ordaining of human life miscellaneous: This motif may encompass the broader theme of life and death cycles as ordained by a deity, which could include the concept of resurrection and rebirth as part of the divine order of human life."
+      },
+      {
+        "motif_id": "A1560",
+        "justification": "Origin of customs connected with birth. (The repeated death and resurrection of Tsui||goab can be seen as a metaphor for the cycle of birth, life, death, and rebirth.)"
+      },
+      {
+        "motif_id": "A179.5",
+        "justification": "Deity reincarnated. (The motif of a deity being reincarnated aligns with the theme of Tsui||goab rising again after death, symbolizing resurrection.)"
+      },
+      {
+        "motif_id": "A1714.3",
+        "justification": "Animals created from earth. (This motif is relevant as it touches upon the cyclical nature of life and death, with the earth often symbolizing the place of origin and return in life cycles.)"
+      },
+      {
+        "motif_id": "A193",
+        "justification": "Resurrection of gods: Tsui||goab's repeated deaths and resurrections align with the motif of gods experiencing resurrection."
+      },
+      {
+        "motif_id": "A192.3",
+        "justification": "Expected return of deity: The cyclical nature of Tsui||goab's life and death suggests an expected return, similar to this motif where a deity is anticipated to come back."
+      },
+      {
+        "motif_id": "A191",
+        "justification": "Goddess rejuvenates self when old: While not a perfect match, this motif of rejuvenation and rebirth is thematically similar to Tsui||goab's ability to rise again, symbolizing renewal."
+      },
+      {
+        "motif_id": "A2275.6",
+        "justification": "Son accidentally kills father, who returns to life as cuckoo and tells people when to sow grain. (This motif involves resurrection, which is a central theme in the description provided.)"
+      },
+      {
+        "motif_id": "A2260",
+        "justification": "Animal characteristics from transformation. (Transformation can be seen as a form of rebirth or resurrection, which aligns with the theme of rising again after death.)"
+      },
+      {
+        "motif_id": "A23",
+        "justification": "Creator offspring of dual powers of nature. (Male and female principles.) (This motif suggests a cyclical balance of dual forces, which can be related to the cyclical nature of life and death mentioned in the theme description.)"
+      },
+      {
+        "motif_id": "A240",
+        "justification": "Moon-god."
+      },
+      {
+        "motif_id": "Explanation: The motif of a moon",
+        "justification": "god can be associated with themes of resurrection and rebirth, as the moon itself undergoes a cycle of phases, including \"disappearance\" and \"reappearance,\" which can symbolize life, death, and renewal."
+      },
+      {
+        "motif_id": "A2427.2",
+        "justification": "Why dog howls at night."
+      },
+      {
+        "motif_id": "A2480",
+        "justification": "Periodic habits of animals. (This motif relates to the cyclical nature of life and death as it involves periodic behaviors in animals, which can be seen as a metaphor for the cycles of rebirth and resurrection in the myth.)"
+      },
+      {
+        "motif_id": "A2483",
+        "justification": "Why animals shed periodically. (Shedding can symbolize the idea of renewal and rebirth, which is a theme in the myth with Tsui||goab rising again after death.)"
+      },
+      {
+        "motif_id": "A2617",
+        "justification": "Plants from transformed person (animal). (This motif involves transformation from one state of being to another, which can be seen as analogous to the resurrection and rebirth of Tsui||goab in the myth.)"
+      },
+      {
+        "motif_id": "A270",
+        "justification": "God of dawn. (The motif of a god of dawn can be associated with the idea of rebirth and the beginning of a new day, symbolizing resurrection.)"
+      },
+      {
+        "motif_id": "A37",
+        "justification": "Joint creators. (This motif might be relevant if Tsui||goab is considered a creator figure whose repeated deaths and resurrections contribute to the act of ongoing creation or cyclical renewal.)"
+      },
+      {
+        "motif_id": "A401",
+        "justification": "Mother Earth. (While not directly about resurrection, the concept of Mother Earth often embodies the cyclical nature of life and death, as the earth is seen as giving birth to life and receiving the dead.)"
+      },
+      {
+        "motif_id": "A510.2",
+        "justification": "Culture hero reborn. (The theme of Tsui||goab dying multiple times and rising again aligns with the motif of a culture hero who is reborn.)"
+      },
+      {
+        "motif_id": "A565",
+        "justification": "Dying culture hero. (The depiction of Tsui||goab as a figure who dies and teaches people about the cyclical nature of life and death through his own resurrection fits the motif of a culture hero who demonstrates how to die.)"
+      },
+      {
+        "motif_id": "A580",
+        "justification": "Culture hero's expected return. (The repeated resurrection of Tsui||goab may suggest an expectation of his return, which is a common motif in myths involving figures that symbolize rebirth and cyclical life.)"
+      },
+      {
+        "motif_id": "A76",
+        "justification": "Creator's death. This motif reflects the theme of the creator figure dying multiple times, which aligns with Tsui||goab's repeated deaths and resurrections."
+      },
+      {
+        "motif_id": "A77",
+        "justification": "Creator's works survive him. This motif suggests the ongoing impact of the creator's actions, symbolizing the cyclical nature of life and death as seen in Tsui||goab's ability to rise again."
+      },
+      {
+        "motif_id": "A81",
+        "justification": "Creator goes to sky. While not directly about resurrection, this motif can symbolize a form of rebirth or ascension, which may be thematically linked to the idea of cyclical life and death in the myth of Tsui||goab."
+      },
+      {
+        "motif_id": "A871.2",
+        "justification": "Four rivers, rising in paradise, water primitive world."
+      },
+      {
+        "motif_id": "A878",
+        "justification": "Earth-tree. Tree of life or fate."
+      },
+      {
+        "motif_id": "The Earth",
+        "justification": "tree or Tree of Life is a common symbol of regeneration, growth, and rebirth, which aligns well with the theme of resurrection and the cyclical nature of life and death in the myth of Tsui||goab."
+      },
+      {
+        "motif_id": "A901",
+        "justification": "Topographical features caused by experiences of primitive hero (demigod, deity)."
+      }
+    ]
+  },
+  {
+    "theme_label": "Wisdom and Prophecy",
+    "description": "Tsui||goab is described as being very wise and possessing the ability to foresee future events. This theme highlights the importance of wisdom and foresight in the myth, as well as the role of prophecy in shaping the narrative.",
+    "matched_motifs": [
+      {
+        "motif_id": "A0",
+        "justification": "Creator. Tsui||goab is described as a creator figure in the myth, possessing wisdom and foresight."
+      },
+      {
+        "motif_id": "A102.1",
+        "justification": "Omniscient god. The ability of Tsui||goab to foresee future events aligns with the motif of an all-knowing deity."
+      },
+      {
+        "motif_id": "A101",
+        "justification": "Supreme god. One god chief of all other gods. Tsui||goab's role in the myth suggests a supreme position, often associated with wisdom and the power of prophecy."
+      },
+      {
+        "motif_id": "A123.2.1.1",
+        "justification": "God with two faces. This motif matches the theme of foresight and wisdom, as a deity with two faces could symbolize the ability to see into the future and the past, embodying the concept of prophecy and wisdom."
+      },
+      {
+        "motif_id": "A124",
+        "justification": "Luminous god. A god described as luminous or radiating light could be associated with enlightenment and knowledge, which aligns with the theme of wisdom in the myth."
+      },
+      {
+        "motif_id": "A125",
+        "justification": "Deity in human form. This motif is relevant if Tsui||goab is depicted in a human-like form, which would make the deity's wisdom and foresight more relatable and accessible to the human characters within the narrative, emphasizing the importance of these qualities."
+      },
+      {
+        "motif_id": "A139",
+        "justification": "Nature and appearance of the gods miscellaneous."
+      },
+      {
+        "motif_id": "A139.5",
+        "justification": "God's voice."
+      },
+      {
+        "motif_id": "A139.6",
+        "justification": "God's words."
+      },
+      {
+   ]
+  },
+  {
+    "theme_label": "Divine Powers and Blessings",
+    "description": "Tsui||goab is portrayed as a divine figure who has the ability to control natural elements, bring rain, and ensure the fertility of livestock. This theme underscores the supernatural powers and blessings attributed to Tsui||goab in the myth.",
+    "matched_motifs": [
+      {
+        "motif_id": "A0",
+        "justification": "Creator. (Tsui||goab is depicted as a divine figure with creative powers, which aligns with the motif of a creator in mythology.)"
+      },
+      {
+        "motif_id": "A100",
+        "justification": "Deity. (The theme describes Tsui||goab as having supernatural powers, fitting the motif of a deity in folklore.)"
+      },
+      {
+        "motif_id": "A101",
+        "justification": "Supreme god. One god chief of all other gods. (Often not worshipped as other gods are.) (Tsui||goab's ability to control natural elements and ensure fertility suggests a supreme god status within the myth.)"
+      },
+      {
+        "motif_id": "A123.1.4",
+        "justification": "God with body of earthquake (whirlwind, etc.). This motif matches the theme as it represents a divine figure with the ability to control natural elements, similar to Tsui||goab's control over rain and ensuring fertility."
+      },
+      {
+        "motif_id": "A124",
+        "justification": "Luminous god. This motif could be relevant if Tsui||goab is depicted as a radiant or luminous figure, which is often associated with divine or supernatural beings."
+      },
+      {
+        "motif_id": "A125",
+        "justification": "Deity in human form. If Tsui||goab is portrayed in human form while possessing supernatural powers, this motif would be relevant as it reflects the anthropomorphic representation of deities in mythology."
+      },
+      {
+        "motif_id": "A139.11",
+        "justification": "Gods recognized by natural phenomena associated with their worship color, scent, etc. (Tsui||goab is associated with control over natural elements and fertility, which are natural phenomena.)"
+      },
+      {
+        "motif_id": "A139.5.2",
+        "justification": "God's voice causes thunder. (This motif is relevant if Tsui||goab's ability to bring rain is associated with thunderstorms, which often include thunder.)"
+      },
+      {
+        "motif_id": "A1410",
+        "justification": "Acquisition of livable environment. (Tsui||goab ensures the fertility of livestock, which is part of creating a livable environment for people who rely on those animals.)"
+      },
+      {
+        "motif_id": "A156",
+        "justification": "Precious properties of the gods. - This motif relates to the supernatural powers and divine attributes of Tsui||goab, such as controlling natural elements and bringing rain."
+      },
+      {
+        "motif_id": "A157.1",
+        "justification": "Thunderweapon. Stone weapons (axes) brought down by thunderbolt (from Thunder God). - The ability to control natural elements and bring rain is akin to the powers often associated with a Thunder God, which this motif represents."
+      },
+      {
+        "motif_id": "A175.1",
+        "justification": "God supplies reproductive energy to all things. - This motif corresponds with Tsui||goab's role in ensuring the fertility of livestock, which is a form of bestowing reproductive energy."
+      },
+      {
+        "motif_id": "A189.15",
+        "justification": "God as fructifier of mankind and the earth. (This motif relates to the divine figure's ability to ensure fertility, which is a key aspect of the theme described.)"
+      },
+      {
+        "motif_id": "A197",
+        "justification": "Deity controls elements. (This motif is relevant because it describes the divine figure's control over natural elements, which matches Tsui||goab's ability to bring rain and control natural elements.)"
+      },
+      {
+        "motif_id": "A189.12",
+        "justification": "Goddess protects animals from hunters. (While this motif specifically mentions a goddess, it is relevant in the broader sense that the divine figure has a protective role over animals, similar to ensuring the fertility of livestock.)"
+      },
+      {
+        "motif_id": "A2286",
+        "justification": "Animal characteristics established by deity. - This motif reflects the idea of a divine figure bestowing characteristics upon animals, which aligns with Tsui||goab's role as a divine figure with control over natural elements."
+      },
+      {
+        "motif_id": "A23",
+        "justification": "Creator offspring of dual powers of nature. (Male and female principles.) - This motif may be relevant if Tsui||goab is considered a creator figure born from the dual powers of nature, which could be implied by his control over fertility and natural elements."
+      },
+      {
+        "motif_id": "A225",
+        "justification": "Son of the sun. - If Tsui||goab is associated with the sun or solar divinity, this motif could be relevant as it denotes a divine lineage and connection to a powerful natural element."
+      },
+      {
+        "motif_id": "A240",
+        "justification": "Moon-god. - Tsui||goab as a divine figure with control over natural elements could be associated with celestial deities like a moon-god, who often have influence over fertility and weather in mythology."
+      },
+      {
+        "motif_id": "A2411.1.6.3",
+        "justification": "Red color of bush-buck. From blood. - The fertility of livestock could be symbolically linked to the color red, which is often associated with life and vitality, as seen in the motif of the bush-buck's red color coming from blood."
+      },
+      {
+        "motif_id": "A2435.2.2",
+        "justification": "Why certain animals are carnivorous. - The theme of ensuring the fertility of livestock might indirectly relate to the natural order and balance, which includes the reasons why certain animals are carnivorous, as it affects the livelihood and sustenance of people in the myth."
+      },
+      {
+        "motif_id": "A250",
+        "justification": "Star-god. (Tsui||goab is portrayed as a divine figure, which aligns with the concept of a deity associated with celestial bodies or phenomena.)"
+      },
+      {
+        "motif_id": "A255",
+        "justification": "Star-deity and drought-demon fight. (The ability to control natural elements and bring rain suggests a conflict between a deity associated with beneficial natural phenomena and a force associated with drought or barrenness.)"
+      },
+      {
+        "motif_id": "A25",
+        "justification": "Creator from below. (While not explicitly stated in the theme description, the portrayal of Tsui||goab as a creator figure who ensures fertility could be conceptually similar to the motif of a creator emerging from a lower realm to bestow life or fertility upon the world.)"
+      },
+      {
+        "motif_id": "A287",
+        "justification": "Rain-god."
+      },
+      {
+        "motif_id": "Explanation: The ability to bring rain is a characteristic commonly attributed to a rain",
+        "justification": "god, matching the theme of Tsui||goab's control over natural elements."
+      },
+      {
+        "motif_id": "A431",
+        "justification": "God of fertility."
+      },
+      {
+        "motif_id": "A280",
+        "justification": "Weather-god."
+      },
+      {
+        "motif_id": "Explanation: The control over natural elements suggests a broader dominion over weather, which is the domain of a weather",
+        "justification": "god, fitting the description of Tsui||goab's supernatural powers."
+      },
+      {
+        "motif_id": "A490",
+        "justification": "Miscellaneous gods of the earth. (Tsui||goab's control over natural elements and fertility aligns with the role of an earth deity.)"
+      },
+      {
+        "motif_id": "A530.1",
+        "justification": "Culture hero completes work of creator. (Tsui||goab's ability to bring rain and ensure livestock fertility can be seen as completing the work of a creator by nurturing life.)"
+      },
+      {
+        "motif_id": "A533",
+        "justification": "Culture hero regulates rivers. (The power to control natural elements, including water, suggests a role similar to that of a culture hero who regulates rivers.)"
+      },
+      {
+        "motif_id": "A701",
+        "justification": "Creation of the sky. (The theme involves a divine figure who controls natural elements, which can include the sky as a natural element.)"
+      },
+      {
+        "motif_id": "A705",
+        "justification": "Origin and nature of clouds. (The ability to bring rain implies control over clouds, which are directly related to this motif.)"
+      },
+      {
+        "motif_id": "A725",
+        "justification": "Man controls rising and setting of sun. (Ensuring the fertility of livestock could be associated with controlling the sun, as sunlight is crucial for the growth of the plants that livestock feed on.)"
+      },
+      {
+        "motif_id": "A902",
+        "justification": "Topographical features of the earth arranged by creator."
+      },
+      {
+        "motif_id": "A910",
+        "justification": "Origin of water features general."
+      },
+      {
+        "motif_id": "A960",
+        "justification": "Creation of mountains (hills)."
+      }
+    ]
+  }
+]
