@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Nyambi",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "2",
+      "entity": "Nasilele",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Kamonu",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "4",
+      "entity": "Spider",
+      "type": "myth:Animal"
+    },
+    {
+      "@id": "5",
+      "event": "Creation of all things",
+      "type": "myth:CreationEvent",
+      "agent": "1"
+    },
+    {
+      "@id": "6",
+      "event": "Kamonu's imitation of Nyambi",
+      "type": "myth:ImitationEvent",
+      "agent": "3",
+      "patient": "1"
+    },
+    {
+      "@id": "7",
+      "event": "Nyambi's fear of Kamonu",
+      "type": "myth:FearEvent",
+      "agent": "1",
+      "patient": "3"
+    },
+    {
+      "@id": "8",
+      "event": "Kamonu's banishment",
+      "type": "myth:BanishmentEvent",
+      "agent": "1",
+      "patient": "3"
+    },
+    {
+      "@id": "9",
+      "event": "Kamonu's return and cultivation",
+      "type": "myth:ReturnEvent",
+      "agent": "3"
+    },
+    {
+      "@id": "10",
+      "event": "Nyambi's retreat to the sky",
+      "type": "myth:RetreatEvent",
+      "agent": "1",
+      "location": "Sky"
+    },
+    {
+      "@id": "11",
+      "event": "Kamonu's failed tower construction",
+      "type": "myth:ConstructionEvent",
+      "agent": "3"
+    },
+    {
+      "@id": "12",
+      "relation": "Nyambi-Nasilele",
+      "type": "myth:SpouseOf",
+      "subject": "1",
+      "object": "2"
+    },
+    {
+      "@id": "13",
+      "relation": "Nyambi-Kamonu",
+      "type": "myth:CreatorOf",
+      "subject": "1",
+      "object": "3"
+    },
+    {
+      "@id": "14",
+      "relation": "Nyambi-Spider",
+      "type": "myth:CollaboratorOf",
+      "subject": "1",
+      "object": "4"
+    }
+  ]
+}

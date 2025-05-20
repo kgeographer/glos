@@ -1,0 +1,122 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "God"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Group",
+      "name": "angels"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Material",
+      "name": "clay"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Place",
+      "description": "earth"
+    },
+    {
+      "@id": "entity5",
+      "@type": "Person",
+      "name": "Adam",
+      "material": {
+        "@id": "entity3"
+      }
+    },
+    {
+      "@id": "event1",
+      "@type": "Creation",
+      "agent": {
+        "@id": "entity1"
+      },
+      "result": [
+        {
+          "@id": "entity5"
+        }
+      ],
+      "location": {
+        "@id": "entity4"
+      },
+      "method": "moulding",
+      "material": {
+        "@id": "entity3"
+      }
+    },
+    {
+      "@id": "event2",
+      "@type": "Speaking",
+      "agent": {
+        "@id": "entity1"
+      },
+      "content": "It has pleased Me to decide that I will create a being with brains like you, but his substance will be clay."
+    },
+    {
+      "@id": "event3",
+      "@type": "Prayer",
+      "agent": {
+        "@id": "entity2"
+      }
+    },
+    {
+      "@id": "event4",
+      "@type": "LifeGiving",
+      "agent": {
+        "@id": "entity1"
+      },
+      "recipient": {
+        "@id": "entity5"
+      },
+      "description": "Life spread through his body"
+    },
+    {
+      "@id": "relation1",
+      "@type": "Worship",
+      "worshipper": {
+        "@id": "entity2"
+      },
+      "worshipped": {
+        "@id": "entity1"
+      }
+    },
+    {
+      "@id": "relation2",
+      "@type": "Disobedience",
+      "actor": "One angel",
+      "command": "prostrate before Adam"
+    },
+    {
+      "@id": "relation3",
+      "@type": "Command",
+      "commander": {
+        "@id": "entity1"
+      },
+      "commanded": {
+        "@id": "entity2"
+      },
+      "task": "prostrate before Adam"
+    },
+    {
+      "@id": "relation4",
+      "@type": "Worship",
+      "worshipper": {
+        "@id": "entity2"
+      },
+      "worshipped": {
+        "@id": "entity5"
+      }
+    },
+    {
+      "@id": "relation5",
+      "@type": "Speaks",
+      "speaker": {
+        "@id": "entity5"
+      },
+      "content": "Al-Hamdu Lillahi r-Rahmani r-Rahim"
+    }
+  ]
+}

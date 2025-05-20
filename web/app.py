@@ -66,6 +66,39 @@ def neighbors():
 
     return jsonify(closest_neighbors)
 
+@app.route('/atu_tmi')
+def atu_tmi():
+    conn = psycopg2.connect(
+        dbname=os.getenv('DB_NAME'),
+        user=os.getenv('DB_USER'),
+        host=os.getenv('DB_HOST'),
+        port=os.getenv('DB_PORT')
+    )
+    cur = conn.cursor()
+    cur.execute("SELECT type_id, label FROM folklore.type_embeddings_3sm ORDER BY type_id;")
+    tale_types = cur.fetchall()
+    conn.close()
+    return render_template('atu_tmi.html', tale_types=tale_types)
+
+@app.route('/get_motifs_for_type/<type_id>')
+def get_motifs_for_type(type_id):
+    conn = psycopg2.connect(
+        dbname=os.getenv('DB_NAME'),
+        user=os.getenv('DB_USER'),
+        host=os.getenv('DB_HOST'),
+        port=os.getenv('DB_PORT')
+    )
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT tm.motif_id, mt.text 
+        FROM folklore.type_motif tm
+        JOIN folklore.motif_text mt ON tm.motif_id = mt.motif_id
+        WHERE tm.type_id = %s;
+    """, (type_id,))
+    motifs = [{'motif_id': row[0], 'text': row[1]} for row in cur.fetchall()]
+    conn.close()
+    return jsonify(motifs)
+
 @app.route('/')
 def index():
     return render_template('index.html')

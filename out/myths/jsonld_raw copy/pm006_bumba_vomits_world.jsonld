@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org/",
+  "@graph": [
+    {
+      "@id": "1",
+      "@type": "myth:Deity",
+      "name": "Bumba"
+    },
+    {
+      "@id": "2",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "Sun"
+    },
+    {
+      "@id": "3",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "Moon"
+    },
+    {
+      "@id": "4",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "Stars"
+    },
+    {
+      "@id": "5",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "Living Creatures"
+    },
+    {
+      "@id": "6",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "Men"
+    },
+    {
+      "@id": "7",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "5",
+      "myth:result": "All Creatures"
+    },
+    {
+      "@id": "8",
+      "@type": "myth:Deity",
+      "name": "Nyonye Ngana",
+      "myth:parentOf": "1"
+    },
+    {
+      "@id": "9",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "8",
+      "myth:result": "White Ants"
+    },
+    {
+      "@id": "10",
+      "@type": "myth:Deity",
+      "name": "Chonganda",
+      "myth:parentOf": "1"
+    },
+    {
+      "@id": "11",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "10",
+      "myth:result": "Living Plant"
+    },
+    {
+      "@id": "12",
+      "@type": "myth:Deity",
+      "name": "Chedi Bumba",
+      "myth:parentOf": "1"
+    },
+    {
+      "@id": "13",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "12",
+      "myth:result": "Kite"
+    },
+    {
+      "@id": "14",
+      "@type": "myth:Deity",
+      "name": "Tsetse",
+      "myth:parentOf": "1"
+    },
+    {
+      "@id": "15",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "Fire"
+    },
+    {
+      "@id": "16",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "World"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Cagn"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Person",
+      "name": "Coti",
+      "spouse": "entity1"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Person",
+      "name": "Cogaz",
+      "parent": "entity1"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Person",
+      "name": "Gewi",
+      "parent": "entity1"
+    },
+    {
+      "@id": "event1",
+      "@type": "CreateAction",
+      "agent": "entity1",
+      "result": [
+        "the sun",
+        "the moon",
+        "stars",
+        "wind",
+        "mountains",
+        "animals"
+      ]
+    },
+    {
+      "@id": "event2",
+      "@type": "MarryAction",
+      "agent": "chief of the snakes",
+      "participant": {
+        "@id": "entity5",
+        "@type": "Person",
+        "parent": "entity1"
+      }
+    },
+    {
+      "@id": "event3",
+      "@type": "RescueMission",
+      "agent": "entity3",
+      "participant": "entity5",
+      "object": "entity1's tooth"
+    },
+    {
+      "@id": "event4",
+      "@type": "Misfortune",
+      "agent": "community of baboons",
+      "victim": "entity3"
+    },
+    {
+      "@id": "event5",
+      "@type": "Retribution",
+      "agent": "entity1",
+      "victim": "community of baboons"
+    },
+    {
+      "@id": "event6",
+      "@type": "Resurrection",
+      "agent": "entity1",
+      "participant": "entity3"
+    },
+    {
+      "@id": "event7",
+      "@type": "Conflict",
+      "agent": "entity1",
+      "adversary": "Cgorioinsi"
+    },
+    {
+      "@id": "event8",
+      "@type": "DeathAndRebirth",
+      "victim": "entity1",
+      "rebirth": "entity1",
+      "participant": "community of thorns"
+    },
+    {
+      "@id": "event9",
+      "@type": "AdviceAction",
+      "agent": "entity3",
+      "recipient": "entity1"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Animal",
+      "species": "baboon",
+      "characteristic": "changed into animal with tails"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Person",
+      "species": "Snake",
+      "goal": "transformation into human"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Deity",
+      "name": "chief of the snakes"
+    }
+  ]
+}

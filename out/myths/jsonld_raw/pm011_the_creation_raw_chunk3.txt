@@ -1,0 +1,127 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Nounou"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Location",
+      "name": "Segou Sorokimo"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Animal",
+      "species": "Antelope",
+      "name": "dage"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Faro"
+    },
+    {
+      "@id": "entity5",
+      "@type": "Person",
+      "name": "Mousso Koroni"
+    },
+    {
+      "@id": "event1",
+      "@type": "Death",
+      "actor": "entity1",
+      "location": "entity2",
+      "description": "Nounou was buried in his house after committing sacrilege."
+    },
+    {
+      "@id": "event2",
+      "@type": "Transformation",
+      "actor": "entity1",
+      "result": "entity6",
+      "description": "Nounou changed himself into a snake."
+    },
+    {
+      "@id": "entity6",
+      "@type": "Animal",
+      "species": "Snake",
+      "name": "Nounou as snake"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Location",
+      "name": "Ka cave"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Location",
+      "name": "Kouroula hills"
+    },
+    {
+      "@id": "entity9",
+      "@type": "Location",
+      "name": "Mande"
+    },
+    {
+      "@id": "relation1",
+      "@type": "Responsibility",
+      "subject": "entity3",
+      "object": "entity1",
+      "description": "The antelope dage was sent by Faro to watch the shrines."
+    },
+    {
+      "@id": "event3",
+      "@type": "Journey",
+      "actor": "entity3",
+      "from": "Segou Koro",
+      "to": "entity9",
+      "description": "Dage carrying Nounou's vital force in its horns traveled to Mande."
+    },
+    {
+      "@id": "entity10",
+      "@type": "Location",
+      "name": "Segou Koro"
+    },
+    {
+      "@id": "event4",
+      "@type": "Disappearance",
+      "actor": "entity5",
+      "description": "Mousso Koroni wandered, starved and eventually disappeared."
+    },
+    {
+      "@id": "event5",
+      "@type": "Transformation",
+      "actor": "entity11",
+      "result": "entity12",
+      "description": "Three ancestors disappeared under a shrine and became snakes."
+    },
+    {
+      "@id": "entity11",
+      "@type": "Group",
+      "members": ["Ancestor1", "Ancestor2", "Ancestor3"],
+      "location": "entity9"
+    },
+    {
+      "@id": "entity12",
+      "@type": "Animal",
+      "species": "Snake",
+      "name": "Ancestor snakes"
+    },
+    {
+      "@id": "entity13",
+      "@type": "Group",
+      "members": ["Descendant1", "Descendant2", "...", "Descendant44"],
+      "description": "Fifth generation of mythical ancestors."
+    },
+    {
+      "@id": "entity14",
+      "@type": "SocialStructure",
+      "name": "Faro tyn",
+      "description": "Twenty-two males symbolically representing the twenty-two faro tyn."
+    },
+    {
+      "@id": "entity15",
+      "@type": "Location",
+      "name": "Kri"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "@context": "http://example.org/context/myth-v1.jsonld",
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Principle",
+      "name": "Father of Greatness",
+      "location": "place of Light",
+      "attributes": [
+        "good"
+      ]
+    },
+    {
+      "@id": "entity2",
+      "@type": "Principle",
+      "name": "King of Darkness",
+      "location": "land of Darkness",
+      "attributes": [
+        "evil"
+      ]
+    },
+    {
+      "@id": "relation1",
+      "@type": "DwellingRelation",
+      "subject": "entity1",
+      "place": "entity1.location"
+    },
+    {
+      "@id": "relation2",
+      "@type": "DwellingRelation",
+      "subject": "entity2",
+      "place": "entity2.location"
+    },
+    {
+      "@id": "event1",
+      "@type": "Conflict",
+      "participants": [
+        "entity1",
+        "entity2"
+      ],
+      "outcome": "entity2 overpowering"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Deity",
+      "name": "Primal Man"
+    },
+    {
+      "@id": "event2",
+      "@type": "Creation",
+      "creator": "entity1",
+      "created": "entity3"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Living Spirit"
+    },
+    {
+      "@id": "entity5",
+      "@type": "Deity",
+      "name": "Messenger"
+    },
+    {
+      "@id": "event3",
+      "@type": "Rescue",
+      "participants": [
+        "entity4",
+        "entity3"
+      ]
+    },
+    {
+      "@id": "event4",
+      "@type": "Creation",
+      "creator": "entity1",
+      "created": "entity5"
+    },
+    {
+      "@id": "event5",
+      "@type": "Liberation",
+      "participants": [
+        "entity5"
+      ],
+      "operation": "separating Light from Darkness"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Phenomenon",
+      "name": "the ships of Light"
+    },
+    {
+      "@id": "event6",
+      "@type": "Activation",
+      "participants": [
+        "entity5",
+        "entity6"
+      ],
+      "description": "Starting the revolution of spheres"
+    },
+    {
+      "@id": "event7",
+      "@type": "Deception",
+      "perpetrator": "entity5",
+      "outcome": "liberation of trapped Light and separation of sin"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Human",
+      "name": "Adam",
+      "origin": "created by King of Darkness"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Human",
+      "name": "Eve",
+      "origin": "created by King of Darkness",
+      "purpose": "instrument against Adam"
+    },
+    {
+      "@id": "event8",
+      "@type": "Creation",
+      "creator": "entity2",
+      "created": [
+        "entity7",
+        "entity8"
+      ]
+    },
+    {
+      "@id": "entity19",
+      "@type": "Person",
+      "name": "Adam"
+    },
+    {
+      "@id": "entity20",
+      "@type": "Deity",
+      "name": "Jesus",
+      "description": "the Luminous, who approaches Adam to awaken him and save him from demons and darkness."
+    },
+    {
+      "@id": "entity21",
+      "@type": "Deity",
+      "name": "Messenger of Good Tidings"
+    },
+    {
+      "@id": "entity22",
+      "@type": "Deity",
+      "name": "Mother of Light"
+    },
+    {
+      "@id": "entity23",
+      "@type": "Deity",
+      "name": "Living Spirit"
+    },
+    {
+      "@id": "entity24",
+      "@type": "Collective",
+      "name": "five angels"
+    },
+    {
+      "@id": "entity25",
+      "@type": "DivineBeing",
+      "name": "the mighty Archon"
+    },
+    {
+      "@id": "event19",
+      "@type": "Event",
+      "name": "Angels request divine intervention",
+      "participants": [
+        "entity3",
+        "entity4",
+        "entity5",
+        "entity6"
+      ],
+      "outcome": [
+        "entity2"
+      ]
+    },
+    {
+      "@id": "event20",
+      "@type": "Event",
+      "name": "Jesus saves Adam",
+      "participants": [
+        "entity2",
+        "entity1"
+      ],
+      "actions": [
+        {
+          "action": "awakens",
+          "target": "entity1"
+        },
+        {
+          "action": "frees",
+          "objects": [
+            "entity1",
+            "entity7"
+          ]
+        },
+        {
+          "action": "shows",
+          "target": "entity1",
+          "content": "the Fathers on high and his own Self cast into all things"
+        },
+        {
+          "action": "makes",
+          "target": "entity1",
+          "content": "eat of the tree of life"
+        }
+      ]
+    },
+    {
+      "@id": "event21",
+      "@type": "Event",
+      "name": "Adam's lamentation",
+      "participant": "entity1",
+      "actions": [
+        {
+          "action": "cries",
+          "description": "terribly with a voice like a roaring lion"
+        },
+        {
+          "action": "tore",
+          "content": "his dress"
+        },
+        {
+          "action": "smote",
+          "content": "his breast"
+        },
+        {
+          "action": "speaks",
+          "content": "Woe, woe unto the shaper of my body, unto those who fettered my soul, and unto the rebels that enslaved me!"
+        }
+      ]
+    }
+  ]
+}

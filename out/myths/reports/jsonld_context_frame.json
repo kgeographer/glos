@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "Entity": "http://example.org/ontology/Entity",
+    "Being": "http://example.org/ontology/Being",
+    "Deity": "http://example.org/ontology/Deity",
+    "Spirit": "http://example.org/ontology/Spirit",
+    "Ancestor": "http://example.org/ontology/Ancestor",
+    "Human": "http://example.org/ontology/Human",
+    "Creature": "http://example.org/ontology/Creature",
+    "Object": "http://example.org/ontology/Object",
+    "Artifact": "http://example.org/ontology/Artifact",
+    "Structure": "http://example.org/ontology/Structure",
+    "NaturalFeature": "http://example.org/ontology/NaturalFeature",
+    "CelestialBody": "http://example.org/ontology/CelestialBody",
+    "Location": "http://example.org/ontology/Location",
+    "ConceptualOrSymbolic": "http://example.org/ontology/ConceptualOrSymbolic",
+    "Creation": "http://example.org/ontology/Creation",
+    "Name": "http://example.org/ontology/Name",
+    "Event": "http://example.org/ontology/Event",
+    "ActionEvent": "http://example.org/ontology/ActionEvent",
+    "BlessingEvent": "http://example.org/ontology/BlessingEvent",
+    "CommunicationEvent": "http://example.org/ontology/CommunicationEvent",
+    "ConflictEvent": "http://example.org/ontology/ConflictEvent",
+    "ConsumptionEvent": "http://example.org/ontology/ConsumptionEvent",
+    "CreationEvent": "http://example.org/ontology/CreationEvent",
+    "DeathEvent": "http://example.org/ontology/DeathEvent",
+    "InstructionEvent": "http://example.org/ontology/InstructionEvent",
+    "JourneyEvent": "http://example.org/ontology/JourneyEvent",
+    "SeparationEvent": "http://example.org/ontology/SeparationEvent",
+    "TransformationEvent": "http://example.org/ontology/TransformationEvent",
+    "created": {
+      "@id": "http://example.org/ontology/created",
+      "@type": "@id"
+    },
+    "childOf": {
+      "@id": "http://example.org/ontology/childOf",
+      "@type": "@id"
+    },
+    "GuardianOf": {
+      "@id": "http://example.org/ontology/GuardianOf",
+      "@type": "@id"
+    },
+    "causedGrowth": {
+      "@id": "http://example.org/ontology/causedGrowth",
+      "@type": "@id"
+    },
+    "resultingState": {
+      "@id": "http://example.org/ontology/resultingState",
+      "@type": "@id"
+    },
+    "spouseOf": {
+      "@id": "http://example.org/ontology/spouseOf",
+      "@type": "@id"
+    },
+    "mergedWith": {
+      "@id": "http://example.org/ontology/mergedWith",
+      "@type": "@id"
+    },
+    "named": {
+      "@id": "http://example.org/ontology/named",
+      "@type": "@id"
+    },
+    "destroyed": {
+      "@id": "http://example.org/ontology/destroyed",
+      "@type": "@id"
+    },
+    "causedExile": {
+      "@id": "http://example.org/ontology/causedExile",
+      "@type": "@id"
+    },
+    "agent": {
+      "@id": "http://example.org/ontology/agent",
+      "@type": "@id"
+    },
+    "patient": {
+      "@id": "http://example.org/ontology/patient",
+      "@type": "@id"
+    },
+    "instrument": {
+      "@id": "http://example.org/ontology/instrument",
+      "@type": "@id"
+    },
+    "beneficiary": {
+      "@id": "http://example.org/ontology/beneficiary",
+      "@type": "@id"
+    }
+  }
+}

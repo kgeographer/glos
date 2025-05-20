@@ -1,0 +1,75 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "MythicalCharacter",
+      "name": "Faro",
+      "description": "A mythical being associated with the River Niger, described as forming the river with his body; head is Lake Debo, right arm is the Bani, body is the Niger. Faro is androgynous, changing sex along different banks of the river.",
+      "isAndrogynous": true
+    },
+    {
+      "@id": "entity2",
+      "@type": "MythicalCharacter",
+      "name": "Mousso Koroni",
+      "description": "A mythical character who sowed eleusine seeds, which were then submerged and affected by Faro through flooding."
+    },
+    {
+      "@id": "entity3",
+      "@type": "GeographicFeature",
+      "name": "River Niger",
+      "description": "Formed by a series of floods caused by Faro, represents Faro's body in mythology."
+    },
+    {
+      "@id": "entity4",
+      "@type": "MythicalObject",
+      "name": "mannogo ble",
+      "description": "A fish sent by Faro to eat the seeds stolen by Mousso Koroni."
+    },
+    {
+      "@id": "entity5",
+      "@type": "Event",
+      "description": "Faro causes a series of floods to recover stolen seeds and shape the River Niger."
+    },
+    {
+      "@id": "entity6",
+      "@type": "Place",
+      "name": "Kaba to Akka",
+      "description": "A stretch along the River Niger with twenty-two faro tyn representing parts of Faro's body and his descendants."
+    },
+    {
+      "@id": "entity7",
+      "@type": "MythicalObject",
+      "name": "faro tyn",
+      "description": "Markers along the River Niger symbolizing Faro's presence and actions in various locales, as well as his propagation activities."
+    },
+    {
+      "@id": "entity8",
+      "@type": "MythicalCharacter",
+      "name": "Pemba",
+      "description": "A character whose field was flooded by Faro to recover seeds."
+    },
+    {
+      "@id": "entity9",
+      "@type": "GeographicFeature",
+      "name": "Lake Debo",
+      "description": "Considered as the head of Faro in the mythology surrounding the River Niger."
+    },
+    {
+      "@id": "entity10",
+      "@type": "MythicalCharacter",
+      "name": "Bozo",
+      "description": "Descendants of the first men who followed Faro along the river, they were the first to grow and harvest seeds sown by Faro."
+    },
+    {
+      "@id": "entity11",
+      "@type": "CulturalObject",
+      "name": "second word",
+      "description": "A mystical concept or power revealed by Faro, associated with human propagation and fertility, revealed at the area symbolizing Faro's genitals on the River Niger."
+    },
+    {
+      "@id": "entity12",
+      "@type": "Event",
+      "description": "Revelation of the Second Word by Faro, linked to human fertility and the propagation of mankind."
+    }
+  ]
+}

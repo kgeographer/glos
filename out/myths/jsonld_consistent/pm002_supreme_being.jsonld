@@ -1,0 +1,51 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "Tsui||goab",
+      "description": "A great powerful chief of the Khoikhoi and the supreme being, originally known as the first Khoikhoib from whom all Khoikhoi tribes originated. He gained his name and power after defeating another chief, ||Gaunab.",
+      "abilities": [
+        "prognostication",
+        "resurrection",
+        "weather manipulation",
+        "fertility control"
+      ],
+      "attributes": [
+        "wisdom",
+        "wealth"
+      ],
+      "home": "a beautiful heaven"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Deity",
+      "name": "||Gaunab",
+      "description": "A chief who was an enemy of Tsui||goab and known for killing many of Tsui||goab's people. He was defeated and killed by Tsui||goab.",
+      "home": "a dark heaven"
+    },
+    {
+      "@id": "event1",
+      "@type": "Conflict",
+      "name": "Battle between Tsui||goab and ||Gaunab",
+      "participants": [
+        {
+          "@id": "entity1"
+        },
+        {
+          "@id": "entity2"
+        }
+      ],
+      "outcome": "Tsui||goab kills ||Gaunab but becomes lame in the process."
+    },
+    {
+      "@id": "event2",
+      "@type": "Feasting",
+      "description": "Celebrations that occurred each time Tsui||goab resurrected, involving large gatherings, slaughtering of livestock, and distribution of cattle and sheep.",
+      "related_to": {
+        "@id": "entity1"
+      }
+    }
+  ],
+  "@context": "http://example.org/context/myth-v1.jsonld"
+}

@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "God",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "2",
+      "event": "Creation of the world",
+      "type": "myth:CreationEvent",
+      "agent": "1"
+    },
+    {
+      "@id": "3",
+      "entity": "Mohammed",
+      "type": "myth:Prophet",
+      "created": "1"
+    },
+    {
+      "@id": "4",
+      "entity": "Throne",
+      "type": "myth:Artifact",
+      "created": "1"
+    },
+    {
+      "@id": "5",
+      "entity": "Carpet",
+      "type": "myth:Artifact",
+      "created": "1"
+    },
+    {
+      "@id": "6",
+      "entity": "Well-preserved Tablet",
+      "type": "myth:Artifact",
+      "created": "1"
+    },
+    {
+      "@id": "7",
+      "entity": "Pen",
+      "type": "myth:Artifact",
+      "created": "1"
+    },
+    {
+      "@id": "8",
+      "entity": "Trumpet",
+      "type": "myth:Artifact",
+      "created": "1"
+    },
+    {
+      "@id": "9",
+      "entity": "Serafili",
+      "type": "myth:Archangel",
+      "created": "1"
+    },
+    {
+      "@id": "10",
+      "entity": "Garden of Delights",
+      "type": "myth:Place",
+      "created": "1"
+    },
+    {
+      "@id": "11",
+      "entity": "Fire",
+      "type": "myth:Element",
+      "created": "1"
+    },
+    {
+      "@id": "12",
+      "entity": "Angels",
+      "type": "myth:Deity",
+      "created": "1"
+    },
+    {
+      "@id": "13",
+      "entity": "Jiburili",
+      "type": "myth:Archangel",
+      "created": "1"
+    },
+    {
+      "@id": "14",
+      "entity": "Mikaili",
+      "type": "myth:Archangel",
+      "created": "1"
+    },
+    {
+      "@id": "15",
+      "entity": "Zeraili",
+      "type": "myth:Archangel",
+      "created": "1"
+    },
+    {
+      "@id": "16",
+      "entity": "Maliki",
+      "type": "myth:Archangel",
+      "created": "1"
+    },
+    {
+      "@id": "17",
+      "entity": "Ridhuani",
+      "type": "myth:Archangel",
+      "created": "1"
+    }
+  ]
+}

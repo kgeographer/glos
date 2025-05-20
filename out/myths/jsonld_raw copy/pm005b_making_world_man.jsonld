@@ -1,0 +1,181 @@
+{
+  "@context": "http://schema.org/",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "God",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "2",
+      "event": "Creation of the world",
+      "type": "myth:CreationEvent",
+      "agent": "1"
+    },
+    {
+      "@id": "3",
+      "entity": "Universe",
+      "type": "myth:CosmicEntity"
+    },
+    {
+      "@id": "4",
+      "relation": "created",
+      "subject": "1",
+      "object": "3"
+    },
+    {
+      "@id": "5",
+      "entity": "Earth",
+      "type": "myth:CosmicEntity"
+    },
+    {
+      "@id": "6",
+      "relation": "created",
+      "subject": "1",
+      "object": "5"
+    },
+    {
+      "@id": "7",
+      "entity": "Heavens",
+      "type": "myth:CosmicEntity"
+    },
+    {
+      "@id": "8",
+      "relation": "created",
+      "subject": "1",
+      "object": "7"
+    },
+    {
+      "@id": "9",
+      "entity": "Hells",
+      "type": "myth:CosmicEntity"
+    },
+    {
+      "@id": "10",
+      "relation": "created",
+      "subject": "1",
+      "object": "9"
+    },
+    {
+      "@id": "11",
+      "entity": "Adam",
+      "type": "myth:Prophet"
+    },
+    {
+      "@id": "12",
+      "relation": "guardianOf",
+      "subject": "11",
+      "object": "7"
+    },
+    {
+      "@id": "13",
+      "entity": "Abraham",
+      "type": "myth:Prophet"
+    },
+    {
+      "@id": "14",
+      "relation": "guardianOf",
+      "subject": "13",
+      "object": "7"
+    },
+    {
+      "@id": "15",
+      "entity": "Animals",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "16",
+      "relation": "created",
+      "subject": "1",
+      "object": "15"
+    },
+    {
+      "@id": "17",
+      "entity": "Birds",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "18",
+      "relation": "created",
+      "subject": "1",
+      "object": "17"
+    },
+    {
+      "@id": "19",
+      "entity": "Fish",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "20",
+      "relation": "created",
+      "subject": "1",
+      "object": "19"
+    },
+    {
+      "@id": "21",
+      "entity": "Insects",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "22",
+      "relation": "created",
+      "subject": "1",
+      "object": "21"
+    },
+    {
+      "@id": "23",
+      "entity": "Lizards",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "24",
+      "relation": "created",
+      "subject": "1",
+      "object": "23"
+    },
+    {
+      "@id": "25",
+      "entity": "Frogs",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "26",
+      "relation": "created",
+      "subject": "1",
+      "object": "25"
+    },
+    {
+      "@id": "27",
+      "entity": "Ants",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "28",
+      "relation": "created",
+      "subject": "1",
+      "object": "27"
+    },
+    {
+      "@id": "29",
+      "entity": "Baboons",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "30",
+      "relation": "created",
+      "subject": "1",
+      "object": "29"
+    },
+    {
+      "@id": "31",
+      "entity": "Giraffes",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "32",
+      "relation": "created",
+      "subject": "1",
+      "object": "31"
+    }
+  ]
+}

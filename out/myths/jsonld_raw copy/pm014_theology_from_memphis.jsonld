@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Horus",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "3",
+      "entity": {
+        "@id": "4",
+        "name": "Seth",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "5",
+      "entity": {
+        "@id": "6",
+        "name": "Geb",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "7",
+      "entity": {
+        "@id": "8",
+        "name": "Ptah",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "9",
+      "entity": {
+        "@id": "10",
+        "name": "Osiris",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "11",
+      "entity": {
+        "@id": "12",
+        "name": "Isis",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "Nephthys",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "15",
+      "event": {
+        "@id": "16",
+        "type": "myth:JudgementEvent",
+        "agent": "6",
+        "patient": [
+          "2",
+          "4"
+        ],
+        "location": "Egypt"
+      }
+    },
+    {
+      "@id": "17",
+      "event": {
+        "@id": "18",
+        "type": "myth:InheritanceEvent",
+        "agent": "6",
+        "patient": "2",
+        "location": "Egypt"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "type": "myth:CreationEvent",
+        "agent": "8",
+        "location": "Egypt"
+      }
+    },
+    {
+      "@id": "21",
+      "event": {
+        "@id": "22",
+        "type": "myth:RescueEvent",
+        "agent": [
+          "12",
+          "14"
+        ],
+        "patient": "10",
+        "location": "Egypt"
+      }
+    },
+    {
+      "@id": "23",
+      "relation": {
+        "@id": "24",
+        "type": "myth:parentOf",
+        "subject": "6",
+        "object": "2"
+      }
+    },
+    {
+      "@id": "25",
+      "relation": {
+        "@id": "26",
+        "type": "myth:parentOf",
+        "subject": "6",
+        "object": "4"
+      }
+    },
+    {
+      "@id": "27",
+      "relation": {
+        "@id": "28",
+        "type": "myth:created",
+        "subject": "8",
+        "object": "Egypt"
+      }
+    },
+    {
+      "@id": "29",
+      "relation": {
+        "@id": "30",
+        "type": "myth:mergedWith",
+        "subject": "2",
+        "object": "4"
+      }
+    }
+  ]
+}

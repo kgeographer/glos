@@ -1,0 +1,79 @@
+{
+  "@context": "http://schema.org/",
+  "@graph": [
+    {
+      "@id": "e1",
+      "@type": "myth:Deity",
+      "name": "Nana-Buluku",
+      "gender": "both male and female"
+    },
+    {
+      "@id": "e2",
+      "@type": "myth:Deity",
+      "name": "Mawu",
+      "gender": "female"
+    },
+    {
+      "@id": "e3",
+      "@type": "myth:Deity",
+      "name": "Lisa",
+      "gender": "male"
+    },
+    {
+      "@id": "e4",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "description": "The world was created by Nana-Buluku"
+    },
+    {
+      "@id": "e5",
+      "@type": "myth:BirthEvent",
+      "myth:agent": "e1",
+      "myth:result": [
+        "e2",
+        "e3"
+      ],
+      "description": "Nana-Buluku gave birth to twins, Mawu and Lisa"
+    },
+    {
+      "@id": "e6",
+      "@type": "myth:TransferOfPowerEvent",
+      "myth:agent": "e1",
+      "myth:recipient": [
+        "e2",
+        "e3"
+      ],
+      "description": "Dominion over the realm was ceded to Mawu and Lisa"
+    },
+    {
+      "@id": "e7",
+      "@type": "myth:AppointmentEvent",
+      "myth:agent": "e2",
+      "myth:role": "command of the night",
+      "description": "Mawu was given command of the night"
+    },
+    {
+      "@id": "e8",
+      "@type": "myth:AppointmentEvent",
+      "myth:agent": "e3",
+      "myth:role": "command of the day",
+      "description": "Lisa was given command of the day"
+    },
+    {
+      "@id": "e9",
+      "@type": "myth:BirthEvent",
+      "myth:agent": "e2",
+      "myth:partner": "e3",
+      "description": "Mawu bore offspring to Lisa"
+    },
+    {
+      "@id": "e10",
+      "@type": "myth:EclipseEvent",
+      "myth:agent": [
+        "e2",
+        "e3"
+      ],
+      "description": "Eclipse events are interpreted as celestial love-making between Mawu and Lisa"
+    }
+  ]
+}

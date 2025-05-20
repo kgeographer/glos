@@ -1,0 +1,111 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Jackal",
+      "description": "First son of God, born alone and incestuous, embodied errors and imparted capability of speech through his act."
+    },
+    {
+      "@id": "entity2",
+      "@type": "Deity",
+      "name": "God",
+      "description": "Creator of the initial human pair using damp clay and pellets, subsequently rejects the earth due to defilement."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Artifact",
+      "name": "Womb",
+      "material": "Clay",
+      "creator": "entity2",
+      "description": "Modelled by God to create life."
+    },
+    {
+      "@id": "entity4",
+      "@type": "Artifact",
+      "name": "Male organ",
+      "material": "Clay",
+      "creator": "entity2",
+      "description": "Crafted by God as part of human creation."
+    },
+    {
+      "@id": "entity5",
+      "@type": "Deity",
+      "name": "Nummo",
+      "description": "Twin spiritual beings, possibly of dual sex, responsible for guiding the development and regeneration of the world."
+    },
+    {
+      "@id": "entity6",
+      "@type": "Animal",
+      "name": "Nay",
+      "attributes": [
+        "neither serpent nor insect",
+        "resembles lizard, black and white",
+        "symbolizes the struggle and pain of circumcision"
+      ],
+      "description": "Form taken by the masculine element removed during male circumcision."
+    },
+    {
+      "@id": "entity7",
+      "@type": "Animal",
+      "name": "Scorpion",
+      "attributes": [
+        "symbolizes the pain of childbearing",
+        "emerges from excised part during childbirth"
+      ],
+      "description": "Represents the defunct human female element post childbirth."
+    },
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "creator": "entity2",
+      "result": [
+        "entity3",
+        "entity4"
+      ],
+      "description": "God creates a womb and a male organ from clay as an act of life creation."
+    },
+    {
+      "@id": "event2",
+      "@type": "Birth",
+      "result": "entity1",
+      "description": "Jackal's birth, characterized by its solitary nature, leads to significant consequences including the ability of speech and other faults."
+    },
+    {
+      "@id": "event3",
+      "@type": "Birth",
+      "participants": "entity5",
+      "result": "Human pair",
+      "description": "Nummo's intervention leading to the formation of the first human pair from the earth."
+    },
+    {
+      "@id": "event4",
+      "@type": "RitualEvent",
+      "name": "Circumcision and Excision",
+      "result": [
+        "entity6",
+        "entity7"
+      ],
+      "description": "Circumcision of man and excision of woman, resulting in separation of dual elements and formation of nay and scorpion."
+    },
+    {
+      "@id": "event5",
+      "@type": "RegenerationEvent",
+      "description": "Nummo Pair regenerating the earth and leading redemption, replacing their position with God."
+    },
+    {
+      "@id": "relation1",
+      "@type": "ParentChildRelationship",
+      "parent": "entity2",
+      "child": "entity1",
+      "description": "God is the parent of the Jackal."
+    },
+    {
+      "@id": "relation2",
+      "@type": "CreatorCreationRelationship",
+      "creator": "entity5",
+      "creation": "Human pair",
+      "description": "Nummo Pair as creators or facilitators in the emergence of the first human pair from earth."
+    }
+  ]
+}

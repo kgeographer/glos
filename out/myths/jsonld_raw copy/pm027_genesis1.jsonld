@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org/",
+  "@graph": [
+    {
+      "@id": "1",
+      "@type": "myth:Deity",
+      "name": "God"
+    },
+    {
+      "@id": "2",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "3",
+      "myth:time": "In the beginning"
+    },
+    {
+      "@id": "3",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "heavens",
+        "earth"
+      ]
+    },
+    {
+      "@id": "4",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "5",
+      "myth:time": "one day"
+    },
+    {
+      "@id": "5",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "Day",
+        "Night"
+      ]
+    },
+    {
+      "@id": "6",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "7",
+      "myth:time": "a second day"
+    },
+    {
+      "@id": "7",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "Heaven",
+        "Earth",
+        "Seas"
+      ]
+    },
+    {
+      "@id": "8",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "9",
+      "myth:time": "a third day"
+    },
+    {
+      "@id": "9",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "vegetation",
+        "plants",
+        "trees"
+      ]
+    },
+    {
+      "@id": "10",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "11",
+      "myth:time": "a fourth day"
+    },
+    {
+      "@id": "11",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "greater light",
+        "lesser light",
+        "stars"
+      ]
+    },
+    {
+      "@id": "12",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "13",
+      "myth:time": "a fifth day"
+    },
+    {
+      "@id": "13",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "sea monsters",
+        "living creatures",
+        "birds"
+      ]
+    },
+    {
+      "@id": "14",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "15",
+      "myth:time": "a sixth day"
+    },
+    {
+      "@id": "15",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "cattle",
+        "creeping things",
+        "beasts of the earth",
+        "man"
+      ]
+    },
+    {
+      "@id": "16",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:patient": "17",
+      "myth:time": "a seventh day"
+    },
+    {
+      "@id": "17",
+      "@type": "myth:CosmicEntity",
+      "name": [
+        "the heavens and the earth and all the host of them"
+      ]
+    },
+    {
+      "@id": "18",
+      "@type": "myth:RestEvent",
+      "myth:agent": "1",
+      "myth:time": "the seventh day"
+    }
+  ]
+}

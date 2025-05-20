@@ -1,0 +1,122 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Ogotemmeli"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Structure",
+      "name": "Granary of the Master of Pure Earth",
+      "description": "A granary described as the interior and mouth of the world, divided into eight compartments and associated with various symbolic seeds and organs."
+    },
+    {
+      "@id": "event1",
+      "@type": "ExplanationEvent",
+      "explainer": {
+        "@id": "entity1"
+      },
+      "description": "Ogotemmeli explains the world-system using the structure of the granary, symbolizing different animals, plants, and directions."
+    },
+    {
+      "@id": "event2",
+      "@type": "ActionEvent",
+      "description": "The restoration of a granary, involving opening the granary door."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Person",
+      "name": "Koguem"
+    },
+    {
+      "@id": "relation1",
+      "@type": "Interaction",
+      "participant1": {
+        "@id": "entity1"
+      },
+      "participant2": {
+        "@id": "entity3"
+      },
+      "description": "Koguem interacts with Ogotemmeli concerning granaries."
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Spirit of water",
+      "description": "Represented through the internal organs."
+    },
+    {
+      "@id": "relation2",
+      "@type": "SymbolicRepresentation",
+      "subject": {
+        "@id": "entity2"
+      },
+      "symbol": {
+        "@id": "entity4"
+      }
+    },
+    {
+      "@id": "entity5",
+      "@type": "Person",
+      "ethnicity": "Bozo",
+      "description": "The original inhabitants of the Niger considered as the only true fishermen."
+    },
+    {
+      "@id": "relation3",
+      "@type": "AnatomicalConnection",
+      "person": {
+        "@id": "entity5"
+      },
+      "description": "Bozo men are described having a fish attached to their navels."
+    },
+    {
+      "@id": "entity6",
+      "@type": "Animal",
+      "species": "Fish",
+      "relationship": {
+        "@id": "relation3"
+      }
+    },
+    {
+      "@id": "entity7",
+      "@type": "AnimalSpeciesGroup",
+      "species": [
+        "antelopes",
+        "hyenas",
+        "cats",
+        "reptiles",
+        "saurians",
+        "apes",
+        "gazelles",
+        "marmots",
+        "lion",
+        "elephant"
+      ],
+      "location": "West stairway of the granary"
+    },
+    {
+      "@id": "entity8",
+      "@type": "PlantSpeciesGroup",
+      "plants": [
+        "baobab",
+        "Lannea acida"
+      ],
+      "location": "West stairway of the granary",
+      "associations": "Insects commonly found on these trees."
+    },
+    {
+      "@id": "entity9",
+      "@type": "AnimalSpeciesGroup",
+      "species": [
+        "domestic animals such as fowls, sheep, goats, cattle, horses, dogs, and cats"
+      ],
+      "location": "South stairway of the granary"
+    },
+    {
+      "@id": "event3",
+      "@type": "SunsetEvent",
+      "description": "The setting sun illuminates the granary walls, enhancing the symbolic representation."
+    }
+  ]
+}

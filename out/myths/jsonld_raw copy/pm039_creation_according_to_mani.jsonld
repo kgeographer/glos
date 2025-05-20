@@ -1,0 +1,185 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Father of Greatness",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "3",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2"
+      }
+    },
+    {
+      "@id": "4",
+      "entity": {
+        "@id": "5",
+        "name": "King of Darkness",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "6",
+        "type": "myth:CreationEvent",
+        "myth:agent": "5"
+      }
+    },
+    {
+      "@id": "7",
+      "entity": {
+        "@id": "8",
+        "name": "Primal Man",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "9",
+        "type": "myth:CreationEvent",
+        "myth:agent": "8"
+      }
+    },
+    {
+      "@id": "10",
+      "entity": {
+        "@id": "11",
+        "name": "Mother of Life",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "12",
+        "type": "myth:CreationEvent",
+        "myth:agent": "11"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "Living Spirit",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "15",
+        "type": "myth:CreationEvent",
+        "myth:agent": "14"
+      }
+    },
+    {
+      "@id": "16",
+      "entity": {
+        "@id": "17",
+        "name": "Messenger",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "18",
+        "type": "myth:CreationEvent",
+        "myth:agent": "17"
+      }
+    },
+    {
+      "@id": "19",
+      "entity": {
+        "@id": "20",
+        "name": "Jesus",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "21",
+        "type": "myth:CreationEvent",
+        "myth:agent": "20"
+      }
+    },
+    {
+      "@id": "22",
+      "entity": {
+        "@id": "23",
+        "name": "Adam",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "24",
+        "type": "myth:CreationEvent",
+        "myth:agent": "5"
+      }
+    },
+    {
+      "@id": "25",
+      "entity": {
+        "@id": "26",
+        "name": "Eve",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "27",
+        "type": "myth:CreationEvent",
+        "myth:agent": "5"
+      }
+    },
+    {
+      "@id": "28",
+      "relation": {
+        "@id": "29",
+        "type": "myth:created",
+        "subject": "2",
+        "object": "8"
+      }
+    },
+    {
+      "@id": "30",
+      "relation": {
+        "@id": "31",
+        "type": "myth:created",
+        "subject": "11",
+        "object": "8"
+      }
+    },
+    {
+      "@id": "32",
+      "relation": {
+        "@id": "33",
+        "type": "myth:created",
+        "subject": "14",
+        "object": "8"
+      }
+    },
+    {
+      "@id": "34",
+      "relation": {
+        "@id": "35",
+        "type": "myth:created",
+        "subject": "17",
+        "object": "23"
+      }
+    },
+    {
+      "@id": "36",
+      "relation": {
+        "@id": "37",
+        "type": "myth:created",
+        "subject": "20",
+        "object": "23"
+      }
+    },
+    {
+      "@id": "38",
+      "relation": {
+        "@id": "39",
+        "type": "myth:created",
+        "subject": "5",
+        "object": "23"
+      }
+    },
+    {
+      "@id": "40",
+      "relation": {
+        "@id": "41",
+        "type": "myth:created",
+        "subject": "5",
+        "object": "26"
+      }
+    }
+  ]
+}

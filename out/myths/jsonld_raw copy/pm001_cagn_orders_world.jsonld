@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Cagn",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "3",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2"
+      }
+    },
+    {
+      "@id": "4",
+      "entity": {
+        "@id": "5",
+        "name": "Coti",
+        "type": "myth:Deity"
+      },
+      "relation": {
+        "type": "myth:spouseOf",
+        "subject": "2",
+        "object": "5"
+      }
+    },
+    {
+      "@id": "6",
+      "entity": {
+        "@id": "7",
+        "name": "Cogaz",
+        "type": "myth:Deity"
+      },
+      "relation": {
+        "type": "myth:childOf",
+        "subject": "7",
+        "object": "2"
+      }
+    },
+    {
+      "@id": "8",
+      "entity": {
+        "@id": "9",
+        "name": "Gewi",
+        "type": "myth:Deity"
+      },
+      "relation": {
+        "type": "myth:childOf",
+        "subject": "9",
+        "object": "2"
+      }
+    },
+    {
+      "@id": "10",
+      "event": {
+        "@id": "11",
+        "type": "myth:TransformationEvent",
+        "myth:agent": "2",
+        "myth:patient": "9"
+      }
+    },
+    {
+      "@id": "12",
+      "entity": {
+        "@id": "13",
+        "name": "Cgorioinsi",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "14",
+        "type": "myth:ConflictEvent",
+        "myth:agent": "2",
+        "myth:patient": "13"
+      }
+    },
+    {
+      "@id": "15",
+      "entity": {
+        "@id": "16",
+        "name": "Quuisi",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "17",
+        "type": "myth:ConflictEvent",
+        "myth:agent": "2",
+        "myth:patient": "16"
+      }
+    },
+    {
+      "@id": "18",
+      "entity": {
+        "@id": "19",
+        "name": "Cagn-cagn",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "20",
+        "type": "myth:ConflictEvent",
+        "myth:agent": "2",
+        "myth:patient": "19"
+      }
+    },
+    {
+      "@id": "21",
+      "event": {
+        "@id": "22",
+        "type": "myth:ResurrectionEvent",
+        "myth:agent": "7",
+        "myth:patient": "2"
+      }
+    }
+  ]
+}

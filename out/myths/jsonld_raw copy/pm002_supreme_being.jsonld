@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "type": "myth:Deity",
+      "name": "Tsui||goab",
+      "myth:origin": "Khoikhoi",
+      "myth:attribute": [
+        "great powerful chief",
+        "wisdom",
+        "lame",
+        "resurrection",
+        "wealth",
+        "rainmaker",
+        "cloud maker",
+        "fertility deity"
+      ],
+      "myth:residence": "beautiful heaven"
+    },
+    {
+      "@id": "2",
+      "type": "myth:Deity",
+      "name": "||Gaunab",
+      "myth:attribute": [
+        "warrior",
+        "killer"
+      ],
+      "myth:residence": "dark heaven"
+    },
+    {
+      "@id": "3",
+      "type": "myth:CreationEvent",
+      "myth:agent": "Tsui||goab",
+      "myth:result": "Khoikhoi tribes"
+    },
+    {
+      "@id": "4",
+      "type": "myth:ConflictEvent",
+      "myth:agent": [
+        "Tsui||goab",
+        "||Gaunab"
+      ],
+      "myth:result": [
+        "Tsui||goab's victory",
+        "||Gaunab's death",
+        "Tsui||goab's injury"
+      ],
+      "myth:reason": "||Gaunab's killings"
+    },
+    {
+      "@id": "5",
+      "type": "myth:DeathEvent",
+      "myth:agent": "Tsui||goab",
+      "myth:result": "Tsui||goab's resurrection"
+    },
+    {
+      "@id": "6",
+      "type": "myth:FeastEvent",
+      "myth:agent": "Khoikhoi tribes",
+      "myth:result": "rejoicing",
+      "myth:reason": "Tsui||goab's return"
+    },
+    {
+      "@id": "7",
+      "type": "myth:GiftEvent",
+      "myth:agent": "Tsui||goab",
+      "myth:recipient": "Khoikhoi tribes",
+      "myth:gift": [
+        "cattle",
+        "sheep"
+      ]
+    },
+    {
+      "@id": "8",
+      "type": "myth:WeatherEvent",
+      "myth:agent": "Tsui||goab",
+      "myth:result": [
+        "rain",
+        "clouds"
+      ]
+    },
+    {
+      "@id": "9",
+      "type": "myth:FertilityEvent",
+      "myth:agent": "Tsui||goab",
+      "myth:result": "fruitful cows and sheep"
+    }
+  ],
+  "relations": [
+    {
+      "@id": "10",
+      "type": "myth:enemyOf",
+      "subject": "Tsui||goab",
+      "object": "||Gaunab"
+    },
+    {
+      "@id": "11",
+      "type": "myth:residesIn",
+      "subject": "Tsui||goab",
+      "object": "beautiful heaven"
+    },
+    {
+      "@id": "12",
+      "type": "myth:residesIn",
+      "subject": "||Gaunab",
+      "object": "dark heaven"
+    }
+  ]
+}

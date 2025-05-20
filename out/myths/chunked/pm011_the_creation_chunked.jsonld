@@ -1,0 +1,640 @@
+
+
+/* Chunk 1 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Mangala",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "3",
+      "event": {
+        "@id": "4",
+        "type": "myth:CreationEvent",
+        "agent": "2",
+        "patient": "5",
+        "location": "6"
+      },
+      "entity": {
+        "@id": "5",
+        "name": "Seeds",
+        "type": "myth:Entity"
+      },
+      "location": {
+        "@id": "6",
+        "name": "World",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "7",
+      "entity": {
+        "@id": "8",
+        "name": "Pemba",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "@id": "10",
+        "type": "myth:CreationEvent",
+        "agent": "8",
+        "patient": "11",
+        "location": "12"
+      },
+      "entity": {
+        "@id": "11",
+        "name": "Earth",
+        "type": "myth:Entity"
+      },
+      "location": {
+        "@id": "12",
+        "name": "Heaven",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "Faro",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "15",
+      "event": {
+        "@id": "16",
+        "type": "myth:CreationEvent",
+        "agent": "14",
+        "patient": "17",
+        "location": "18"
+      },
+      "entity": {
+        "@id": "17",
+        "name": "Trees",
+        "type": "myth:Entity"
+      },
+      "location": {
+        "@id": "18",
+        "name": "Earth",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "type": "myth:CreationEvent",
+        "agent": "14",
+        "patient": "21",
+        "location": "22"
+      },
+      "entity": {
+        "@id": "21",
+        "name": "Human Beings",
+        "type": "myth:Entity"
+      },
+      "location": {
+        "@id": "22",
+        "name": "Earth",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "23",
+      "event": {
+        "@id": "24",
+        "type": "myth:CreationEvent",
+        "agent": "25",
+        "patient": "26",
+        "location": "27"
+      },
+      "entity": {
+        "@id": "25",
+        "name": "Smith",
+        "type": "myth:Entity"
+      },
+      "entity": {
+        "@id": "26",
+        "name": "Rain",
+        "type": "myth:Entity"
+      },
+      "location": {
+        "@id": "27",
+        "name": "Earth",
+        "type": "myth:Location"
+      }
+    }
+  ]
+}
+
+/* Chunk 2 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Simboumba Tangnagati",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "2",
+      "entity": "Faro",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Kri Koro",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "4",
+      "entity": "lu daga blo",
+      "type": "myth:Structure"
+    },
+    {
+      "@id": "5",
+      "event": "Building of the first sanctuary",
+      "type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:location": "3"
+    },
+    {
+      "@id": "6",
+      "entity": "Pemba",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "7",
+      "entity": "Sirius",
+      "type": "myth:CelestialObject"
+    },
+    {
+      "@id": "8",
+      "entity": "Kanisimbo",
+      "type": "myth:Ancestor"
+    },
+    {
+      "@id": "9",
+      "entity": "Mousso Koroni Koundye",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "10",
+      "event": "Building of the second sanctuary",
+      "type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:location": "3"
+    },
+    {
+      "@id": "11",
+      "relation": "gave",
+      "subject": "2",
+      "object": "1",
+      "property": "words and seeds"
+    },
+    {
+      "@id": "12",
+      "relation": "left",
+      "subject": "1",
+      "object": "3",
+      "property": "to build sanctuary"
+    },
+    {
+      "@id": "13",
+      "relation": "symbolizes",
+      "subject": "7",
+      "object": "2",
+      "property": "placenta"
+    },
+    {
+      "@id": "14",
+      "relation": "sowed",
+      "subject": "8",
+      "object": "seeds",
+      "property": "in earth"
+    },
+    {
+      "@id": "15",
+      "relation": "fled",
+      "subject": "9",
+      "object": "Bounan",
+      "property": "with seeds"
+    },
+    {
+      "@id": "16",
+      "relation": "made return",
+      "subject": "2",
+      "object": "9",
+      "property": "to Kri"
+    },
+    {
+      "@id": "17",
+      "relation": "built",
+      "subject": "1",
+      "object": "second sanctuary",
+      "property": "near Faro's first seat"
+    }
+  ]
+}
+
+/* Chunk 3 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Faro",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "2",
+      "entity": "Mousso Koroni",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Simboumba Tangnagati",
+      "type": "myth:Ancestor"
+    },
+    {
+      "@id": "4",
+      "entity": "Kaba",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "5",
+      "entity": "River Niger",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "6",
+      "entity": "Lake Debo",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "7",
+      "entity": "Bani",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "8",
+      "entity": "Sama",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "9",
+      "entity": "Koulikoro",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "10",
+      "event": "Faro's Journey",
+      "type": "myth:JourneyEvent",
+      "myth:agent": "1",
+      "myth:location": ["4", "5"]
+    },
+    {
+      "@id": "11",
+      "event": "Creation of the first village",
+      "type": "myth:CreationEvent",
+      "myth:agent": "3",
+      "myth:location": "4"
+    },
+    {
+      "@id": "12",
+      "event": "Faro flooding the fields",
+      "type": "myth:FloodingEvent",
+      "myth:agent": "1",
+      "myth:location": "5"
+    },
+    {
+      "@id": "13",
+      "event": "Faro's transformation",
+      "type": "myth:TransformationEvent",
+      "myth:agent": "1"
+    },
+    {
+      "@id": "14",
+      "relation": "Faro is associated with River Niger",
+      "type": "myth:Association",
+      "myth:subject": "1",
+      "myth:object": "5"
+    },
+    {
+      "@id": "15",
+      "relation": "Faro is associated with Lake Debo",
+      "type": "myth:Association",
+      "myth:subject": "1",
+      "myth:object": "6"
+    },
+    {
+      "@id": "16",
+      "relation": "Faro is associated with Bani",
+      "type": "myth:Association",
+      "myth:subject": "1",
+      "myth:object": "7"
+    },
+    {
+      "@id": "17",
+      "relation": "Faro is associated with Sama",
+      "type": "myth:Association",
+      "myth:subject": "1",
+      "myth:object": "8"
+    },
+    {
+      "@id": "18",
+      "relation": "Faro is associated with Koulikoro",
+      "type": "myth:Association",
+      "myth:subject": "1",
+      "myth:object": "9"
+    }
+  ]
+}
+
+/* Chunk 4 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Faro",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "3",
+        "type": "myth:CreationEvent",
+        "location": "River Dyaka",
+        "agent": "2"
+      }
+    },
+    {
+      "@id": "4",
+      "entity": {
+        "@id": "5",
+        "name": "Sangare",
+        "type": "myth:Entity"
+      },
+      "relation": {
+        "type": "myth:associatedWith",
+        "subject": "2",
+        "object": "5"
+      }
+    },
+    {
+      "@id": "6",
+      "entity": {
+        "@id": "7",
+        "name": "Pemba",
+        "type": "myth:Entity"
+      },
+      "event": {
+        "@id": "8",
+        "type": "myth:ConflictEvent",
+        "location": "Bounan",
+        "agent": "2",
+        "patient": "7"
+      }
+    },
+    {
+      "@id": "9",
+      "entity": {
+        "@id": "10",
+        "name": "Lake Debo",
+        "type": "myth:Location"
+      },
+      "event": {
+        "@id": "11",
+        "type": "myth:CreationEvent",
+        "location": "Akka",
+        "agent": "2"
+      }
+    },
+    {
+      "@id": "12",
+      "entity": {
+        "@id": "13",
+        "name": "Bozo",
+        "type": "myth:People"
+      },
+      "relation": {
+        "type": "myth:descendantOf",
+        "subject": "13",
+        "object": "2"
+      }
+    },
+    {
+      "@id": "14",
+      "entity": {
+        "@id": "15",
+        "name": "Simboumba Tangnagati",
+        "type": "myth:Entity"
+      },
+      "event": {
+        "@id": "16",
+        "type": "myth:RevelationEvent",
+        "agent": "15",
+        "location": "River"
+      }
+    },
+    {
+      "@id": "17",
+      "entity": {
+        "@id": "18",
+        "name": "Mousso Koroni Koundye",
+        "type": "myth:Entity"
+      },
+      "event": {
+        "@id": "19",
+        "type": "myth:TravelEvent",
+        "agent": "18",
+        "location": "River"
+      }
+    },
+    {
+      "@id": "20",
+      "entity": {
+        "@id": "21",
+        "name": "Ségou Koro",
+        "type": "myth:Location"
+      },
+      "event": {
+        "@id": "22",
+        "type": "myth:TravelEvent",
+        "agent": "18",
+        "location": "21"
+      }
+    },
+    {
+      "@id": "23",
+      "entity": {
+        "@id": "24",
+        "name": "Akka",
+        "type": "myth:Location"
+      },
+      "event": {
+        "@id": "25",
+        "type": "myth:TravelEvent",
+        "agent": "13",
+        "location": "24"
+      }
+    },
+    {
+      "@id": "26",
+      "entity": {
+        "@id": "27",
+        "name": "Ka",
+        "type": "myth:Location"
+      },
+      "event": {
+        "@id": "28",
+        "type": "myth:TravelEvent",
+        "agent": "13",
+        "location": "27"
+      }
+    }
+  ]
+}
+
+/* Chunk 5 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Sourakata",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "2",
+      "entity": "Faro",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Nounou",
+      "type": "myth:Human",
+      "roles": [
+        "hunter",
+        "medicine man"
+      ]
+    },
+    {
+      "@id": "4",
+      "entity": "Mousso Koroni",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "5",
+      "entity": "mannogo ble",
+      "type": "myth:Animal"
+    },
+    {
+      "@id": "6",
+      "entity": "dage",
+      "type": "myth:Animal"
+    },
+    {
+      "@id": "7",
+      "event": "Sourakata's journey",
+      "type": "myth:JourneyEvent",
+      "agent": "1"
+    },
+    {
+      "@id": "8",
+      "event": "Nounou's journey",
+      "type": "myth:JourneyEvent",
+      "agent": "3"
+    },
+    {
+      "@id": "9",
+      "event": "Nounou's death",
+      "type": "myth:DeathEvent",
+      "agent": "3"
+    },
+    {
+      "@id": "10",
+      "event": "Nounou's transformation",
+      "type": "myth:TransformationEvent",
+      "agent": "3",
+      "result": "snake"
+    },
+    {
+      "@id": "11",
+      "event": "Mousso Koroni's journey",
+      "type": "myth:JourneyEvent",
+      "agent": "4"
+    },
+    {
+      "@id": "12",
+      "relation": "Faro sent dage",
+      "type": "myth:Sent",
+      "agent": "2",
+      "patient": "6"
+    },
+    {
+      "@id": "13",
+      "relation": "Nounou followed mannogo ble",
+      "type": "myth:Followed",
+      "agent": "3",
+      "patient": "5"
+    },
+    {
+      "@id": "14",
+      "relation": "Mousso Koroni joined Nounou",
+      "type": "myth:Joined",
+      "agent": "4",
+      "patient": "3"
+    },
+    {
+      "@id": "15",
+      "relation": "Nounou killed mannogo ble",
+      "type": "myth:Killed",
+      "agent": "3",
+      "patient": "5"
+    },
+    {
+      "@id": "16",
+      "relation": "dage carried Nounou's vital force",
+      "type": "myth:Carried",
+      "agent": "6",
+      "patient": "3"
+    },
+    {
+      "@id": "17",
+      "relation": "Nounou's descendants became Kouloubali",
+      "type": "myth:Became",
+      "agent": "3",
+      "result": "Kouloubali"
+    },
+    {
+      "@id": "18",
+      "relation": "Mousso Koroni left traces",
+      "type": "myth:Left",
+      "agent": "4"
+    },
+    {
+      "@id": "19",
+      "relation": "Ancestors became snakes",
+      "type": "myth:Became",
+      "agent": "ancestors",
+      "result": "snakes"
+    },
+    {
+      "@id": "20",
+      "relation": "Descendants of ancestors multiplied",
+      "type": "myth:Multiplied",
+      "agent": "descendants of ancestors"
+    }
+  ]
+}

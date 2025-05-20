@@ -1,0 +1,321 @@
+{
+  "@context": "http://example.org/context/myth-v1.jsonld",
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Ogotemmeli"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Person",
+      "name": "Amma",
+      "description": "the one God, creator of the universe in Dogon mythology"
+    },
+    {
+      "@id": "entity3",
+      "@type": "AstronomicalObject",
+      "name": "Sun"
+    },
+    {
+      "@id": "entity4",
+      "@type": "AstronomicalObject",
+      "name": "Moon"
+    },
+    {
+      "@id": "entity5",
+      "@type": "CelestialBody",
+      "name": "Stars",
+      "creator": "entity2"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Species",
+      "name": "Thos aureus",
+      "description": "symbol of the difficulties of God, a jackal in Dogon mythology"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Person",
+      "name": "Sergeant Koguem",
+      "description": "the African assistant"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Deity",
+      "name": "Nummo",
+      "description": "twin spirits half human and half serpent, of divine essence",
+      "color": "green"
+    },
+    {
+      "@id": "entity9",
+      "@type": "Person",
+      "name": "Akundyo",
+      "role": "priest of women dying in childbirth and of stillborn children"
+    },
+    {
+      "@id": "event1",
+      "@type": "Creation",
+      "creator": "entity2",
+      "result": [
+        "entity3",
+        "entity4"
+      ],
+      "method": "pottery"
+    },
+    {
+      "@id": "event2",
+      "@type": "Creation",
+      "creator": "entity2",
+      "result": [
+        "entity5"
+      ]
+    },
+    {
+      "@id": "event3",
+      "@type": "CosmologicalEvent",
+      "creator": "entity2",
+      "result": [
+        "entity6"
+      ],
+      "description": "union between Amma and the earth resulting in the birth of a jackal instead of twins"
+    },
+    {
+      "@id": "event4",
+      "@type": "Creation",
+      "creator": "entity2",
+      "result": [
+        "entity8"
+      ]
+    },
+    {
+      "@id": "relation1",
+      "@type": "ParentalRelation",
+      "parent": "entity2",
+      "child": "entity8"
+    },
+    {
+      "@id": "relation2",
+      "@type": "MythicalNarrative",
+      "subject": "entity8",
+      "action": "coming down to Earth",
+      "purpose": "to restore order and provide language"
+    },
+    {
+      "@id": "relation3",
+      "@type": "Residence",
+      "residenceOf": "entity8",
+      "location": "Heaven"
+    },
+    {
+      "@id": "relation4",
+      "@type": "Residence",
+      "residenceOf": "entity1",
+      "location": "Sanga Canton"
+    },
+    {
+      "@id": "entity18",
+      "@type": "Person",
+      "name": "Jackal",
+      "description": "First son of God, born alone and incestuous, embodied errors and imparted capability of speech through his act."
+    },
+    {
+      "@id": "entity19",
+      "@type": "Deity",
+      "name": "God",
+      "description": "Creator of the initial human pair using damp clay and pellets, subsequently rejects the earth due to defilement."
+    },
+    {
+      "@id": "entity20",
+      "@type": "Artifact",
+      "name": "Womb",
+      "material": "Clay",
+      "creator": "entity2",
+      "description": "Modelled by God to create life."
+    },
+    {
+      "@id": "entity21",
+      "@type": "Artifact",
+      "name": "Male organ",
+      "material": "Clay",
+      "creator": "entity2",
+      "description": "Crafted by God as part of human creation."
+    },
+    {
+      "@id": "entity22",
+      "@type": "Deity",
+      "name": "Nummo",
+      "description": "Twin spiritual beings, possibly of dual sex, responsible for guiding the development and regeneration of the world."
+    },
+    {
+      "@id": "entity23",
+      "@type": "Animal",
+      "name": "Nay",
+      "attributes": [
+        "neither serpent nor insect",
+        "resembles lizard, black and white",
+        "symbolizes the struggle and pain of circumcision"
+      ],
+      "description": "Form taken by the masculine element removed during male circumcision."
+    },
+    {
+      "@id": "entity24",
+      "@type": "Animal",
+      "name": "Scorpion",
+      "attributes": [
+        "symbolizes the pain of childbearing",
+        "emerges from excised part during childbirth"
+      ],
+      "description": "Represents the defunct human female element post childbirth."
+    },
+    {
+      "@id": "event18",
+      "@type": "CreationEvent",
+      "creator": "entity2",
+      "result": [
+        "entity3",
+        "entity4"
+      ],
+      "description": "God creates a womb and a male organ from clay as an act of life creation."
+    },
+    {
+      "@id": "event19",
+      "@type": "Birth",
+      "result": "entity1",
+      "description": "Jackal's birth, characterized by its solitary nature, leads to significant consequences including the ability of speech and other faults."
+    },
+    {
+      "@id": "event20",
+      "@type": "Birth",
+      "participants": "entity5",
+      "result": "Human pair",
+      "description": "Nummo's intervention leading to the formation of the first human pair from the earth."
+    },
+    {
+      "@id": "event21",
+      "@type": "RitualEvent",
+      "name": "Circumcision and Excision",
+      "result": [
+        "entity6",
+        "entity7"
+      ],
+      "description": "Circumcision of man and excision of woman, resulting in separation of dual elements and formation of nay and scorpion."
+    },
+    {
+      "@id": "event22",
+      "@type": "RegenerationEvent",
+      "description": "Nummo Pair regenerating the earth and leading redemption, replacing their position with God."
+    },
+    {
+      "@id": "relation18",
+      "@type": "ParentChildRelationship",
+      "parent": "entity2",
+      "child": "entity1",
+      "description": "God is the parent of the Jackal."
+    },
+    {
+      "@id": "relation19",
+      "@type": "CreatorCreationRelationship",
+      "creator": "entity5",
+      "creation": "Human pair",
+      "description": "Nummo Pair as creators or facilitators in the emergence of the first human pair from earth."
+    },
+    {
+      "@id": "entity32",
+      "@type": "Word",
+      "description": "The potent second Word developed the powers of its new possessor, leading to significant transformations and revelations."
+    },
+    {
+      "@id": "entity33",
+      "@type": "Individual",
+      "description": "A being who undergoes regeneration in the earth's womb, symbolized by an anthill."
+    },
+    {
+      "@id": "event32",
+      "@type": "Regeneration",
+      "relatedTo": "entity2",
+      "description": "The regeneration of the being within the womb of the earth, equating to the possession of the womb.",
+      "location": "entity8"
+    },
+    {
+      "@id": "entity34",
+      "@type": "AncestorSpirit",
+      "description": "The seventh ancestor who imparts knowledge and instructions through weaving."
+    },
+    {
+      "@id": "event33",
+      "@type": "InstructionSession",
+      "relatedTo": [
+        "entity3",
+        "entity4"
+      ],
+      "description": "The process where the seventh ancestor weaves words into fabric, imparting knowledge.",
+      "time": "Sunrise"
+    },
+    {
+      "@id": "entity35",
+      "@type": "Ant",
+      "description": "The ant receives instructions from the seventh ancestor and passes this knowledge to humans."
+    },
+    {
+      "@id": "entity36",
+      "@type": "Human",
+      "description": "Humans who adapted their dwellings and lifestyle based on the ancestral and natural influences."
+    },
+    {
+      "@id": "relation32",
+      "@type": "Relationship",
+      "relatedEntities": [
+        "entity4",
+        "entity5"
+      ],
+      "description": "The ant taught men the knowledge it learnt, impacting human development and culture."
+    },
+    {
+      "@id": "event34",
+      "@type": "AncestralDescent",
+      "relatedTo": "entity6",
+      "description": "The descent of the ancestors into an anthill, marking a phase of transformation for the human habitations."
+    },
+    {
+      "@id": "entity37",
+      "@type": "AncestralStructure",
+      "description": "Anthill-like structures built by humans inspired by their observations of their surroundings."
+    },
+    {
+      "@id": "entity38",
+      "@type": "Nummo",
+      "description": "Celestial beings involved in the transformation and organization of the ancestors."
+    },
+    {
+      "@id": "entity39",
+      "@type": "EarthWomb",
+      "description": "Symbolic location representing the womb of the earth, where transformative and regenerative processes occur."
+    },
+    {
+      "@id": "event35",
+      "@type": "CelestialOrder",
+      "relatedTo": "entity7",
+      "description": "The organizational changes imposed by the elder Nummo on the newly transformed ancestors in the celestial world."
+    },
+    {
+      "@id": "entity40",
+      "@type": "FirstAncestor",
+      "description": "A key ancestor responsible for challenging celestial orders and eventually deciding to depart from the celestial world."
+    },
+    {
+      "@id": "event36",
+      "@type": "DeparturePreparation",
+      "relatedTo": [
+        "entity9",
+        "entity10"
+      ],
+      "description": "Preparations made by the first ancestor for leaving the celestial world, including the creation of a significant structure."
+    },
+    {
+      "@id": "entity41",
+      "@type": "WorldSystemStructure",
+      "description": "A designed structure representing cosmic and natural elements, prepared by the first ancestor as part of the departure from the celestial world."
+    }
+  ]
+}

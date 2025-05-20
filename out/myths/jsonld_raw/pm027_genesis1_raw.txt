@@ -1,0 +1,161 @@
+{
+  "assertions": [
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity2", "entity3"]
+    },
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "God"
+    },
+    {
+      "@id": "entity2",
+      "@type": "CelestialBody",
+      "name": "Heavens"
+    },
+    {
+      "@id": "entity3",
+      "@type": "CelestialBody",
+      "name": "Earth"
+    },
+    {
+      "@id": "event2",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity4"]
+    },
+    {
+      "@id": "entity4",
+      "@type": "Light",
+      "attributes": ["Day", "Night"]
+    },
+    {
+      "@id": "event3",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity5"]
+    },
+    {
+      "@id": "entity5",
+      "@type": "Structure",
+      "name": "Firmament",
+      "attributes": ["Heaven"]
+    },
+    {
+      "@id": "event4",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity6", "entity7"]
+    },
+    {
+      "@id": "entity6",
+      "@type": "GeographicalFeature",
+      "name": "Land",
+      "attributes": ["Earth"]
+    },
+    {
+      "@id": "entity7",
+      "@type": "WaterBody",
+      "name": "Seas"
+    },
+    {
+      "@id": "event5",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity8"]
+    },
+    {
+      "@id": "entity8",
+      "@type": "Plant",
+      "attributes": ["Vegetation", "Plants yielding seeds", "Trees bearing fruit"]
+    },
+    {
+      "@id": "event6",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity9", "entity10", "entity11"]
+    },
+    {
+      "@id": "entity9",
+      "@type": "CelestialBody",
+      "name": "Sun",
+      "attributes": ["Greater light", "Day"]
+    },
+    {
+      "@id": "entity10",
+      "@type": "CelestialBody",
+      "name": "Moon",
+      "attributes": ["Lesser light", "Night"]
+    },
+    {
+      "@id": "entity11",
+      "@type": "CelestialBody",
+      "name": "Stars"
+    },
+    {
+      "@id": "event7",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity12", "entity13"]
+    },
+    {
+      "@id": "entity12",
+      "@type": "Animal",
+      "name": "Sea creatures",
+      "attributes": ["Swarms of living creatures"]
+    },
+    {
+      "@id": "entity13",
+      "@type": "Animal",
+      "name": "Birds"
+    },
+    {
+      "@id": "event8",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity14", "entity15", "entity16"]
+    },
+    {
+      "@id": "entity14",
+      "@type": "Animal",
+      "name": "Cattle"
+    },
+    {
+      "@id": "entity15",
+      "@type": "Animal",
+      "name": "Creeping things"
+    },
+    {
+      "@id": "entity16",
+      "@type": "Animal",
+      "name": "Beasts of the earth"
+    },
+    {
+      "@id": "event9",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity17"]
+    },
+    {
+      "@id": "entity17",
+      "@type": "Human",
+      "gender": ["Male", "Female"],
+      "attributes": ["Image of God"]
+    },
+    {
+      "@id": "event10",
+      "@type": "RestEvent",
+      "participant": "entity1",
+      "result": ["entity18"]
+    },
+    {
+      "@id": "entity18",
+      "@type": "Time",
+      "name": "Seventh day",
+      "attributes": ["Blessed", "Hallowed"]
+    }
+  ]
+}

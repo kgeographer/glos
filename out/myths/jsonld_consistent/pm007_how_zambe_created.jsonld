@@ -1,0 +1,156 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "Zambe, the son of Mebe'e"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Species",
+      "name": "Man",
+      "specifications": [
+        {
+          "color": "black"
+        },
+        {
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "@id": "entity3",
+      "@type": "Species",
+      "name": "Chimpanzee"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Species",
+      "name": "Gorilla"
+    },
+    {
+      "@id": "entity5",
+      "@type": "Species",
+      "name": "Elephant"
+    },
+    {
+      "@id": "event1",
+      "@type": "Creation",
+      "creator": {
+        "@id": "entity1"
+      },
+      "created": [
+        {
+          "@id": "entity2"
+        },
+        {
+          "@id": "entity3"
+        },
+        {
+          "@id": "entity4"
+        },
+        {
+          "@id": "entity5"
+        }
+      ]
+    },
+    {
+      "@id": "event2",
+      "@type": "Distribution",
+      "distributor": {
+        "@id": "entity1"
+      },
+      "distributedItems": [
+        "fire",
+        "cutlasses",
+        "hoes",
+        "axes",
+        "water"
+      ]
+    },
+    {
+      "@id": "event3",
+      "@type": "Conversation",
+      "speaker": {
+        "@id": "entity1"
+      },
+      "question": "All the things which I left in your possession, where are they?"
+    },
+    {
+      "@id": "event4",
+      "@type": "LostItem",
+      "looser": {
+        "@id": "entity3"
+      },
+      "itemLost": "mvut-fruit consumption supplies"
+    },
+    {
+      "@id": "event5",
+      "@type": "Transformation",
+      "transformer": {
+        "@id": "entity1"
+      },
+      "transformed": [
+        {
+          "@id": "entity3"
+        },
+        {
+          "@id": "entity4"
+        }
+      ],
+      "resultingFeatures": [
+        "body hair",
+        "large teeth",
+        "forest dwelling"
+      ]
+    },
+    {
+      "@id": "event6",
+      "@type": "Consequence",
+      "subject": {
+        "@id": "entity2",
+        "specifications": {
+          "color": "black"
+        }
+      },
+      "consequences": [
+        "knowledge deprivation",
+        "service to others",
+        "fire tending"
+      ]
+    },
+    {
+      "@id": "event7",
+      "@type": "Consequence",
+      "subject": {
+        "@id": "entity2",
+        "specifications": {
+          "color": "white"
+        }
+      },
+      "consequences": [
+        "eternal bookkeeping",
+        "understanding",
+        "fire avoidance"
+      ]
+    },
+    {
+      "@id": "event8",
+      "@type": "Exile",
+      "exiled": [
+        {
+          "@id": "entity3"
+        },
+        {
+          "@id": "entity4"
+        },
+        {
+          "@id": "entity5"
+        }
+      ],
+      "location": "forest",
+      "reason": "neglect of duty"
+    }
+  ],
+  "@context": "http://example.org/context/myth-v1.jsonld"
+}

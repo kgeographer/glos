@@ -1,0 +1,107 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "Mangala"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Place",
+      "name": "Bounan",
+      "description": "village near Lake Debo"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Deity",
+      "name": "Pemba"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Faro"
+    },
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": [
+        {
+          "@id": "entity5",
+          "@type": "Seed",
+          "name": "balaza (Acacia albida)"
+        },
+        {
+          "@id": "entity6",
+          "@type": "Seed",
+          "name": "eleusine seed varieties",
+          "varieties": ["fani berere", "fani ba"]
+        },
+        {
+          "@id": "entity7",
+          "@type": "Seed",
+          "name": "additional seeds",
+          "count": 6
+        }
+      ],
+      "location": "World",
+      "description": "Creation of seeds and cardinal directions."
+    },
+    {
+      "@id": "event2",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": [
+        {
+          "@id": "entity8",
+          "@type": "Deity",
+          "name": "Pemba"
+        },
+        {
+          "@id": "entity9",
+          "@type": "Deity",
+          "name": "Faro"
+        }
+      ],
+      "description": "Creation of twin deities."
+    },
+    {
+      "@id": "event3",
+      "@type": "TransgressionEvent",
+      "agent": "entity8",
+      "result": [
+        {
+          "@id": "entity10",
+          "@type": "Artifact",
+          "name": "earth",
+          "description": "Dry and barren placenta turned into the earth."
+        }
+      ],
+      "description": "Pemba emerges prematurely, brings a piece of placenta which becomes earth."
+    },
+    {
+      "@id": "event4",
+      "@type": "ResurrectionEvent",
+      "subject": "entity9",
+      "description": "Faro sacrificed in heaven and resurrected."
+    },
+    {
+      "@id": "event5",
+      "@type": "SanctificationEvent",
+      "location": "entity2",
+      "subjects": [
+        {
+          "@id": "entity11",
+          "@type": "Plant",
+          "species": "Eleusine"
+        },
+        {
+          "@id": "entity12",
+          "@type": "Plant",
+          "species": "Hibiscus"
+        }
+      ],
+      "description": "The first germination of fani berere in the blood of the placenta."
+    }
+  ]
+}

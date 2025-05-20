@@ -1,0 +1,116 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Ogotemmeli"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Person",
+      "name": "Amma",
+      "description": "the one God, creator of the universe in Dogon mythology"
+    },
+    {
+      "@id": "entity3",
+      "@type": "AstronomicalObject",
+      "name": "Sun"
+    },
+    {
+      "@id": "entity4",
+      "@type": "AstronomicalObject",
+      "name": "Moon"
+    },
+    {
+      "@id": "entity5",
+      "@type": "CelestialBody",
+      "name": "Stars",
+      "creator": "entity2"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Species",
+      "name": "Thos aureus",
+      "description": "symbol of the difficulties of God, a jackal in Dogon mythology"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Person",
+      "name": "Sergeant Koguem",
+      "description": "the African assistant"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Deity",
+      "name": "Nummo",
+      "description": "twin spirits half human and half serpent, of divine essence",
+      "color": "green"
+    },
+    {
+      "@id": "entity9",
+      "@type": "Person",
+      "name": "Akundyo",
+      "role": "priest of women dying in childbirth and of stillborn children"
+    },
+    {
+      "@id": "event1",
+      "@type": "Creation",
+      "creator": "entity2",
+      "result": [
+        "entity3",
+        "entity4"
+      ],
+      "method": "pottery"
+    },
+    {
+      "@id": "event2",
+      "@type": "Creation",
+      "creator": "entity2",
+      "result": [
+        "entity5"
+      ]
+    },
+    {
+      "@id": "event3",
+      "@type": "CosmologicalEvent",
+      "creator": "entity2",
+      "result": [
+        "entity6"
+      ],
+      "description": "union between Amma and the earth resulting in the birth of a jackal instead of twins"
+    },
+    {
+      "@id": "event4",
+      "@type": "Creation",
+      "creator": "entity2",
+      "result": [
+        "entity8"
+      ]
+    },
+    {
+      "@id": "relation1",
+      "@type": "ParentalRelation",
+      "parent": "entity2",
+      "child": "entity8"
+    },
+    {
+      "@id": "relation2",
+      "@type": "MythicalNarrative",
+      "subject": "entity8",
+      "action": "coming down to Earth",
+      "purpose": "to restore order and provide language"
+    },
+    {
+      "@id": "relation3",
+      "@type": "Residence",
+      "residenceOf": "entity8",
+      "location": "Heaven"
+    },
+    {
+      "@id": "relation4",
+      "@type": "Residence",
+      "residenceOf": "entity1",
+      "location": "Sanga Canton"
+    }
+  ]
+}

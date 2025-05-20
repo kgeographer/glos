@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "World",
+        "type": "myth:Creation"
+      },
+      "event": {
+        "@id": "3",
+        "type": "myth:CreationEvent",
+        "agent": {
+          "@id": "4",
+          "name": "Time",
+          "type": "myth:Deity"
+        }
+      }
+    },
+    {
+      "@id": "5",
+      "entity": {
+        "@id": "6",
+        "name": "Ohrmazd",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "7",
+        "type": "myth:CreationEvent",
+        "agent": {
+          "@id": "4"
+        },
+        "patient": {
+          "@id": "6"
+        }
+      }
+    },
+    {
+      "@id": "8",
+      "entity": {
+        "@id": "9",
+        "name": "Ahriman",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "10",
+        "type": "myth:ConflictEvent",
+        "agent": {
+          "@id": "6"
+        },
+        "patient": {
+          "@id": "9"
+        }
+      }
+    },
+    {
+      "@id": "11",
+      "entity": {
+        "@id": "12",
+        "name": "Time of the Long Dominion",
+        "type": "myth:Creation"
+      },
+      "event": {
+        "@id": "13",
+        "type": "myth:CreationEvent",
+        "agent": {
+          "@id": "6"
+        },
+        "patient": {
+          "@id": "12"
+        }
+      }
+    },
+    {
+      "@id": "14",
+      "entity": {
+        "@id": "15",
+        "name": "Material World",
+        "type": "myth:Creation"
+      },
+      "event": {
+        "@id": "16",
+        "type": "myth:CreationEvent",
+        "agent": {
+          "@id": "6"
+        },
+        "patient": {
+          "@id": "15"
+        }
+      }
+    },
+    {
+      "@id": "17",
+      "entity": {
+        "@id": "18",
+        "name": "Gayomart",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "19",
+        "type": "myth:DeathEvent",
+        "agent": {
+          "@id": "9"
+        },
+        "patient": {
+          "@id": "18"
+        }
+      }
+    },
+    {
+      "@id": "20",
+      "entity": {
+        "@id": "21",
+        "name": "Ahriman",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "22",
+        "type": "myth:ImprisonmentEvent",
+        "agent": {
+          "@id": "23",
+          "name": "Ardibihist",
+          "type": "myth:Deity"
+        },
+        "patient": {
+          "@id": "21"
+        }
+      }
+    },
+    {
+      "@id": "24",
+      "entity": {
+        "@id": "25",
+        "name": "Varhram",
+        "type": "myth:Deity"
+      },
+      "relation": {
+        "@id": "26",
+        "type": "myth:GuardianOf",
+        "subject": {
+          "@id": "25"
+        },
+        "object": {
+          "@id": "21"
+        }
+      }
+    }
+  ]
+}

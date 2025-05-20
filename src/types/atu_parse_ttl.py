@@ -13,7 +13,7 @@ rdf = rdflib.RDF
 rdfs = rdflib.RDFS
 
 # Output file path
-output_file = 'out/motifs/atu_types.tsv'
+output_file = 'out/motifs/atu_types_sections.tsv'
 
 
 # Function to extract text between double quotes

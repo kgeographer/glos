@@ -1,0 +1,71 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Bumba",
+      "description": "A creator deity who vomited the sun, moon, stars, and various creatures to create the world."
+    },
+    {
+      "@id": "event1",
+      "@type": "Event",
+      "description": "Bumba vomits the sun, spreading light over everything and drying up the waters to reveal the world."
+    },
+    {
+      "@id": "event2",
+      "@type": "Event",
+      "description": "Bumba vomits the moon and stars, providing light during the night."
+    },
+    {
+      "@id": "event3",
+      "@type": "Event",
+      "description": "Bumba vomits various creatures including the leopard Koy Bumba, the crested eagle Pongo Bumba, and others, as well as mankind."
+    },
+    {
+      "@id": "entity2",
+      "@type": "Person",
+      "name": "Loko Yima",
+      "description": "The only man created white like Bumba."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Species",
+      "name": "Nyonye Ngana",
+      "description": "First son of Bumba, creator of the white ants."
+    },
+    {
+      "@id": "event4",
+      "@type": "Event",
+      "description": "Nyonye Ngana creates white ants, but dies from the effort."
+    },
+    {
+      "@id": "entity4",
+      "@type": "Species",
+      "name": "Chonganda",
+      "description": "Second son of Bumba, creator of a marvelous living plant from which all plants sprung."
+    },
+    {
+      "@id": "entity5",
+      "@type": "Species",
+      "name": "Chedi Bumba",
+      "description": "Third son of Bumba, who only managed to create the kite."
+    },
+    {
+      "@id": "entity6",
+      "@type": "Species",
+      "name": "Tsetse",
+      "description": "A creature known as lightning, a troublemaker chased into the sky by Bumba."
+    },
+    {
+      "@id": "event5",
+      "@type": "Event",
+      "description": "Tsetse stirs up trouble, leading Bumba to chase her into the sky. Later, Bumba teaches mankind to draw fire out of trees."
+    },
+    {
+      "@id": "event6",
+      "@type": "Event",
+      "description": "The creation of the world is completed, and Bumba declares that all wonders belong to humanity."
+    }
+  ],
+  "@context": "http://example.org/context/myth-v1.jsonld"
+}

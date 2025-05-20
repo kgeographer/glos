@@ -1,0 +1,137 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "God"
+    },
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": ["entity2", "entity10", "entity13", "entity19", "entity20", "entity54"]
+    },
+    {
+      "@id": "entity2",
+      "@type": "CosmicStructure",
+      "name": "Universe",
+      "components": ["entity3", "entity4", "entity5", "entity17"]
+    },
+    {
+      "@id": "entity3",
+      "@type": "CosmicStructure",
+      "name": "Heavens",
+      "description": "Seven heavens each ruled by a different planet.",
+      "components": ["entity4", "entity6", "entity7", "entity8", "entity9", "entity12", "entity13"]
+    },
+    {
+      "@id": "entity4",
+      "@type": "Heaven",
+      "name": "Seventh Heaven",
+      "rulers": ["entity5"],
+      "description": "Lowest level of Paradise."
+    },
+    {
+      "@id": "entity5",
+      "@type": "CelestialBody",
+      "name": "Sun"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Heaven",
+      "guardians": ["entity11"]
+    },
+    {
+      "@id": "entity7",
+      "@type": "CosmicEntity",
+      "name": "Mercury",
+      "description": "Planet ruling the second heaven."
+    },
+    {
+      "@id": "entity8",
+      "@type": "CosmicEntity",
+      "name": "Venus",
+      "description": "Planet ruling the third heaven."
+    },
+    {
+      "@id": "entity9",
+      "@type": "CosmicEntity",
+      "name": "Mars",
+      "description": "Planet ruling the fourth heaven."
+    },
+    {
+      "@id": "entity10",
+      "@type": "CosmicEntity",
+      "name": "Hells",
+      "description": "Seven deep layers, each for different sinners."
+    },
+    {
+      "@id": "entity11",
+      "@type": "Prophet",
+      "name": ["Adam", "Isa", "Yahya", "Yusufu", "Idirisi", "Haruni", "Musa", "Abraham"],
+      "responsibility": "Guardians of the heavens"
+    },
+    {
+      "@id": "entity12",
+      "@type": "CosmicEntity",
+      "name": "Jupiter",
+      "description": "Planet ruling the fifth heaven."
+    },
+    {
+      "@id": "entity13",
+      "@type": "CosmicEntity",
+      "name": "Saturn",
+      "description": "Planet ruling the sixth heaven."
+    },
+    {
+      "@id": "entity17",
+      "@type": "CosmicStructure",
+      "name": "Earth",
+      "components": ["entity18", "entity19"]
+    },
+    {
+      "@id": "entity18",
+      "@type": "GeographicalFeature",
+      "name": "Continents",
+      "description": "High walls separate land from sea."
+    },
+    {
+      "@id": "entity19",
+      "@type": "BodyOfWater",
+      "name": "Ocean",
+      "description": "Immeasurable ocean."
+    },
+    {
+      "@id": "entity20",
+      "@type": "CollectionOfEntities",
+      "name": "Various Life Forms",
+      "members": ["entity21", "entity22", "entity23", "entity48"],
+      "description": "Teeming life on Earth covering various species."
+    },
+    {
+      "@id": "entity21",
+      "@type": "Animal",
+      "species": ["Fish", "Lizards", "Buffalo", "Elephant", "Antelope", "Birds", "Insects"]
+    },
+    {
+      "@id": "entity22",
+      "@type": "Plant",
+      "species": ["Grass", "Trees", "Fruit-bearing Vegetation"]
+    },
+    {
+      "@id": "entity23",
+      "@type": "CelestialBody",
+      "name": "Moon"
+    },
+    {
+      "@id": "entity48",
+      "@type": "Animal",
+      "species": ["Cows", "Camels", "Giraffe", "Hippopotamus"]
+    },
+    {
+      "@id": "entity54",
+      "@type": "Animal",
+      "species": ["Butterflies", "Beetles", "Vultures", "Chickens", "Eagles"]
+    }
+  ]
+}

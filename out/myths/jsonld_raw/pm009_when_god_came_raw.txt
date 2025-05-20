@@ -1,0 +1,83 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "God",
+      "description": "Deity responsible for creating the current order on Earth."
+    },
+    {
+      "@id": "entity2",
+      "@type": "MythicalCreature",
+      "name": "Thunder",
+      "description": "A being capable of speech and emotion, retreats to the heavens."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Animal",
+      "name": "Elephant",
+      "description": "A talking elephant that interacts with Thunder and a human."
+    },
+    {
+      "@id": "entity4",
+      "@type": "Human",
+      "name": "Dorobo",
+      "description": "One of the three original beings on Earth, along with Thunder and the Elephant."
+    },
+    {
+      "@id": "entity5",
+      "@type": "Human",
+      "descriptor": "Man",
+      "description": "A human being who is capable of causing death to the Elephant and is feared by the Thunder."
+    },
+    {
+      "@id": "event1",
+      "@type": "Conversation",
+      "participants": ["entity2", "entity3", "entity5"],
+      "description": "Thunder and Elephant discuss the agility of Man in sleeping."
+    },
+    {
+      "@id": "event2",
+      "@type": "Migration",
+      "agent": "entity2",
+      "destination": "heavens",
+      "cause": "fear of entity5",
+      "description": "Thunder decides to flee to the heavens due to fear of Man."
+    },
+    {
+      "@id": "event3",
+      "@type": "ConflictResolution",
+      "agent": "entity5",
+      "target": "entity3",
+      "method": "use of weapon",
+      "description": "Man shoots the Elephant with a poisoned arrow."
+    },
+    {
+      "@id": "event4",
+      "@type": "Death",
+      "victim": "entity3",
+      "cause": ["event3"],
+      "description": "Elephant dies due to being shot by Man."
+    },
+    {
+      "@id": "event5",
+      "@type": "Plea",
+      "agent": "entity3",
+      "recipient": "entity2",
+      "description": "Elephant begs Thunder to take him to the heavens as he is dying."
+    },
+    {
+      "@id": "relation1",
+      "@type": "Refusal",
+      "subject": "entity2",
+      "object": "entity3",
+      "description": "Thunder refuses to help Elephant by taking him to the heavens."
+    },
+    {
+      "@id": "event6",
+      "@type": "Ascension",
+      "agent": "entity5",
+      "description": "Following the events, Man gains prominence and becomes great across many countries."
+    }
+  ]
+}

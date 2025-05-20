@@ -1,0 +1,314 @@
+{
+  "@context": "http://example.org/context/myth-v1.jsonld",
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "Mangala"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Place",
+      "name": "Bounan",
+      "description": "village near Lake Debo"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Deity",
+      "name": "Pemba"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Faro"
+    },
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": [
+        {
+          "@id": "entity5",
+          "@type": "Seed",
+          "name": "balaza (Acacia albida)"
+        },
+        {
+          "@id": "entity6",
+          "@type": "Seed",
+          "name": "eleusine seed varieties",
+          "varieties": [
+            "fani berere",
+            "fani ba"
+          ]
+        },
+        {
+          "@id": "entity7",
+          "@type": "Seed",
+          "name": "additional seeds",
+          "count": 6
+        }
+      ],
+      "location": "World",
+      "description": "Creation of seeds and cardinal directions."
+    },
+    {
+      "@id": "event2",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": [
+        {
+          "@id": "entity8",
+          "@type": "Deity",
+          "name": "Pemba"
+        },
+        {
+          "@id": "entity9",
+          "@type": "Deity",
+          "name": "Faro"
+        }
+      ],
+      "description": "Creation of twin deities."
+    },
+    {
+      "@id": "event3",
+      "@type": "TransgressionEvent",
+      "agent": "entity8",
+      "result": [
+        {
+          "@id": "entity10",
+          "@type": "Artifact",
+          "name": "earth",
+          "description": "Dry and barren placenta turned into the earth."
+        }
+      ],
+      "description": "Pemba emerges prematurely, brings a piece of placenta which becomes earth."
+    },
+    {
+      "@id": "event4",
+      "@type": "ResurrectionEvent",
+      "subject": "entity9",
+      "description": "Faro sacrificed in heaven and resurrected."
+    },
+    {
+      "@id": "event5",
+      "@type": "SanctificationEvent",
+      "location": "entity2",
+      "subjects": [
+        {
+          "@id": "entity11",
+          "@type": "Plant",
+          "species": "Eleusine"
+        },
+        {
+          "@id": "entity12",
+          "@type": "Plant",
+          "species": "Hibiscus"
+        }
+      ],
+      "description": "The first germination of fani berere in the blood of the placenta."
+    },
+    {
+      "@id": "entity10",
+      "@type": "MythicalCharacter",
+      "name": "Faro",
+      "description": "A mythical being associated with the River Niger, described as forming the river with his body; head is Lake Debo, right arm is the Bani, body is the Niger. Faro is androgynous, changing sex along different banks of the river.",
+      "isAndrogynous": true
+    },
+    {
+      "@id": "entity11",
+      "@type": "MythicalCharacter",
+      "name": "Mousso Koroni",
+      "description": "A mythical character who sowed eleusine seeds, which were then submerged and affected by Faro through flooding."
+    },
+    {
+      "@id": "entity12",
+      "@type": "GeographicFeature",
+      "name": "River Niger",
+      "description": "Formed by a series of floods caused by Faro, represents Faro's body in mythology."
+    },
+    {
+      "@id": "entity13",
+      "@type": "MythicalObject",
+      "name": "mannogo ble",
+      "description": "A fish sent by Faro to eat the seeds stolen by Mousso Koroni."
+    },
+    {
+      "@id": "entity14",
+      "@type": "Event",
+      "description": "Faro causes a series of floods to recover stolen seeds and shape the River Niger."
+    },
+    {
+      "@id": "entity15",
+      "@type": "Place",
+      "name": "Kaba to Akka",
+      "description": "A stretch along the River Niger with twenty-two faro tyn representing parts of Faro's body and his descendants."
+    },
+    {
+      "@id": "entity16",
+      "@type": "MythicalObject",
+      "name": "faro tyn",
+      "description": "Markers along the River Niger symbolizing Faro's presence and actions in various locales, as well as his propagation activities."
+    },
+    {
+      "@id": "entity17",
+      "@type": "MythicalCharacter",
+      "name": "Pemba",
+      "description": "A character whose field was flooded by Faro to recover seeds."
+    },
+    {
+      "@id": "entity18",
+      "@type": "GeographicFeature",
+      "name": "Lake Debo",
+      "description": "Considered as the head of Faro in the mythology surrounding the River Niger."
+    },
+    {
+      "@id": "entity19",
+      "@type": "MythicalCharacter",
+      "name": "Bozo",
+      "description": "Descendants of the first men who followed Faro along the river, they were the first to grow and harvest seeds sown by Faro."
+    },
+    {
+      "@id": "entity20",
+      "@type": "CulturalObject",
+      "name": "second word",
+      "description": "A mystical concept or power revealed by Faro, associated with human propagation and fertility, revealed at the area symbolizing Faro's genitals on the River Niger."
+    },
+    {
+      "@id": "entity21",
+      "@type": "Event",
+      "description": "Revelation of the Second Word by Faro, linked to human fertility and the propagation of mankind."
+    },
+    {
+      "@id": "entity22",
+      "@type": "Person",
+      "name": "Nounou"
+    },
+    {
+      "@id": "entity23",
+      "@type": "Location",
+      "name": "Segou Sorokimo"
+    },
+    {
+      "@id": "entity24",
+      "@type": "Animal",
+      "species": "Antelope",
+      "name": "dage"
+    },
+    {
+      "@id": "entity25",
+      "@type": "Deity",
+      "name": "Faro"
+    },
+    {
+      "@id": "entity26",
+      "@type": "Person",
+      "name": "Mousso Koroni"
+    },
+    {
+      "@id": "event22",
+      "@type": "Death",
+      "actor": "entity1",
+      "location": "entity2",
+      "description": "Nounou was buried in his house after committing sacrilege."
+    },
+    {
+      "@id": "event23",
+      "@type": "Transformation",
+      "actor": "entity1",
+      "result": "entity6",
+      "description": "Nounou changed himself into a snake."
+    },
+    {
+      "@id": "entity27",
+      "@type": "Animal",
+      "species": "Snake",
+      "name": "Nounou as snake"
+    },
+    {
+      "@id": "entity28",
+      "@type": "Location",
+      "name": "Ka cave"
+    },
+    {
+      "@id": "entity29",
+      "@type": "Location",
+      "name": "Kouroula hills"
+    },
+    {
+      "@id": "entity30",
+      "@type": "Location",
+      "name": "Mande"
+    },
+    {
+      "@id": "relation22",
+      "@type": "Responsibility",
+      "subject": "entity24",
+      "object": "entity22",
+      "description": "The antelope dage was sent by Faro to watch the shrines."
+    },
+    {
+      "@id": "event24",
+      "@type": "Journey",
+      "actor": "entity3",
+      "from": "Segou Koro",
+      "to": "entity9",
+      "description": "Dage carrying Nounou's vital force in its horns traveled to Mande."
+    },
+    {
+      "@id": "entity31",
+      "@type": "Location",
+      "name": "Segou Koro"
+    },
+    {
+      "@id": "event25",
+      "@type": "Disappearance",
+      "actor": "entity5",
+      "description": "Mousso Koroni wandered, starved and eventually disappeared."
+    },
+    {
+      "@id": "event26",
+      "@type": "Transformation",
+      "actor": "entity11",
+      "result": "entity12",
+      "description": "Three ancestors disappeared under a shrine and became snakes."
+    },
+    {
+      "@id": "entity32",
+      "@type": "Group",
+      "members": [
+        "Ancestor1",
+        "Ancestor2",
+        "Ancestor3"
+      ],
+      "location": "entity9"
+    },
+    {
+      "@id": "entity33",
+      "@type": "Animal",
+      "species": "Snake",
+      "name": "Ancestor snakes"
+    },
+    {
+      "@id": "entity34",
+      "@type": "Group",
+      "members": [
+        "Descendant1",
+        "Descendant2",
+        "...",
+        "Descendant44"
+      ],
+      "description": "Fifth generation of mythical ancestors."
+    },
+    {
+      "@id": "entity35",
+      "@type": "SocialStructure",
+      "name": "Faro tyn",
+      "description": "Twenty-two males symbolically representing the twenty-two faro tyn."
+    },
+    {
+      "@id": "entity36",
+      "@type": "Location",
+      "name": "Kri"
+    }
+  ]
+}

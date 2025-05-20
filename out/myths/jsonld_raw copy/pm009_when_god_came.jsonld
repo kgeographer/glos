@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Nandi",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "2",
+      "entity": "God",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Thunder",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "4",
+      "entity": "Elephant",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "5",
+      "entity": "Dorobo",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "6",
+      "event": "God's arrival on Earth",
+      "type": "myth:ArrivalEvent",
+      "agent": "2",
+      "location": "Earth"
+    },
+    {
+      "@id": "7",
+      "event": "Thunder's fear and departure",
+      "type": "myth:DepartureEvent",
+      "agent": "3",
+      "location": "Heavens"
+    },
+    {
+      "@id": "8",
+      "event": "Man's hunting of the Elephant",
+      "type": "myth:HuntingEvent",
+      "agent": "5",
+      "patient": "4"
+    },
+    {
+      "@id": "9",
+      "event": "Elephant's death",
+      "type": "myth:DeathEvent",
+      "agent": "4"
+    },
+    {
+      "@id": "10",
+      "event": "Man's rise to greatness",
+      "type": "myth:AscensionEvent",
+      "agent": "5"
+    },
+    {
+      "@id": "11",
+      "relation": "livesWith",
+      "subject": "3",
+      "object": "4"
+    },
+    {
+      "@id": "12",
+      "relation": "livesWith",
+      "subject": "3",
+      "object": "5"
+    },
+    {
+      "@id": "13",
+      "relation": "livesWith",
+      "subject": "4",
+      "object": "5"
+    },
+    {
+      "@id": "14",
+      "relation": "fears",
+      "subject": "3",
+      "object": "5"
+    },
+    {
+      "@id": "15",
+      "relation": "kills",
+      "subject": "5",
+      "object": "4"
+    }
+  ]
+}

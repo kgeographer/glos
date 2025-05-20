@@ -1,0 +1,61 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "Wulbari",
+      "description": "A divinity who initially lived close to humans but separated from them due to disturbances and discomfort caused by human activities."
+    },
+    {
+      "@id": "entity2",
+      "@type": "Deity",
+      "name": "We",
+      "description": "The Wulbari of the Kassena people, another form of Wulbari, who also moved away from humans because an old woman was cutting pieces off of him to enhance her soup."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Person",
+      "role": "Old woman",
+      "description": "A figure repeatedly causing discomfort to Wulbari through various actions like knocking him with a pestle and cutting pieces off of him."
+    },
+    {
+      "@id": "entity4",
+      "@type": "Place",
+      "name": "Mother Earth",
+      "alternateName": "Asase Ya",
+      "description": "The earth, personified as a mother, where all beings lived initially."
+    },
+    {
+      "@id": "event1",
+      "@type": "Event",
+      "name": "Separation of God from Man",
+      "description": "An event where Wulbari, initially in close proximity to humans, moves upwards to avoid disturbances caused by human activities."
+    },
+    {
+      "@id": "event2",
+      "@type": "Event",
+      "description": "Old woman making fufu hits Wulbari with her pestle, contributing to his decision to separate from humans."
+    },
+    {
+      "@id": "event3",
+      "@type": "Event",
+      "description": "Old woman cuts pieces off We to make her soup better, leading to We moving away from humans."
+    },
+    {
+      "@id": "relation1",
+      "@type": "Relation",
+      "subject": "entity1",
+      "predicate": "moved due to",
+      "object": "entity3",
+      "description": "Wulbari moved upward to avoid disturbances by an old woman."
+    },
+    {
+      "@id": "relation2",
+      "@type": "Relation",
+      "subject": "entity2",
+      "predicate": "moved due to",
+      "object": "entity3",
+      "description": "We moved upward to avoid the old woman's harmful actions."
+    }
+  ]
+}

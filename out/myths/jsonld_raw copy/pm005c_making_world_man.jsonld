@@ -1,0 +1,58 @@
+{
+  "@context": "http://schema.org/",
+  "@graph": [
+    {
+      "@id": "1",
+      "@type": "myth:Deity",
+      "name": "God"
+    },
+    {
+      "@id": "2",
+      "@type": "myth:Deity",
+      "name": "Angels",
+      "myth:createdBy": "1"
+    },
+    {
+      "@id": "3",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "2",
+      "myth:time": "morning-time"
+    },
+    {
+      "@id": "4",
+      "@type": "myth:Deity",
+      "name": "Adam",
+      "myth:createdBy": "1",
+      "myth:substance": "clay"
+    },
+    {
+      "@id": "5",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "4",
+      "myth:method": "moulding",
+      "myth:material": "earth"
+    },
+    {
+      "@id": "6",
+      "@type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:result": "Life",
+      "myth:recipient": "4"
+    },
+    {
+      "@id": "7",
+      "@type": "myth:WorshipEvent",
+      "myth:agent": "2",
+      "myth:patient": "4"
+    },
+    {
+      "@id": "8",
+      "@type": "myth:RebellionEvent",
+      "myth:agent": "One Angel",
+      "myth:against": "1",
+      "myth:refusal": "worship Adam"
+    }
+  ]
+}

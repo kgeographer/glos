@@ -1,0 +1,1039 @@
+
+
+/* Chunk 1 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Ogotemmeli",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "3",
+      "entity": {
+        "@id": "4",
+        "name": "Amma",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "5",
+      "entity": {
+        "@id": "6",
+        "name": "Thos aureus",
+        "type": "myth:Creature"
+      }
+    },
+    {
+      "@id": "7",
+      "entity": {
+        "@id": "8",
+        "name": "Nummo",
+        "type": "myth:Spirit"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "@id": "10",
+        "type": "myth:CreationEvent",
+        "myth:agent": "4",
+        "myth:patient": "6",
+        "myth:resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "11",
+      "event": {
+        "@id": "12",
+        "type": "myth:CreationEvent",
+        "myth:agent": "4",
+        "myth:patient": "8",
+        "myth:resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "13",
+      "event": {
+        "@id": "14",
+        "type": "myth:CreationEvent",
+        "myth:agent": "4",
+        "myth:patient": "myth:Sun",
+        "myth:resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "15",
+      "event": {
+        "@id": "16",
+        "type": "myth:CreationEvent",
+        "myth:agent": "4",
+        "myth:patient": "myth:Moon",
+        "myth:resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "17",
+      "event": {
+        "@id": "18",
+        "type": "myth:CreationEvent",
+        "myth:agent": "4",
+        "myth:patient": "myth:Stars",
+        "myth:resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "type": "myth:CreationEvent",
+        "myth:agent": "4",
+        "myth:patient": "myth:Earth",
+        "myth:resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "21",
+      "relation": {
+        "@id": "22",
+        "myth:subject": "4",
+        "myth:object": "6",
+        "type": "myth:parentOf"
+      }
+    },
+    {
+      "@id": "23",
+      "relation": {
+        "@id": "24",
+        "myth:subject": "4",
+        "myth:object": "8",
+        "type": "myth:parentOf"
+      }
+    }
+  ]
+}
+
+/* Chunk 2 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "God",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "3",
+      "entity": {
+        "@id": "4",
+        "name": "Nummo",
+        "type": "myth:Deity"
+      },
+      "relation": {
+        "@id": "5",
+        "type": "myth:created",
+        "myth:agent": "2",
+        "myth:patient": "4"
+      }
+    },
+    {
+      "@id": "6",
+      "entity": {
+        "@id": "7",
+        "name": "Earth",
+        "type": "myth:Location"
+      },
+      "relation": {
+        "@id": "8",
+        "type": "myth:created",
+        "myth:agent": "2",
+        "myth:patient": "7"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "@id": "10",
+        "type": "myth:CreationEvent",
+        "myth:agent": "4",
+        "myth:patient": "7",
+        "myth:location": "7"
+      }
+    },
+    {
+      "@id": "11",
+      "entity": {
+        "@id": "12",
+        "name": "Ogotemmeli",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "Koguem",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "15",
+      "entity": {
+        "@id": "16",
+        "name": "Hogon's cock",
+        "type": "myth:Animal"
+      },
+      "relation": {
+        "@id": "17",
+        "type": "myth:ownedBy",
+        "myth:agent": "16",
+        "myth:patient": "12"
+      }
+    },
+    {
+      "@id": "18",
+      "event": {
+        "@id": "19",
+        "type": "myth:ActionEvent",
+        "myth:agent": "14",
+        "myth:patient": "16",
+        "myth:location": "7"
+      }
+    },
+    {
+      "@id": "20",
+      "entity": {
+        "@id": "21",
+        "name": "Akundyo",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "22",
+      "event": {
+        "@id": "23",
+        "type": "myth:CommunicationEvent",
+        "myth:agent": "21",
+        "myth:patient": "12",
+        "myth:location": "7"
+      }
+    }
+  ]
+}
+
+/* Chunk 3 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Jackal",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "3",
+        "type": "myth:DesireEvent",
+        "myth:agent": "2",
+        "myth:patient": "4"
+      }
+    },
+    {
+      "@id": "4",
+      "entity": {
+        "@id": "5",
+        "name": "Earth",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "6",
+        "type": "myth:ResistanceEvent",
+        "myth:agent": "5",
+        "myth:patient": "2"
+      }
+    },
+    {
+      "@id": "7",
+      "entity": {
+        "@id": "8",
+        "name": "God",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "9",
+        "type": "myth:CreationEvent",
+        "myth:agent": "8",
+        "myth:patient": "10"
+      }
+    },
+    {
+      "@id": "10",
+      "entity": {
+        "@id": "11",
+        "name": "Human Pair",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "12",
+        "type": "myth:CreationEvent",
+        "myth:agent": "8",
+        "myth:patient": "11"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "Nummo Pair",
+        "type": "myth:Deity"
+      },
+      "event": {
+        "@id": "15",
+        "type": "myth:ActionEvent",
+        "myth:agent": "14",
+        "myth:patient": "11"
+      }
+    },
+    {
+      "@id": "16",
+      "entity": {
+        "@id": "17",
+        "name": "Man",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "18",
+        "type": "myth:CircumcisionEvent",
+        "myth:agent": "14",
+        "myth:patient": "17"
+      }
+    },
+    {
+      "@id": "19",
+      "entity": {
+        "@id": "20",
+        "name": "Woman",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "21",
+        "type": "myth:ChildbirthEvent",
+        "myth:agent": "20",
+        "myth:patient": "22"
+      }
+    },
+    {
+      "@id": "22",
+      "entity": {
+        "@id": "23",
+        "name": "First Two Children",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "24",
+        "type": "myth:BirthEvent",
+        "myth:agent": "20",
+        "myth:patient": "23"
+      }
+    },
+    {
+      "@id": "25",
+      "entity": {
+        "@id": "26",
+        "name": "Eight Original Ancestors",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "27",
+        "type": "myth:BirthEvent",
+        "myth:agent": "11",
+        "myth:patient": "26"
+      }
+    },
+    {
+      "@id": "28",
+      "entity": {
+        "@id": "29",
+        "name": "Eight Dogon Families",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "30",
+        "type": "myth:DescentEvent",
+        "myth:agent": "26",
+        "myth:patient": "29"
+      }
+    }
+  ]
+}
+
+/* Chunk 4 */
+{
+  "@context": "http://schema.org/",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Humanity",
+        "type": "myth:Humanity"
+      },
+      "event": {
+        "@id": "3",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2",
+        "myth:method": "Dual soul implantation"
+      }
+    },
+    {
+      "@id": "4",
+      "entity": {
+        "@id": "5",
+        "name": "Nummo Pair",
+        "type": "myth:Deity"
+      },
+      "relation": {
+        "@id": "6",
+        "type": "myth:childOf",
+        "myth:subject": "5",
+        "myth:object": {
+          "@id": "7",
+          "name": "God",
+          "type": "myth:Deity"
+        }
+      }
+    },
+    {
+      "@id": "8",
+      "entity": "5",
+      "event": {
+        "@id": "9",
+        "type": "myth:DescentEvent",
+        "myth:agent": "5",
+        "myth:location": {
+          "@id": "10",
+          "name": "Earth",
+          "type": "myth:Location"
+        }
+      }
+    },
+    {
+      "@id": "11",
+      "entity": "5",
+      "event": {
+        "@id": "12",
+        "type": "myth:RegenerationEvent",
+        "myth:agent": "5",
+        "myth:patient": "2"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "Eight ancestors",
+        "type": "myth:Ancestor"
+      },
+      "event": {
+        "@id": "15",
+        "type": "myth:BirthEvent",
+        "myth:agent": "14"
+      }
+    },
+    {
+      "@id": "16",
+      "entity": "14",
+      "event": {
+        "@id": "17",
+        "type": "myth:TransformationEvent",
+        "myth:agent": "5",
+        "myth:patient": "14"
+      }
+    },
+    {
+      "@id": "18",
+      "entity": {
+        "@id": "19",
+        "name": "Seventh ancestor",
+        "type": "myth:Ancestor"
+      },
+      "event": {
+        "@id": "20",
+        "type": "myth:TransformationEvent",
+        "myth:agent": "5",
+        "myth:patient": "19"
+      }
+    },
+    {
+      "@id": "21",
+      "entity": "19",
+      "event": {
+        "@id": "22",
+        "type": "myth:LearningEvent",
+        "myth:agent": "19",
+        "myth:knowledge": "Words of the Nummo"
+      }
+    }
+  ]
+}
+
+/* Chunk 5 */
+{
+  "@context": "http://schema.org/",
+  "assertions": [
+    {
+      "@id": "e1",
+      "type": "myth:Deity",
+      "name": "Seventh Ancestor Spirit"
+    },
+    {
+      "@id": "e2",
+      "type": "myth:Deity",
+      "name": "God's wicked son",
+      "alias": "The Jackal"
+    },
+    {
+      "@id": "e3",
+      "type": "myth:Creature",
+      "name": "Ant"
+    },
+    {
+      "@id": "e4",
+      "type": "myth:Location",
+      "name": "Earth"
+    },
+    {
+      "@id": "e5",
+      "type": "myth:Location",
+      "name": "Anthill"
+    },
+    {
+      "@id": "e6",
+      "type": "myth:Artifact",
+      "name": "Second Word"
+    },
+    {
+      "@id": "e7",
+      "type": "myth:Artifact",
+      "name": "First Word"
+    },
+    {
+      "@id": "e8",
+      "type": "myth:Artifact",
+      "name": "Woven Material"
+    },
+    {
+      "@id": "e9",
+      "type": "myth:Artifact",
+      "name": "Cotton Threads"
+    },
+    {
+      "@id": "e10",
+      "type": "myth:Artifact",
+      "name": "Clay Teeth"
+    },
+    {
+      "@id": "ev1",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e6",
+      "myth:location": "e4"
+    },
+    {
+      "@id": "ev2",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e9",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "ev3",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e8",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "ev4",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e3",
+      "myth:patient": "e9",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "ev5",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e10",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "r1",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e6"
+    },
+    {
+      "@id": "r2",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e9"
+    },
+    {
+      "@id": "r3",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e8"
+    },
+    {
+      "@id": "r4",
+      "type": "myth:created",
+      "myth:agent": "e3",
+      "myth:patient": "e9"
+    },
+    {
+      "@id": "r5",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e10"
+    },
+    {
+      "@id": "r6",
+      "type": "myth:possessed",
+      "myth:agent": "e2",
+      "myth:patient": "e7"
+    },
+    {
+      "@id": "r7",
+      "type": "myth:instructed",
+      "myth:agent": "e1",
+      "myth:patient": "e3"
+    },
+    {
+      "@id": "r8",
+      "type": "myth:instructed",
+      "myth:agent": "e3",
+      "myth:patient": "Humanity"
+    }
+  ]
+}
+
+/* Chunk 6 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Ogotemmeli",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "3",
+      "entity": {
+        "@id": "4",
+        "name": "Heaven",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "5",
+      "entity": {
+        "@id": "6",
+        "name": "Nummo",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "7",
+      "event": {
+        "@id": "8",
+        "name": "Transformation of the eight ancestors into Nummo",
+        "type": "myth:TransformationEvent",
+        "myth:agent": "2",
+        "myth:location": "4"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "@id": "10",
+        "name": "Disintegration of the celestial world",
+        "type": "myth:DestructionEvent",
+        "myth:location": "4"
+      }
+    },
+    {
+      "@id": "11",
+      "event": {
+        "@id": "12",
+        "name": "Reorganization of the terrestrial world",
+        "type": "myth:CreationEvent"
+      }
+    },
+    {
+      "@id": "13",
+      "event": {
+        "@id": "14",
+        "name": "Return of the eight ancestors to earth",
+        "type": "myth:MigrationEvent",
+        "myth:agent": "6"
+      }
+    },
+    {
+      "@id": "15",
+      "entity": {
+        "@id": "16",
+        "name": "God",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "17",
+      "event": {
+        "@id": "18",
+        "name": "God giving the eight ancestors different grains",
+        "type": "myth:GiftEvent",
+        "myth:agent": "16"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "name": "First and second ancestors eating the last grain",
+        "type": "myth:ConsumptionEvent",
+        "myth:agent": "2"
+      }
+    },
+    {
+      "@id": "21",
+      "event": {
+        "@id": "22",
+        "name": "Ancestors deciding to leave the celestial world",
+        "type": "myth:DecisionEvent",
+        "myth:agent": "2"
+      }
+    },
+    {
+      "@id": "23",
+      "event": {
+        "@id": "24",
+        "name": "First ancestor preparing for departure",
+        "type": "myth:PreparationEvent",
+        "myth:agent": "2"
+      }
+    },
+    {
+      "@id": "25",
+      "entity": {
+        "@id": "26",
+        "name": "World-system",
+        "type": "myth:Artifact"
+      }
+    },
+    {
+      "@id": "27",
+      "event": {
+        "@id": "28",
+        "name": "Construction of the world-system",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2",
+        "myth:result": "26"
+      }
+    },
+    {
+      "@id": "29",
+      "entity": {
+        "@id": "30",
+        "name": "Sun",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "31",
+      "entity": {
+        "@id": "32",
+        "name": "Sky",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "33",
+      "entity": {
+        "@id": "34",
+        "name": "Moon",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "35",
+      "entity": {
+        "@id": "36",
+        "name": "Pleiades",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "37",
+      "entity": {
+        "@id": "38",
+        "name": "Orion's Belt",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "39",
+      "entity": {
+        "@id": "40",
+        "name": "Venus",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "41",
+      "entity": {
+        "@id": "42",
+        "name": "Long-Tailed Star",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "43",
+      "event": {
+        "@id": "44",
+        "name": "Ancestor descending from Heaven",
+        "type": "myth:MigrationEvent",
+        "myth:agent": "2",
+        "myth:location": "4"
+      }
+    }
+  ]
+}
+
+/* Chunk 7 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Ogotemmeli",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "3",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2",
+        "myth:location": "Ogotemmeli's house"
+      }
+    },
+    {
+      "@id": "4",
+      "entity": {
+        "@id": "5",
+        "name": "Basket",
+        "type": "myth:Object"
+      },
+      "event": {
+        "@id": "6",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2",
+        "myth:patient": "5",
+        "myth:location": "Ogotemmeli's house"
+      }
+    },
+    {
+      "@id": "7",
+      "entity": {
+        "@id": "8",
+        "name": "World-system",
+        "type": "myth:Concept"
+      },
+      "event": {
+        "@id": "9",
+        "type": "myth:ExplanationEvent",
+        "myth:agent": "2",
+        "myth:patient": "8",
+        "myth:location": "Ogotemmeli's house"
+      }
+    },
+    {
+      "@id": "10",
+      "entity": {
+        "@id": "11",
+        "name": "Granary of the Master of Pure Earth",
+        "type": "myth:Structure"
+      },
+      "event": {
+        "@id": "12",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2",
+        "myth:patient": "11",
+        "myth:location": "Ogotemmeli's house"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "Bozo",
+        "type": "myth:Human"
+      },
+      "event": {
+        "@id": "15",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2",
+        "myth:patient": "14",
+        "myth:location": "Ogotemmeli's house"
+      }
+    },
+    {
+      "@id": "16",
+      "entity": {
+        "@id": "17",
+        "name": "Fish",
+        "type": "myth:Animal"
+      },
+      "event": {
+        "@id": "18",
+        "type": "myth:CreationEvent",
+        "myth:agent": "2",
+        "myth:patient": "17",
+        "myth:location": "Ogotemmeli's house"
+      },
+      "relation": {
+        "@id": "19",
+        "type": "myth:mergedWith",
+        "myth:subject": "14",
+        "myth:object": "17"
+      }
+    }
+  ]
+}
+
+/* Chunk 8 */
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "European",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "3",
+      "entity": {
+        "@id": "4",
+        "name": "Koguem",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "5",
+      "entity": {
+        "@id": "6",
+        "name": "Ogotemmeli",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "7",
+      "entity": {
+        "@id": "8",
+        "name": "granaries",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "9",
+      "entity": {
+        "@id": "10",
+        "name": "Dyamini-Kuradondo",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "11",
+      "entity": {
+        "@id": "12",
+        "name": "Dogon granary",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "13",
+      "entity": {
+        "@id": "14",
+        "name": "God",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "15",
+      "event": {
+        "@id": "16",
+        "name": "Exploration of granaries",
+        "type": "myth:Event",
+        "myth:agent": "2",
+        "myth:patient": "8",
+        "myth:location": "7"
+      }
+    },
+    {
+      "@id": "17",
+      "event": {
+        "@id": "18",
+        "name": "Suggestion to visit empty house",
+        "type": "myth:Event",
+        "myth:agent": "4",
+        "myth:patient": "6",
+        "myth:location": "10"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "name": "Revelation of granary's symbolic meaning",
+        "type": "myth:RevelationEvent",
+        "myth:agent": "6",
+        "myth:patient": "2",
+        "myth:location": "12"
+      }
+    },
+    {
+      "@id": "21",
+      "event": {
+        "@id": "22",
+        "name": "God giving seeds to ancestors",
+        "type": "myth:CreationEvent",
+        "myth:agent": "14",
+        "myth:location": "12"
+      }
+    },
+    {
+      "@id": "23",
+      "relation": {
+        "@id": "24",
+        "myth:subject": "6",
+        "myth:object": "8",
+        "type": "myth:owns"
+      }
+    }
+  ]
+}

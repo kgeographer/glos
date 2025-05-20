@@ -1,0 +1,67 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "God",
+      "name": "Nana-Buluku",
+      "description": "The creator god of the world, who is both male and female."
+    },
+    {
+      "@id": "entity2",
+      "@type": "God",
+      "name": "Mawu",
+      "description": "A goddess representing the moon and given dominion over the night, inhabits the west.",
+      "gender": "Female"
+    },
+    {
+      "@id": "entity3",
+      "@type": "God",
+      "name": "Lisa",
+      "description": "A god representing the sun and given dominion over the day, inhabits the east.",
+      "gender": "Male"
+    },
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "creator": "entity1",
+      "result": [
+        "entity2",
+        "entity3"
+      ]
+    },
+    {
+      "@id": "event2",
+      "@type": "CessionEvent",
+      "agent": "entity1",
+      "beneficiary": [
+        "entity2",
+        "entity3"
+      ]
+    },
+    {
+      "@id": "event3",
+      "@type": "AssignmentEvent",
+      "agent": "entity1",
+      "assignments": [
+        {
+          "assignedTo": "entity2",
+          "domain": "the night"
+        },
+        {
+          "assignedTo": "entity3",
+          "domain": "the day"
+        }
+      ]
+    },
+    {
+      "@id": "event4",
+      "@type": "LoveMakingEvent",
+      "participants": [
+        "entity2",
+        "entity3"
+      ],
+      "description": "Occurs during eclipses, resulting in celestial phenomena like eclipse of the moon or sun."
+    }
+  ],
+  "@context": "http://example.org/context/myth-v1.jsonld"
+}

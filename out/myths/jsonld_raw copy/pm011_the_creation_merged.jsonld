@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "2db6a431-43c3-4b5b-aa95-efda29d42aa3",
+      "entity": {
+        "@id": "entity_1",
+        "name": "Mangala",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "c102ffb9-4190-4a12-8d3b-9b8b5be4cb02",
+      "entity": {
+        "@id": "entity_2",
+        "name": "Seeds",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "42d599aa-10c5-4c47-806e-ead36bc6efca",
+      "entity": {
+        "@id": "entity_3",
+        "name": "Pemba",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "acb638ee-4ea0-4b62-b29b-14168ee38722",
+      "entity": {
+        "@id": "entity_4",
+        "name": "Earth",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "e782d38c-aa38-4e67-bd36-4e958a965949",
+      "entity": {
+        "@id": "entity_5",
+        "name": "Faro",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "e51e11e7-ba69-4312-a8b9-b4f41936ea8b",
+      "entity": {
+        "@id": "entity_6",
+        "name": "Trees",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "78ba3fa9-d313-41e0-a094-0880b3d5ff3e",
+      "entity": {
+        "@id": "entity_7",
+        "name": "Human Beings",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "4022f533-1f14-4ae6-afe7-ee7b241d52ec",
+      "entity": {
+        "@id": "entity_8",
+        "name": "Rain",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "390d04f1-1ec7-4e36-b474-1d46f67c0b2f",
+      "entity": {
+        "@id": "entity_9",
+        "name": "Sangare",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "f3104b4b-faf1-4a09-899a-f24e971bbae5",
+      "entity": {
+        "@id": "entity_10",
+        "name": "Lake Debo",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "2984ff6b-ec59-4e0d-873e-3f3d3a9dc7a5",
+      "entity": {
+        "@id": "entity_11",
+        "name": "Bozo",
+        "type": "myth:People"
+      }
+    },
+    {
+      "@id": "26496433-0b32-4d52-bb5e-6a06d36d2abd",
+      "entity": {
+        "@id": "entity_12",
+        "name": "Simboumba Tangnagati",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "dd596f16-7a4f-472b-8c49-3d87360c87ef",
+      "entity": {
+        "@id": "entity_13",
+        "name": "Mousso Koroni Koundye",
+        "type": "myth:Entity"
+      }
+    },
+    {
+      "@id": "232e089b-99c7-4104-8374-94c7f3e4d2ce",
+      "entity": {
+        "@id": "entity_14",
+        "name": "S\u00e9gou Koro",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "f5baf04e-ad34-446d-9dbc-8a38aa7ade6e",
+      "entity": {
+        "@id": "entity_15",
+        "name": "Akka",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "866a791a-3c16-445a-861b-f08a4c0a4149",
+      "entity": {
+        "@id": "entity_16",
+        "name": "Ka",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "5",
+      "event": "Building of the first sanctuary",
+      "type": "myth:CreationEvent",
+      "myth:agent": "1",
+      "myth:location": "3"
+    },
+    {
+      "@id": "11",
+      "relation": "gave",
+      "subject": "2",
+      "object": "1",
+      "property": "words and seeds"
+    }
+  ]
+}

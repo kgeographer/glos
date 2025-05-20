@@ -1,0 +1,100 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Adam"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Deity",
+      "name": "Jesus",
+      "description": "the Luminous, who approaches Adam to awaken him and save him from demons and darkness."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Deity",
+      "name": "Messenger of Good Tidings"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Mother of Light"
+    },
+    {
+      "@id": "entity5",
+      "@type": "Deity",
+      "name": "Living Spirit"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Collective",
+      "name": "five angels"
+    },
+    {
+      "@id": "entity7",
+      "@type": "DivineBeing",
+      "name": "the mighty Archon"
+    },
+    {
+      "@id": "event1",
+      "@type": "Event",
+      "name": "Angels request divine intervention",
+      "participants": ["entity3", "entity4", "entity5", "entity6"],
+      "outcome": ["entity2"]
+    },
+    {
+      "@id": "event2",
+      "@type": "Event",
+      "name": "Jesus saves Adam",
+      "participants": ["entity2", "entity1"],
+      "actions": [
+        {
+          "action": "awakens",
+          "target": "entity1"
+        },
+        {
+          "action": "frees",
+          "objects": [
+            "entity1",
+            "entity7"
+          ]
+        },
+        {
+          "action": "shows",
+          "target": "entity1",
+          "content": "the Fathers on high and his own Self cast into all things"
+        },
+        {
+          "action": "makes",
+          "target": "entity1",
+          "content": "eat of the tree of life"
+        }
+      ]
+    },
+    {
+      "@id": "event3",
+      "@type": "Event",
+      "name": "Adam's lamentation",
+      "participant": "entity1",
+      "actions": [
+        {
+          "action": "cries",
+          "description": "terribly with a voice like a roaring lion"
+        },
+        {
+          "action": "tore",
+          "content": "his dress"
+        },
+        {
+          "action": "smote",
+          "content": "his breast"
+        },
+        {
+          "action": "speaks",
+          "content": "Woe, woe unto the shaper of my body, unto those who fettered my soul, and unto the rebels that enslaved me!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "pm013": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm027": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm012": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm024": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm005a": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm008": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm039": {
+    "entity_types": [
+      "Deity",
+      "Human"
+    ],
+    "event_types": [
+      "CreationEvent"
+    ],
+    "relation_types": [
+      "created"
+    ],
+    "role_types": [
+      "agent"
+    ]
+  },
+  "pm005b": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm014": {
+    "entity_types": [
+      "Deity"
+    ],
+    "event_types": [
+      "CreationEvent",
+      "InheritanceEvent",
+      "JudgementEvent",
+      "RescueEvent"
+    ],
+    "relation_types": [
+      "created",
+      "mergedWith",
+      "parentOf"
+    ],
+    "role_types": [
+      "agent",
+      "patient"
+    ]
+  },
+  "pm009": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm003": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm006": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm011": {
+    "entity_types": [
+      "Deity",
+      "Entity",
+      "Location",
+      "People"
+    ],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm010": {
+    "entity_types": [
+      "Ancestor",
+      "Animal",
+      "Artifact",
+      "CelestialBody",
+      "Creature",
+      "Deity",
+      "Human",
+      "Humanity",
+      "Location",
+      "Object",
+      "Spirit",
+      "Structure"
+    ],
+    "event_types": [
+      "ActionEvent",
+      "CommunicationEvent",
+      "ConsumptionEvent",
+      "CreationEvent",
+      "DecisionEvent",
+      "DestructionEvent",
+      "Event",
+      "GiftEvent",
+      "MigrationEvent",
+      "PreparationEvent",
+      "RevelationEvent",
+      "TransformationEvent"
+    ],
+    "relation_types": [
+      "owns",
+      "parentOf",
+      "resultingState"
+    ],
+    "role_types": [
+      "agent",
+      "patient"
+    ]
+  },
+  "pm035": {
+    "entity_types": [
+      "Creation",
+      "Deity"
+    ],
+    "event_types": [
+      "ConflictEvent",
+      "CreationEvent",
+      "DeathEvent",
+      "ImprisonmentEvent"
+    ],
+    "relation_types": [
+      "GuardianOf"
+    ],
+    "role_types": [
+      "agent",
+      "patient"
+    ]
+  },
+  "pm004": {
+    "entity_types": [],
+    "event_types": [
+      "CreationEvent",
+      "EscapeEvent",
+      "ExileEvent",
+      "FireCreationEvent",
+      "GrowthEvent",
+      "HuntingEvent"
+    ],
+    "relation_types": [
+      "causedExile",
+      "causedGrowth",
+      "created"
+    ],
+    "role_types": [
+      "agent",
+      "patient"
+    ]
+  },
+  "pm007": {
+    "entity_types": [
+      "Deity"
+    ],
+    "event_types": [
+      "BlessingEvent",
+      "CreationEvent",
+      "GivingEvent",
+      "PunishmentEvent",
+      "TransformationEvent"
+    ],
+    "relation_types": [],
+    "role_types": [
+      "agent",
+      "patient"
+    ]
+  },
+  "pm001": {
+    "entity_types": [
+      "Deity"
+    ],
+    "event_types": [
+      "ConflictEvent",
+      "CreationEvent",
+      "ResurrectionEvent",
+      "TransformationEvent"
+    ],
+    "relation_types": [
+      "childOf",
+      "spouseOf"
+    ],
+    "role_types": [
+      "agent",
+      "patient"
+    ]
+  },
+  "pm005c": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  },
+  "pm002": {
+    "entity_types": [],
+    "event_types": [],
+    "relation_types": [],
+    "role_types": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "@context": "http://example.org/context/myth-v1.jsonld",
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Mulungu"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Person",
+      "name": "Chameleon",
+      "jobTitle": "Weaver"
+    },
+    {
+      "@id": "event1",
+      "@type": "CreateAction",
+      "agent": "entity2",
+      "result": {
+        "@type": "Thing",
+        "name": "fish-trap"
+      }
+    },
+    {
+      "@id": "event2",
+      "@type": "UseAction",
+      "agent": "entity2",
+      "object": "outputOf:event1",
+      "location": "river",
+      "result": [
+        {
+          "@type": "Thing",
+          "name": "fish"
+        },
+        {
+          "@type": "Person",
+          "gender": "male"
+        },
+        {
+          "@type": "Person",
+          "gender": "female"
+        }
+      ],
+      "endTime": "next morning"
+    },
+    {
+      "@id": "event3",
+      "@type": "BringAction",
+      "agent": "entity2",
+      "object": {
+        "@type": "Person",
+        "name": "two creatures"
+      },
+      "recipient": "entity1"
+    },
+    {
+      "@id": "event4",
+      "@type": "GrowAction",
+      "object": "outputOf:event2",
+      "result": {
+        "@type": "Person",
+        "additionalType": "grown-up humans"
+      }
+    },
+    {
+      "@id": "event5",
+      "@type": "CreateAction",
+      "agent": "outputOf:event4",
+      "result": {
+        "@type": "Fire"
+      }
+    },
+    {
+      "@id": "event6",
+      "@type": "KillAction",
+      "agent": "outputOf:event4",
+      "object": {
+        "@type": "Animal",
+        "name": "buffalo"
+      },
+      "result": {
+        "@type": "ConsumeAction",
+        "agent": "outputOf:event4",
+        "object": "outputOf:event6"
+      }
+    },
+    {
+      "@id": "event7",
+      "@type": "LeaveAction",
+      "agent": "entity1",
+      "result": {
+        "@type": "Place",
+        "name": "the sky"
+      }
+    },
+    {
+      "@id": "event8",
+      "@type": "LeaveAction",
+      "agent": "all animals"
+    },
+    {
+      "@id": "event9",
+      "@type": "HelpAction",
+      "agent": {
+        "@type": "Person",
+        "name": "Spider"
+      },
+      "recipient": "entity1",
+      "result": {
+        "@type": "Thing",
+        "name": "rope"
+      }
+    }
+  ]
+}

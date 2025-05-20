@@ -1,0 +1,114 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "Nyambi"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Person",
+      "name": "Nasilele",
+      "relationship": {
+        "@id": "relation1",
+        "relationType": "Spouse",
+        "to": "entity1"
+      }
+    },
+    {
+      "@id": "entity3",
+      "@type": "Person",
+      "name": "Kamonu"
+    },
+    {
+      "@id": "event1",
+      "@type": "Creation",
+      "creator": "entity1",
+      "createdEntities": [
+        "animals",
+        "fishes",
+        "birds"
+      ]
+    },
+    {
+      "@id": "event2",
+      "@type": "Conflict",
+      "participants": [
+        "entity1",
+        "entity3"
+      ],
+      "description": "Nyambi fears Kamonu's imitative actions and his violence towards animals."
+    },
+    {
+      "@id": "event3",
+      "@type": "Banishment",
+      "subject": "entity3",
+      "by": "entity1",
+      "reason": "Killing of animals"
+    },
+    {
+      "@id": "event4",
+      "@type": "Return",
+      "subject": "entity3",
+      "to": "original location",
+      "grantedBy": "entity1"
+    },
+    {
+      "@id": "event5",
+      "@type": "Exploration",
+      "initiator": "entity1",
+      "participants": [
+        "birds"
+      ],
+      "task": "Find a new home for Litoma"
+    },
+    {
+      "@id": "event6",
+      "@type": "Consultation",
+      "participants": [
+        "entity1",
+        "diviner"
+      ],
+      "outcome": "Guidance to depend on Spider for survival"
+    },
+    {
+      "@id": "event7",
+      "@type": "Relocation",
+      "subject": "entity1",
+      "from": "Earth",
+      "to": "Sky",
+      "means": "Spider's thread"
+    },
+    {
+      "@id": "event8",
+      "@type": "Disability",
+      "subject": "Spider",
+      "causedBy": "entity1",
+      "type": "Blindness",
+      "reason": "Prevent following to Sky"
+    },
+    {
+      "@id": "event9",
+      "@type": "Construction",
+      "initiator": "entity3",
+      "description": "Attempt to build a tower to reach Nyambi"
+    },
+    {
+      "@id": "event10",
+      "@type": "Collapse",
+      "subject": "tower",
+      "cause": "Excessive weight",
+      "participants": "Attempt by entity3 and others"
+    },
+    {
+      "@id": "event11",
+      "@type": "Daily Ritual",
+      "participants": [
+        "entity3",
+        "other people"
+      ],
+      "description": "Greeting the sun as their king and calling on Nasilele at new moon"
+    }
+  ],
+  "@context": "http://example.org/context/myth-v1.jsonld"
+}

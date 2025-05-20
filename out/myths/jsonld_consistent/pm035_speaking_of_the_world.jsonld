@@ -1,0 +1,91 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Concept",
+      "name": "World",
+      "description": "A realm that is discussed in terms of its existence, whether it has always existed or was created."
+    },
+    {
+      "@id": "entity2",
+      "@type": "Deity",
+      "name": "Time",
+      "description": "The creator of the world, without limit and eternal, the prime mover in the creation process."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Deity",
+      "name": "Ohrmazd",
+      "description": "A deity brought into existence by Time, characterized as bright, pure, sweet-smelling, and beneficent, and has power over all good things."
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Ahriman",
+      "description": "A malevolent entity seen by Ohrmazd, characterized as black, foul, stinking, and an enemy of Ohrmazd."
+    },
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "creator": "entity2",
+      "created": [
+        "entity3",
+        "entity4"
+      ],
+      "description": "Time creates Ohrmazd and Ahriman and becomes the Lord of the creation."
+    },
+    {
+      "@id": "event2",
+      "@type": "CreationEvent",
+      "creator": "entity3",
+      "description": "Ohrmazd begins the work of creation with the aid of Time, setting up the zodiac and the long dominion."
+    },
+    {
+      "@id": "event3",
+      "@type": "CreationEvent",
+      "creator": "entity3",
+      "description": "Ohrmazd creates the spiritual and material world over a span of three thousand years."
+    },
+    {
+      "@id": "event4",
+      "@type": "BattleEvent",
+      "entities": [
+        "entity3",
+        "entity4"
+      ],
+      "description": "Ahriman, after seeing the power of Ohrmazd, creates an army from the foulness within him and confronts the material creation."
+    },
+    {
+      "@id": "event5",
+      "@type": "CreationEvent",
+      "creator": "entity3",
+      "description": "Ohrmazd manifests the sky, water, earth, plants, the Bull, Gayomart, and Adam and Eve."
+    },
+    {
+      "@id": "event6",
+      "@type": "BattleEvent",
+      "entities": [
+        "entity4"
+      ],
+      "description": "Ahriman defiles the material world entering through a hole he created, leading to a celestial battle and his eventual capture."
+    },
+    {
+      "@id": "event7",
+      "@type": "CaptivityEvent",
+      "description": "Ahriman is seized and taken back to hell, bound with unseen spiritual bonds."
+    },
+    {
+      "@id": "entity5",
+      "@type": "Deity",
+      "name": "Ardibihist",
+      "description": "An angelic being who guards over Ahriman."
+    },
+    {
+      "@id": "entity6",
+      "@type": "Deity",
+      "name": "Varhram",
+      "description": "A god who stands guard over Ahriman."
+    }
+  ],
+  "@context": "http://example.org/context/myth-v1.jsonld"
+}

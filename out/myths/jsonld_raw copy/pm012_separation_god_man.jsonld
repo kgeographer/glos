@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Wulbari",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "2",
+      "entity": "Asase Ya",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Mother Earth",
+      "type": "myth:Deity",
+      "alias": "Asase Ya"
+    },
+    {
+      "@id": "4",
+      "entity": "man",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "5",
+      "entity": "old woman",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "6",
+      "entity": "We",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "7",
+      "entity": "Kassena people",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "8",
+      "event": "The Separation of God from Man",
+      "type": "myth:SeparationEvent",
+      "agent": "1",
+      "patient": "4",
+      "location": "3"
+    },
+    {
+      "@id": "9",
+      "event": "old woman annoys Wulbari",
+      "type": "myth:ConflictEvent",
+      "agent": "5",
+      "patient": "1"
+    },
+    {
+      "@id": "10",
+      "event": "Wulbari rises up",
+      "type": "myth:MovementEvent",
+      "agent": "1"
+    },
+    {
+      "@id": "11",
+      "event": "old woman cuts We",
+      "type": "myth:ConflictEvent",
+      "agent": "5",
+      "patient": "6"
+    },
+    {
+      "@id": "12",
+      "event": "We removes himself",
+      "type": "myth:MovementEvent",
+      "agent": "6"
+    },
+    {
+      "@id": "13",
+      "relation": "Wulbari annoyed by man",
+      "type": "myth:Conflict",
+      "subject": "1",
+      "object": "4"
+    },
+    {
+      "@id": "14",
+      "relation": "Wulbari annoyed by old woman",
+      "type": "myth:Conflict",
+      "subject": "1",
+      "object": "5"
+    },
+    {
+      "@id": "15",
+      "relation": "We pained by old woman",
+      "type": "myth:Conflict",
+      "subject": "6",
+      "object": "5"
+    }
+  ]
+}

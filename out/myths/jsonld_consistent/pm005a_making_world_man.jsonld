@@ -1,0 +1,108 @@
+{
+  "@context": "http://example.org/context/myth-v1.jsonld",
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Deity",
+      "name": "God",
+      "description": "A supreme deity who created the universe and everything within it."
+    },
+    {
+      "@id": "event1",
+      "@type": "CreateAction",
+      "agent": "entity1",
+      "result": [
+        "entity2",
+        "entity3",
+        "entity4",
+        "entity5",
+        "entity6",
+        "entity7",
+        "entity8",
+        "entity9",
+        "entity10",
+        "entity11",
+        "entity12"
+      ]
+    },
+    {
+      "@id": "entity2",
+      "@type": "Thing",
+      "name": "light"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Person",
+      "name": "soul of Mohammed"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Furniture",
+      "name": "Throne",
+      "material": {
+        "@type": "Textile",
+        "name": "Carpet"
+      }
+    },
+    {
+      "@id": "entity5",
+      "@type": "CreativeWork",
+      "name": "Well-preserved Tablet",
+      "alternateName": "Mother of Books"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Thing",
+      "name": "Pen"
+    },
+    {
+      "@id": "entity7",
+      "@type": "MusicalInstrument",
+      "name": "Trumpet"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Person",
+      "name": "Serafili",
+      "jobTitle": "archangel",
+      "instrument": "entity7"
+    },
+    {
+      "@id": "entity9",
+      "@type": "Place",
+      "name": "Garden of Delights"
+    },
+    {
+      "@id": "entity10",
+      "@type": "EventSeries",
+      "name": "Fire"
+    },
+    {
+      "@id": "entity11",
+      "@type": "Person",
+      "name": "Jiburili",
+      "jobTitle": "archangel"
+    },
+    {
+      "@id": "entity12",
+      "@type": "Person",
+      "name": "Mikaili",
+      "jobTitle": "archangel"
+    },
+    {
+      "@id": "relation1",
+      "@type": "PerformAction",
+      "agent": "entity6",
+      "actionStatus": "ActiveActionStatus",
+      "object": "entity5",
+      "result": "Destiny"
+    },
+    {
+      "@id": "relation2",
+      "@type": "CommandAction",
+      "agent": "entity1",
+      "object": "entity6",
+      "result": "relation1"
+    }
+  ]
+}

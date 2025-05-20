@@ -1,0 +1,103 @@
+{
+  "Entity": {
+    "subclasses": [
+      "Being",
+      "Object",
+      "NaturalFeature",
+      "ConceptualOrSymbolic"
+    ]
+  },
+  "Being": {
+    "subclasses": [
+      "Deity",
+      "Spirit",
+      "Ancestor",
+      "Human",
+      "Creature"
+    ]
+  },
+  "Object": {
+    "subclasses": [
+      "Artifact",
+      "Structure",
+      "Object"
+    ]
+  },
+  "NaturalFeature": {
+    "subclasses": [
+      "CelestialBody",
+      "Location"
+    ]
+  },
+  "ConceptualOrSymbolic": {
+    "subclasses": [
+      "Creation",
+      "Name"
+    ]
+  },
+  "Event": {
+    "subclasses": [
+      "ActionEvent",
+      "BlessingEvent",
+      "CommunicationEvent",
+      "ConflictEvent",
+      "ConsumptionEvent",
+      "CreationEvent",
+      "DeathEvent",
+      "InstructionEvent",
+      "JourneyEvent",
+      "SeparationEvent",
+      "TransformationEvent"
+    ]
+  },
+  "Relation": {
+    "types": {
+      "created": {
+        "domain": "Being",
+        "range": "Entity"
+      },
+      "childOf": {
+        "domain": "Being",
+        "range": "Being"
+      },
+      "GuardianOf": {
+        "domain": "Being",
+        "range": "Entity"
+      },
+      "causedGrowth": {
+        "domain": "Being",
+        "range": "Entity"
+      },
+      "resultingState": {
+        "domain": "Event",
+        "range": "ConceptualOrSymbolic"
+      },
+      "spouseOf": {
+        "domain": "Being",
+        "range": "Being"
+      },
+      "mergedWith": {
+        "domain": "Entity",
+        "range": "Entity"
+      },
+      "named": {
+        "domain": "Being",
+        "range": "Name"
+      },
+      "destroyed": {
+        "domain": "Being",
+        "range": "Entity"
+      },
+      "causedExile": {
+        "domain": "Being",
+        "range": "Being"
+      }
+    }
+  },
+  "Roles": [
+    "agent",
+    "patient",
+    "instrument",
+    "beneficiary"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Assyria",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "2",
+      "entity": "Anu",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Enlil",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "4",
+      "entity": "Shamash",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "5",
+      "entity": "Ea",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "6",
+      "entity": "Anunnaki",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "7",
+      "entity": "Uzumua",
+      "type": "myth:Location"
+    },
+    {
+      "@id": "8",
+      "entity": "Lamga gods",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "9",
+      "entity": "Aruru",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "10",
+      "entity": "Nisaba",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "11",
+      "event": "Creation of Heaven and Earth",
+      "type": "myth:CreationEvent",
+      "agent": "Anu, Enlil, Shamash, Ea",
+      "location": "Assyria"
+    },
+    {
+      "@id": "12",
+      "event": "Creation of Mankind",
+      "type": "myth:CreationEvent",
+      "agent": "Anunnaki, Lamga gods",
+      "location": "Uzumua"
+    },
+    {
+      "@id": "13",
+      "event": "Establishment of Nisaba",
+      "type": "myth:EstablishmentEvent",
+      "agent": "Anu, Enlil, Ea, Ninmah",
+      "location": "Place where mankind was created"
+    },
+    {
+      "@id": "14",
+      "relation": "created",
+      "source": "Anu, Enlil, Shamash, Ea",
+      "target": "Heaven and Earth"
+    },
+    {
+      "@id": "15",
+      "relation": "created",
+      "source": "Anunnaki, Lamga gods",
+      "target": "Mankind"
+    },
+    {
+      "@id": "16",
+      "relation": "established",
+      "source": "Anu, Enlil, Ea, Ninmah",
+      "target": "Nisaba"
+    }
+  ]
+}

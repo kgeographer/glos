@@ -1,0 +1,123 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Nefer-ka-Re",
+      "title": "King of Upper and Lower Egypt",
+      "relation": "son",
+      "relatedTo": "entity2"
+    },
+    {
+      "@id": "entity2",
+      "@type": "Deity",
+      "name": "Re"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Person",
+      "name": "Sha-ba-ka",
+      "relation": "son",
+      "relatedTo": "entity2",
+      "belovedOf": "entity4"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Ptah-South-of-His-Wall"
+    },
+    {
+      "@id": "event1",
+      "@type": "Event",
+      "action": "restore",
+      "agent": "entity3",
+      "object": "text",
+      "location": "House of Ptah-South-of-His-Wall"
+    },
+    {
+      "@id": "event2",
+      "@type": "Event",
+      "description": "Judgement between Horus and Seth",
+      "agent": "entity4",
+      "participants": ["entity5", "entity6"],
+      "result": ["entity7", "entity8"]
+    },
+    {
+      "@id": "entity5",
+      "@type": "Deity",
+      "name": "Horus"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Deity",
+      "name": "Seth"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Region",
+      "name": "Lower Egypt",
+      "ruler": "entity5"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Region",
+      "name": "Upper Egypt",
+      "ruler": "entity6"
+    },
+    {
+      "@id": "entity9",
+      "@type": "Deity",
+      "name": "Geb"
+    },
+    {
+      "@id": "event3",
+      "@type": "Event",
+      "action": "give inheritance",
+      "agent": "entity9",
+      "recipient": "entity5",
+      "object": "all territories"
+    },
+    {
+      "@id": "entity10",
+      "@type": "PhysicalObject",
+      "name": "House of Ptah",
+      "contains": ["entity5", "entity6"]
+    },
+    {
+      "@id": "entity11",
+      "@type": "Deity",
+      "name": "Ptah"
+    },
+    {
+      "@id": "entity12",
+      "@type": "CosmicEntity",
+      "name": "Ennead"
+    },
+    {
+      "@id": "entity13",
+      "@type": "Person",
+      "name": "Osiris"
+    },
+    {
+      "@id": "relation1",
+      "@type": "Relationship",
+      "subject": "entity11",
+      "predicate": "creatorOf",
+      "object": "entity12"
+    },
+    {
+      "@id": "relation2",
+      "@type": "Relationship",
+      "subject": "entity11",
+      "predicate": "creatorOf",
+      "object": "all gods and divine order"
+    },
+    {
+      "@id": "relation3",
+      "@type": "Relationship",
+      "subject": "entity12",
+      "predicate": "locatedIn",
+      "object": "entity10"
+    }
+  ]
+}

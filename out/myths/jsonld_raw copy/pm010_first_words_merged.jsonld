@@ -1,0 +1,687 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "2cf30938-0d9a-493b-a455-771bfc5f19e6",
+      "entity": {
+        "@id": "entity_1",
+        "name": "Ogotemmeli",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "aa3bf543-c1fe-4ebd-9d38-f45acb31ec5f",
+      "entity": {
+        "@id": "entity_2",
+        "name": "Amma",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "d8284b0b-4ea5-458a-b28b-c4399d74e278",
+      "entity": {
+        "@id": "entity_3",
+        "name": "Thos aureus",
+        "type": "myth:Creature"
+      }
+    },
+    {
+      "@id": "6f583714-9157-46c3-9176-b33dc610ed77",
+      "entity": {
+        "@id": "entity_4",
+        "name": "Nummo",
+        "type": "myth:Spirit"
+      }
+    },
+    {
+      "@id": "c4ccc81e-46d0-487e-801c-039c7ff74dac",
+      "entity": {
+        "@id": "entity_5",
+        "name": "God",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "db27971a-9dad-49d8-b0ca-92812a6121c6",
+      "entity": {
+        "@id": "entity_6",
+        "name": "Earth",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "20a5ce78-cde6-4d3b-941d-8a340383984b",
+      "entity": {
+        "@id": "entity_7",
+        "name": "Koguem",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "aac26138-edc4-459d-af17-13ce94c5ec6d",
+      "entity": {
+        "@id": "entity_8",
+        "name": "Hogon's cock",
+        "type": "myth:Animal"
+      }
+    },
+    {
+      "@id": "9fb76c8b-64f1-4f91-abf1-b10614b8aadf",
+      "entity": {
+        "@id": "entity_9",
+        "name": "Akundyo",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "2896267c-efce-4778-ba66-8257ce6dc9fd",
+      "entity": {
+        "@id": "entity_10",
+        "name": "Jackal",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "db7211d8-a713-47f9-947f-becaa68d8f4c",
+      "entity": {
+        "@id": "entity_11",
+        "name": "Human Pair",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "05ffafac-ee65-4d5d-bf94-a81d3106c91c",
+      "entity": {
+        "@id": "entity_12",
+        "name": "Nummo Pair",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "78a12cab-bc1a-4f0a-b402-fd1a8d186b88",
+      "entity": {
+        "@id": "entity_13",
+        "name": "Man",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "76bd6566-a386-485c-b1cf-4554d30aa017",
+      "entity": {
+        "@id": "entity_14",
+        "name": "Woman",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "fcf96c3a-ddd2-46f1-9201-5a76db3e20d7",
+      "entity": {
+        "@id": "entity_15",
+        "name": "First Two Children",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "6581de99-7df2-489d-a29d-4bdc44276bc5",
+      "entity": {
+        "@id": "entity_16",
+        "name": "Eight Original Ancestors",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "ccbb5497-982f-41d9-9496-e03ed7fdf871",
+      "entity": {
+        "@id": "entity_17",
+        "name": "Eight Dogon Families",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "13cc2b8d-50ee-4038-ba38-bca6a079cce2",
+      "entity": {
+        "@id": "entity_18",
+        "name": "Humanity",
+        "type": "myth:Humanity"
+      }
+    },
+    {
+      "@id": "c6095c61-7662-4cb1-afb0-b8b5cbcb9ff5",
+      "entity": {
+        "@id": "entity_19",
+        "name": "Eight ancestors",
+        "type": "myth:Ancestor"
+      }
+    },
+    {
+      "@id": "37c02791-bc4f-47f3-87bb-c3b89d10be58",
+      "entity": {
+        "@id": "entity_20",
+        "name": "Seventh ancestor",
+        "type": "myth:Ancestor"
+      }
+    },
+    {
+      "@id": "dc4018b6-5cb2-4ded-a9db-c39b75364256",
+      "entity": {
+        "@id": "entity_21",
+        "name": "Heaven",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "0ded2aed-b7d9-48ae-82a5-c286eb2568c1",
+      "entity": {
+        "@id": "entity_22",
+        "name": "World-system",
+        "type": "myth:Artifact"
+      }
+    },
+    {
+      "@id": "4379907b-61d6-4f3f-8c32-e4d2d1260b58",
+      "entity": {
+        "@id": "entity_23",
+        "name": "Sun",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "7cffe4c6-27ba-42a0-b962-84e3372d5c63",
+      "entity": {
+        "@id": "entity_24",
+        "name": "Sky",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "353df6ea-07aa-4855-a246-0be47d373e83",
+      "entity": {
+        "@id": "entity_25",
+        "name": "Moon",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "34ea40ea-f228-49d9-9229-7d47072699fc",
+      "entity": {
+        "@id": "entity_26",
+        "name": "Pleiades",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "a4c754d2-3901-48e4-838b-bee241db3e74",
+      "entity": {
+        "@id": "entity_27",
+        "name": "Orion's Belt",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "35c7d628-2b67-4b9d-b910-a483d48c0610",
+      "entity": {
+        "@id": "entity_28",
+        "name": "Venus",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "81bee757-c21b-496c-9fed-67ba4de7446d",
+      "entity": {
+        "@id": "entity_29",
+        "name": "Long-Tailed Star",
+        "type": "myth:CelestialBody"
+      }
+    },
+    {
+      "@id": "9f128e1a-a074-43bf-ba2a-2982594be85e",
+      "entity": {
+        "@id": "entity_30",
+        "name": "Basket",
+        "type": "myth:Object"
+      }
+    },
+    {
+      "@id": "61df0623-fa6e-42da-a0d0-007f0767ef21",
+      "entity": {
+        "@id": "entity_31",
+        "name": "Granary of the Master of Pure Earth",
+        "type": "myth:Structure"
+      }
+    },
+    {
+      "@id": "3c22ef98-f680-4cab-b63b-cb840a43ed2e",
+      "entity": {
+        "@id": "entity_32",
+        "name": "Bozo",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "ba8459e0-5f97-4bb9-b2ba-d76e7032d00c",
+      "entity": {
+        "@id": "entity_33",
+        "name": "Fish",
+        "type": "myth:Animal"
+      }
+    },
+    {
+      "@id": "5a48fde3-ba67-4074-b5ba-96716ab0e641",
+      "entity": {
+        "@id": "entity_34",
+        "name": "European",
+        "type": "myth:Human"
+      }
+    },
+    {
+      "@id": "5fa3ba41-8f9c-4239-9591-516c0953c1be",
+      "entity": {
+        "@id": "entity_35",
+        "name": "granaries",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "f3c72c2a-d290-421f-8458-f474497095c3",
+      "entity": {
+        "@id": "entity_36",
+        "name": "Dyamini-Kuradondo",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "6416afa1-01f9-400a-a1a2-7054edeee496",
+      "entity": {
+        "@id": "entity_37",
+        "name": "Dogon granary",
+        "type": "myth:Location"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "@id": "10",
+        "type": "myth:CreationEvent",
+        "agent": "entity_2",
+        "patient": "entity_3",
+        "resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "11",
+      "event": {
+        "@id": "12",
+        "type": "myth:CreationEvent",
+        "agent": "entity_2",
+        "patient": "entity_4",
+        "resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "13",
+      "event": {
+        "@id": "14",
+        "type": "myth:CreationEvent",
+        "agent": "entity_2",
+        "patient": "myth:Sun",
+        "resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "15",
+      "event": {
+        "@id": "16",
+        "type": "myth:CreationEvent",
+        "agent": "entity_2",
+        "patient": "myth:Moon",
+        "resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "17",
+      "event": {
+        "@id": "18",
+        "type": "myth:CreationEvent",
+        "agent": "entity_2",
+        "patient": "myth:Stars",
+        "resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "type": "myth:CreationEvent",
+        "agent": "entity_2",
+        "patient": "myth:Earth",
+        "resultingState": "myth:Creation"
+      }
+    },
+    {
+      "@id": "21",
+      "relation": {
+        "@id": "22",
+        "subject": "entity_2",
+        "object": "entity_3",
+        "type": "myth:parentOf"
+      }
+    },
+    {
+      "@id": "23",
+      "relation": {
+        "@id": "24",
+        "subject": "entity_2",
+        "object": "entity_4",
+        "type": "myth:parentOf"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "@id": "10",
+        "type": "myth:CreationEvent",
+        "agent": "entity_4",
+        "patient": "entity_6",
+        "location": "7"
+      }
+    },
+    {
+      "@id": "18",
+      "event": {
+        "@id": "19",
+        "type": "myth:ActionEvent",
+        "agent": "entity_7",
+        "patient": "entity_8",
+        "location": "7"
+      }
+    },
+    {
+      "@id": "22",
+      "event": {
+        "@id": "23",
+        "type": "myth:CommunicationEvent",
+        "agent": "entity_9",
+        "patient": "entity_1",
+        "location": "7"
+      }
+    },
+    {
+      "@id": "e1",
+      "type": "myth:Deity",
+      "name": "Seventh Ancestor Spirit"
+    },
+    {
+      "@id": "e2",
+      "type": "myth:Deity",
+      "name": "God's wicked son",
+      "alias": "The Jackal"
+    },
+    {
+      "@id": "e3",
+      "type": "myth:Creature",
+      "name": "Ant"
+    },
+    {
+      "@id": "e4",
+      "type": "myth:Location",
+      "name": "Earth"
+    },
+    {
+      "@id": "e5",
+      "type": "myth:Location",
+      "name": "Anthill"
+    },
+    {
+      "@id": "e6",
+      "type": "myth:Artifact",
+      "name": "Second Word"
+    },
+    {
+      "@id": "e7",
+      "type": "myth:Artifact",
+      "name": "First Word"
+    },
+    {
+      "@id": "e8",
+      "type": "myth:Artifact",
+      "name": "Woven Material"
+    },
+    {
+      "@id": "e9",
+      "type": "myth:Artifact",
+      "name": "Cotton Threads"
+    },
+    {
+      "@id": "e10",
+      "type": "myth:Artifact",
+      "name": "Clay Teeth"
+    },
+    {
+      "@id": "ev1",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e6",
+      "myth:location": "e4"
+    },
+    {
+      "@id": "ev2",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e9",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "ev3",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e8",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "ev4",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e3",
+      "myth:patient": "e9",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "ev5",
+      "type": "myth:CreationEvent",
+      "myth:agent": "e1",
+      "myth:patient": "e10",
+      "myth:location": "e5"
+    },
+    {
+      "@id": "r1",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e6"
+    },
+    {
+      "@id": "r2",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e9"
+    },
+    {
+      "@id": "r3",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e8"
+    },
+    {
+      "@id": "r4",
+      "type": "myth:created",
+      "myth:agent": "e3",
+      "myth:patient": "e9"
+    },
+    {
+      "@id": "r5",
+      "type": "myth:created",
+      "myth:agent": "e1",
+      "myth:patient": "e10"
+    },
+    {
+      "@id": "r6",
+      "type": "myth:possessed",
+      "myth:agent": "e2",
+      "myth:patient": "e7"
+    },
+    {
+      "@id": "r7",
+      "type": "myth:instructed",
+      "myth:agent": "e1",
+      "myth:patient": "e3"
+    },
+    {
+      "@id": "r8",
+      "type": "myth:instructed",
+      "myth:agent": "e3",
+      "myth:patient": "Humanity"
+    },
+    {
+      "@id": "7",
+      "event": {
+        "@id": "8",
+        "name": "Transformation of the eight ancestors into Nummo",
+        "type": "myth:TransformationEvent",
+        "agent": "entity_1",
+        "location": "4"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "@id": "10",
+        "name": "Disintegration of the celestial world",
+        "type": "myth:DestructionEvent",
+        "location": "4"
+      }
+    },
+    {
+      "@id": "11",
+      "event": {
+        "@id": "12",
+        "name": "Reorganization of the terrestrial world",
+        "type": "myth:CreationEvent"
+      }
+    },
+    {
+      "@id": "13",
+      "event": {
+        "@id": "14",
+        "name": "Return of the eight ancestors to earth",
+        "type": "myth:MigrationEvent",
+        "agent": "entity_4"
+      }
+    },
+    {
+      "@id": "17",
+      "event": {
+        "@id": "18",
+        "name": "God giving the eight ancestors different grains",
+        "type": "myth:GiftEvent",
+        "agent": "entity_5"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "name": "First and second ancestors eating the last grain",
+        "type": "myth:ConsumptionEvent",
+        "agent": "entity_1"
+      }
+    },
+    {
+      "@id": "21",
+      "event": {
+        "@id": "22",
+        "name": "Ancestors deciding to leave the celestial world",
+        "type": "myth:DecisionEvent",
+        "agent": "entity_1"
+      }
+    },
+    {
+      "@id": "23",
+      "event": {
+        "@id": "24",
+        "name": "First ancestor preparing for departure",
+        "type": "myth:PreparationEvent",
+        "agent": "entity_1"
+      }
+    },
+    {
+      "@id": "27",
+      "event": {
+        "@id": "28",
+        "name": "Construction of the world-system",
+        "type": "myth:CreationEvent",
+        "agent": "entity_1",
+        "result": "26"
+      }
+    },
+    {
+      "@id": "43",
+      "event": {
+        "@id": "44",
+        "name": "Ancestor descending from Heaven",
+        "type": "myth:MigrationEvent",
+        "agent": "entity_1",
+        "location": "4"
+      }
+    },
+    {
+      "@id": "15",
+      "event": {
+        "@id": "16",
+        "name": "Exploration of granaries",
+        "type": "myth:Event",
+        "agent": "entity_34",
+        "patient": "entity_35",
+        "location": "7"
+      }
+    },
+    {
+      "@id": "17",
+      "event": {
+        "@id": "18",
+        "name": "Suggestion to visit empty house",
+        "type": "myth:Event",
+        "agent": "entity_7",
+        "patient": "entity_1",
+        "location": "10"
+      }
+    },
+    {
+      "@id": "19",
+      "event": {
+        "@id": "20",
+        "name": "Revelation of granary's symbolic meaning",
+        "type": "myth:RevelationEvent",
+        "agent": "entity_1",
+        "patient": "entity_34",
+        "location": "12"
+      }
+    },
+    {
+      "@id": "21",
+      "event": {
+        "@id": "22",
+        "name": "God giving seeds to ancestors",
+        "type": "myth:CreationEvent",
+        "agent": "entity_5",
+        "location": "12"
+      }
+    },
+    {
+      "@id": "23",
+      "relation": {
+        "@id": "24",
+        "subject": "entity_1",
+        "object": "entity_35",
+        "type": "myth:owns"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "God",
+      "name": "Zambe",
+      "parent": "entity2"
+    },
+    {
+      "@id": "entity2",
+      "@type": "God",
+      "name": "Mebe'e"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Human",
+      "name": "Black Man Zambe"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Human",
+      "name": "White Man Zambe",
+      "hasProperty": ["holding a book"]
+    },
+    {
+      "@id": "entity5",
+      "@type": "Animal",
+      "species": "Chimpanzee",
+      "name": "Chimpanzee Zambe"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Animal",
+      "species": "Gorilla",
+      "name": "Gorilla Zambe"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Animal",
+      "species": "Elephant",
+      "name": "Elephant Zambe"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Inanimate",
+      "objectType": "Book"
+    },
+    {
+      "@id": "entity9",
+      "@type": "Inanimate",
+      "objectType": "Fire"
+    },
+    {
+      "@id": "entity10",
+      "@type": "NaturalFeature",
+      "objectType": "Mvut fruit"
+    },
+    {
+      "@id": "event1",
+      "@type": "CreationEvent",
+      "agent": "entity1",
+      "object": ["entity3", "entity4", "entity5", "entity6", "entity7"]
+    },
+    {
+      "@id": "event2",
+      "@type": "ProvisionEvent",
+      "agent": "entity1",
+      "object": ["entity9", "entity8"]
+    },
+    {
+      "@id": "event3",
+      "@type": "ExperiencingEvent",
+      "agent": "entity4",
+      "patient": "entity9",
+      "hasResultingState": "tears form"
+    },
+    {
+      "@id": "event4",
+      "@type": "EatingEvent",
+      "agent": ["entity5", "entity6"],
+      "object": "entity10"
+    },
+    {
+      "@id": "event5",
+      "@type": "AccountabilityEvent",
+      "@type": "RequestEvent",
+      "agent": "entity1",
+      "subject": ["entity5", "entity6", "entity7"]
+    },
+    {
+      "@id": "event6",
+      "@type": "TransformationEvent",
+      "agent": "entity1",
+      "subject": ["entity5", "entity6"],
+      "hasResultingState": ["hairy body", "large teeth", "forest dwelling"]
+    },
+    {
+      "@id": "event7",
+      "@type": "AnswerEvent",
+      "agent": "entity3",
+      "hasResultingState": "loss of knowledge"
+    },
+    {
+      "@id": "event8",
+      "@type": "PredictionEvent",
+      "agent": "entity1",
+      "subject": "entity4",
+      "hasResultingState": "continuous care of book"
+    },
+    {
+      "@id": "event9",
+      "@type": "CursingEvent",
+      "agent": "entity1",
+      "subject": ["entity5", "entity6", "entity7"],
+      "hasResultingState": "distress and howling"
+    }
+  ]
+}

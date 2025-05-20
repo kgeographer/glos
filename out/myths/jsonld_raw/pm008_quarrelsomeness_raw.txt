@@ -1,0 +1,95 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Person",
+      "name": "Akongo",
+      "description": "Creator deity who initially lived among men but retreated to the forest after humans quarreled."
+    },
+    {
+      "@id": "entity2",
+      "@type": "Person",
+      "name": "Mbokomu",
+      "description": "A woman who lived in the sky with Akongo and others, later sent to Earth in a basket."
+    },
+    {
+      "@id": "entity3",
+      "@type": "Person",
+      "gender": "Male"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Person",
+      "gender": "Female"
+    },
+    {
+      "@id": "entity5",
+      "@type": "Creature",
+      "name": "Ebenga",
+      "description": "A hairy creature who becomes human-like after being shaved, associated with the introduction of witchcraft."
+    },
+    {
+      "@id": "entity6",
+      "@type": "Object",
+      "description": "Basket used by Akongo to send Mbokomu and her family to Earth."
+    },
+    {
+      "@id": "entity7",
+      "@type": "Food",
+      "name": "Cassava"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Food",
+      "name": "Maize"
+    },
+    {
+      "@id": "entity9",
+      "@type": "Food",
+      "name": "Sugarcane"
+    },
+    {
+      "@id": "event1",
+      "@type": "Event",
+      "description": "Akongo sends Mbokomu and her family to Earth in a basket with food staples."
+    },
+    {
+      "@id": "event2",
+      "@type": "Event",
+      "description": "Creation of the first garden on Earth by Mbokomu's family."
+    },
+    {
+      "@id": "event3",
+      "@type": "Event",
+      "description": "Incestuous relationship between Mbokomu's son and daughter leading to the peopling of Earth."
+    },
+    {
+      "@id": "event4",
+      "@type": "Event",
+      "description": "The sister encounter with Ebenga and the introduction of witchcraft."
+    },
+    {
+      "@id": "event5",
+      "@type": "Event",
+      "description": "The eventual transformation of Ebenga into a human-like figure by the sister."
+    },
+    {
+      "@id": "relation1",
+      "@type": "ParentChild",
+      "parent": "entity2",
+      "child": "entity3"
+    },
+    {
+      "@id": "relation2",
+      "@type": "ParentChild",
+      "parent": "entity2",
+      "child": "entity4"
+    },
+    {
+      "@id": "relation3",
+      "@type": "Sibling",
+      "sibling": "entity3",
+      "sibling": "entity4"
+    }
+  ]
+}

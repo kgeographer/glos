@@ -1,0 +1,124 @@
+{
+  "assertions": [
+    {
+      "@id": "entity1",
+      "@type": "Principle",
+      "name": "Father of Greatness",
+      "location": "place of Light",
+      "attributes": ["good"]
+    },
+    {
+      "@id": "entity2",
+      "@type": "Principle",
+      "name": "King of Darkness",
+      "location": "land of Darkness",
+      "attributes": ["evil"]
+    },
+    {
+      "@id": "relation1",
+      "@type": "DwellingRelation",
+      "subject": "entity1",
+      "place": "entity1.location"
+    },
+    {
+      "@id": "relation2",
+      "@type": "DwellingRelation",
+      "subject": "entity2",
+      "place": "entity2.location"
+    },
+    {
+      "@id": "event1",
+      "@type": "Conflict",
+      "participants": [
+        "entity1",
+        "entity2"
+      ],
+      "outcome": "entity2 overpowering"
+    },
+    {
+      "@id": "entity3",
+      "@type": "Deity",
+      "name": "Primal Man"
+    },
+    {
+      "@id": "event2",
+      "@type": "Creation",
+      "creator": "entity1",
+      "created": "entity3"
+    },
+    {
+      "@id": "entity4",
+      "@type": "Deity",
+      "name": "Living Spirit"
+    },
+    {
+      "@id": "entity5",
+      "@type": "Deity",
+      "name": "Messenger"
+    },
+    {
+      "@id": "event3",
+      "@type": "Rescue",
+      "participants": [
+        "entity4",
+        "entity3"
+      ]
+    },
+    {
+      "@id": "event4",
+      "@type": "Creation",
+      "creator": "entity1",
+      "created": "entity5"
+    },
+    {
+      "@id": "event5",
+      "@type": "Liberation",
+      "participants": [
+        "entity5"
+      ],
+      "operation": "separating Light from Darkness"
+    },
+    {
+      "@id": "entity6",
+      "@type": "Phenomenon",
+      "name": "the ships of Light"
+    },
+    {
+      "@id": "event6",
+      "@type": "Activation",
+      "participants": [
+        "entity5",
+        "entity6"
+      ],
+      "description": "Starting the revolution of spheres"
+    },
+    {
+      "@id": "event7",
+      "@type": "Deception",
+      "perpetrator": "entity5",
+      "outcome": "liberation of trapped Light and separation of sin"
+    },
+    {
+      "@id": "entity7",
+      "@type": "Human",
+      "name": "Adam",
+      "origin": "created by King of Darkness"
+    },
+    {
+      "@id": "entity8",
+      "@type": "Human",
+      "name": "Eve",
+      "origin": "created by King of Darkness",
+      "purpose": "instrument against Adam"
+    },
+    {
+      "@id": "event8",
+      "@type": "Creation",
+      "creator": "entity2",
+      "created": [
+        "entity7",
+        "entity8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Ngombe",
+      "type": "myth:Culture"
+    },
+    {
+      "@id": "2",
+      "entity": "Akongo",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Mbokomu",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "4",
+      "entity": "Mbokomu's son",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "5",
+      "entity": "Mbokomu's daughter",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "6",
+      "entity": "Ebenga",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "7",
+      "entity": "Libanja",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "8",
+      "entity": "Songo",
+      "type": "myth:Creature"
+    },
+    {
+      "@id": "9",
+      "event": "Akongo's departure",
+      "type": "myth:DepartureEvent",
+      "agent": "2",
+      "location": "forest"
+    },
+    {
+      "@id": "10",
+      "event": "Creation of earth's population",
+      "type": "myth:CreationEvent",
+      "agent": "2",
+      "patient": "3",
+      "location": "earth"
+    },
+    {
+      "@id": "11",
+      "event": "Incestuous relationship",
+      "type": "myth:RelationshipEvent",
+      "agent": "4",
+      "patient": "5"
+    },
+    {
+      "@id": "12",
+      "event": "Introduction of witchcraft",
+      "type": "myth:MagicEvent",
+      "agent": "6",
+      "patient": "5"
+    },
+    {
+      "@id": "13",
+      "event": "Sky support",
+      "type": "myth:SupportEvent",
+      "agent": [
+        "7",
+        "8"
+      ],
+      "location": "sky"
+    },
+    {
+      "@id": "14",
+      "relation": "parentOf",
+      "subject": "3",
+      "object": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "@id": "15",
+      "relation": "friendWith",
+      "subject": "5",
+      "object": "6"
+    },
+    {
+      "@id": "16",
+      "relation": "transformedInto",
+      "subject": "6",
+      "object": "man"
+    }
+  ]
+}

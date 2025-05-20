@@ -1,0 +1,103 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": {
+        "@id": "2",
+        "name": "Zambe",
+        "type": "myth:Deity"
+      },
+      "relation": "myth:parentOf",
+      "entity2": {
+        "@id": "3",
+        "name": "Mebe'e",
+        "type": "myth:Deity"
+      }
+    },
+    {
+      "@id": "4",
+      "event": {
+        "@id": "5",
+        "type": "myth:CreationEvent",
+        "agent": "2",
+        "patient": [
+          {
+            "@id": "6",
+            "name": "Man Zambe",
+            "type": "myth:Human"
+          },
+          {
+            "@id": "7",
+            "name": "Chimpanzee Zambe",
+            "type": "myth:Animal"
+          },
+          {
+            "@id": "8",
+            "name": "Gorilla Zambe",
+            "type": "myth:Animal"
+          },
+          {
+            "@id": "9",
+            "name": "Elephant Zambe",
+            "type": "myth:Animal"
+          }
+        ]
+      }
+    },
+    {
+      "@id": "10",
+      "event": {
+        "@id": "11",
+        "type": "myth:GivingEvent",
+        "agent": "2",
+        "patient": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "object": [
+          "fire",
+          "cutlasses",
+          "hoes",
+          "axes",
+          "water"
+        ]
+      }
+    },
+    {
+      "@id": "12",
+      "event": {
+        "@id": "13",
+        "type": "myth:TransformationEvent",
+        "agent": "2",
+        "patient": [
+          "7",
+          "8"
+        ],
+        "result": "Chimpanzee and Gorilla covered in hair and living in the forest"
+      }
+    },
+    {
+      "@id": "14",
+      "event": {
+        "@id": "15",
+        "type": "myth:PunishmentEvent",
+        "agent": "2",
+        "patient": "6",
+        "result": "Black man left without knowledge and destined to work"
+      }
+    },
+    {
+      "@id": "16",
+      "event": {
+        "@id": "17",
+        "type": "myth:BlessingEvent",
+        "agent": "2",
+        "patient": "6",
+        "result": "White man becomes a man of understanding and lives without fire"
+      }
+    }
+  ]
+}

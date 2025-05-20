@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "assertions": [
+    {
+      "@id": "1",
+      "entity": "Yao",
+      "type": "myth:Culture"
+    },
+    {
+      "@id": "2",
+      "entity": "Mulungu",
+      "type": "myth:Deity"
+    },
+    {
+      "@id": "3",
+      "entity": "Chameleon",
+      "type": "myth:Animal"
+    },
+    {
+      "@id": "4",
+      "entity": "Spider",
+      "type": "myth:Animal"
+    },
+    {
+      "@id": "5",
+      "entity": "Man and Woman",
+      "type": "myth:Human"
+    },
+    {
+      "@id": "6",
+      "event": {
+        "type": "myth:CreationEvent",
+        "agent": "3",
+        "patient": "5",
+        "location": "River"
+      }
+    },
+    {
+      "@id": "7",
+      "event": {
+        "type": "myth:GrowthEvent",
+        "agent": "2",
+        "patient": "5"
+      }
+    },
+    {
+      "@id": "8",
+      "event": {
+        "type": "myth:FireCreationEvent",
+        "agent": "5"
+      }
+    },
+    {
+      "@id": "9",
+      "event": {
+        "type": "myth:HuntingEvent",
+        "agent": "5",
+        "patient": "Buffalo"
+      }
+    },
+    {
+      "@id": "10",
+      "event": {
+        "type": "myth:ExileEvent",
+        "agent": "5",
+        "patient": "2"
+      }
+    },
+    {
+      "@id": "11",
+      "event": {
+        "type": "myth:EscapeEvent",
+        "agent": "3",
+        "location": "High Trees"
+      }
+    },
+    {
+      "@id": "12",
+      "event": {
+        "type": "myth:EscapeEvent",
+        "agent": "2",
+        "location": "Sky"
+      }
+    },
+    {
+      "@id": "13",
+      "relation": {
+        "type": "myth:created",
+        "subject": "3",
+        "object": "5"
+      }
+    },
+    {
+      "@id": "14",
+      "relation": {
+        "type": "myth:causedGrowth",
+        "subject": "2",
+        "object": "5"
+      }
+    },
+    {
+      "@id": "15",
+      "relation": {
+        "type": "myth:causedExile",
+        "subject": "5",
+        "object": "2"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 ### GLOS Phase Two: Creation Myth Structuring and Analysis
 
-**Updated: 2 April 2025**
+**Updated: 3 April 2025**
 
 This document outlines the current methodology and workflow for the GLOS project, which uses computational techniques to explore the conceptual structures and cross-cultural patterns in a corpus of global creation myths.
 
@@ -12,7 +12,7 @@ The project's objective is to model and analyze conceptual motifs, entities, eve
 
 ---
 
-## 🧭 Current Workflow (as of 2 April 2025)
+## 🧭 Current Workflow (as of 3 April 2025)
 
 ### **1. Input Preparation**
 - Clean and OCR each myth from the Sproul volume.
@@ -23,6 +23,7 @@ The project's objective is to model and analyze conceptual motifs, entities, eve
   Lines 3+: Myth narrative text
   ```
 - Store all text files in `data/myths/`.
+- Normalize quotes, apostrophes, dashes in the text files (src/normalize_quotes.py)
 
 ### **2. Conceptual Extraction**
 - Use an LLM to:
@@ -34,7 +35,7 @@ The project's objective is to model and analyze conceptual motifs, entities, eve
 - If a new type (entity, event, role) is found:
   - Compare it against existing ontology terms
   - Propose **normalization** or **conflation** if overlapping
-  - Update the ontology documentation (e.g., `ontology_scope_notes.csv`) with scope notes and usage frequency
+  - Update the ontology documentation (e.g., `ontology_scope_notes_with_counts.csv`) with scope notes and usage frequency
 
 ### **4. Corpus Integration**
 - Append each structured myth to the master file:
