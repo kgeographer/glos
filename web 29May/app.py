@@ -377,10 +377,9 @@ def get_tmi_categories():
         return jsonify({"error": str(e)}), 500
 
 
-## START: USING THE EDGES TABLE
 @app.route('/get_tmi_ranges/<category>')
 def get_tmi_ranges(category):
-    """Get direct children of a TMI category using the hierarchy table"""
+    """Get major ranges within a category that have ATU connections"""
     conn = psycopg2.connect(
         dbname=os.getenv('DB_NAME'),
         user=os.getenv('DB_USER'),
@@ -390,22 +389,22 @@ def get_tmi_ranges(category):
     cur = conn.cursor()
 
     try:
-        print(f"DEBUG: Getting direct children for category '{category}'")
+        print(f"DEBUG: Getting ranges for category '{category}'")
 
-        # Get direct children of this category from the hierarchy table
+        # Fixed: Use the actual category parameter instead of hardcoded 'A'
         cur.execute("""
-            SELECT mse.motif_child as range_id,
-                   s.label,
+            SELECT s.motif_id, s.label,
                    COUNT(DISTINCT tm.motif_id) as connected_count,
                    COUNT(DISTINCT mt.motif_id) as total_count
-            FROM folklore.motif_synopsis_edges mse
-            JOIN folklore.synopsis s ON mse.motif_child = s.motif_id
-            LEFT JOIN folklore.motif_text mt ON mt.motif_id LIKE REPLACE(mse.motif_child, '-', '%') || '%'
+            FROM folklore.synopsis s
+            LEFT JOIN folklore.motif_text mt ON mt.motif_id LIKE REPLACE(s.motif_id, '-', '%') || '%'
             LEFT JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-            WHERE mse.motif_parent = %s
-            GROUP BY mse.motif_child, s.label
-            ORDER BY mse.motif_child;
-        """, (category,))
+            WHERE s.motif_id LIKE %s
+            AND s.motif_id LIKE '%-%'
+            GROUP BY s.motif_id, s.label
+            HAVING COUNT(DISTINCT tm.motif_id) > 0
+            ORDER BY s.motif_id;
+        """, (f"{category}%",))
 
         ranges = []
         for row in cur.fetchall():
@@ -419,7 +418,7 @@ def get_tmi_ranges(category):
         cur.close()
         conn.close()
 
-        print(f"DEBUG: Found {len(ranges)} direct children for category {category}")
+        print(f"DEBUG: Found {len(ranges)} ranges for category {category}")
         return jsonify(ranges)
 
     except Exception as e:
@@ -433,162 +432,10 @@ def get_tmi_ranges(category):
             pass
         return jsonify({"error": str(e)}), 500
 
-# @app.route('/get_tmi_children/<parent_id>')
-# def get_tmi_children(parent_id):
-#     """Get direct children of any TMI node - used for drill-down navigation"""
-#     conn = psycopg2.connect(
-#         dbname=os.getenv('DB_NAME'),
-#         user=os.getenv('DB_USER'),
-#         host=os.getenv('DB_HOST'),
-#         port=os.getenv('DB_PORT')
-#     )
-#     cur = conn.cursor()
-#
-#     try:
-#         print(f"DEBUG: Getting children for parent_id '{parent_id}'")
-#
-#         # First, let's check if this parent exists in the edges table
-#         cur.execute("""
-#             SELECT COUNT(*) FROM folklore.motif_synopsis_edges
-#             WHERE motif_parent = %s;
-#         """, (parent_id,))
-#
-#         edge_count = cur.fetchone()[0]
-#         print(f"DEBUG: Found {edge_count} children for {parent_id}")
-#
-#         if edge_count == 0:
-#             print(f"DEBUG: No children found for {parent_id}")
-#             cur.close()
-#             conn.close()
-#             return jsonify([])
-#
-#         # Get direct children - simplified query first, then sort in Python
-#         cur.execute("""
-#             SELECT mse.motif_child, s.label
-#             FROM folklore.motif_synopsis_edges mse
-#             JOIN folklore.synopsis s ON mse.motif_child = s.motif_id
-#             WHERE mse.motif_parent = %s;
-#         """, (parent_id,))
-#
-#         results = cur.fetchall()
-#         print(f"DEBUG: Query returned {len(results)} rows")
-#
-#         # Custom sorting function
-#         def sort_tmi_children(item):
-#             child_id = item[0]
-#
-#             # Extract category letter
-#             category = child_id[0] if child_id else 'Z'
-#
-#             # Check if it's a range (contains dash)
-#             is_range = '-' in child_id
-#
-#             if is_range:
-#                 # Handle ranges like A100-A499
-#                 try:
-#                     parts = child_id.split('-')
-#                     start_num = int(''.join(filter(str.isdigit, parts[0])))
-#                     end_num = int(''.join(filter(str.isdigit, parts[1])))
-#                     # Ranges come SECOND (1), then sort by start number
-#                     return (category, 1, start_num, end_num, 0, 0)
-#                 except (ValueError, IndexError):
-#                     return (category, 1, 999999, 999999, 0, 0)
-#             else:
-#                 # Handle leaf nodes like A150, A150.1, A150.1.2
-#                 try:
-#                     # Remove category letter
-#                     num_part = child_id[1:] if len(child_id) > 1 else '0'
-#
-#                     # Split by dots for decimal handling
-#                     parts = num_part.split('.')
-#                     main_num = int(parts[0]) if parts[0].isdigit() else 0
-#                     decimal_1 = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else 0
-#                     decimal_2 = int(parts[2]) if len(parts) > 2 and parts[2].isdigit() else 0
-#
-#                     # Single bins come FIRST (0), then sort by numbers
-#                     return (category, 0, main_num, 0, decimal_1, decimal_2)
-#                 except (ValueError, IndexError):
-#                     return (category, 0, 999999, 0, 0, 0)
-#
-#         # Sort the results
-#         sorted_results = sorted(results, key=sort_tmi_children)
-#
-#         children = []
-#         for row in sorted_results:
-#             child_id = row[0]
-#             child_label = row[1]
-#
-#             # Check if this child has its own children
-#             cur.execute("""
-#                 SELECT COUNT(*) FROM folklore.motif_synopsis_edges
-#                 WHERE motif_parent = %s;
-#             """, (child_id,))
-#
-#             has_children_count = cur.fetchone()[0]
-#             has_children = has_children_count > 0
-#
-#             # Count connected motifs for this node
-#             if '-' in child_id:
-#                 # This is a range, count motifs within the range
-#                 pattern = child_id.replace('-', '%') + '%'
-#                 cur.execute("""
-#                     SELECT COUNT(DISTINCT tm.motif_id)
-#                     FROM folklore.motif_text mt
-#                     JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-#                     WHERE mt.motif_id LIKE %s;
-#                 """, (pattern,))
-#
-#                 connected_count = cur.fetchone()[0]
-#             else:
-#                 # This is a leaf node, count exact matches and prefix matches
-#                 cur.execute("""
-#                     SELECT COUNT(DISTINCT tm.motif_id)
-#                     FROM folklore.motif_text mt
-#                     JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-#                     WHERE mt.motif_id LIKE %s;
-#                 """, (f"{child_id}%",))
-#
-#                 connected_count = cur.fetchone()[0]
-#
-#             children.append({
-#                 'child_id': child_id,
-#                 'label': child_label,
-#                 'connected_count': connected_count,
-#                 'total_count': connected_count,  # Simplified for now
-#                 'has_children': has_children,
-#                 'is_leaf': not has_children
-#             })
-#
-#         cur.close()
-#         conn.close()
-#
-#         print(f"DEBUG: Returning {len(children)} children for {parent_id}")
-#         for child in children:
-#             print(
-#                 f"  - {child['child_id']}: {child['label']} (has_children: {child['has_children']}, connected: {child['connected_count']})")
-#
-#         return jsonify(children)
-#
-#     except Exception as e:
-#         print(f"ERROR in get_tmi_children: {str(e)}")
-#         import traceback
-#         traceback.print_exc()
-#         try:
-#             cur.close()
-#             conn.close()
-#         except:
-#             pass
-#         return jsonify({"error": str(e)}), 500
 
-@app.route('/get_tmi_children/<parent_id>')
-def get_tmi_children(parent_id):
-    # Add at the very beginning:
-    print(f"DEBUG get_tmi_children: parent_id={parent_id}")
-    limit_param = request.args.get('limit')
-    if limit_param:
-        print(f"*** get_tmi_children received limit parameter: {limit_param} ***")
-
-    """Get direct children of any TMI node - used for drill-down navigation"""
+@app.route('/get_tmi_subranges/<range_id>')
+def get_tmi_subranges(range_id):
+    """Get sub-ranges within a major range that have ATU connections"""
     conn = psycopg2.connect(
         dbname=os.getenv('DB_NAME'),
         user=os.getenv('DB_USER'),
@@ -598,89 +445,75 @@ def get_tmi_children(parent_id):
     cur = conn.cursor()
 
     try:
-        print(f"DEBUG: Getting children for parent_id '{parent_id}'")
+        print(f"DEBUG: Getting sub-ranges for range_id '{range_id}'")
 
-        # Get direct children
-        cur.execute("""
-            SELECT mse.motif_child, s.label
-            FROM folklore.motif_synopsis_edges mse
-            JOIN folklore.synopsis s ON mse.motif_child = s.motif_id
-            WHERE mse.motif_parent = %s;
-        """, (parent_id,))
-
-        results = cur.fetchall()
-        print(f"DEBUG: Query returned {len(results)} rows")
-
-        if len(results) == 0:
+        if '-' not in range_id:
+            print("DEBUG: No dash in range_id, returning empty")
             cur.close()
             conn.close()
             return jsonify([])
 
-        # Custom sorting function (keeping your existing sort logic)
-        def sort_tmi_children(item):
-            child_id = item[0]
-            category = child_id[0] if child_id else 'Z'
-            is_range = '-' in child_id
+        start_part, end_part = range_id.split('-')
+        category = start_part[0]  # Extract letter (A, B, etc.)
+        start_num = int(start_part[1:])  # Extract number part
+        end_num = int(end_part[1:])  # Extract number part
 
-            if is_range:
-                try:
-                    parts = child_id.split('-')
-                    start_num = int(''.join(filter(str.isdigit, parts[0])))
-                    end_num = int(''.join(filter(str.isdigit, parts[1])))
-                    return (category, 1, start_num, end_num, 0, 0)
-                except (ValueError, IndexError):
-                    return (category, 1, 999999, 999999, 0, 0)
-            else:
-                try:
-                    num_part = child_id[1:] if len(child_id) > 1 else '0'
-                    parts = num_part.split('.')
-                    main_num = int(parts[0]) if parts[0].isdigit() else 0
-                    decimal_1 = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else 0
-                    decimal_2 = int(parts[2]) if len(parts) > 2 and parts[2].isdigit() else 0
-                    return (category, 0, main_num, 0, decimal_1, decimal_2)
-                except (ValueError, IndexError):
-                    return (category, 0, 999999, 0, 0, 0)
+        print(f"DEBUG: Parsed range: {category}, {start_num}-{end_num}")
 
-        sorted_results = sorted(results, key=sort_tmi_children)
+        # Get all ranges in this category that might be sub-ranges
+        cur.execute("""
+            SELECT s.motif_id, s.label,
+                   COUNT(DISTINCT tm.motif_id) as connected_count,
+                   COUNT(DISTINCT mt.motif_id) as total_count
+            FROM folklore.synopsis s
+            LEFT JOIN folklore.motif_text mt ON mt.motif_id LIKE REPLACE(s.motif_id, '-', '%') || '%'
+            LEFT JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
+            WHERE s.motif_id LIKE %s
+            AND s.motif_id LIKE '%-%'
+            AND s.motif_id != %s
+            GROUP BY s.motif_id, s.label
+            HAVING COUNT(DISTINCT tm.motif_id) > 0
+            ORDER BY s.motif_id;
+        """, (f"{category}%", range_id))
 
-        children = []
-        for row in sorted_results:
-            child_id = row[0]
-            child_label = row[1]
+        all_subranges = cur.fetchall()
+        print(f"DEBUG: Found {len(all_subranges)} potential sub-ranges")
 
-            # Check if this child has its own children
-            cur.execute("""
-                SELECT COUNT(*) FROM folklore.motif_synopsis_edges 
-                WHERE motif_parent = %s;
-            """, (child_id,))
+        # Filter for sub-ranges that fall within our numeric range
+        subranges = []
+        for row in all_subranges:
+            subrange_id = row[0]
+            subrange_label = row[1]
+            connected_count = row[2]
+            total_count = row[3]
 
-            has_children_count = cur.fetchone()[0]
-            has_children = has_children_count > 0
+            # Check if this sub-range falls within our parent range
+            if '-' in subrange_id:
+                sub_parts = subrange_id.split('-')
+                if len(sub_parts) == 2 and sub_parts[0].startswith(category):
+                    try:
+                        sub_start_num = int(sub_parts[0][1:])
+                        sub_end_num = int(sub_parts[1][1:])
 
-            # Count connected motifs - FIXED LOGIC
-            connected_count = count_connected_motifs_in_range(cur, child_id)
-
-            children.append({
-                'child_id': child_id,
-                'label': child_label,
-                'connected_count': connected_count,
-                'total_count': connected_count,  # Simplified for now
-                'has_children': has_children,
-                'is_leaf': not has_children
-            })
+                        # Check if this sub-range is within our parent range
+                        if (sub_start_num >= start_num and sub_end_num <= end_num):
+                            subranges.append({
+                                'range_id': subrange_id,
+                                'label': subrange_label,
+                                'connected_count': connected_count,
+                                'total_count': total_count
+                            })
+                    except ValueError:
+                        continue
 
         cur.close()
         conn.close()
 
-        print(f"DEBUG: Returning {len(children)} children for {parent_id}")
-        for child in children:
-            print(
-                f"  - {child['child_id']}: connected={child['connected_count']}, has_children={child['has_children']}")
-
-        return jsonify(children)
+        print(f"DEBUG: Returning {len(subranges)} sub-ranges")
+        return jsonify(subranges)
 
     except Exception as e:
-        print(f"ERROR in get_tmi_children: {str(e)}")
+        print(f"ERROR in get_tmi_subranges: {str(e)}")
         import traceback
         traceback.print_exc()
         try:
@@ -691,97 +524,11 @@ def get_tmi_children(parent_id):
         return jsonify({"error": str(e)}), 500
 
 
-def count_connected_motifs_in_range(cur, range_id):
-    """Helper function to count connected motifs in a given TMI range or leaf"""
-
-    if '-' in range_id:
-        # Handle ranges like "A0-A99", "T100-T199", etc.
-        try:
-            parts = range_id.split('-')
-            start_part = parts[0]  # e.g., "T100"
-            end_part = parts[1]  # e.g., "T199"
-
-            category = start_part[0]  # e.g., "T"
-            start_num = int(''.join(filter(str.isdigit, start_part)))  # e.g., 100
-            end_num = int(''.join(filter(str.isdigit, end_part)))  # e.g., 199
-
-            print(f"DEBUG: Counting range {range_id} -> category={category}, range={start_num}-{end_num}")
-
-            # Count motifs where the numeric part falls within the range
-            cur.execute("""
-                SELECT COUNT(DISTINCT tm.motif_id)
-                FROM folklore.motif_text mt
-                JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-                WHERE mt.motif_id ~ %s
-                AND CAST(REGEXP_REPLACE(
-                    SPLIT_PART(mt.motif_id, '.', 1), 
-                    '[A-Z]', '', 'g'
-                ) AS INTEGER) BETWEEN %s AND %s;
-            """, (f"^{category}[0-9]", start_num, end_num))
-
-            result = cur.fetchone()[0]
-            print(f"DEBUG: Range {range_id} has {result} connected motifs")
-            return result
-
-        except (ValueError, IndexError) as e:
-            print(f"DEBUG: Error parsing range {range_id}: {e}")
-            return 0
-
-    else:
-        # Handle leaf nodes like "T100", "T110", etc.
-        # These are decade bins: T100 should include T100-T109
-        try:
-            if len(range_id) < 2:
-                return 0
-
-            category = range_id[0]
-            numeric_part = ''.join(filter(str.isdigit, range_id))
-
-            if not numeric_part:
-                return 0
-
-            bin_number = int(numeric_part)
-
-            # Determine the decade range for this bin
-            # T100 -> 100-109, T110 -> 110-119, T130 -> 130-139, etc.
-            range_start = bin_number
-            range_end = bin_number + 9
-
-            print(f"DEBUG: Counting leaf bin {range_id} -> category={category}, decade range={range_start}-{range_end}")
-
-            # Count motifs in this decade range
-            cur.execute("""
-                SELECT COUNT(DISTINCT tm.motif_id)
-                FROM folklore.motif_text mt
-                JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-                WHERE mt.motif_id ~ %s
-                AND CAST(REGEXP_REPLACE(
-                    SPLIT_PART(mt.motif_id, '.', 1), 
-                    '[A-Z]', '', 'g'
-                ) AS INTEGER) BETWEEN %s AND %s;
-            """, (f"^{category}[0-9]", range_start, range_end))
-
-            result = cur.fetchone()[0]
-            print(f"DEBUG: Leaf bin {range_id} has {result} connected motifs in range {range_start}-{range_end}")
-            return result
-
-        except Exception as e:
-            print(f"DEBUG: Error counting leaf {range_id}: {e}")
-            return 0
-
-
-@app.route('/get_motifs_for_node/<node_id>')
-def get_motifs_for_node(node_id):
-    """Get actual motifs for a TMI node (leaf bin) - ONLY those connected to ATU"""
+@app.route('/get_motifs_in_range/<range_id>')
+def get_motifs_in_range(range_id):
+    """Get actual motifs within a range - ONLY those connected to ATU"""
     limit = int(request.args.get('limit', 100))
     offset = int(request.args.get('offset', 0))
-
-    # DEBUG: Log the limit being used
-    print(f"DEBUG get_motifs_for_node: node_id={node_id}, limit={limit}, offset={offset}")
-    if limit == 5:
-        print("*** FOUND LIMIT 5 in get_motifs_for_node! ***")
-        import traceback
-        traceback.print_stack()
 
     conn = psycopg2.connect(
         dbname=os.getenv('DB_NAME'),
@@ -792,201 +539,62 @@ def get_motifs_for_node(node_id):
     cur = conn.cursor()
 
     try:
-        print(f"DEBUG: Getting motifs for node '{node_id}'")
-
-        # Determine if this is a range or a specific bin
-        if '-' in node_id:
-            # Handle ranges like A100-A499
-            start_part, end_part = node_id.split('-')
+        if '-' in range_id:
+            start_part, end_part = range_id.split('-')
             category = start_part[0]
-            start_num = int(''.join(filter(str.isdigit, start_part)))
-            end_num = int(''.join(filter(str.isdigit, end_part)))
+            start_num = int(start_part[1:])
+            end_num = int(end_part[1:])
 
-            print(f"DEBUG: Range detected - {category} from {start_num} to {end_num}")
-
+            # Get ONLY motifs that are connected to ATU tale types
             cur.execute("""
-                SELECT mt.motif_id, mt.text, COUNT(tm.type_id) as type_count
+                SELECT mt.motif_id, mt.text,
+                       COUNT(tm.type_id) as type_count
                 FROM folklore.motif_text mt
                 JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
                 WHERE mt.motif_id ~ %s
-                AND CAST(REGEXP_REPLACE(
-                    SPLIT_PART(mt.motif_id, '.', 1),
-                    '[A-Z]', '', 'g'
-                ) AS INTEGER) BETWEEN %s AND %s
+                AND CAST(REGEXP_REPLACE(mt.motif_id, '^[A-Z]([0-9]+).*', '\\1') AS INTEGER) BETWEEN %s AND %s
                 GROUP BY mt.motif_id, mt.text
                 ORDER BY 
-                    CAST(REGEXP_REPLACE(
-                        SPLIT_PART(mt.motif_id, '.', 1),
-                        '[A-Z]', '', 'g'
-                    ) AS INTEGER),
+                    CAST(REGEXP_REPLACE(mt.motif_id, '^[A-Z]([0-9]+).*', '\\1') AS INTEGER),
                     mt.motif_id
                 LIMIT %s OFFSET %s;
             """, (f"^{category}[0-9]", start_num, end_num, limit, offset))
 
-        else:
-            # Handle specific bins like T210, T100, etc.
-            # These should be DECADE bins: T210 = T210-T219
-            if len(node_id) < 2:
-                print(f"DEBUG: Node ID too short: {node_id}")
-                cur.close()
-                conn.close()
-                return jsonify({'motifs': [], 'total': 0, 'limit': limit, 'offset': offset})
-
-            category = node_id[0]
-            numeric_part = ''.join(filter(str.isdigit, node_id))
-
-            if not numeric_part:
-                print(f"DEBUG: No numeric part found in {node_id}")
-                cur.close()
-                conn.close()
-                return jsonify({'motifs': [], 'total': 0, 'limit': limit, 'offset': offset})
-
-            bin_number = int(numeric_part)
-
-            # Determine the DECADE range for this bin
-            # T210 -> 210-219, T100 -> 100-109, etc.
-            range_start = bin_number
-            range_end = bin_number + 9
-
-            print(f"DEBUG: Bin {node_id} -> category {category}, decade range {range_start}-{range_end}")
-
-            cur.execute("""
-                SELECT mt.motif_id, mt.text, COUNT(tm.type_id) as type_count
-                FROM folklore.motif_text mt
-                JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-                WHERE mt.motif_id ~ %s
-                AND CAST(REGEXP_REPLACE(
-                    SPLIT_PART(mt.motif_id, '.', 1),
-                    '[A-Z]', '', 'g'
-                ) AS INTEGER) BETWEEN %s AND %s
-                GROUP BY mt.motif_id, mt.text
-                ORDER BY 
-                    CAST(REGEXP_REPLACE(
-                        SPLIT_PART(mt.motif_id, '.', 1),
-                        '[A-Z]', '', 'g'
-                    ) AS INTEGER),
-                    LENGTH(mt.motif_id),
-                    mt.motif_id
-                LIMIT %s OFFSET %s;
-            """, (f"^{category}[0-9]", range_start, range_end, limit, offset))
-
-        results = cur.fetchall()
-
-        # Get total count using the same logic
-        if '-' in node_id:
-            cur.execute("""
-                SELECT COUNT(*)
-                FROM folklore.motif_text mt
-                JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-                WHERE mt.motif_id ~ %s
-                AND CAST(REGEXP_REPLACE(
-                    SPLIT_PART(mt.motif_id, '.', 1),
-                    '[A-Z]', '', 'g'
-                ) AS INTEGER) BETWEEN %s AND %s;
-            """, (f"^{category}[0-9]", start_num, end_num))
-        else:
-            cur.execute("""
-                SELECT COUNT(*)
-                FROM folklore.motif_text mt
-                JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-                WHERE mt.motif_id ~ %s
-                AND CAST(REGEXP_REPLACE(
-                    SPLIT_PART(mt.motif_id, '.', 1),
-                    '[A-Z]', '', 'g'
-                ) AS INTEGER) BETWEEN %s AND %s;
-            """, (f"^{category}[0-9]", range_start, range_end))
-
-        total_connected = cur.fetchone()[0]
-
-        print(f"DEBUG: Query returned {len(results)} connected motifs, total: {total_connected}")
-
-        motifs = []
-        for i, row in enumerate(results):
-            if len(row) >= 3:
+            motifs = []
+            for row in cur.fetchall():
                 motifs.append({
                     'motif_id': row[0],
                     'text': row[1],
                     'type_count': row[2]
                 })
 
+            # Get total count of connected motifs in this range
+            cur.execute("""
+                SELECT COUNT(*)
+                FROM folklore.motif_text mt
+                JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
+                WHERE mt.motif_id ~ %s
+                AND CAST(REGEXP_REPLACE(mt.motif_id, '^[A-Z]([0-9]+).*', '\\1') AS INTEGER) BETWEEN %s AND %s;
+            """, (f"^{category}[0-9]", start_num, end_num))
+
+            total_count = cur.fetchone()[0]
+        else:
+            return jsonify({'motifs': [], 'total': 0, 'limit': limit, 'offset': offset})
+
         cur.close()
         conn.close()
 
         return jsonify({
             'motifs': motifs,
-            'total': total_connected,
+            'total': total_count,
             'limit': limit,
             'offset': offset
         })
 
     except Exception as e:
-        print(f"ERROR in get_motifs_for_node: {str(e)}")
-        import traceback
-        traceback.print_exc()
-        try:
-            cur.close()
-            conn.close()
-        except:
-            pass
-        return jsonify({"error": str(e)}), 500
-
-
-@app.route('/get_tmi_breadcrumb/<node_id>')
-def get_tmi_breadcrumb(node_id):
-    """Get the breadcrumb trail for a TMI node"""
-    conn = psycopg2.connect(
-        dbname=os.getenv('DB_NAME'),
-        user=os.getenv('DB_USER'),
-        host=os.getenv('DB_HOST'),
-        port=os.getenv('DB_PORT')
-    )
-    cur = conn.cursor()
-
-    try:
-        breadcrumb = []
-        current_node = node_id
-
-        # Walk up the hierarchy to build breadcrumb
-        while current_node:
-            # Get current node details
-            cur.execute("""
-                SELECT s.motif_id, s.label
-                FROM folklore.synopsis s
-                WHERE s.motif_id = %s;
-            """, (current_node,))
-
-            node_data = cur.fetchone()
-            if node_data:
-                breadcrumb.insert(0, {
-                    'node_id': node_data[0],
-                    'label': node_data[1]
-                })
-
-            # Get parent
-            cur.execute("""
-                SELECT motif_parent
-                FROM folklore.motif_synopsis_edges
-                WHERE motif_child = %s;
-            """, (current_node,))
-
-            parent_data = cur.fetchone()
-            current_node = parent_data[0] if parent_data else None
-
         cur.close()
         conn.close()
-
-        return jsonify(breadcrumb)
-
-    except Exception as e:
-        print(f"ERROR in get_tmi_breadcrumb: {str(e)}")
-        try:
-            cur.close()
-            conn.close()
-        except:
-            pass
         return jsonify({"error": str(e)}), 500
-
-## END: USING THE EDGES TABLE
 
 
 @app.route('/get_types_in_range/<type_range>')

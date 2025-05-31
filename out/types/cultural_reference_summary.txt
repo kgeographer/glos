@@ -1,0 +1,181 @@
+============================================================
+CULTURAL REFERENCE CATEGORIZATION SUMMARY
+============================================================
+Total references analyzed: 41294
+Unique tale types: 2076
+Category Distribution:
+  geographic     : 13929 ( 33.7%)
+  unknown        : 13354 ( 32.3%)
+  linguistic     : 12383 ( 30.0%)
+  religious      :  842 (  2.0%)
+  ethnic_tribal  :  786 (  1.9%)
+Subcategory Breakdown:
+  ethnic_tribal   > group          :  786
+  geographic      > country        : 12575
+  geographic      > region         : 1354
+  linguistic      > language       : 12379
+  linguistic      > language_family:    4
+  religious       > religion       :  842
+  unknown         > unclassified   : 13354
+Confidence Score Distribution:
+  Very High : 25800 ( 62.5%)
+  Low       : 13354 ( 32.3%)
+  High      : 2140 (  5.2%)
+  Medium    :    0 (  0.0%)
+Sample unclassified references (for manual review):
+  'Argentine'
+  'Catalan'
+  'Cheremis/Mari'
+  'Chuvash'
+  'Costa Rican'
+  'Flemish'
+  'Frisian'
+  'Irish'
+  'Karelian'
+  'Kazakh'
+  'Lappish'
+  'Liberian'
+  'Livonian'
+  'Lydian'
+  'Mayan'
+  'Mexican'
+  'Mordvinian'
+  'Namibian'
+  'Nenets'
+  'Ossetian'
+  ... and 89 more
+============================================================
+TALE TYPE CULTURAL SIGNATURES
+============================================================
+Tale types with most cultural references:
+563: 96 references
+  unknown        : 44
+  geographic     : 33
+  linguistic     : 16
+  ethnic_tribal  :  2
+  religious      :  1
+  Examples:
+    'Adygea'
+    'Afghan'
+    'Algerian'
+    'Armenian'
+    'Austrian'
+    ... and 91 more
+301: 94 references
+  unknown        : 48
+  geographic     : 27
+  linguistic     : 16
+  ethnic_tribal  :  2
+  religious      :  1
+  Examples:
+    'Adygea'
+    'Afghan'
+    'Algerian'
+    'Argentine'
+    'Armenian'
+    ... and 89 more
+613: 91 references
+  unknown        : 42
+  geographic     : 30
+  linguistic     : 15
+  ethnic_tribal  :  3
+  religious      :  1
+  Examples:
+    'Albanian'
+    'Algerian'
+    'Armenian'
+    'Austrian'
+    'Basque'
+    ... and 86 more
+300: 91 references
+  unknown        : 43
+  geographic     : 29
+  linguistic     : 16
+  ethnic_tribal  :  2
+  religious      :  1
+  Examples:
+    'Adygea'
+    'Afghan'
+    'Algerian'
+    'Basque'
+    'Brazilian'
+    ... and 86 more
+313: 90 references
+  unknown        : 39
+  geographic     : 31
+  linguistic     : 16
+  ethnic_tribal  :  3
+  religious      :  1
+  Examples:
+    'Adygea'
+    'African American'
+    'Algerian'
+    'Argentine'
+    'Armenian'
+    ... and 85 more
+480: 89 references
+  unknown        : 42
+  geographic     : 28
+  linguistic     : 16
+  ethnic_tribal  :  2
+  religious      :  1
+  Examples:
+    'Adygea'
+    'Algerian'
+    'Aramaic'
+    'Argentine'
+    'Armenian'
+    ... and 84 more
+1539: 88 references
+  unknown        : 36
+  geographic     : 34
+  linguistic     : 15
+  ethnic_tribal  :  2
+  religious      :  1
+  Examples:
+    'Algerian'
+    'Argentine'
+    'Basque'
+    'Brazilian'
+    'Bulgarian'
+    ... and 83 more
+560: 87 references
+  unknown        : 40
+  geographic     : 29
+  linguistic     : 16
+  ethnic_tribal  :  1
+  religious      :  1
+  Examples:
+    'Abkhaz'
+    'Algerian'
+    'Aramaic'
+    'Argentine'
+    'Armenian'
+    ... and 82 more
+314: 86 references
+  unknown        : 41
+  geographic     : 27
+  linguistic     : 15
+  ethnic_tribal  :  2
+  religious      :  1
+  Examples:
+    'Adygea'
+    'Afghan'
+    'Algerian'
+    'Armenian'
+    'Austrian'
+    ... and 81 more
+1535: 86 references
+  unknown        : 39
+  geographic     : 29
+  linguistic     : 16
+  ethnic_tribal  :  1
+  religious      :  1
+  Examples:
+    'Algerian'
+    'Argentine'
+    'Brazilian'
+    'Bulgarian'
+    'Burmese'
+    ... and 81 more
+Detailed results saved to: out/types/cultural_reference_analysis.csv

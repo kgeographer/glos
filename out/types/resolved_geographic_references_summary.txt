@@ -1,0 +1,52 @@
+Loaded 41294 cultural references from out/types/cultural_reference_analysis.csv
+Resolving unknown geographic references...
+Resolved 6238 unknown references using automated methods:
+  demonym_lookup: 4319
+  indigenous_lookup: 1812
+  language_geographic: 107
+============================================================
+GEOGRAPHIC RESOLUTION REPORT
+============================================================
+Original unknown references: 13354
+Remaining unknown references: 7116
+Successfully resolved: 6238 (46.7%)
+Resolution methods used:
+  demonym_lookup: 4319
+  indigenous_lookup: 1812
+  language_geographic: 107
+Example resolved references:
+  'Argentine' -> geographic/country (Argentina)
+  'Catalan' -> geographic/country (Spain/Catalonia)
+  'Chuvash' -> ethnic_tribal/indigenous_group (Russia/Chuvashia)
+  'Costa Rican' -> geographic/country (Costa Rica)
+  'Flemish' -> geographic/country (Belgium/Flanders)
+  'Frisian' -> geographic/country (Netherlands/Frisia)
+  'Irish' -> geographic/country (Ireland)
+  'Karelian' -> ethnic_tribal/indigenous_group (Finland/Karelia)
+  'Kazakh' -> ethnic_tribal/indigenous_group (Kazakhstan)
+  'Lappish' -> ethnic_tribal/indigenous_group (Scandinavia/Sápmi)
+Remaining unknown references (first 20):
+  'Cheremis/Mari' - Similar to Cheremis (Russia/Mari El); Similar to Mari (Russia/Mari El)
+  'Palestinian' - Likely demonym/nationality
+  'Paraguayan' - Likely demonym/nationality
+  'Rumanian' - Likely demonym/nationality
+  'Slovene' - No obvious patterns
+  'Sorbian' - Likely demonym/nationality
+  'Sri Lankan' - Likely demonym/nationality
+  'Syrjanian' - Likely demonym/nationality
+  'Tatar' - No obvious patterns
+  'Uzbek' - No obvious patterns
+  'Votyak' - No obvious patterns
+  'Wepsian' - Likely demonym/nationality
+  'Wotian' - Likely demonym/nationality
+  'Moroccan' - Likely demonym/nationality
+  'Tuva' - No obvious patterns
+  'Oman' - Similar to Romani (Europe (dispersed)); Likely demonym/nationality
+  'Turkmen' - No obvious patterns
+  'Cape Verdian' - Likely demonym/nationality
+  'Dominican' - Likely demonym/nationality
+  'Kalmyk' - No obvious patterns
+Updated analysis saved to: out/types/cultural_reference_analysis_resolved.csv
+Exported 7116 unknown references for manual review: out/types/manual_review_needed.csv
+Exported 6238 resolved references: out/types/resolved_geographic_references.csv
+

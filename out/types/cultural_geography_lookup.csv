@@ -1,0 +1,1015 @@
+category,subcategory,geographic_region,latitude,longitude,confidence,resolution_method,ref_term,usage_count,source_tables
+unknown,unresolved,,,,0.0,unresolved,Abkhaz,83,type
+unknown,unresolved,,,,0.0,unresolved,Achawoi,1,motif
+unknown,unresolved,,,,0.0,unresolved,Admiralty Island,1,motif
+unknown,unresolved,,,,0.0,unresolved,Adygea,59,type
+geographic,country,Afghanistan,33.9,67.7,0.98,claude_knowledge_direct,Afghan,45,type
+unknown,unresolved,,,,0.0,unresolved,Africa,149,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Akan-Ashanti),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ashanti),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ba-Ronga),9,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Baholoholo),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bakuba),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Baluba),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Baluga),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bambara),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bangola),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bankon),9,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bantu),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Basuto),98,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Baukon),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bayaka),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bechuana),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bena Makuni),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Benga),66,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Betsileo),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Boloki),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bondei),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bulu),10,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bushman),16,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bushonga),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Bushongo),12,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Chaga),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Cold Coast),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Congo),29,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Dahomey),6,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Dinka),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Dschagga),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Duala),30,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Dzalamo),6,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Efik-Ibibo),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ekoi),156,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Fang),145,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Fjort),48,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Fulah),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ganda),7,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Gold Coast),47,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Guinea Coast),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Hausa),28,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Hottentot),25,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ibo of Nigeria),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ibo),13,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ila),20,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Jaunde),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Kaffir),88,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Kamerun),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Kenya),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Kiyansi),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Konde),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Konnoh),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Kordofan),10,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Kpelle),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Kweli),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Lamami),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Lamba),7,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Larusa),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Loango),11,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Luba),28,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Mambettu),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Masai),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Mbundu),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Mkulwe),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Mossi),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Mpongwe),24,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Mwimbe),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nago),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nama),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nao),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ndau),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nuba),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nubia),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nupe),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nyang),6,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nyanja),4,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Nyika),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Pahouin),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Pahouine),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Pahouini),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Pangwe),6,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Pooloki),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Quelimane),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Rhodesia),20,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ronga),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Rozwi),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Rundi),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (San),29,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Sandeh),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Senegambia),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Shangang),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Shangani),6,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Somali),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (South of Zambesi),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Sudanese),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Suto),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Swahili),18,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Swazi),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Temne),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Tim),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Timne),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Togo),14,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Tosa),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Tshi),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Tsonga),21,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Upoto),23,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Vai),30,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Venda),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Wachaga),15,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Wakweli),30,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Washaga),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Western Sudan),3,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Weute),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Wolof),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Wute),13,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Yaunde),5,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Yoruba),19,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Zanzibar),9,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Zezuru),1,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Ziba),2,motif
+unknown,unresolved,,,,0.0,unresolved,Africa (Zulu),80,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,African American,155,type
+unknown,unresolved,,,,0.0,unresolved,Ainu,1,motif
+geographic,country,Albania,41.2,19.6,0.98,claude_knowledge_direct,Albanian,130,type
+geographic,country,Algeria,28.0,1.7,0.98,claude_knowledge_direct,Algerian,328,type
+unknown,unresolved,,,,0.0,unresolved,Altaic,3,type
+unknown,unresolved,,,,0.0,unresolved,Alu,28,motif
+ethnic_tribal,african_group,Africa,0.0,20.0,0.7,pattern_african,Am. African (Kaffir),1,motif
+unknown,unresolved,,,,0.0,unresolved,Am. Indian (Apapocuva),3,motif
+unknown,unresolved,,,,0.0,unresolved,Am. Indian (Cashinawa),22,motif
+unknown,unresolved,,,,0.0,unresolved,Am. Indian (Honduras and Nicaragua),1,motif
+unknown,unresolved,,,,0.0,unresolved,Am. Indian (Ladino),1,motif
+unknown,unresolved,,,,0.0,unresolved,Am. Indian (Quiche),1,motif
+unknown,unresolved,,,,0.0,unresolved,Amalfi,1,motif
+unknown,unresolved,,,,0.0,unresolved,Amazon tribes,2,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian,9,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Andes),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Aztec),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Central Brazil),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Cheyenne),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Chiriguano),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Creek),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Maya),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Mono),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Namba),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Paiute),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Puerto Rico),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Salinan),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Seneca),2,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Thompson River),6,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Tlingit),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Indian (Zusi),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Negro,13,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Negro (Georgia),67,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Negro (Pennsylvania),1,motif
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,American Negro (Virginia),2,motif
+unknown,unresolved,,,,0.0,unresolved,Angola,75,motif
+unknown,unresolved,,,,0.0,unresolved,Angolan,8,type
+unknown,unresolved,,,,0.0,unresolved,Antigua,3,motif
+unknown,unresolved,,,,0.0,unresolved,Arab,38,motif
+unknown,unresolved,,,,0.0,unresolved,Arabian,30,motif
+unknown,unresolved,,,,0.0,unresolved,Arabic,2,motif
+unknown,unresolved,,,,0.0,unresolved,Aramaic,63,type
+unknown,unresolved,,,,0.0,unresolved,Arapaho,1,motif
+unknown,unresolved,,,,0.0,unresolved,Araucanian Mapuche,2,motif
+unknown,unresolved,,,,0.0,unresolved,Arawak,2,motif
+unknown,unresolved,,,,0.0,unresolved,Argentina,22,motif
+geographic,country,Argentina,-38.4,-63.6,0.98,claude_knowledge_direct,Argentine,147,type
+unknown,unresolved,,,,0.0,unresolved,Arikara,1,motif
+unknown,unresolved,,,,0.0,unresolved,Armenia,25,motif
+geographic,country,Armenia,40.1,45.0,0.98,claude_knowledge_direct,Armenian,133,type
+unknown,unresolved,,,,0.0,unresolved,Arunta,1,motif
+unknown,unresolved,,,,0.0,unresolved,Assyrian,5,motif
+unknown,unresolved,,,,0.0,unresolved,Aurora (New Hebrides),2,motif
+unknown,unresolved,,,,0.0,unresolved,Australia,17,motif
+geographic,country,Australia,-25.3,131.0,0.98,claude_knowledge_direct,Australian,56,type
+geographic,country,Austria,47.5,14.6,0.98,claude_knowledge_direct,Austrian,335,motif
+geographic,country,Austria,47.5,14.6,0.98,claude_knowledge_direct,Austrian,335,type
+unknown,unresolved,,,,0.0,unresolved,Azerbaijan,30,type
+unknown,unresolved,,,,0.0,unresolved,Aztec,25,motif
+unknown,unresolved,,,,0.0,unresolved,Babylonia,54,motif
+unknown,unresolved,,,,0.0,unresolved,Bahamas,1,motif
+geographic,region,Baltic States,56.9,24.1,0.85,claude_knowledge_direct,Baltic,1,motif
+unknown,unresolved,,,,0.0,unresolved,Banks Islands,7,motif
+unknown,unresolved,,,,0.0,unresolved,Bashkir,1,type
+ethnic_tribal,linguistic_group,Basque Country,43.2,-2.9,0.95,claude_knowledge_direct,Basque,127,type
+unknown,unresolved,,,,0.0,unresolved,Basuto,1,motif
+unknown,unresolved,,,,0.0,unresolved,Batak,2,motif
+unknown,unresolved,,,,0.0,unresolved,Beckwith Myth,1,motif
+unknown,unresolved,,,,0.0,unresolved,Benga,10,motif
+unknown,unresolved,,,,0.0,unresolved,Benin,4,type
+unknown,unresolved,,,,0.0,unresolved,Berber,1,motif
+unknown,unresolved,,,,0.0,unresolved,Biscayans,1,motif
+unknown,unresolved,,,,0.0,unresolved,Bohemia,2,motif
+geographic,country,Bolivia,-16.3,-63.6,0.98,claude_knowledge_direct,Bolivian,22,type
+unknown,unresolved,,,,0.0,unresolved,Borneo,8,motif
+unknown,unresolved,,,,0.0,unresolved,Bosnian,77,type
+unknown,unresolved,,,,0.0,unresolved,Botswana,1,type
+unknown,unresolved,,,,0.0,unresolved,Bougainville,1,motif
+unknown,unresolved,,,,0.0,unresolved,Brazil,25,motif
+geographic,country,Brazil,-14.2,-51.9,0.98,claude_knowledge_direct,Brazilian,164,type
+unknown,unresolved,,,,0.0,unresolved,British,3,motif
+unknown,unresolved,,,,0.0,unresolved,British New Guinea,1,motif
+unknown,unresolved,,,,0.0,unresolved,British West Indies,1,motif
+unknown,unresolved,,,,0.0,unresolved,Brittany,395,motif
+unknown,unresolved,,,,0.0,unresolved,Buddhist,453,motif
+unknown,unresolved,,,,0.0,unresolved,Buin,5,motif
+unknown,unresolved,,,,0.0,unresolved,Bulgaria,2,motif
+geographic,country,Bulgaria,42.7,25.5,0.98,claude_knowledge_direct,Bulgarian,763,type
+unknown,unresolved,,,,0.0,unresolved,Bulu,5,motif
+unknown,unresolved,,,,0.0,unresolved,Buriat,6,motif
+unknown,unresolved,,,,0.0,unresolved,Burma,4,motif
+geographic,country,Myanmar,21.9,95.9,0.98,claude_knowledge_direct,Burmese,117,type
+ethnic_tribal,mongolic_people,Buryatia/Russia,51.8,107.6,0.9,claude_knowledge_direct,Buryat,70,type
+unknown,unresolved,,,,0.0,unresolved,Bushongo,2,motif
+unknown,unresolved,,,,0.0,unresolved,Byelorussian,538,type
+unknown,unresolved,,,,0.0,unresolved,Cakchiquel,1,motif
+unknown,unresolved,,,,0.0,unresolved,California,44,motif
+unknown,unresolved,,,,0.0,unresolved,California tribes (Capistrano),1,motif
+unknown,unresolved,,,,0.0,unresolved,California tribes (Diegueso),1,motif
+unknown,unresolved,,,,0.0,unresolved,California tribes (Luiseso),1,motif
+unknown,unresolved,,,,0.0,unresolved,California tribes (Mohave),1,motif
+geographic,country,Cambodia,12.6,104.9,0.98,claude_knowledge_direct,Cambodian,67,type
+unknown,unresolved,,,,0.0,unresolved,Cameroon,77,type
+unknown,unresolved,,,,0.0,unresolved,Cameroon,77,motif
+unknown,unresolved,,,,0.0,unresolved,Canada,247,motif
+unknown,unresolved,,,,0.0,unresolved,Cape Verde Islands,43,motif
+geographic,country,Cape Verde,16.0,-24.0,0.98,claude_knowledge_direct,Cape Verdian,71,type
+unknown,unresolved,,,,0.0,unresolved,Caribbean,7,motif
+unknown,unresolved,,,,0.0,unresolved,Caribbean (Cuan),1,motif
+unknown,unresolved,,,,0.0,unresolved,Caroline Islands,2,motif
+linguistic,regional_language,Catalonia/Spain,41.8,1.6,0.95,claude_knowledge_direct,Catalan,576,type
+unknown,unresolved,,,,0.0,unresolved,Catalonia,1,motif
+unknown,unresolved,,,,0.0,unresolved,Caucasian,1,motif
+unknown,unresolved,,,,0.0,unresolved,Ceiuci,1,motif
+unknown,unresolved,,,,0.0,unresolved,Celebes,3,motif
+unknown,unresolved,,,,0.0,unresolved,Celtic,7,motif
+unknown,unresolved,,,,0.0,unresolved,Celtic-Norse,1,motif
+ethnic_tribal,african_group,Africa,0.0,20.0,0.7,pattern_african,Central African,57,type
+unknown,unresolved,,,,0.0,unresolved,Central Algonquian tribes,1,motif
+unknown,unresolved,,,,0.0,unresolved,Central America,2,motif
+unknown,unresolved,,,,0.0,unresolved,Central Brazil,1,motif
+unknown,unresolved,,,,0.0,unresolved,Central Caroline Islands,2,motif
+unknown,unresolved,,,,0.0,unresolved,Central Polynesia,1,motif
+unknown,unresolved,,,,0.0,unresolved,Chad,7,type
+unknown,unresolved,,,,0.0,unresolved,Chatham Islands,1,motif
+unknown,unresolved,,,,0.0,unresolved,Chechen-Ingush,9,type
+linguistic,uralic_language,Mari El/Russia,56.6,47.9,0.9,claude_knowledge_direct,Cheremis,235,motif
+linguistic,uralic_language,Mari El/Russia,56.6,47.9,0.85,claude_knowledge_direct,Cheremis/Mari,210,type
+unknown,unresolved,,,,0.0,unresolved,Cherokee,9,motif
+unknown,unresolved,,,,0.0,unresolved,Cheyenne,5,motif
+unknown,unresolved,,,,0.0,unresolved,Chibcha,6,motif
+unknown,unresolved,,,,0.0,unresolved,Chile,3,motif
+geographic,country,Chile,-35.7,-71.5,0.98,claude_knowledge_direct,Chilean,210,type
+unknown,unresolved,,,,0.0,unresolved,China,1172,motif
+unknown,unresolved,,,,0.0,unresolved,Chincha (Peru),1,motif
+geographic,country,China,35.9,104.2,0.98,claude_knowledge_direct,Chinese,522,type
+unknown,unresolved,,,,0.0,unresolved,Chitimacha,2,motif
+unknown,unresolved,,,,0.0,unresolved,Choctaw,2,motif
+unknown,unresolved,,,,0.0,unresolved,Chuh,2,motif
+unknown,unresolved,,,,0.0,unresolved,Chuh (Guatemala),1,motif
+linguistic,turkic_language,Chuvashia/Russia,55.5,47.2,0.9,claude_knowledge_direct,Chuvash,115,type
+unknown,unresolved,,,,0.0,unresolved,Chuvashan,1,motif
+unknown,unresolved,,,,0.0,unresolved,Circassian,2,motif
+unknown,unresolved,,,,0.0,unresolved,Colombia,1,motif
+geographic,country,Colombia,4.6,-74.1,0.98,claude_knowledge_direct,Colombian,11,type
+unknown,unresolved,,,,0.0,unresolved,Congo,9,motif
+unknown,unresolved,,,,0.0,unresolved,Congolese,37,type
+unknown,unresolved,,,,0.0,unresolved,Cook Islands,21,motif
+unknown,unresolved,,,,0.0,unresolved,Corsican,1,motif
+geographic,country,Costa Rica,9.7,-83.8,0.98,claude_knowledge_direct,Costa Rican,22,type
+geographic,country,Croatia,45.1,15.2,0.98,claude_knowledge_direct,Croatian,338,type
+unknown,unresolved,,,,0.0,unresolved,Crow,1,motif
+geographic,country,Cuba,21.5,-77.8,0.98,claude_knowledge_direct,Cuban,77,type
+unknown,unresolved,,,,0.0,unresolved,Cyprus,4,motif
+geographic,country,Czech Republic,49.8,15.5,0.98,claude_knowledge_direct,Czech,572,type
+unknown,unresolved,,,,0.0,unresolved,Czech Republic,8,motif
+unknown,unresolved,,,,0.0,unresolved,Dagestan,41,type
+unknown,unresolved,,,,0.0,unresolved,Dakota,2,motif
+geographic,country,Denmark,56.3,9.5,0.98,claude_knowledge_direct,Danish,625,type
+unknown,unresolved,,,,0.0,unresolved,Denmark,143,motif
+unknown,unresolved,,,,0.0,unresolved,Diegueso,1,motif
+unknown,unresolved,,,,0.0,unresolved,Ditmarsch,1,motif
+geographic,country,Dominican Republic,18.7,-70.2,0.98,claude_knowledge_direct,Dominican,138,type
+unknown,unresolved,,,,0.0,unresolved,Druze,5,type
+unknown,unresolved,,,,0.0,unresolved,Duala,1,motif
+geographic,country,Netherlands,52.1,5.3,0.98,claude_knowledge_direct,Dutch,612,type
+unknown,unresolved,,,,0.0,unresolved,East Africa,7,motif
+ethnic_tribal,african_group,Africa,0.0,20.0,0.7,pattern_african,East African,126,type
+unknown,unresolved,,,,0.0,unresolved,East Gothic,1,motif
+unknown,unresolved,,,,0.0,unresolved,Easter Island,63,motif
+unknown,unresolved,,,,0.0,unresolved,Eastern Brazil,4,motif
+geographic,country,Ecuador,-1.8,-78.2,0.98,claude_knowledge_direct,Ecuadorian,17,type
+unknown,unresolved,,,,0.0,unresolved,Egypt,47,motif
+geographic,country,Egypt,26.8,30.8,0.98,claude_knowledge_direct,Egyptian,551,type
+unknown,unresolved,,,,0.0,unresolved,Ekoi,11,motif
+unknown,unresolved,,,,0.0,unresolved,Ellice Island,1,motif
+unknown,unresolved,,,,0.0,unresolved,England,1023,motif
+unknown,unresolved,,,,0.0,unresolved,English,514,type
+unknown,unresolved,,,,0.0,unresolved,Eritrean,24,type
+ethnic_tribal,indigenous_group,Arctic,70.0,-100.0,0.95,claude_knowledge_direct,Eskimo,29,type
+ethnic_tribal,indigenous_group,Arctic,70.0,-100.0,0.95,claude_knowledge_direct,Eskimo,29,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Alaska),3,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Aleut),7,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Bering Strait),42,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Cape York),12,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Central),19,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Cumberland Sound),50,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (East Greenland),6,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Greenland),429,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Kodiak),34,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Koryak),2,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Labrador),23,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Mackenzie Area),58,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Smith Sound),13,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (Ungava),13,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (West Greenland),1,motif
+unknown,unresolved,,,,0.0,unresolved,Eskimo (West Hudson Bay),24,motif
+unknown,unresolved,,,,0.0,unresolved,Espinosa,1,motif
+unknown,unresolved,,,,0.0,unresolved,Estonia,207,motif
+geographic,country,Estonia,58.6,25.0,0.98,claude_knowledge_direct,Estonian,769,type
+geographic,country,Ethiopia,9.1,40.5,0.98,claude_knowledge_direct,Ethiopian,52,type
+unknown,unresolved,,,,0.0,unresolved,Etruscan,1,motif
+unknown,unresolved,,,,0.0,unresolved,Fable,7,motif
+geographic,territory,Faroe Islands,62.0,-6.8,0.98,claude_knowledge_direct,Faeroese,133,type
+unknown,unresolved,,,,0.0,unresolved,Farau,1,motif
+unknown,unresolved,,,,0.0,unresolved,Faroe islands,1,motif
+unknown,unresolved,,,,0.0,unresolved,Fartse,3,motif
+unknown,unresolved,,,,0.0,unresolved,Fauru,2,motif
+unknown,unresolved,,,,0.0,unresolved,Fdroe,1,motif
+unknown,unresolved,,,,0.0,unresolved,Fiji,11,motif
+geographic,country,Philippines,12.9,121.8,0.98,claude_knowledge_direct,Filipino,52,type
+unknown,unresolved,,,,0.0,unresolved,Finland,488,motif
+geographic,country,Finland,61.9,25.7,0.98,claude_knowledge_direct,Finnish,1112,type
+unknown,unresolved,,,,0.0,unresolved,Finnish-Swedish,200,motif
+unknown,unresolved,,,,0.0,unresolved,Finno-Ugric,10,motif
+linguistic,regional_language,Flanders/Belgium,51.0,4.5,0.95,claude_knowledge_direct,Flemish,645,motif
+linguistic,regional_language,Flanders/Belgium,51.0,4.5,0.95,claude_knowledge_direct,Flemish,645,type
+unknown,unresolved,,,,0.0,unresolved,France,623,motif
+geographic,country,France,46.6,2.2,0.98,claude_knowledge_direct,French,834,type
+unknown,unresolved,,,,0.0,unresolved,French Congo,6,motif
+unknown,unresolved,,,,0.0,unresolved,French-Canadian,223,motif
+linguistic,regional_language,Frisia/Netherlands,53.2,5.8,0.95,claude_knowledge_direct,Frisian,771,type
+unknown,unresolved,,,,0.0,unresolved,Fuegian,1,motif
+unknown,unresolved,,,,0.0,unresolved,Gascon,13,motif
+unknown,unresolved,,,,0.0,unresolved,Gaster,1,motif
+unknown,unresolved,,,,0.0,unresolved,Georgia,1,motif
+unknown,unresolved,,,,0.0,unresolved,Georgia (U.S.),3,motif
+unknown,unresolved,,,,0.0,unresolved,Georgian,343,type
+geographic,country,Germany,51.2,10.5,0.98,claude_knowledge_direct,German,1319,type
+unknown,unresolved,,,,0.0,unresolved,German New Guinea,7,motif
+unknown,unresolved,,,,0.0,unresolved,Germanic,13,motif
+unknown,unresolved,,,,0.0,unresolved,Germany,549,motif
+geographic,country,Ghana,7.9,-1.0,0.98,claude_knowledge_direct,Ghanaian,21,type
+unknown,unresolved,,,,0.0,unresolved,Gilbert Islands,5,motif
+unknown,unresolved,,,,0.0,unresolved,Gold Coast,21,motif
+unknown,unresolved,,,,0.0,unresolved,Gonzenbach,1,motif
+unknown,unresolved,,,,0.0,unresolved,Greece,746,motif
+geographic,country,Greece,39.1,21.8,0.98,claude_knowledge_direct,Greek,873,type
+unknown,unresolved,,,,0.0,unresolved,Greek-Roman,1,motif
+unknown,unresolved,,,,0.0,unresolved,Greenland,2,motif
+unknown,unresolved,,,,0.0,unresolved,Guaray',2,motif
+geographic,country,Guatemala,15.8,-90.2,0.98,claude_knowledge_direct,Guatemalan,36,type
+unknown,unresolved,,,,0.0,unresolved,Guianese,2,type
+unknown,unresolved,,,,0.0,unresolved,Guinea Bissau,2,type
+unknown,unresolved,,,,0.0,unresolved,Guinean,32,type
+unknown,unresolved,,,,0.0,unresolved,Gypsy,498,motif
+unknown,unresolved,,,,0.0,unresolved,Gypsy,498,type
+unknown,unresolved,,,,0.0,unresolved,Haiti,8,motif
+unknown,unresolved,,,,0.0,unresolved,Halmahera,1,motif
+unknown,unresolved,,,,0.0,unresolved,Hanover,2,motif
+unknown,unresolved,,,,0.0,unresolved,Hawaii,482,motif
+unknown,unresolved,,,,0.0,unresolved,Hawaiian,5,type
+unknown,unresolved,,,,0.0,unresolved,Hebrew,31,motif
+unknown,unresolved,,,,0.0,unresolved,Herero,1,motif
+unknown,unresolved,,,,0.0,unresolved,Hindu,264,motif
+unknown,unresolved,,,,0.0,unresolved,Hivaoa (Marquesas),6,motif
+unknown,unresolved,,,,0.0,unresolved,Honduran,1,type
+unknown,unresolved,,,,0.0,unresolved,Hopi,1,motif
+unknown,unresolved,,,,0.0,unresolved,Hottentot,12,motif
+unknown,unresolved,,,,0.0,unresolved,Huichol,1,motif
+geographic,country,Hungary,47.2,19.5,0.98,claude_knowledge_direct,Hungarian,929,type
+unknown,unresolved,,,,0.0,unresolved,Hungary,5,motif
+unknown,unresolved,,,,0.0,unresolved,Hupa,1,motif
+unknown,unresolved,,,,0.0,unresolved,Ibo (Nigeria),18,motif
+unknown,unresolved,,,,0.0,unresolved,Iceland,2963,motif
+geographic,country,Iceland,64.9,-19.0,0.98,claude_knowledge_direct,Icelandic,207,type
+unknown,unresolved,,,,0.0,unresolved,Igorot (Luzon),1,motif
+unknown,unresolved,,,,0.0,unresolved,Ila (Rhodesia),61,motif
+unknown,unresolved,,,,0.0,unresolved,Inca,38,motif
+unknown,unresolved,,,,0.0,unresolved,India,9281,motif
+unknown,unresolved,,,,0.0,unresolved,India (Kashmir),1,motif
+geographic,country,India,20.6,78.9,0.98,claude_knowledge_direct,Indian,694,type
+unknown,unresolved,,,,0.0,unresolved,Indian (Amazon),3,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Bacairi),2,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Baikairi),1,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Cashinawa),40,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Cora),1,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Fuegian),4,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Guarayu),4,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Jivaro),6,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Mataco),13,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Sherente),1,motif
+unknown,unresolved,,,,0.0,unresolved,Indian (Tiatinagua),3,motif
+unknown,unresolved,,,,0.0,unresolved,Indians (Antioquians),1,motif
+unknown,unresolved,,,,0.0,unresolved,Indo-China,17,motif
+unknown,unresolved,,,,0.0,unresolved,Indo-China (Wa tribe),1,motif
+unknown,unresolved,,,,0.0,unresolved,Indo-Iranian,1,motif
+unknown,unresolved,,,,0.0,unresolved,Indonesia,274,motif
+unknown,unresolved,,,,0.0,unresolved,Indonesia (Soemba),1,motif
+geographic,country,Indonesia,-0.8,113.9,0.98,claude_knowledge_direct,Indonesian,134,type
+geographic,country,Iran,32.4,53.7,0.98,claude_knowledge_direct,Iranian,340,type
+unknown,unresolved,,,,0.0,unresolved,Iraq,1,motif
+geographic,country,Iraq,33.2,43.7,0.98,claude_knowledge_direct,Iraqi,336,type
+unknown,unresolved,,,,0.0,unresolved,Ireland,7737,motif
+geographic,country,Ireland,53.4,-8.2,0.98,claude_knowledge_direct,Irish,741,type
+unknown,unresolved,,,,0.0,unresolved,Iroquois,2,motif
+unknown,unresolved,,,,0.0,unresolved,Isthmian tribes (Panama),1,motif
+unknown,unresolved,,,,0.0,unresolved,Istria,1,motif
+geographic,country,Italy,41.9,12.6,0.98,claude_knowledge_direct,Italian,826,type
+unknown,unresolved,,,,0.0,unresolved,Italy,1785,motif
+unknown,unresolved,,,,0.0,unresolved,Ivory Coast,1,type
+unknown,unresolved,,,,0.0,unresolved,Jamaica,76,motif
+unknown,unresolved,,,,0.0,unresolved,Japan,435,motif
+geographic,country,Japan,36.2,138.3,0.98,claude_knowledge_direct,Japanese,350,type
+unknown,unresolved,,,,0.0,unresolved,Java,4,motif
+unknown,unresolved,,,,0.0,unresolved,Jewish,3934,motif
+unknown,unresolved,,,,0.0,unresolved,Jewish,3934,type
+geographic,country,Jordan,30.6,36.2,0.98,claude_knowledge_direct,Jordanian,99,type
+unknown,unresolved,,,,0.0,unresolved,Kabardin,2,type
+unknown,unresolved,,,,0.0,unresolved,Kabyle,1,motif
+unknown,unresolved,,,,0.0,unresolved,Kachin (North Burma),4,motif
+unknown,unresolved,,,,0.0,unresolved,Kaffir,8,motif
+unknown,unresolved,,,,0.0,unresolved,Kai (German New Guinea),4,motif
+ethnic_tribal,mongolic_people,Kalmykia/Russia,46.3,44.3,0.9,claude_knowledge_direct,Kalmyk,70,type
+unknown,unresolved,,,,0.0,unresolved,Kamchadale,1,motif
+unknown,unresolved,,,,0.0,unresolved,Kara-Kalpak,20,type
+unknown,unresolved,,,,0.0,unresolved,Karachay,6,type
+linguistic,uralic_language,Karelia/Russia,63.2,32.4,0.9,claude_knowledge_direct,Karelian,265,type
+unknown,unresolved,,,,0.0,unresolved,Karok,1,motif
+unknown,unresolved,,,,0.0,unresolved,Kashubian,2,type
+unknown,unresolved,,,,0.0,unresolved,Kaska,16,motif
+unknown,unresolved,,,,0.0,unresolved,Kassai (Congo),1,motif
+geographic,country,Kazakhstan,48.0,66.9,0.98,claude_knowledge_direct,Kazakh,67,type
+geographic,country,Kenya,-0.0,37.9,0.98,claude_knowledge_direct,Kenyan,4,type
+unknown,unresolved,,,,0.0,unresolved,Kirghiz,11,type
+unknown,unresolved,,,,0.0,unresolved,Klikitat,2,motif
+unknown,unresolved,,,,0.0,unresolved,Kodiak,1,motif
+unknown,unresolved,,,,0.0,unresolved,Korea,172,motif
+geographic,country,South Korea,35.9,127.8,0.98,claude_knowledge_direct,Korean,119,type
+unknown,unresolved,,,,0.0,unresolved,Koryak,13,motif
+ethnic_tribal,stateless_people,Kurdistan,36.5,43.0,0.9,claude_knowledge_direct,Kurdish,151,type
+geographic,country,Kuwait,29.3,47.5,0.98,claude_knowledge_direct,Kuwaiti,67,type
+unknown,unresolved,,,,0.0,unresolved,Kyrgystan,1,motif
+unknown,unresolved,,,,0.0,unresolved,Ladinian,158,type
+unknown,unresolved,,,,0.0,unresolved,Ladino,2,motif
+unknown,unresolved,,,,0.0,unresolved,Laguna and Zusi,2,motif
+geographic,country,Laos,19.9,102.5,0.98,claude_knowledge_direct,Laotian,16,type
+unknown,unresolved,,,,0.0,unresolved,Lappish,380,motif
+unknown,unresolved,,,,0.0,unresolved,Lappish,380,type
+unknown,unresolved,,,,0.0,unresolved,Lat Am. Africa (Cameroons),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Africa (Angola),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Africa (Basuto),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Africa (Ekoi),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian,2,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian (Carib),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian (Cashinawa),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian (Chibcha),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian (Jibaro),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian (Peru),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian (Yuracare),2,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Indian (Zusi),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Irish myth,1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Philippines (Tinguian),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Tahiti,2,motif
+unknown,unresolved,,,,0.0,unresolved,Lat. Am. Uganda,1,motif
+unknown,unresolved,,,,0.0,unresolved,Latin,5,motif
+unknown,unresolved,,,,0.0,unresolved,Latin America,3,motif
+unknown,unresolved,,,,0.0,unresolved,Latvia,1,motif
+geographic,country,Latvia,56.9,24.6,0.98,claude_knowledge_direct,Latvian,1084,type
+unknown,unresolved,,,,0.0,unresolved,Lau Islands,2,motif
+geographic,country,Lebanon,33.9,35.5,0.98,claude_knowledge_direct,Lebanese,113,type
+unknown,unresolved,,,,0.0,unresolved,Leper's Island,5,motif
+unknown,unresolved,,,,0.0,unresolved,Lettish,8,motif
+unknown,unresolved,,,,0.0,unresolved,Lettish and Lithuanian,1,motif
+unknown,unresolved,,,,0.0,unresolved,Liberia,9,motif
+geographic,country,Liberia,6.4,-9.4,0.98,claude_knowledge_direct,Liberian,2,type
+geographic,country,Libya,26.3,17.2,0.98,claude_knowledge_direct,Libyan,72,type
+unknown,unresolved,,,,0.0,unresolved,Lithuania,784,motif
+geographic,country,Lithuania,55.2,23.9,0.98,claude_knowledge_direct,Lithuanian,862,type
+unknown,unresolved,,,,0.0,unresolved,Livonian,406,motif
+unknown,unresolved,,,,0.0,unresolved,Livonian,406,type
+unknown,unresolved,,,,0.0,unresolved,Loucheux,3,motif
+unknown,unresolved,,,,0.0,unresolved,Louisiana Creole,3,motif
+unknown,unresolved,,,,0.0,unresolved,Luxembourg,21,type
+unknown,unresolved,,,,0.0,unresolved,Luzon (Tinguian),1,motif
+unknown,unresolved,,,,0.0,unresolved,Lydian,66,type
+unknown,unresolved,,,,0.0,unresolved,Macedonian,268,type
+unknown,unresolved,,,,0.0,unresolved,Macobi,1,motif
+unknown,unresolved,,,,0.0,unresolved,Macobi (Pampean),1,motif
+unknown,unresolved,,,,0.0,unresolved,Madagascar,13,motif
+unknown,unresolved,,,,0.0,unresolved,Madagascar (Antankarana),2,motif
+unknown,unresolved,,,,0.0,unresolved,Madagascar (Imerina),2,motif
+unknown,unresolved,,,,0.0,unresolved,Madagascar (Marofotsy),1,motif
+unknown,unresolved,,,,0.0,unresolved,Madagascar (Merina),1,motif
+unknown,unresolved,,,,0.0,unresolved,Madagascar (Tsimihety),1,motif
+unknown,unresolved,,,,0.0,unresolved,Magyar,1,motif
+unknown,unresolved,,,,0.0,unresolved,Maidu,1,motif
+unknown,unresolved,,,,0.0,unresolved,Malagasy,87,type
+unknown,unresolved,,,,0.0,unresolved,Malagasy,87,motif
+unknown,unresolved,,,,0.0,unresolved,Malaysia,3,motif
+geographic,country,Malaysia,4.2,101.9,0.98,claude_knowledge_direct,Malaysian,25,type
+unknown,unresolved,,,,0.0,unresolved,Mali,2,type
+unknown,unresolved,,,,0.0,unresolved,Maliseet,4,motif
+geographic,country,Malta,35.9,14.4,0.98,claude_knowledge_direct,Maltese,237,type
+unknown,unresolved,,,,0.0,unresolved,Mangaia (Cook Island),8,motif
+ethnic_tribal,indigenous_group,New Zealand,-40.9,174.9,0.95,claude_knowledge_direct,Maori,126,motif
+unknown,unresolved,,,,0.0,unresolved,Marquesas,107,motif
+unknown,unresolved,,,,0.0,unresolved,Marshall Islands,13,motif
+unknown,unresolved,,,,0.0,unresolved,Masai,1,motif
+unknown,unresolved,,,,0.0,unresolved,Massim (British New Guinea),2,motif
+unknown,unresolved,,,,0.0,unresolved,Mauritian,1,type
+unknown,unresolved,,,,0.0,unresolved,Maya,4,motif
+unknown,unresolved,,,,0.0,unresolved,Mayan,138,type
+unknown,unresolved,,,,0.0,unresolved,Melanesia,20,motif
+unknown,unresolved,,,,0.0,unresolved,Melanesia (Ysabel),2,motif
+unknown,unresolved,,,,0.0,unresolved,Menominee,3,motif
+geographic,country,Mexico,23.6,-102.6,0.98,claude_knowledge_direct,Mexican,337,type
+unknown,unresolved,,,,0.0,unresolved,Mexico,8,motif
+unknown,unresolved,,,,0.0,unresolved,Micmac,3,motif
+unknown,unresolved,,,,0.0,unresolved,Micronesia,10,motif
+unknown,unresolved,,,,0.0,unresolved,Minahassa (Celebes),3,motif
+unknown,unresolved,,,,0.0,unresolved,Mingril,4,type
+unknown,unresolved,,,,0.0,unresolved,Missouri French,338,motif
+unknown,unresolved,,,,0.0,unresolved,Miwok,1,motif
+unknown,unresolved,,,,0.0,unresolved,Mohammedan,1,motif
+unknown,unresolved,,,,0.0,unresolved,Molucca,3,motif
+unknown,unresolved,,,,0.0,unresolved,"Mongolia, Turkey",1,motif
+geographic,country,Mongolia,46.9,103.8,0.98,claude_knowledge_direct,Mongolian,162,type
+unknown,unresolved,,,,0.0,unresolved,Mono,32,motif
+unknown,unresolved,,,,0.0,unresolved,Mono-Alu,22,motif
+unknown,unresolved,,,,0.0,unresolved,Mono-Alu-Fauru,2,motif
+unknown,unresolved,,,,0.0,unresolved,Montaignais,1,motif
+unknown,unresolved,,,,0.0,unresolved,Mordvinian,146,type
+unknown,unresolved,,,,0.0,unresolved,Moreno,2,motif
+geographic,country,Morocco,31.8,-7.1,0.98,claude_knowledge_direct,Moroccan,399,type
+unknown,unresolved,,,,0.0,unresolved,Mpongwe,5,motif
+unknown,unresolved,,,,0.0,unresolved,Munderuc',1,motif
+unknown,unresolved,,,,0.0,unresolved,Muzo (Colombia),1,motif
+unknown,unresolved,,,,0.0,unresolved,N. Am. Africa (Benga),1,motif
+unknown,unresolved,,,,0.0,unresolved,N. Am. Indian (Chaco),2,motif
+unknown,unresolved,,,,0.0,unresolved,N. Am. Negro (Georgia),1,motif
+unknown,unresolved,,,,0.0,unresolved,N. Carolina,1,motif
+unknown,unresolved,,,,0.0,unresolved,N. Indian (Cashinawa),1,motif
+unknown,unresolved,,,,0.0,unresolved,N. Pac. Indian (Toba),1,motif
+geographic,country,Namibia,-22.3,18.1,0.98,claude_knowledge_direct,Namibian,102,type
+unknown,unresolved,,,,0.0,unresolved,Naskapi,2,motif
+unknown,unresolved,,,,0.0,unresolved,Nauru (Pleasant Island),1,motif
+unknown,unresolved,,,,0.0,unresolved,Navaho,5,motif
+unknown,unresolved,,,,0.0,unresolved,Nebraska,1,motif
+unknown,unresolved,,,,0.0,unresolved,Nenets,6,type
+geographic,country,Nepal,28.4,84.1,0.98,claude_knowledge_direct,Nepalese,59,type
+unknown,unresolved,,,,0.0,unresolved,Netherlands,28,motif
+unknown,unresolved,,,,0.0,unresolved,New Britain,9,motif
+unknown,unresolved,,,,0.0,unresolved,New Guinea,29,motif
+unknown,unresolved,,,,0.0,unresolved,New Hebrides,19,motif
+unknown,unresolved,,,,0.0,unresolved,New Mexico,1,motif
+unknown,unresolved,,,,0.0,unresolved,New York,26,motif
+geographic,country,New Zealand,-40.9,174.9,0.98,claude_knowledge_direct,New Zealand,24,type
+geographic,country,New Zealand,-40.9,174.9,0.98,claude_knowledge_direct,New Zealand,24,motif
+unknown,unresolved,,,,0.0,unresolved,Nias Island,1,motif
+unknown,unresolved,,,,0.0,unresolved,Nicaraguan,15,type
+unknown,unresolved,,,,0.0,unresolved,Niger,6,type
+unknown,unresolved,,,,0.0,unresolved,Nigeria,15,motif
+geographic,country,Nigeria,9.1,8.7,0.98,claude_knowledge_direct,Nigerian,24,type
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian,399,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Amazon),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Apache),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Arapaho),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Arikara),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Assiniboin),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Assiniboine),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Atsina),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Aztec),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Bella Coola),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Bella-Bella),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Biloxi),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Blackfoot),6,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (California),88,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Canadian Dakota),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Carrier),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Catawba),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Central Algonquin),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Cherokee),4,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Cheyenne),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Chickasaw),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Chilcotin),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Chippewyan),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Chiriguano),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Chuckchee),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Cree),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Creek),10,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Crow),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Dakota),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Diegueso),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Dini),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Eastern Ecuador),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Eskimo),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Flathead),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Fox),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (general),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Gros Ventre),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Haida),4,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Hare),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Hupa),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Iroquois),9,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Jicarilla Apache),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Jnbaros),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Joshua),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Kaska),4,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Kathlamet),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Kato),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Kickapoo),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Klikitat),15,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Kutenai),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Lillooet),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Luiseso),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Maidu),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Malecite),4,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Maliseet),4,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Mandan),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Menominee),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Menomini),10,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Mexico),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Micmac),13,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Mohave),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Mohegan),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Montagnais),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (N'tlaka'panaq),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Navaho),7,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Northern Paiute),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Ojibwa),14,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Passamaquoddy),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Pawnee),9,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Penobscot),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Peoria),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Piegan),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Plains Cree),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Plains Tribes),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Ponca),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Potawatomi),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Pueblo),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Quileute),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Quinault),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Salishan),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (San Carlos Apache),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Sarcee),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Seneca),35,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Shasta),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Shivwits),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Shoshone),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Shuswap),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Sioux),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Skaulitz),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Snohomish),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Southern Paiute),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Tahltan),5,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Teton),5,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Thompson River),16,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Tillamook),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Tlingit),5,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Toba),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Tsimshian),6,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Twana),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Wampanoag),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Wasco),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (White Mountain Apache),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Wichita),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Wyandot),3,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Yana),2,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Yukon),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Zuni),1,motif
+unknown,unresolved,,,,0.0,unresolved,No. Am. Indian (Zusi),28,motif
+unknown,unresolved,,,,0.0,unresolved,Norlind,1,motif
+unknown,unresolved,,,,0.0,unresolved,Norse,73,motif
+ethnic_tribal,african_group,Africa,0.0,20.0,0.7,pattern_african,North African,30,type
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,North American Indian,64,type
+unknown,unresolved,,,,0.0,unresolved,North Carolina,117,motif
+unknown,unresolved,,,,0.0,unresolved,North Pacific Coast of America,2,motif
+unknown,unresolved,,,,0.0,unresolved,Norway,64,motif
+geographic,country,Norway,60.5,8.5,0.98,claude_knowledge_direct,Norwegian,462,type
+unknown,unresolved,,,,0.0,unresolved,Note,2,motif
+unknown,unresolved,,,,0.0,unresolved,Nubian,1,motif
+unknown,unresolved,,,,0.0,unresolved,Nukuhiva (Marquesas),2,motif
+unknown,unresolved,,,,0.0,unresolved,Nyang,1,motif
+unknown,unresolved,,,,0.0,unresolved,Oahu (Hawaii),1,motif
+unknown,unresolved,,,,0.0,unresolved,Oberwallis,1,motif
+unknown,unresolved,,,,0.0,unresolved,Oceania,34,motif
+unknown,unresolved,,,,0.0,unresolved,Ojibwa,14,motif
+unknown,unresolved,,,,0.0,unresolved,Omaha,1,motif
+unknown,unresolved,,,,0.0,unresolved,Oman,65,type
+unknown,unresolved,,,,0.0,unresolved,Ossetian,131,type
+unknown,unresolved,,,,0.0,unresolved,Ostiak,1,motif
+unknown,unresolved,,,,0.0,unresolved,Ostyak,6,type
+geographic,country,Pakistan,30.4,69.3,0.98,claude_knowledge_direct,Pakistani,138,type
+unknown,unresolved,,,,0.0,unresolved,Palaung tribe,2,motif
+unknown,unresolved,,,,0.0,unresolved,Palestine,3,motif
+geographic,territory,Palestine,31.9,35.2,0.98,claude_knowledge_direct,Palestinian,315,type
+geographic,country,Panama,8.5,-80.8,0.98,claude_knowledge_direct,Panamanian,33,type
+unknown,unresolved,,,,0.0,unresolved,Papua,31,motif
+unknown,unresolved,,,,0.0,unresolved,Papuan,1,type
+unknown,unresolved,,,,0.0,unresolved,Papuan (British New Guinea),1,motif
+unknown,unresolved,,,,0.0,unresolved,Paraguay,1,motif
+geographic,country,Paraguay,-23.4,-58.4,0.98,claude_knowledge_direct,Paraguayan,3,type
+unknown,unresolved,,,,0.0,unresolved,Pawnee,8,motif
+unknown,unresolved,,,,0.0,unresolved,Pelew Island (Micronesia),1,motif
+unknown,unresolved,,,,0.0,unresolved,Penobscot,2,motif
+unknown,unresolved,,,,0.0,unresolved,Persia,102,motif
+unknown,unresolved,,,,0.0,unresolved,Persian Gulf,73,type
+unknown,unresolved,,,,0.0,unresolved,Peru,7,motif
+geographic,country,Peru,-9.2,-75.0,0.98,claude_knowledge_direct,Peruvian,19,type
+unknown,unresolved,,,,0.0,unresolved,Philippines,65,motif
+unknown,unresolved,,,,0.0,unresolved,Philippines (Tinguian),112,motif
+unknown,unresolved,,,,0.0,unresolved,Pijaos (Colombia),1,motif
+unknown,unresolved,,,,0.0,unresolved,Plains Cree,4,motif
+unknown,unresolved,,,,0.0,unresolved,Plains Ojibwa,2,motif
+unknown,unresolved,,,,0.0,unresolved,Pochulata,1,motif
+geographic,country,Poland,51.9,19.1,0.98,claude_knowledge_direct,Polish,728,type
+unknown,unresolved,,,,0.0,unresolved,Polynesia,18,motif
+unknown,unresolved,,,,0.0,unresolved,Polynesian,23,type
+unknown,unresolved,,,,0.0,unresolved,Portugal,1,motif
+geographic,country,Portugal,39.4,-8.2,0.98,claude_knowledge_direct,Portuguese,651,type
+unknown,unresolved,,,,0.0,unresolved,Prussia,9,motif
+unknown,unresolved,,,,0.0,unresolved,Pueblo,7,motif
+geographic,territory,Puerto Rico,18.2,-66.6,0.98,claude_knowledge_direct,Puerto Rican,245,type
+unknown,unresolved,,,,0.0,unresolved,Qatar,174,type
+unknown,unresolved,,,,0.0,unresolved,Quichi,5,motif
+unknown,unresolved,,,,0.0,unresolved,Quileute,7,motif
+unknown,unresolved,,,,0.0,unresolved,Rarotonga,5,motif
+unknown,unresolved,,,,0.0,unresolved,Rhaetian,1,motif
+unknown,unresolved,,,,0.0,unresolved,Roman,17,motif
+unknown,unresolved,,,,0.0,unresolved,Romania,35,motif
+geographic,country,Romania,45.9,24.9,0.98,claude_knowledge_direct,Rumanian,577,type
+unknown,unresolved,,,,0.0,unresolved,Russia,126,motif
+geographic,country,Russia,61.5,105.3,0.98,claude_knowledge_direct,Russian,777,type
+unknown,unresolved,,,,0.0,unresolved,Salinan,3,motif
+unknown,unresolved,,,,0.0,unresolved,Salishan,1,motif
+unknown,unresolved,,,,0.0,unresolved,Samoa,38,motif
+unknown,unresolved,,,,0.0,unresolved,"Samoa, Nieue Island",1,motif
+unknown,unresolved,,,,0.0,unresolved,Samoyed,1,motif
+unknown,unresolved,,,,0.0,unresolved,San Carlos Apache,1,motif
+unknown,unresolved,,,,0.0,unresolved,San Cristobal,1,motif
+unknown,unresolved,,,,0.0,unresolved,Sardinian,159,type
+geographic,country,Saudi Arabia,23.9,45.1,0.98,claude_knowledge_direct,Saudi Arabian,138,type
+unknown,unresolved,,,,0.0,unresolved,Scandinavia,7,motif
+unknown,unresolved,,,,0.0,unresolved,Scotland,239,motif
+geographic,region,Scotland,56.5,-4.2,0.98,claude_knowledge_direct,Scottish,189,type
+unknown,unresolved,,,,0.0,unresolved,Semitic,2,motif
+unknown,unresolved,,,,0.0,unresolved,Seneca,8,motif
+unknown,unresolved,,,,0.0,unresolved,Sequel,1,motif
+geographic,country,Serbia,44.0,21.0,0.98,claude_knowledge_direct,Serbian,436,type
+unknown,unresolved,,,,0.0,unresolved,Shuswap,1,motif
+unknown,unresolved,,,,0.0,unresolved,Siberia,78,motif
+unknown,unresolved,,,,0.0,unresolved,Siberian,218,type
+unknown,unresolved,,,,0.0,unresolved,Sicily,6,motif
+unknown,unresolved,,,,0.0,unresolved,Sierra Leone,3,type
+unknown,unresolved,,,,0.0,unresolved,Sinkyone,3,motif
+unknown,unresolved,,,,0.0,unresolved,Slavic,24,motif
+unknown,unresolved,,,,0.0,unresolved,Slavic (Elbe),1,motif
+unknown,unresolved,,,,0.0,unresolved,Slovakian,485,type
+geographic,country,Slovenia,46.1,14.9,0.98,claude_knowledge_direct,Slovene,390,type
+geographic,country,Slovenia,46.1,14.9,0.98,claude_knowledge_direct,Slovenian,2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian,32,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Ackawoi),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Amazon),9,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Amuesha),12,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Amyara),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Amyra),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Antilles),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Apapocuva),14,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Apinarje),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Araucanian),5,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Araucanman),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Arawak),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Arawakan Chanb),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Arua),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Ashlushlay),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Ashluslay),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Aspinayi),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Aymara),4,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Aztec),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Bacairi),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Bakairi),16,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Bakuiri),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Botocudo),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Cahita),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Camacan),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Camacoco),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Canella),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Caraja),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Carajb),4,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Carib),9,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Cariri),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Cashinawa),36,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Cavisa),6,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Ceiuci),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Ceuici),4,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Chaco),14,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Chamacoco),16,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Cherentes),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Chibcha),7,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Chincha),5,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Chiriguano),98,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Choroti),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Chorotn),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Comacan),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Cubao),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Cubeo),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Eastern Ecuador),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Fuegian),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Fueginos),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Gran Chaco),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Guapori River),5,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Guaraní),15,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Guarayos),5,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Guayaki),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Guiana),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Guianas),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Gusinde),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Huamachuco),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Huarochiri),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Ipurina),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Jivaro),9,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Kaigang),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Kaigub),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Kaingang),10,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Karib),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Kariri),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Kaskiha),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Kwakiutl),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Kʼicheʼ),6,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Lengua),7,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Macovi),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Maroja),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Maropa),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mashacaln),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mataco),26,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Maya),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mbayb),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mocovi),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mocovn),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mojo),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mori),5,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Munduruku),12,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Mura),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Pampean),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Paressi),12,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Pas'),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Patagonia),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Pilagb),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Pilcomayo River Tribes),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Pitcomayo-Chaco),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Sharanti),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Sherenti),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Shipaya),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tapirapé),6,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tarahumare and Tepehuane),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Taulipang),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tehuelche),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tembé),6,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tenetehara),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tenibi),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Terena),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tiatinagua),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tierra del Fuego),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Toba),150,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tropical Forest),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tucuna),8,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tumupasa),6,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tupenamba),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tupi),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Tupinamba),26,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Uru-Chipaya),2,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Viracocha),6,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (W. Brazil),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Warrau),31,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Witoto),6,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Yagua),3,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Yana),1,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Yunca),4,motif
+unknown,unresolved,,,,0.0,unresolved,So. Am. Indian (Yuracaré),35,motif
+unknown,unresolved,,,,0.0,unresolved,Society Islands,7,motif
+unknown,unresolved,,,,0.0,unresolved,Solomon Islands,1,motif
+unknown,unresolved,,,,0.0,unresolved,Somalian,42,type
+linguistic,slavic_minority,Lusatia/Germany,51.5,14.3,0.9,claude_knowledge_direct,Sorbian,142,type
+unknown,unresolved,,,,0.0,unresolved,South Africa,8,motif
+ethnic_tribal,african_group,Africa,0.0,20.0,0.7,pattern_african,South African,237,type
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,South American,58,type
+unknown,unresolved,,,,0.0,unresolved,South Carolina,1,motif
+unknown,unresolved,,,,0.0,unresolved,Southeastern Africa,1,motif
+unknown,unresolved,,,,0.0,unresolved,Southern Paiute,2,motif
+unknown,unresolved,,,,0.0,unresolved,Southern Paiute (Maopa),1,motif
+unknown,unresolved,,,,0.0,unresolved,Southern Ute,3,motif
+unknown,unresolved,,,,0.0,unresolved,Spain,1,motif
+geographic,country,Spain,40.5,-3.7,0.98,claude_knowledge_direct,Spanish,2409,type
+geographic,country,Spain,40.5,-3.7,0.98,claude_knowledge_direct,Spanish,2409,motif
+unknown,unresolved,,,,0.0,unresolved,Spanish America,1,motif
+unknown,unresolved,,,,0.0,unresolved,Spanish Exempla,786,motif
+geographic,country,Sri Lanka,7.9,80.8,0.98,claude_knowledge_direct,Sri Lankan,158,type
+geographic,country,Sudan,12.9,30.4,0.98,claude_knowledge_direct,Sudanese,254,motif
+geographic,country,Sudan,12.9,30.4,0.98,claude_knowledge_direct,Sudanese,254,type
+unknown,unresolved,,,,0.0,unresolved,Sulka (New Britain),4,motif
+unknown,unresolved,,,,0.0,unresolved,Sumatra,8,motif
+unknown,unresolved,,,,0.0,unresolved,Surinam,2,motif
+unknown,unresolved,,,,0.0,unresolved,Swahili,5,type
+unknown,unresolved,,,,0.0,unresolved,Sweden,215,motif
+geographic,country,Sweden,60.1,18.6,0.98,claude_knowledge_direct,Swedish,716,type
+unknown,unresolved,,,,0.0,unresolved,Swedish-Finnish,1,motif
+geographic,country,Switzerland,46.8,8.2,0.98,claude_knowledge_direct,Swiss,257,type
+unknown,unresolved,,,,0.0,unresolved,Switzerland,206,motif
+geographic,country,Syria,34.8,38.9,0.98,claude_knowledge_direct,Syrian,297,type
+linguistic,uralic_language,Komi/Russia,64.0,54.0,0.9,claude_knowledge_direct,Syrjanian,134,type
+geographic,country,Tajikistan,38.9,71.3,0.98,claude_knowledge_direct,Tadzhik,163,type
+unknown,unresolved,,,,0.0,unresolved,Tahiti,88,motif
+unknown,unresolved,,,,0.0,unresolved,Tahlti,61,motif
+unknown,unresolved,,,,0.0,unresolved,Taiwan,1,motif
+geographic,country,Tanzania,-6.4,34.9,0.98,claude_knowledge_direct,Tanzanian,30,type
+unknown,unresolved,,,,0.0,unresolved,Tarascan,1,motif
+ethnic_tribal,turkic_people,Tatarstan/Russia,55.8,49.1,0.9,claude_knowledge_direct,Tatar,114,type
+unknown,unresolved,,,,0.0,unresolved,Tehauno,1,motif
+unknown,unresolved,,,,0.0,unresolved,Teheulche (Patagonian),1,motif
+unknown,unresolved,,,,0.0,unresolved,Telei,1,motif
+unknown,unresolved,,,,0.0,unresolved,Texas,1,motif
+geographic,country,Thailand,15.9,100.9,0.98,claude_knowledge_direct,Thai,8,type
+unknown,unresolved,,,,0.0,unresolved,Tibet,1,motif
+geographic,region,Tibet,29.6,91.1,0.98,claude_knowledge_direct,Tibetan,30,type
+unknown,unresolved,,,,0.0,unresolved,Tirol,11,motif
+unknown,unresolved,,,,0.0,unresolved,Togolese,3,type
+unknown,unresolved,,,,0.0,unresolved,Tonga,144,motif
+unknown,unresolved,,,,0.0,unresolved,Torres Straits,1,motif
+unknown,unresolved,,,,0.0,unresolved,Tsimshian,3,motif
+unknown,unresolved,,,,0.0,unresolved,Tuamotu,147,motif
+unknown,unresolved,,,,0.0,unresolved,Tungus,11,type
+unknown,unresolved,,,,0.0,unresolved,Tungus,11,motif
+geographic,country,Tunisia,33.9,9.6,0.98,claude_knowledge_direct,Tunisian,215,type
+unknown,unresolved,,,,0.0,unresolved,Tunja (Colombia),2,motif
+geographic,country,Turkey,38.9,35.2,0.98,claude_knowledge_direct,Turkish,440,type
+geographic,country,Turkmenistan,38.9,59.6,0.98,claude_knowledge_direct,Turkmen,42,type
+ethnic_tribal,turkic_people,Tuva/Russia,51.7,94.4,0.9,claude_knowledge_direct,Tuva,51,type
+unknown,unresolved,,,,0.0,unresolved,U.S. (Georgia),1,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. (lumbermen),1,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. (Maine),1,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. (N. Carolina),1,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. (New Hampshire),1,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. (New York State),2,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. (Ozarks),3,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. (S. Carolina),1,motif
+unknown,unresolved,,,,0.0,unresolved,U.S. Negro,1,motif
+unknown,unresolved,,,,0.0,unresolved,U.S.A.,1,motif
+unknown,unresolved,,,,0.0,unresolved,Udmurt,24,type
+unknown,unresolved,,,,0.0,unresolved,Uighur,14,type
+geographic,country,Ukraine,48.4,31.2,0.98,claude_knowledge_direct,Ukrainian,793,type
+unknown,unresolved,,,,0.0,unresolved,Union Group,2,motif
+unknown,unresolved,,,,0.0,unresolved,United States,1154,motif
+unknown,unresolved,,,,0.0,unresolved,United States (Mormon),1,motif
+geographic,country,Uruguay,-32.5,-55.8,0.98,claude_knowledge_direct,Uruguayan,4,type
+ethnic_tribal,indigenous_american,North America,45.0,-100.0,0.75,pattern_american_indian,US-American,422,type
+geographic,country,Uzbekistan,41.4,64.6,0.98,claude_knowledge_direct,Uzbek,119,type
+unknown,unresolved,,,,0.0,unresolved,Vai,1,motif
+unknown,unresolved,,,,0.0,unresolved,Venezuela,1,motif
+geographic,country,Venezuela,6.4,-66.6,0.98,claude_knowledge_direct,Venezuelan,15,type
+geographic,country,Vietnam,14.1,108.3,0.98,claude_knowledge_direct,Vietnamese,39,type
+unknown,unresolved,,,,0.0,unresolved,Virginia,2,motif
+unknown,unresolved,,,,0.0,unresolved,Vogul/Mansi,30,type
+linguistic,uralic_language,Udmurtia/Russia,57.0,53.0,0.9,claude_knowledge_direct,Votyak,107,type
+unknown,unresolved,,,,0.0,unresolved,Wa (Indo-China),2,motif
+unknown,unresolved,,,,0.0,unresolved,Wakweli,4,motif
+unknown,unresolved,,,,0.0,unresolved,Wales,228,motif
+linguistic,regional_language,Wallonia/Belgium,50.4,4.4,0.95,claude_knowledge_direct,Walloon,167,type
+unknown,unresolved,,,,0.0,unresolved,Warrau (Carib tribe),1,motif
+geographic,region,Wales,52.1,-3.8,0.98,claude_knowledge_direct,Welsh,30,type
+unknown,unresolved,,,,0.0,unresolved,Wendish,2,motif
+linguistic,uralic_language,Karelia/Russia,61.8,34.3,0.9,claude_knowledge_direct,Wepsian,182,type
+unknown,unresolved,,,,0.0,unresolved,West Africa,5,motif
+ethnic_tribal,african_group,Africa,0.0,20.0,0.7,pattern_african,West African,28,type
+unknown,unresolved,,,,0.0,unresolved,West Caroline Is.,1,motif
+geographic,region,Caribbean,18.0,-77.0,0.85,claude_knowledge_direct,West Indies,354,motif
+geographic,region,Caribbean,18.0,-77.0,0.85,claude_knowledge_direct,West Indies,354,type
+unknown,unresolved,,,,0.0,unresolved,Western Asia,1,motif
+unknown,unresolved,,,,0.0,unresolved,Western Mono,2,motif
+unknown,unresolved,,,,0.0,unresolved,Westphalia,6,motif
+unknown,unresolved,,,,0.0,unresolved,White Russian,1,motif
+linguistic,uralic_language,Estonia/Ingria,59.4,24.8,0.9,claude_knowledge_direct,Wotian,109,type
+unknown,unresolved,,,,0.0,unresolved,Wute,1,motif
+unknown,unresolved,,,,0.0,unresolved,Wyandot,2,motif
+ethnic_tribal,turkic_people,Sakha/Russia,62.0,129.7,0.9,claude_knowledge_direct,Yakut,154,type
+unknown,unresolved,,,,0.0,unresolved,Yakuts,1,motif
+unknown,unresolved,,,,0.0,unresolved,Yap,1,motif
+unknown,unresolved,,,,0.0,unresolved,Yemenite,113,type
+unknown,unresolved,,,,0.0,unresolved,Yoruba,2,motif
+unknown,unresolved,,,,0.0,unresolved,Yuchi,2,motif
+unknown,unresolved,,,,0.0,unresolved,Yuma,1,motif
+unknown,unresolved,,,,0.0,unresolved,Yunca (Peru),1,motif
+unknown,unresolved,,,,0.0,unresolved,Yuracare,2,motif
+unknown,unresolved,,,,0.0,unresolved,Zanzibar,7,motif
+unknown,unresolved,,,,0.0,unresolved,Zimbabwen,2,type
+unknown,unresolved,,,,0.0,unresolved,Zulu,6,motif
+unknown,unresolved,,,,0.0,unresolved,Zusi,17,motif

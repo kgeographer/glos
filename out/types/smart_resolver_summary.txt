@@ -1,0 +1,46 @@
+Loaded 41294 cultural references from out/types/cultural_reference_analysis_resolved.csv
+Applying Claude's embedded knowledge to resolve remaining unknowns...
+Processing 7116 unknown references...
+Claude resolved 3374 additional references:
+  claude_geographic_knowledge: 2304
+  claude_linguistic_knowledge: 674
+  claude_ethnographic_knowledge: 396
+======================================================================
+FINAL GEOGRAPHIC RESOLUTION REPORT (WITH CLAUDE KNOWLEDGE)
+======================================================================
+Original unknown references: 7,116
+Final unknown references: 3,742
+Total resolved: 3,374 (47.4%)
+Final category distribution:
+  geographic     : 20,552 ( 49.8%)
+  linguistic     : 13,164 ( 31.9%)
+  unknown        : 3,742 (  9.1%)
+  ethnic_tribal  : 2,994 (  7.3%)
+  religious      :   842 (  2.0%)
+Resolution methods:
+  demonym_lookup: 4319
+  claude_analysis_inconclusive: 3742
+  claude_geographic_knowledge: 2304
+  indigenous_lookup: 1812
+  claude_linguistic_knowledge: 674
+  claude_ethnographic_knowledge: 396
+  language_geographic: 107
+Geographic coordinates available: 3,374 references
+Remaining unknown references (sample):
+  'Cheremis/Mari' - Could not definitively categorize 'Cheremis/Mari' - may be archaic term, variant spelling, or highly specific local reference
+  'Oman' - Could not definitively categorize 'Oman' - may be archaic term, variant spelling, or highly specific local reference
+  'Lebanese' - Could not definitively categorize 'Lebanese' - may be archaic term, variant spelling, or highly specific local reference
+  'Libyan' - Could not definitively categorize 'Libyan' - may be archaic term, variant spelling, or highly specific local reference
+  'Puerto Rican' - Could not definitively categorize 'Puerto Rican' - may be archaic term, variant spelling, or highly specific local reference
+  'Qatar' - Could not definitively categorize 'Qatar' - may be archaic term, variant spelling, or highly specific local reference
+  'Saudi Arabian' - Could not definitively categorize 'Saudi Arabian' - may be archaic term, variant spelling, or highly specific local reference
+  'Scottish' - Could not definitively categorize 'Scottish' - may be archaic term, variant spelling, or highly specific local reference
+  'Tadzhik' - Could not definitively categorize 'Tadzhik' - may be archaic term, variant spelling, or highly specific local reference
+  'Walloon' - Could not definitively categorize 'Walloon' - may be archaic term, variant spelling, or highly specific local reference
+  'West Indies' - Could not definitively categorize 'West Indies' - may be archaic term, variant spelling, or highly specific local reference
+  'Panamanian' - Could not definitively categorize 'Panamanian' - may be archaic term, variant spelling, or highly specific local reference
+  'Faeroese' - Could not definitively categorize 'Faeroese' - may be archaic term, variant spelling, or highly specific local reference
+  'Maltese' - Could not definitively categorize 'Maltese' - may be archaic term, variant spelling, or highly specific local reference
+  'Cuban' - Could not definitively categorize 'Cuban' - may be archaic term, variant spelling, or highly specific local reference
+Final analysis saved to: out/types/cultural_reference_analysis_final.csv
+Geocoded references saved to: out/types/geocoded_references.csv
