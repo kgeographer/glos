@@ -36,7 +36,7 @@ class TMIBrowser {
         const hierarchyDiv = document.getElementById('tmiHierarchy');
         
         let html = '<div class="tmi-navigation">';
-        html += '<h6>TMI Categories</h6>';
+        // html += '<h6>TMI Categories</h6>';
         html += '<div class="list-group">';
 
         categories.forEach(category => {
@@ -248,7 +248,7 @@ class TMIBrowser {
         html += `<p class="text-muted">${data.total} motifs connected to ATU tale types</p>`;
         
         if (data.motifs.length === 0) {
-            html += '<p>No connected motifs found in this category.</p>';
+            html += '<p></p>';
         } else {
             html += '<ul class="list-unstyled">';
 
@@ -359,16 +359,20 @@ class TMIBrowser {
     clearResults() {
         const resultDiv = document.getElementById('browseResultContent');
         if (resultDiv) {
-            resultDiv.innerHTML = '<p class="text-muted">Select a category to browse...</p>';
+            resultDiv.innerHTML = `
+                <div class="browse-explanation">
+                    <p class="text-muted mb-2">Displaying only motifs that have been cross-referenced in the ATU index.</p>
+                    <p class="text-muted">Select a category to begin browsing...</p>
+                </div>
+            `;
         }
     }
-
     // Go back one level
     goBack() {
         if (this.navigationHistory.length > 1) {
             // Remove current
             this.navigationHistory.pop();
-            
+
             // Get previous
             const previous = this.navigationHistory[this.navigationHistory.length - 1];
             this.currentPath = [...previous.path];

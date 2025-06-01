@@ -88,8 +88,8 @@ p {
   margin-right: 30px;
 }
 .mode-selector .form-check-input:checked {
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #336699;
+  border-color: #336699;
 }
 .tab-buttons {
   margin-bottom: 20px;
@@ -181,4 +181,21 @@ p {
     margin-bottom: 15px;
     padding-bottom: 8px;
     border-bottom: 2px solid #dee2e6;
+}
+
+/* Modal styles */
+.clickable-motif, .clickable-tale-type {
+  color: #0d6efd;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.clickable-motif:hover, .clickable-tale-type:hover {
+  text-decoration: underline;
+  color: #0b5ed7;
+}
+
+.modal-body .cultural-refs {
+  display: block;
+  margin-top: 8px;
 }
