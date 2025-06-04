@@ -18,14 +18,15 @@
 <div class="container">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/">GLOS</a>
+      <a class="navbar-brand" href="/">
+        <img src="/static/images/glos_wordmark.jpg" alt="GLOS Logo" height="32">
+      </a>
       <div class="collapse navbar-collapse justify-content-end">
         <ul class="navbar-nav">
           <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="/explore">Explore</a></li
-<!--          <li class="nav-item"><a class="nav-link" href="/atu_tmi">ATU<>TMI (initial)</a></li>-->
+          <li class="nav-item"><a class="nav-link" href="/explore">Concept Matcher</a></li>
           <li class="nav-item"><a class="nav-link" href="/atu_tmi_v2">ATU/TMI</a></li>
-          <li class="nav-item"><a class="nav-link" href="/mapping">Mapping</a></li>
+          <li class="nav-item"><a class="nav-link disabled-link" href="/mapping">Mapping</a></li>
         </ul>
       </div>
     </div>
@@ -42,15 +43,11 @@
           </div>
           <div class="form-check">
             <input class="form-check-input" type="radio" name="queryType" id="motif" value="motif" checked>
-            <label class="form-check-label" for="motif">Motif</label>
+            <label class="form-check-label" for="motif">TMI Motifs</label>
           </div>
           <div class="form-check">
             <input class="form-check-input" type="radio" name="queryType" id="type" value="type">
-            <label class="form-check-label" for="type">Type</label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input" type="radio" name="queryType" id="myth_motif" value="myth_motif">
-            <label class="form-check-label" for="myth_motif">Myth Motif</label>
+            <label class="form-check-label" for="type">ATU Tale Types</label>
           </div>
           <button type="submit" class="btn btn-primary">Submit</button>
         </form>
@@ -59,7 +56,15 @@
 
     <div class="col-md-7">
       <h5 class="bg-light ps-1">Results</h5>
-      <div id="results"></div>
+      <div id="results">
+        <p class="text-muted">
+          Enter text and choose a query type to find similar motifs or tale types using
+          <span class="tooltip-term" data-bs-toggle="tooltip" data-bs-placement="top"
+                title="Embeddings are numerical vector representations of text that allow semantic similarity comparisons.">
+            embedding-based
+          </span> semantic matching.
+        </p>
+      </div>
     </div>
   </div>
 </div>
@@ -78,18 +83,89 @@
         data: JSON.stringify({text: text, queryType: queryType}),
         success: function(response) {
           let resultsHtml = '<ul>';
-          response.forEach(function(item) {
-            resultsHtml += `<li>${item[0]} - ${item[1]} (Distance: ${item[2]})</li>`;
+
+          response.forEach(function(item, index) {
+            console.log('Item:', item);
+            const id = `ref-${index}`;
+            const isMotif = !!item.motif_id;
+
+            // IDs and labels
+            const identifier = isMotif ? item.motif_id : item.type_id;
+            const label = isMotif ? item.text : item.label;
+            const description = isMotif ? '' : item.text || '';
+
+            const refTerms = item.ref_terms || [];
+            const refTruncated = refTerms.slice(0, 10).join(', ');
+            const refHidden = refTerms.slice(10).join(', ');
+            const hasMoreRefs = refTerms.length > 10;
+
+            let refHtml = `<span>${refTruncated}</span>`;
+            if (hasMoreRefs) {
+              refHtml += `
+                <span id="${id}" class="d-none">, ${refHidden}</span>
+                <a href="#" onclick="toggleRefTerms('${id}', this); return false;">…more</a>`;
+            }
+
+            // Optional description for type
+            let descriptionHtml = '';
+            if (!isMotif && description.length > 0) {
+              const short = description.slice(0, 250);
+              const remaining = description.slice(250);
+              const descId = `desc-${index}`;
+              descriptionHtml = `<br><span>${short}</span>`;
+              if (remaining.length > 0) {
+                descriptionHtml += `
+                  <span id="${descId}" class="d-none">${remaining}</span>
+                  <a href="#" onclick="toggleRefTerms('${descId}', this); return false;">…more</a>`;
+              }
+            }
+
+            resultsHtml += `
+              <li>
+                <strong>${identifier}</strong> – ${label}
+                ${descriptionHtml}
+                <br>${refHtml}
+              </li>`;
           });
+
           resultsHtml += '</ul>';
           $('#results').html(resultsHtml);
-        },
+        }, <!-- success -->
         error: function(error) {
           $('#results').html('<p>Error processing query.</p>');
         },
       });
     });
+
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+tooltipTriggerList.forEach(function (tooltipTriggerEl) {
+      new bootstrap.Tooltip(tooltipTriggerEl);
+    });
+
+
+    function truncateWithMore(text, idPrefix, index) {
+      const short = text.slice(0, 160);
+      const needsTrunc = text.length > 160;
+      const fullId = `${idPrefix}-full-${index}`;
+      const result = `
+        <span>${short}</span>
+        ${needsTrunc ? `
+          <span id="${fullId}" class="d-none">${text.slice(160)}</span>
+          <a href="#" onclick="toggleRefTerms('${fullId}', this); return false;">…more</a>
+        ` : ''}`;
+      return result;
+    }
   });
+    function toggleRefTerms(id, link) {
+      const el = document.getElementById(id);
+      if (el.classList.contains('d-none')) {
+        el.classList.remove('d-none');
+        link.textContent = 'less';
+      } else {
+        el.classList.add('d-none');
+        link.textContent = '…more';
+      }
+    }
 </script>
 </body>
 </html>

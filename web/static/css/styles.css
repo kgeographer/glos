@@ -29,6 +29,24 @@ p {
     text-align: justify;
 }
 
+/* home page and menu styles */
+#intro p:nth-of-type(2) {
+  line-height: 1.3;
+}
+.disabled-link {
+  color: #aaa !important;
+  pointer-events: none;
+  cursor: default;
+}
+
+/* explore.html (Concept Matcher) styles */
+.tooltip-term {
+  border-bottom: 1px dotted #555;
+  cursor: help;
+}
+
+
+
 /* Make tale type containers scrollable */
 .accordion-body ul {
     max-height: 300px;

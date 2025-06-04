@@ -58,6 +58,7 @@ class TMIBrowser {
         this.currentPath = [];
     }
 
+
     // Navigate to any TMI node with smart path management
     navigateToNode(nodeId, nodeLabel) {
         console.log(`Navigating to node: ${nodeId} (${nodeLabel})`);
@@ -227,115 +228,47 @@ class TMIBrowser {
         const resultDiv = document.getElementById('browseResultContent');
         resultDiv.innerHTML = '<p class="text-muted">Loading motifs...</p>';
 
-        // Fetch only connected motifs
         fetch(`/get_motifs_for_node/${nodeId}?limit=100`)
             .then(response => response.json())
-            .then(connectedData => {
-                // Fetch full motif count in parallel to determine if we should show a toggle
-                fetch(`/get_all_motifs_for_node/${nodeId}`)
-                    .then(response => response.json())
-                    .then(allData => {
-                        console.log(`Connected: ${connectedData.motifs.length}, All: ${allData.motifs.length}`);
-                        const connectedCount = connectedData.motifs.length;
-                        allData.connectedCount = connectedCount; // pass separately
-                        this.displayMotifsResult(allData, nodeId, nodeLabel);
-                    })
-                    .catch(error => {
-                        console.error('Error fetching all motifs:', error);
-                        // fallback: use connectedData as allData, but treat all as connected
-                        connectedData.total = connectedData.motifs.length;
-                        connectedData.connectedCount = connectedData.motifs.length;
-                        this.displayMotifsResult(connectedData, nodeId, nodeLabel);
-                    });
+            .then(data => {
+                console.log(`Found ${data.motifs.length} motifs for ${nodeId}`);
+                this.displayMotifsResult(data, nodeId, nodeLabel);
             })
             .catch(error => {
-                console.error('Error loading connected motifs:', error);
+                console.error('Error loading motifs:', error);
                 resultDiv.innerHTML = '<p class="text-danger">Error loading motifs</p>';
             });
     }
 
-    // Display motifs in the results panel (refactored for connected/unconnected toggle)
+    // Display motifs in the results panel
     displayMotifsResult(data, nodeId, nodeLabel) {
         const resultDiv = document.getElementById('browseResultContent');
-
-        let html = `<h6>Motifs in group ${nodeId}: ${nodeLabel}</h6>`;
-        const connectedCount = data.connectedCount || data.motifs.filter(m => m.type_count > 0).length;
-        html += `<p class="text-muted">${data.total} motifs in this group (${connectedCount} connected)</p>`;
-
+        
+        let html = `<h6>Motifs in ${nodeId}: ${nodeLabel}</h6>`;
+        html += `<p class="text-muted">${data.total} motifs connected to ATU tale types</p>`;
+        
         if (data.motifs.length === 0) {
-            html += '<p class="text-muted">No motifs connected to ATU tale types.</p>';
+            html += '<p></p>';
         } else {
-            html += '<ul class="list-unstyled" id="connected-motifs-list">';
+            html += '<ul class="list-unstyled">';
+
             data.motifs.forEach(motif => {
-                if (motif.type_count && motif.type_count > 0) {
-                    html += `<li class="mb-2 connected-motif">
-                        ${motif.motif_id}: <a href="#" onclick="tmiBrowser.loadMotifDetail('${motif.motif_id}')" class="text-decoration-none">
-                            <strong>${motif.text}</strong>
-                            <span class="badge bg-primary ms-2">${motif.type_count} tale types</span>
-                        </a>
-                    </li>`;
-                }
-            });
-            html += '</ul>';
-        }
-
-        // Add toggle button and placeholder for unconnected motifs
-        html += `
-            <button id="toggle-unconnected-btn" class="btn btn-sm btn-outline-secondary mt-2"
-                    onclick="tmiBrowser.toggleUnconnectedMotifs('${nodeId}', '${nodeLabel}')">
-                Show all ${data.total} motifs in this group
-            </button>
-            <ul class="list-unstyled mt-3" id="unconnected-motifs-list" style="display: none;"></ul>
-        `;
-
-        resultDiv.innerHTML = html;
-
-        // Cache all motifs for toggle function
-        this._lastFullMotifList = data.motifs;
-    }
-
-    // Toggle display of unconnected motifs (appended below connected ones)
-    toggleUnconnectedMotifs(nodeId, nodeLabel) {
-        const listEl = document.getElementById('unconnected-motifs-list');
-        const button = document.getElementById('toggle-unconnected-btn');
-
-        if (listEl.style.display === 'none') {
-            // Show unconnected motifs
-            listEl.innerHTML = '';
-            const unconnected = this._lastFullMotifList.filter(m => !m.type_count || m.type_count === 0);
-            unconnected.forEach(motif => {
-                // console.log('motif', motif);
-                listEl.innerHTML += `<li class="mb-2 text-muted">
-                    ${motif.motif_id}: ${motif.text}
-<!--                    <a href="#" onclick="tmiBrowser.loadMotifDetail('${motif.motif_id}')" class="text-decoration-none">-->
-                        <span class="badge bg-light text-muted ms-2">unconnected</span>
-<!--                    </a>-->
+                html += `<li class="mb-2">
+                    <a href="#" onclick="tmiBrowser.loadMotifDetail('${motif.motif_id}')" class="text-decoration-none">
+                        <strong>${motif.motif_id}</strong>: ${motif.text}
+                        <span class="badge bg-primary ms-2">${motif.type_count} tale types</span>
+                    </a>
                 </li>`;
             });
-            listEl.style.display = 'block';
-            button.textContent = 'Hide unconnected motifs';
-        } else {
-            // Hide them
-            listEl.style.display = 'none';
-            listEl.innerHTML = '';
-            button.textContent = `Show all ${this._lastFullMotifList.length} motifs in this range`;
+
+            html += '</ul>';
+
+            if (data.total > data.limit) {
+                html += `<p class="text-muted">Showing first ${data.limit} of ${data.total} connected motifs</p>`;
+            }
         }
-    }
 
-    loadAllMotifs(nodeId, nodeLabel) {
-        const resultDiv = document.getElementById('browseResultContent');
-        resultDiv.innerHTML = '<p class="text-muted">Loading all motifs...</p>';
-
-        fetch(`/get_all_motifs_for_node/${nodeId}`)
-            .then(response => response.json())
-            .then(data => {
-                console.log(`Loaded ${data.motifs.length} total motifs for ${nodeId}`);
-                this.displayMotifsResult(data, nodeId, nodeLabel);
-            })
-            .catch(error => {
-                console.error('Error loading all motifs:', error);
-                resultDiv.innerHTML = '<p class="text-danger">Error loading all motifs</p>';
-            });
+        resultDiv.innerHTML = html;
     }
 
     // Load detailed view of a specific motif

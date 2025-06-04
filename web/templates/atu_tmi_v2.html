@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="static/images/glos_favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>GLOS::ATU<>TMI v2</title>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
@@ -15,17 +16,20 @@
 
 </head>
 <body>
-<div class="container-fluid">
+<!--<div class="container-fluid">-->
+<div class="container">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/">GLOS</a>
+      <a class="navbar-brand" href="/">
+        <img src="/static/images/glos_wordmark.jpg" alt="GLOS Logo" height="32">
+      </a>
       <div class="collapse navbar-collapse justify-content-end">
         <ul class="navbar-nav">
           <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="/explore">Explore</a></li>
+          <li class="nav-item"><a class="nav-link" href="/explore">Concept Matcher</a></li>
 <!--          <li class="nav-item"><a class="nav-link" href="/atu_tmi">ATU&lt;&gt;TMI</a></li>-->
           <li class="nav-item"><a class="nav-link" href="/atu_tmi_v2">ATU/TMI</a></li>
-          <li class="nav-item"><a class="nav-link" href="/mapping">Mapping</a></li>
+          <li class="nav-item"><a class="nav-link disabled-link" href="/mapping">Mapping</a></li>
         </ul>
       </div>
     </div>
@@ -42,8 +46,8 @@
 
     <!-- Tab buttons -->
     <div class="tab-buttons">
-      <div class="tab-button active" data-tab="search">Search</div>
-      <div class="tab-button" data-tab="browse">Browse</div>
+      <div class="tab-button" data-tab="search">Search</div>
+      <div class="tab-button active" data-tab="browse">Browse</div>
     </div>
 
     <!-- Content area -->
@@ -86,6 +90,7 @@
               </div>
               <div id="resultContent">
                 <p class="text-muted">Start typing to search for tale types - either a word or ATU ID - then select one to find related TMI motifs...</p>
+                <img src="static/images/ATU_cover.jpg" alt="ATU cover" height="300">
               </div>
             </div>
           </div>
@@ -128,6 +133,7 @@
               </div>
               <div id="browseResultContent">
                 <p class="text-muted">Select a category to browse...</p>
+                <img src="static/images/ATU_cover.jpg" alt="ATU cover" height="300">
               </div>
             </div>
           </div>
@@ -218,12 +224,13 @@ $(document).ready(function() {
             <div class="browse-explanation">
                 <p class="text-muted mb-2">Displaying only motifs that have been cross-referenced in the ATU index.</p>
                 <p class="text-muted">Select a category to begin browsing...</p>
+                <img src="static/images/TMI_cover.jpg" alt="TMI cover" height="300">
             </div>
         `);
     } else {
-        $('#browseResultContent').html('<p class="text-muted">Select a category to browse...</p>');
+        $('#browseResultContent').html('<p class="text-muted">Select a category to browse...</p>' +
+          '<img src="static/images/ATU_cover.jpg" alt="ATU cover" height="300">');
     }
-    // $('#browseResultContent').html('<p class="text-muted">Select a category to browse...</p>');
 }
 
   // Radio button handling for search
@@ -257,9 +264,11 @@ $(document).ready(function() {
   function clearResults() {
     $('#searchResults').hide();
     if (currentMode === 'atu') {
-      $('#resultContent').html('<p class="text-muted">Start typing to search for tale types - either a word or ATU ID - then select one to find related TMI motifs...</p>');
+      $('#resultContent').html('<p class="text-muted">Start typing to search for tale types - either a word or ATU ID - then select one to find related TMI motifs...</p>' +
+        '<img src="static/images/ATU_cover.jpg" alt="ATU cover" height="300">');
     } else {
-      $('#resultContent').html('<p class="text-muted">Start typing to search for motifs - either a work or TMI ID - then select one to find related tale types referenced in the ATU...</p>');
+      $('#resultContent').html('<p class="text-muted">Start typing to search for motifs - either a work or TMI ID - then select one to find related tale types referenced in the ATU...</p>' +
+        '<img src="static/images/TMI_cover.jpg" alt="ATU cover" height="300">');
     }
   }
 
@@ -327,15 +336,6 @@ $(document).ready(function() {
     $('#searchInput').val('').attr('placeholder', 'Search motifs...');
     loadMotifDetails(motifId);
   };
-  // window.selectTaleType = function(typeId) {
-  //   $('#searchResults').hide();
-  //   loadTaleTypeDetails(typeId);
-  // };
-  //
-  // window.selectMotif = function(motifId) {
-  //   $('#searchResults').hide();
-  //   loadMotifDetails(motifId);
-  // };
 
   function loadTaleTypeDetails(typeId) {
     // Get tale type details and its motifs
@@ -421,17 +421,6 @@ $(document).ready(function() {
                  </span>${typeCulturalRefs}
                </div>`;
     });
-    // types.forEach(type => {
-    //   let typeCulturalRefs = '';
-    //   if (type.ref_terms && type.ref_terms.trim()) {
-    //     typeCulturalRefs = ` <span class="cultural-refs">[${type.ref_terms}]</span>`;
-    //   }
-    //   html += `<div class="motif-item">
-    //              <a href="#" onclick="selectTaleType('${type.type_id}')" class="text-decoration-none">
-    //                <strong>ATU ${type.type_id}</strong> – ${type.label}${typeCulturalRefs}
-    //              </a>
-    //            </div>`;
-    // });
 
     // Add cross-reference logic here for multiple tale types
     if (types.length > 1) {
@@ -623,6 +612,7 @@ $(document).ready(function() {
     }).catch(() => {
       showModalDetails('Error', '<p class="text-danger">Error loading motif details</p>');
     });
+
   };
 
   function generateTaleTypeModalContent(typeId, details, motifs) {
@@ -657,7 +647,6 @@ $(document).ready(function() {
     return content;
   }
 
-  // REPLACE the generateMotifModalContent function with this debugging version:
   function generateMotifModalContent(motifId, details, types, excludeTypeId = null) {
   console.log(`generateMotifModalContent called with motifId: ${motifId}, excludeTypeId: ${excludeTypeId}`);
   console.log('All types:', types.map(t => t.type_id));
@@ -706,50 +695,16 @@ $(document).ready(function() {
   return content;
 }
 
-//   function generateMotifModalContent(motifId, details, types, excludeTypeId = null) {
-//   let culturalRefs = '';
-//   if (details.ref_terms && details.ref_terms.length > 0) {
-//     const terms = details.ref_terms.slice(0, 5);
-//     const remaining = details.ref_terms.length - 5;
-//     culturalRefs = `<span class="cultural-refs">[${terms.join(', ')}${remaining > 0 ? `, ...${remaining} more` : ''}]</span>`;
-//   }
-//
-//   // Filter out the excluded tale type if specified
-//   const filteredTypes = excludeTypeId ?
-//     types.filter(type => type.type_id !== excludeTypeId) :
-//     types;
-//
-//   let content = `
-//     <div class="modal-motif">
-//       <h6>TMI ${motifId}: ${details.text} ${culturalRefs}</h6>
-//       <div class="motif-list">
-//         <h6>Tale Types (${filteredTypes.length}):</h6>
-//   `;
-//
-//   if (filteredTypes.length === 0) {
-//     content += '<p class="text-muted">No other related tale types found.</p>';
-//   } else {
-//     filteredTypes.forEach(type => {
-//       let typeCulturalRefs = '';
-//       if (type.ref_terms && type.ref_terms.trim()) {
-//         typeCulturalRefs = ` <span class="cultural-refs">[${type.ref_terms}]</span>`;
-//       }
-//       content += `<div class="motif-item">
-//                     <span class="clickable-tale-type" onclick="loadTaleTypeModal('${type.type_id}')">
-//                       <strong>ATU ${type.type_id}</strong> – ${type.label}
-//                     </span>${typeCulturalRefs}
-//                   </div>`;
-//     });
-//   }
-//
-//   content += '</div></div>';
-//   return content;
-// }
-
-// Initialize
+  // Initialize
   updateIndexHeader();
   updateDirectionArrow();
   updateBrowseDisplay();
+
+  // Force initial tab
+  const initialTab = $('.tab-button.active').data('tab');
+  if (initialTab) {
+    $('.tab-button[data-tab="' + initialTab + '"]').trigger('click');
+  }
 });
 </script>
 
