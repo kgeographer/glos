@@ -78,28 +78,10 @@
             <div class="search-container">
               <input type="text" class="form-control" id="searchInput"
                      placeholder="Search..." autocomplete="off">
-              <!-- Logic and Fuzzy toggles -->
-              <div style="margin-top: 10px;">
-                <!-- Logic toggle -->
-                <label style="margin-right: 10px;">
-                  <input type="radio" name="logic" value="OR" checked>
-                  Match any term (OR)
-                </label>
-                <label style="margin-right: 20px;">
-                  <input type="radio" name="logic" value="AND">
-                  Match all terms (AND)
-                </label>
-
-                <!-- Fuzzy toggle -->
-                <label>
-                  <input type="checkbox" id="fuzzyToggle">
-                  Fuzzy search
-                </label>
-              </div>
               <div id="searchResults" class="search-results" style="display: none;"></div>
             </div>
           </div>
-
+          
           <!-- Right side: Results -->
           <div class="col-md-7">
             <div id="resultArea">
@@ -135,7 +117,7 @@
                 </label>
               </div>
             </div>
-
+            
             <div id="browseHierarchy">
               <div id="atuHierarchy">
                 <p class="text-muted">Loading ATU hierarchy...</p>
@@ -190,11 +172,11 @@ $(document).ready(function() {
   // Tab switching
   $('.tab-button').click(function() {
     const tab = $(this).data('tab');
-
+    
     // Update tab appearance
     $('.tab-button').removeClass('active');
     $(this).addClass('active');
-
+    
     // Show/hide content
     if (tab === 'search') {
       $('.search-content').show();
@@ -257,25 +239,8 @@ $(document).ready(function() {
     currentMode = $(this).val();
     updateIndexHeader();
     updateDirectionArrow();
-    // Auto-search on logic toggle change if there is a multi-term query
-    $('input[name="logic"]').off('change.logicAutoSearch').on('change.logicAutoSearch', function() {
-      const query = $('#searchInput').val().trim();
-      const terms = query.replace(/,/g, ' ').split(/\s+/).filter(t => t.length > 0);
-      if (terms.length > 1) {
-        performSearch(query);
-      }
-    });
     clearResults();
     $('#searchInput').val('').focus();
-  });
-
-  // Also attach the logic auto-search handler on page load (for initial state)
-  $('input[name="logic"]').off('change.logicAutoSearch').on('change.logicAutoSearch', function() {
-    const query = $('#searchInput').val().trim();
-    const terms = query.replace(/,/g, ' ').split(/\s+/).filter(t => t.length > 0);
-    if (terms.length > 1) {
-      performSearch(query);
-    }
   });
 
   function updateDirectionArrow() {
@@ -313,7 +278,7 @@ $(document).ready(function() {
   // Search functionality
   $('#searchInput').on('input', function() {
     const query = $(this).val().trim();
-
+    
     if (query.length < 2) {
       $('#searchResults').hide();
       return;
@@ -326,17 +291,10 @@ $(document).ready(function() {
   });
 
   function performSearch(query) {
-    // Collect logic and fuzzy values
-    const logic = document.querySelector('input[name="logic"]:checked').value;
-    const fuzzy = document.getElementById('fuzzyToggle').checked ? '1' : '0';
     const endpoint = currentMode === 'atu' ? '/search_types' : '/search_motifs';
-    // Log the search query and options before making the request
-    console.log("Search query:", query);
-    console.log("Using logic:", logic, "Fuzzy:", fuzzy);
-    $.get(`${endpoint}?q=${encodeURIComponent(query)}&limit=10&logic=${logic}&fuzzy=${fuzzy}`)
+    
+    $.get(`${endpoint}?q=${encodeURIComponent(query)}&limit=10`)
       .done(function(data) {
-        // Log the search results
-        console.log("Search results:", data);
         displaySearchResults(data);
       })
       .fail(function() {

@@ -1224,13 +1224,12 @@ def search_motifs():
     conn.close()
     return jsonify(results)
 
+
 @app.route('/search_types')
 def search_types():
-    """Search for tale types by ID or label with support for AND/OR logic and fuzzy toggle (placeholder)"""
+    """Search for tale types by ID or label"""
     query = request.args.get('q', '').strip()
     limit = int(request.args.get('limit', 20))
-    logic = request.args.get('logic', 'OR').upper()
-    fuzzy = request.args.get('fuzzy', '0') == '1'
 
     if not query:
         return jsonify([])
@@ -1242,96 +1241,37 @@ def search_types():
         port=os.getenv('DB_PORT')
     )
     cur = conn.cursor()
-    cur.execute("SET search_path TO folklore, public;")
 
-    if fuzzy:
-        print("Fuzzy search not yet implemented for tale types.")
-        cur.close()
-        conn.close()
-        return jsonify([])
-
-    # Normalize input: comma or space delimited
-    terms = [t.strip() for t in query.replace(',', ' ').split() if t.strip()]
-    if not terms:
-        return jsonify([])
-
-    # Build dynamic WHERE clause
-    clauses = [f"(label ILIKE %s OR type_id ILIKE %s)" for _ in terms]
-    connector = " AND " if logic == "AND" else " OR "
-    where_clause = connector.join(clauses)
-
-    sql = f"""
-        SELECT type_id, label
+    # Search by type ID and label
+    cur.execute("""
+        SELECT type_id, label,
+               CASE 
+                   WHEN type_id = %s THEN 1
+                   WHEN type_id ILIKE %s THEN 2
+                   ELSE 3
+               END as relevance
         FROM folklore.type_embeddings_3sm
-        WHERE {where_clause}
-        ORDER BY 
-            CASE WHEN type_id ~ '^[0-9]+'
-                 THEN CAST(REGEXP_REPLACE(type_id, '^([0-9]+).*', '\\1') AS INTEGER)
-                 ELSE 9999
-            END,
-            type_id
+        WHERE type_id ILIKE %s OR label ILIKE %s
+        ORDER BY relevance, 
+                 CASE WHEN type_id ~ '^[0-9]+' 
+                      THEN CAST(REGEXP_REPLACE(type_id, '^([0-9]+).*', '\\1') AS INTEGER)
+                      ELSE 9999
+                 END,
+                 type_id
         LIMIT %s;
-    """
+    """, (query, f"{query}%", f"%{query}%", f"%{query}%", limit))
 
-    params = []
-    for term in terms:
-        params.extend([f"%{term}%", f"%{term}%"])
-    params.append(limit)
-
-    cur.execute(sql, params)
-    results = [{'type_id': r[0], 'label': r[1]} for r in cur.fetchall()]
+    results = []
+    for row in cur.fetchall():
+        results.append({
+            'type_id': row[0],
+            'label': row[1],
+            'relevance': row[2]
+        })
 
     cur.close()
     conn.close()
     return jsonify(results)
-
-# @app.route('/search_types')
-# def search_types():
-#     """Search for tale types by ID or label"""
-#     query = request.args.get('q', '').strip()
-#     limit = int(request.args.get('limit', 20))
-#
-#     if not query:
-#         return jsonify([])
-#
-#     conn = psycopg2.connect(
-#         dbname=os.getenv('DB_NAME'),
-#         user=os.getenv('DB_USER'),
-#         host=os.getenv('DB_HOST'),
-#         port=os.getenv('DB_PORT')
-#     )
-#     cur = conn.cursor()
-#
-#     # Search by type ID and label
-#     cur.execute("""
-#         SELECT type_id, label,
-#                CASE
-#                    WHEN type_id = %s THEN 1
-#                    WHEN type_id ILIKE %s THEN 2
-#                    ELSE 3
-#                END as relevance
-#         FROM folklore.type_embeddings_3sm
-#         WHERE type_id ILIKE %s OR label ILIKE %s
-#         ORDER BY relevance,
-#                  CASE WHEN type_id ~ '^[0-9]+'
-#                       THEN CAST(REGEXP_REPLACE(type_id, '^([0-9]+).*', '\\1') AS INTEGER)
-#                       ELSE 9999
-#                  END,
-#                  type_id
-#         LIMIT %s;
-#     """, (query, f"{query}%", f"%{query}%", f"%{query}%", limit))
-#
-#     results = []
-#     for row in cur.fetchall():
-#         results.append({
-#             'type_id': row[0],
-#             'label': row[1],
-#             'relevance': row[2]
-#         })
-#
-#     cur.close()
-#     conn.close()
-#     return jsonify(results)
 
 
 @app.route('/')
