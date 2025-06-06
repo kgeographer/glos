@@ -1197,10 +1197,25 @@ def search_motifs():
     cur.execute("SET search_path TO folklore, public;")
 
     if fuzzy:
-        print("Fuzzy search not yet implemented for motifs.")
+        if len(query) < 3:
+            # Avoid noise from short strings
+            cur.close()
+            conn.close()
+            return jsonify([])
+
+        sql = """
+            SELECT motif_id, text
+            FROM folklore.motif_text
+            WHERE similarity(text::text, %s::text) > 0.3
+            ORDER BY similarity(text::text, %s::text) DESC
+            LIMIT %s;
+        """
+        cur.execute(sql, (query, query, limit))
+        results = [{'motif_id': r[0], 'text': r[1]} for r in cur.fetchall()]
+
         cur.close()
         conn.close()
-        return jsonify([])
+        return jsonify(results)
 
     terms = [t.strip() for t in query.replace(',', ' ').split() if t.strip()]
     if not terms:
@@ -1232,7 +1247,7 @@ def search_motifs():
 
 @app.route('/search_types')
 def search_types():
-    """Search for tale types by ID or label with support for AND/OR logic and fuzzy toggle (placeholder)"""
+    """Search for tale types by ID or label with support for AND/OR logic and fuzzy toggle (trigram similarity)"""
     query = request.args.get('q', '').strip()
     limit = int(request.args.get('limit', 20))
     logic = request.args.get('logic', 'OR').upper()
@@ -1251,10 +1266,25 @@ def search_types():
     cur.execute("SET search_path TO folklore, public;")
 
     if fuzzy:
-        print("Fuzzy search not yet implemented for tale types.")
+        if len(query) < 3:
+            # Too short for trigram similarity to be meaningful
+            cur.close()
+            conn.close()
+            return jsonify([])
+
+        sql = """
+            SELECT type_id, label
+            FROM folklore.type_embeddings_3sm
+            WHERE similarity(label::text, %s::text) > 0.3
+            ORDER BY similarity(label::text, %s::text) DESC
+            LIMIT %s;
+        """
+        cur.execute(sql, (query, query, limit))
+        results = [{'type_id': r[0], 'label': r[1]} for r in cur.fetchall()]
+
         cur.close()
         conn.close()
-        return jsonify([])
+        return jsonify(results)
 
     # Normalize input: comma or space delimited
     terms = [t.strip() for t in query.replace(',', ' ').split() if t.strip()]

@@ -81,11 +81,11 @@
               <!-- Logic and Fuzzy toggles -->
               <div style="margin-top: 10px;">
                 <!-- Logic toggle -->
-                <label style="margin-right: 10px;">
+                <label class="logic-label" style="margin-right: 10px;" title="AND/OR not applicable with fuzzy search">
                   <input type="radio" name="logic" value="OR" checked>
                   Match any term (OR)
                 </label>
-                <label style="margin-right: 20px;">
+                <label class="logic-label" style="margin-right: 20px;" title="AND/OR not applicable with fuzzy search">
                   <input type="radio" name="logic" value="AND">
                   Match all terms (AND)
                 </label>
@@ -267,6 +267,19 @@ $(document).ready(function() {
     });
     clearResults();
     $('#searchInput').val('').focus();
+  });
+
+  // Disable logic radio buttons when fuzzy is enabled, apply text-muted, and trigger search if multi-term
+  $('#fuzzyToggle').on('change', function() {
+    const isFuzzy = $(this).is(':checked');
+    $('input[name="logic"]').prop('disabled', isFuzzy);
+    $('.logic-label').toggleClass('text-muted', isFuzzy);
+
+    const query = $('#searchInput').val().trim();
+    const terms = query.replace(/,/g, ' ').split(/\s+/).filter(t => t.length > 0);
+    if (terms.length > 0) {
+      performSearch(query);
+    }
   });
 
   // Also attach the logic auto-search handler on page load (for initial state)
