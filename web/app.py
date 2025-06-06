@@ -1178,9 +1178,11 @@ def get_motif_details(motif_id):
 
 @app.route('/search_motifs')
 def search_motifs():
-    """Search for motifs by ID or text content"""
+    """Search for motifs by ID or text with AND/OR logic and fuzzy toggle (placeholder)"""
     query = request.args.get('q', '').strip()
     limit = int(request.args.get('limit', 20))
+    logic = request.args.get('logic', 'OR').upper()
+    fuzzy = request.args.get('fuzzy', '0') == '1'
 
     if not query:
         return jsonify([])
@@ -1192,33 +1194,37 @@ def search_motifs():
         port=os.getenv('DB_PORT')
     )
     cur = conn.cursor()
+    cur.execute("SET search_path TO folklore, public;")
 
-    # Search by motif ID (exact and prefix match) and text content
-    cur.execute("""
-        SELECT mt.motif_id, mt.text,
-               COUNT(tm.type_id) as type_count,
-               CASE 
-                   WHEN mt.motif_id = %s THEN 1
-                   WHEN mt.motif_id ILIKE %s THEN 2
-                   ELSE 3
-               END as relevance
-        FROM folklore.motif_text mt
-        LEFT JOIN folklore.type_motif tm ON mt.motif_id = tm.motif_id
-        WHERE mt.motif_id ILIKE %s OR mt.text ILIKE %s
-        GROUP BY mt.motif_id, mt.text
-        HAVING COUNT(tm.type_id) > 0
-        ORDER BY relevance, mt.motif_id
+    if fuzzy:
+        print("Fuzzy search not yet implemented for motifs.")
+        cur.close()
+        conn.close()
+        return jsonify([])
+
+    terms = [t.strip() for t in query.replace(',', ' ').split() if t.strip()]
+    if not terms:
+        return jsonify([])
+
+    clauses = [f"(motif_id ILIKE %s OR text ILIKE %s)" for _ in terms]
+    connector = " AND " if logic == "AND" else " OR "
+    where_clause = connector.join(clauses)
+
+    sql = f"""
+        SELECT motif_id, text
+        FROM folklore.motif_text
+        WHERE {where_clause}
+        ORDER BY motif_id
         LIMIT %s;
-    """, (query, f"{query}%", f"%{query}%", f"%{query}%", limit))
+    """
 
-    results = []
-    for row in cur.fetchall():
-        results.append({
-            'motif_id': row[0],
-            'text': row[1],
-            'type_count': row[2],
-            'relevance': row[3]
-        })
+    params = []
+    for term in terms:
+        params.extend([f"%{term}%", f"%{term}%"])
+    params.append(limit)
+
+    cur.execute(sql, params)
+    results = [{'motif_id': r[0], 'text': r[1]} for r in cur.fetchall()]
 
     cur.close()
     conn.close()
