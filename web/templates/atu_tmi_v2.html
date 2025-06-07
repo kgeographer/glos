@@ -5,6 +5,7 @@
   <link rel="icon" type="image/x-icon" href="static/images/glos_favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>GLOS::ATU<>TMI v2</title>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
           integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
           crossorigin="anonymous"></script>
@@ -12,6 +13,10 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link href="../static/css/styles.css" rel="stylesheet">
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer" />
   <script src="/static/js/tmi-browse.js"></script>
 
 </head>
@@ -81,12 +86,12 @@
               <!-- Logic and Fuzzy toggles -->
               <div style="margin-top: 10px;">
                 <!-- Logic toggle -->
-                <label class="logic-label" style="margin-right: 10px;" title="AND/OR not applicable with fuzzy search">
-                  <input type="radio" name="logic" value="OR" checked>
+                <label class="form-check-label logic-label" for="orLogic" data-bs-toggle="tooltip" title="Not applicable in fuzzy search mode" style="margin-right: 10px;">
+                  <input type="radio" name="logic" value="OR" id="orLogic" checked>
                   Match any term (OR)
                 </label>
-                <label class="logic-label" style="margin-right: 20px;" title="AND/OR not applicable with fuzzy search">
-                  <input type="radio" name="logic" value="AND">
+                <label class="form-check-label logic-label" for="andLogic" data-bs-toggle="tooltip" title="Not applicable in fuzzy search mode" style="margin-right: 20px;">
+                  <input type="radio" name="logic" value="AND" id="andLogic">
                   Match all terms (AND)
                 </label>
 
@@ -280,6 +285,7 @@ $(document).ready(function() {
     if (terms.length > 0) {
       performSearch(query);
     }
+    refreshTooltips();
   });
 
   // Also attach the logic auto-search handler on page load (for initial state)
@@ -417,19 +423,29 @@ $(document).ready(function() {
     });
   }
 
+  // Refresh Bootstrap tooltips for dynamic content
+  function refreshTooltips() {
+    const newTooltips = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+    newTooltips.forEach(el => {
+      if (!bootstrap.Tooltip.getInstance(el)) {
+        new bootstrap.Tooltip(el);
+      }
+    });
+  }
+
   function displayTaleTypeResult(typeId, details, motifs) {
     let culturalRefs = '';
     if (details.ref_terms && details.ref_terms.length > 0) {
       const terms = details.ref_terms.slice(0, 5);
       const remaining = details.ref_terms.length - 5;
-      culturalRefs = `<p class="cultural-refs-atu">[${terms.join(', ')}${remaining > 0 ? `, ... <a href="#"><i>${remaining} more</i></a>` : ''}]</p>`;
+      culturalRefs = `<p class="cultural-refs-atu">[${terms.join(', ')}${remaining > 0 ? `, ... <a href="#" class="geo-preview" data-bs-toggle="tooltip" title="Geographic visualizations coming soon"><i>${remaining} more <i class="fa-solid fa-globe-americas" style="margin-left: 4px;"></i></i></a>` : ''}]</p>`;
     }
 
     let html = `
       <div class="result-item">
         <h5>ATU ${typeId} - ${details.label} ${culturalRefs}</h5>
         <p>${details.text || ''}</p>
-        
+
         <div class="motif-list">
           <h6>Motifs:</h6>
     `;
@@ -448,6 +464,7 @@ $(document).ready(function() {
 
     html += '</div></div>';
     $('#resultContent').html(html);
+    refreshTooltips();
   }
 
   function displayMotifResult(motifId, details, types) {
@@ -461,7 +478,7 @@ $(document).ready(function() {
     let html = `
       <div class="result-item">
         <h5>TMI ${motifId}: ${details.text} ${culturalRefs}</h5>
-        
+
         <div class="motif-list">
           <h6>Tale Types (${types.length}):</h6>
     `;
@@ -487,6 +504,7 @@ $(document).ready(function() {
 
     html += '</div></div>';
     $('#resultContent').html(html);
+    refreshTooltips();
   }
 
   // Load ATU hierarchy for browse tab
@@ -598,7 +616,7 @@ $(document).ready(function() {
       <div class="result-item">
         <h5>ATU ${typeId} - ${details.label} ${culturalRefs}</h5>
         <p>${details.text || ''}</p>
-        
+
         <div class="motif-list">
           <h6>Motifs:</h6>
     `;
@@ -761,6 +779,12 @@ $(document).ready(function() {
   if (initialTab) {
     $('.tab-button[data-tab="' + initialTab + '"]').trigger('click');
   }
+
+  // Bootstrap tooltip initialization (for globe icon, etc.)
+  const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+  const tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl);
+  });
 });
 </script>
 
