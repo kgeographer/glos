@@ -172,7 +172,7 @@
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="crossReferenceModalLabel">Details</h5>
+        <h6 class="modal-title" id="crossReferenceModalLabel">Details</h6>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body" id="crossReferenceModalBody">
@@ -191,6 +191,7 @@ $(document).ready(function() {
   let browseMode = 'atu';
   let atuHierarchyLoaded = false;
   let tmiHierarchyLoaded = false;
+  let disableMotifLinksInModal = false;
 
   // Tab switching
   $('.tab-button').click(function() {
@@ -467,7 +468,6 @@ $(document).ready(function() {
         <h5>ATU ${typeId} - ${details.label} ${culturalRefs}</h5>
         <div class="scrollable-result-body" style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
           <p>${details.text || ''}</p>
-
           <div class="motif-list">
             ${motifs.length > 0
               ? `<h6>Referenced motifs (linked if referenced in other tales):</h6>`
@@ -475,22 +475,30 @@ $(document).ready(function() {
     `;
 
     motifs.forEach(motif => {
-      let motifCulturalRefs = '';
-      if (motif.ref_terms && motif.ref_terms.trim()) {
-        motifCulturalRefs = ` <span class="cultural-refs">[${motif.ref_terms}]</span>`;
+      // --- Start replacement block ---
+      html += `<li>`;
+      html += `<strong>${motif.motif_id}</strong>: ${motif.label || motif.text || ''}`;
+      // Show ref_terms if present and non-empty array or string
+      let refTermsArr = [];
+      if (Array.isArray(motif.ref_terms)) {
+        refTermsArr = motif.ref_terms;
+      } else if (typeof motif.ref_terms === 'string' && motif.ref_terms.trim().length > 0) {
+        refTermsArr = motif.ref_terms.split(',').map(s => s.trim()).filter(Boolean);
       }
-      // Only make motif clickable if it is referenced in more than one tale type
-      html += `<div class="motif-entry">`;
-      if (motif.tale_type_count > 1) {
-        html += `
-          <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;">
-            <strong>${motif.motif_id}</strong>: ${motif.text}
-          </a>`;
-      } else {
-        html += `
-          <strong>${motif.motif_id}</strong>: ${motif.text}`;
+      if (refTermsArr.length > 0) {
+        html += ` [${refTermsArr.join(', ')}]`;
       }
-      html += `${motifCulturalRefs}</div>`;
+      console.log('Motif object:', motif);
+      // Show referenced tale types if present and non-empty
+      if (motif.related_types && motif.related_types.length > 0) {
+        html += `<br><small>Referenced in: `;
+        motif.related_types.forEach(typeId => {
+          html += `<a href="#" onclick="loadTypeModalFromMotif('${typeId}', '${motif.motif_id}')">${typeId}</a> `;
+        });
+        html += `</small>`;
+      }
+      html += `</li>`;
+      // --- End replacement block ---
     });
 
     html += '</div></div></div>';
@@ -685,12 +693,41 @@ $(document).ready(function() {
   });
 
   // Modal helper functions
+  window.switchToTaleTypeModalInPlace = function(typeId) {
+    disableMotifLinksInModal = true;
+    Promise.all([
+      $.get(`/get_type_details/${typeId}`),
+      $.get(`/get_motifs_for_type/${typeId}`)
+    ]).then(([typeDetails, motifs]) => {
+      const content = generateTaleTypeModalContent(typeId, typeDetails, motifs);
+      $('#crossReferenceModalLabel').text(`ATU ${typeId} - ${typeDetails.label}`);
+      $('#crossReferenceModalBody').html(content);
+      disableMotifLinksInModal = false;
+    }).catch(() => {
+      $('#crossReferenceModalLabel').text('Error');
+      $('#crossReferenceModalBody').html('<p class="text-danger">Error loading tale type details</p>');
+    });
+  };
+
   window.showModalDetails = function(title, content) {
     $('#crossReferenceModalLabel').text(title);
     $('#crossReferenceModalBody').html(content);
     const modal = new bootstrap.Modal(document.getElementById('crossReferenceModal'));
     modal.show();
   }
+
+  window.loadTypeModalFromMotif = function(typeId, motifId) {
+    console.log(`loadTypeModalFromMotif called with typeId: ${typeId}, motifId: ${motifId}`);
+    Promise.all([
+      $.get(`/get_type_details/${typeId}`),
+      $.get(`/get_motifs_for_type/${typeId}`)
+    ]).then(([typeDetails, motifs]) => {
+      const content = generateTaleTypeModalContent(typeId, typeDetails, motifs, motifId);
+      showModalDetails(`ATU ${typeId} - ${typeDetails.label}`, content);
+    }).catch(() => {
+      showModalDetails('Error', '<p class="text-danger">Error loading tale type details</p>');
+    });
+  };
 
   window.loadTaleTypeModal = function(typeId) {
     Promise.all([
@@ -723,14 +760,14 @@ $(document).ready(function() {
       $.get(`/get_types_for_motif/${motifId}`)
     ]).then(([motifDetails, types]) => {
       const content = generateMotifModalContent(motifId, motifDetails, types, excludeTypeId);
-      showModalDetails(`TMI ${motifId}`, content);
+      showModalDetails(`TMI ${motifId}: ${motifDetails.text}`, content);
     }).catch(() => {
       showModalDetails('Error', '<p class="text-danger">Error loading motif details</p>');
     });
 
   };
 
-  function generateTaleTypeModalContent(typeId, details, motifs) {
+  function generateTaleTypeModalContent(typeId, details, motifs, excludeMotifId = null) {
     let culturalRefs = '';
     if (details.ref_terms && details.ref_terms.length > 0) {
       const terms = details.ref_terms.slice(0, 5);
@@ -740,7 +777,8 @@ $(document).ready(function() {
 
     let content = `
       <div class="modal-tale-type">
-        <h6>ATU ${typeId} - ${details.label} ${culturalRefs}</h6>
+        <!--<h6>ATU ${typeId} - ${details.label} ${culturalRefs}</h6>-->
+        ${culturalRefs}
         <p>${details.text || ''}</p>
         <div class="motif-list">
           ${motifs.length > 0
@@ -772,14 +810,14 @@ $(document).ready(function() {
   }
 
   function generateMotifModalContent(motifId, details, types, excludeTypeId = null) {
-  console.log(`generateMotifModalContent called with motifId: ${motifId}, excludeTypeId: ${excludeTypeId}`);
-  console.log('All types:', types.map(t => t.type_id));
+    console.log(`generateMotifModalContent called with motifId: ${motifId}, excludeTypeId: ${excludeTypeId}`);
+    console.log('All types:', types.map(t => t.type_id));
 
-  let culturalRefs = '';
-  if (details.ref_terms && details.ref_terms.length > 0) {
-    const terms = details.ref_terms.slice(0, 5);
-    const remaining = details.ref_terms.length - 5;
-    culturalRefs = `<span class="cultural-refs">[${terms.join(', ')}${remaining > 0 ? `, ...${remaining} more` : ''}]</span>`;
+    let culturalRefs = '';
+    if (details.ref_terms && details.ref_terms.length > 0) {
+      const terms = details.ref_terms.slice(0, 5);
+      const remaining = details.ref_terms.length - 5;
+      culturalRefs = `<span class="cultural-refs">[${terms.join(', ')}${remaining > 0 ? `, ...${remaining} more` : ''}]</span>`;
   }
 
   // Filter out the excluded tale type if specified
@@ -794,7 +832,7 @@ $(document).ready(function() {
 
   let content = `
     <div class="modal-motif">
-      <h6>TMI ${motifId}: ${details.text} ${culturalRefs}</h6>
+      <h6>Cultural references: ${culturalRefs}</h6>
       <div class="motif-list">
         <h6>Other Tale Types (${filteredTypes.length}):</h6>
   `;
@@ -808,7 +846,7 @@ $(document).ready(function() {
         typeCulturalRefs = ` <span class="cultural-refs">[${type.ref_terms}]</span>`;
       }
       content += `<div class="motif-item">
-                    <span class="clickable-tale-type" onclick="loadTaleTypeModal('${type.type_id}')">
+                    <span class="clickable-tale-type" onclick="switchToTaleTypeModalInPlace('${type.type_id}')">
                       <strong>ATU ${type.type_id}</strong> – ${type.type_id !== excludeTypeId ? type.label : 'SHOULD BE FILTERED'}
                     </span>${typeCulturalRefs}
                   </div>`;

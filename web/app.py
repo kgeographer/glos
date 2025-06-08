@@ -205,6 +205,15 @@ def get_motifs_for_type(type_id):
         """, (motif['motif_id'],))
         motif['tale_type_count'] = cur.fetchone()[0]
 
+    # Add related tale types (excluding the current one)
+    cur.execute("""
+        SELECT DISTINCT type_id
+        FROM folklore.type_motif
+        WHERE motif_id = %s AND type_id != %s
+    """, (motif['motif_id'], type_id))
+    related_types_raw = cur.fetchall()
+    motif['related_types'] = [str(row[0]) for row in related_types_raw]
+
     cur.close()
     conn.close()
     return jsonify(motifs)
@@ -1151,7 +1160,6 @@ def get_type_details(type_id):
         })
     return jsonify({'label': '', 'text': '', 'ref_terms': []})
 
-
 @app.route('/get_motif_details/<motif_id>')
 def get_motif_details(motif_id):
     """Get detailed information about a specific motif"""
@@ -1172,8 +1180,17 @@ def get_motif_details(motif_id):
         WHERE mt.motif_id = %s
         GROUP BY mt.text;
     """, (motif_id,))
-
     result = cur.fetchone()
+
+    # 🆕 Fetch related tale types
+    cur.execute("""
+        SELECT DISTINCT type_id
+        FROM folklore.type_motif
+        WHERE motif_id = %s;
+    """, (motif_id,))
+    related_types_raw = cur.fetchall()
+    related_types = [str(row[0]) for row in related_types_raw]
+
     cur.close()
     conn.close()
 
@@ -1181,9 +1198,43 @@ def get_motif_details(motif_id):
         ref_terms_list = result[1].split(', ') if result[1] else []
         return jsonify({
             'text': result[0] or '',
-            'ref_terms': ref_terms_list
+            'ref_terms': ref_terms_list,
+            'related_types': related_types  # ✅ Add this field
         })
-    return jsonify({'text': '', 'ref_terms': []})
+    return jsonify({'text': '', 'ref_terms': [], 'related_types': []})
+
+# @app.route('/get_motif_details/<motif_id>')
+# def get_motif_details(motif_id):
+#     """Get detailed information about a specific motif"""
+#     conn = psycopg2.connect(
+#         dbname=os.getenv('DB_NAME'),
+#         user=os.getenv('DB_USER'),
+#         host=os.getenv('DB_HOST'),
+#         port=os.getenv('DB_PORT')
+#     )
+#     cur = conn.cursor()
+#
+#     # Get motif text and cultural references
+#     cur.execute("""
+#         SELECT mt.text,
+#                STRING_AGG(DISTINCT mr.ref_term, ', ' ORDER BY mr.ref_term) as ref_terms
+#         FROM folklore.motif_text mt
+#         LEFT JOIN folklore.motif_ref mr ON mt.motif_id = mr.motif_id
+#         WHERE mt.motif_id = %s
+#         GROUP BY mt.text;
+#     """, (motif_id,))
+#
+#     result = cur.fetchone()
+#     cur.close()
+#     conn.close()
+#
+#     if result:
+#         ref_terms_list = result[1].split(', ') if result[1] else []
+#         return jsonify({
+#             'text': result[0] or '',
+#             'ref_terms': ref_terms_list
+#         })
+#     return jsonify({'text': '', 'ref_terms': []})
 
 
 @app.route('/search_motifs')
