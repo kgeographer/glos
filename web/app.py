@@ -188,12 +188,22 @@ def get_motifs_for_type(type_id):
     """, (type_id,))
 
     motifs = []
-    for row in cur.fetchall():
+    motif_rows = cur.fetchall()
+    for row in motif_rows:
         motifs.append({
             'motif_id': row[0],
             'text': row[1],
             'ref_terms': row[2] if row[2] else ''
         })
+
+    # For each motif, compute how many tale types it is associated with
+    for motif in motifs:
+        cur.execute("""
+            SELECT COUNT(DISTINCT type_id)
+            FROM folklore.type_motif
+            WHERE motif_id = %s
+        """, (motif['motif_id'],))
+        motif['tale_type_count'] = cur.fetchone()[0]
 
     cur.close()
     conn.close()

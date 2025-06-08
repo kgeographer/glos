@@ -469,7 +469,9 @@ $(document).ready(function() {
           <p>${details.text || ''}</p>
 
           <div class="motif-list">
-            <h6>Motifs:</h6>
+            ${motifs.length > 0
+              ? `<h6>Referenced motifs (linked if referenced in other tales):</h6>`
+              : `<p class="text-muted"><em>No motifs referenced for this tale type.</em></p>`}
     `;
 
     motifs.forEach(motif => {
@@ -477,11 +479,18 @@ $(document).ready(function() {
       if (motif.ref_terms && motif.ref_terms.trim()) {
         motifCulturalRefs = ` <span class="cultural-refs">[${motif.ref_terms}]</span>`;
       }
-      html += `<div class="motif-item">
-                 <span class="clickable-motif" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}')">
-                   <strong>${motif.motif_id}</strong> ${motif.text}
-                 </span>${motifCulturalRefs}
-               </div>`;
+      // Only make motif clickable if it is referenced in more than one tale type
+      html += `<div class="motif-entry">`;
+      if (motif.tale_type_count > 1) {
+        html += `
+          <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;">
+            <strong>${motif.motif_id}</strong>: ${motif.text}
+          </a>`;
+      } else {
+        html += `
+          <strong>${motif.motif_id}</strong>: ${motif.text}`;
+      }
+      html += `${motifCulturalRefs}</div>`;
     });
 
     html += '</div></div></div>';
@@ -640,19 +649,29 @@ $(document).ready(function() {
         <p>${details.text || ''}</p>
 
         <div class="motif-list">
-          <h6>Motifs:</h6>
+          ${motifs.length > 0
+            ? `<h6>Referenced motifs (linked if referenced in other tales):</h6>`
+            : `<p class="text-muted"><em>No motifs referenced for this tale type.</em></p>`}
     `;
+
 
     motifs.forEach(motif => {
       let motifCulturalRefs = '';
       if (motif.ref_terms && motif.ref_terms.trim()) {
         motifCulturalRefs = ` <span class="cultural-refs">[${motif.ref_terms}]</span>`;
       }
-      html += `<div class="motif-item">
-                 <span class="clickable-motif" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}')">
-                   <strong>${motif.motif_id}</strong> ${motif.text}
-                 </span>${motifCulturalRefs}
-               </div>`;
+      // Only make motif clickable if it is referenced in more than one tale type
+      html += `<div class="motif-entry">`;
+      if (motif.tale_type_count > 1) {
+        html += `
+          <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;">
+            <strong>${motif.motif_id}</strong>: ${motif.text}
+          </a>`;
+      } else {
+        html += `
+          <strong>${motif.motif_id}</strong>: ${motif.text}`;
+      }
+      html += `${motifCulturalRefs}</div>`;
     });
     html += '</div></div>';
     $('#browseResultContent').html(html);
@@ -724,7 +743,9 @@ $(document).ready(function() {
         <h6>ATU ${typeId} - ${details.label} ${culturalRefs}</h6>
         <p>${details.text || ''}</p>
         <div class="motif-list">
-          <h6>Motifs:</h6>
+          ${motifs.length > 0
+            ? `<h6>Referenced motifs (linked if referenced in other tales):</h6>`
+            : `<p class="text-muted"><em>No motifs referenced for this tale type.</em></p>`}
     `;
 
     motifs.forEach(motif => {
@@ -732,11 +753,18 @@ $(document).ready(function() {
       if (motif.ref_terms && motif.ref_terms.trim()) {
         motifCulturalRefs = ` <span class="cultural-refs">[${motif.ref_terms}]</span>`;
       }
-      content += `<div class="motif-item">
-                    <span class="clickable-motif" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}')">
-                      <strong>${motif.motif_id}</strong> ${motif.text}
-                    </span>${motifCulturalRefs}
-                  </div>`;
+      // Only make motif clickable if it is referenced in more than one tale type
+      content += `<div class="motif-entry">`;
+      if (motif.tale_type_count > 1) {
+        content += `
+          <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;">
+            <strong>${motif.motif_id}</strong>: ${motif.text}
+          </a>`;
+      } else {
+        content += `
+          <strong>${motif.motif_id}</strong>: ${motif.text}`;
+      }
+      content += `${motifCulturalRefs}</div>`;
     });
 
     content += '</div></div>';

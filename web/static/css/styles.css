@@ -163,9 +163,12 @@ p {
   color: #666;
   font-size: 0.95rem;
 }
-
 .motif-list {
   margin-top: 15px;
+    border-top: 1px gainsboro solid;
+}
+.motif-list h6 {
+    font-weight: bold;
 }
 .motif-item {
   margin-bottom: 8px;
