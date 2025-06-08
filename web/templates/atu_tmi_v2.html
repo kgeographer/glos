@@ -86,11 +86,11 @@
               <!-- Logic and Fuzzy toggles -->
               <div style="margin-top: 10px;">
                 <!-- Logic toggle -->
-                <label class="form-check-label logic-label" for="orLogic" data-bs-toggle="tooltip" title="Not applicable in fuzzy search mode" style="margin-right: 10px;">
+                <label class="form-check-label logic-label" for="orLogic" style="margin-right: 10px;">
                   <input type="radio" name="logic" value="OR" id="orLogic" checked>
                   Match any term (OR)
                 </label>
-                <label class="form-check-label logic-label" for="andLogic" data-bs-toggle="tooltip" title="Not applicable in fuzzy search mode" style="margin-right: 20px;">
+                <label class="form-check-label logic-label" for="andLogic" style="margin-right: 20px;">
                   <input type="radio" name="logic" value="AND" id="andLogic">
                   Match all terms (AND)
                 </label>
@@ -168,7 +168,7 @@
   </div>
 </div>
 <!-- Reusable Modal for Cross-Reference Details -->
-<div class="modal fade" id="crossRefeatuModerenceModal" tabindex="-1" aria-labelledby="crossReferenceModalLabel" aria-hidden="true">
+<div class="modal fade" id="crossReferenceModal" tabindex="-1" aria-labelledby="crossReferenceModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
@@ -274,11 +274,23 @@ $(document).ready(function() {
     $('#searchInput').val('').focus();
   });
 
-  // Disable logic radio buttons when fuzzy is enabled, apply text-muted, and trigger search if multi-term
+  // Disable logic radio buttons when fuzzy is enabled, apply text-muted, toggle tooltips, and trigger search if multi-term
   $('#fuzzyToggle').on('change', function() {
+    console.log("Fuzzy search toggle changed:", $(this).is(':checked'));
     const isFuzzy = $(this).is(':checked');
     $('input[name="logic"]').prop('disabled', isFuzzy);
     $('.logic-label').toggleClass('text-muted', isFuzzy);
+
+    // Toggle tooltip attributes only when fuzzy is active
+    if (isFuzzy) {
+      $('.logic-label')
+        .attr('data-bs-toggle', 'tooltip')
+        .attr('title', 'Not applicable in fuzzy search mode');
+    } else {
+      $('.logic-label')
+        .removeAttr('data-bs-toggle')
+        .removeAttr('title');
+    }
 
     const query = $('#searchInput').val().trim();
     const terms = query.replace(/,/g, ' ').split(/\s+/).filter(t => t.length > 0);
@@ -425,6 +437,15 @@ $(document).ready(function() {
 
   // Refresh Bootstrap tooltips for dynamic content
   function refreshTooltips() {
+    // Remove tooltips from elements that no longer have data-bs-toggle
+    document.querySelectorAll('.logic-label').forEach(el => {
+      const instance = bootstrap.Tooltip.getInstance(el);
+      if (instance && !el.hasAttribute('data-bs-toggle')) {
+        instance.dispose();
+      }
+    });
+
+    // Initialize tooltips on new or updated elements
     const newTooltips = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
     newTooltips.forEach(el => {
       if (!bootstrap.Tooltip.getInstance(el)) {
@@ -444,10 +465,11 @@ $(document).ready(function() {
     let html = `
       <div class="result-item">
         <h5>ATU ${typeId} - ${details.label} ${culturalRefs}</h5>
-        <p>${details.text || ''}</p>
+        <div class="scrollable-result-body" style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
+          <p>${details.text || ''}</p>
 
-        <div class="motif-list">
-          <h6>Motifs:</h6>
+          <div class="motif-list">
+            <h6>Motifs:</h6>
     `;
 
     motifs.forEach(motif => {
@@ -462,7 +484,7 @@ $(document).ready(function() {
                </div>`;
     });
 
-    html += '</div></div>';
+    html += '</div></div></div>';
     $('#resultContent').html(html);
     refreshTooltips();
   }
