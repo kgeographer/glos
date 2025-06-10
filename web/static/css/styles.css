@@ -45,8 +45,6 @@ p {
   cursor: help;
 }
 
-
-
 /* Make tale type containers scrollable */
 .accordion-body ul {
     max-height: 300px;
@@ -169,6 +167,7 @@ p {
 }
 .motif-list h6{
     font-weight: bold;
+    background: aliceblue;
 }
 .modal-motif h6{
     font-weight: bold;
@@ -233,5 +232,10 @@ p {
 
 .modal-body .cultural-refs {
   display: block;
-  margin-top: 8px;
+  /*margin-top: 8px;*/
+    margin-bottom: 2px;
+}
+
+#crossReferenceModalLabel {
+  font-weight: bold !important;
 }

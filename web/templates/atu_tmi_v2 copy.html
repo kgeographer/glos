@@ -788,7 +788,7 @@ window.switchToTaleTypeModalInPlace = function(typeId, excludeMotifId = null) {
 
     let content = `
       <div class="modal-tale-type">
-        ${excludeMotifId ? `<p class="text-muted mb-2">← <a href="#" onclick="switchToMotifModalInPlace('${excludeMotifId}'); return false;">Back to motif ${excludeMotifId}</a></p>` : ''}
+        ${excludeMotifId ? `<p class="text-muted mb-2">← <a href="#" onclick="loadMotifModal('${excludeMotifId}'); return false;">Back to motif ${excludeMotifId}</a></p>` : ''}
         ${culturalRefs}
         <p>${details.text || ''}</p>
         <div class="motif-list">
@@ -796,22 +796,6 @@ window.switchToTaleTypeModalInPlace = function(typeId, excludeMotifId = null) {
             ? `<h6>Referenced motifs:</h6>`
             : `<p class="text-muted"><em>No motifs referenced for this tale type.</em></p>`}
     `;
-  // Switch to motif modal in place (mirrors switchToTaleTypeModalInPlace)
-  window.switchToMotifModalInPlace = function(motifId) {
-    disableMotifLinksInModal = true;
-    Promise.all([
-      $.get(`/get_motif_details/${motifId}`),
-      $.get(`/get_types_for_motif/${motifId}`)
-    ]).then(([motifDetails, types]) => {
-      const content = generateMotifModalContent(motifId, motifDetails, types);
-      $('#crossReferenceModalLabel').text(`TMI ${motifId}: ${motifDetails.text}`);
-      $('#crossReferenceModalBody').html(content);
-      disableMotifLinksInModal = false;
-    }).catch(() => {
-      $('#crossReferenceModalLabel').text('Error');
-      $('#crossReferenceModalBody').html('<p class="text-danger">Error loading motif details</p>');
-    });
-  };
 
 
     motifs.forEach(motif => {

@@ -204,15 +204,16 @@ def get_motifs_for_type(type_id):
             WHERE motif_id = %s
         """, (motif['motif_id'],))
         motif['tale_type_count'] = cur.fetchone()[0]
+        print(f"DEBUG: Motif {motif['motif_id']} has {motif['tale_type_count']} tale types")
 
-    # Add related tale types (excluding the current one)
-    cur.execute("""
-        SELECT DISTINCT type_id
-        FROM folklore.type_motif
-        WHERE motif_id = %s AND type_id != %s
-    """, (motif['motif_id'], type_id))
-    related_types_raw = cur.fetchall()
-    motif['related_types'] = [str(row[0]) for row in related_types_raw]
+        # Add related tale types (excluding the current one)
+        cur.execute("""
+            SELECT DISTINCT type_id
+            FROM folklore.type_motif
+            WHERE motif_id = %s AND type_id != %s
+        """, (motif['motif_id'], type_id))
+        related_types_raw = cur.fetchall()
+        motif['related_types'] = [str(row[0]) for row in related_types_raw]
 
     cur.close()
     conn.close()
