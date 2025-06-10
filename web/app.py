@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv
 import markdown
 
+
 app = Flask(__name__)
 
 # Load environment variables and set OpenAI API key
@@ -16,10 +17,17 @@ openai_model = 'text-embedding-3-small'
 client = openai.Client()
 openai_model = 'text-embedding-3-small'
 
+# Function to get the relative path to a file
+def rel_path(*parts):
+    here = os.path.dirname(os.path.abspath(__file__))
+    return os.path.join(here, *parts)
 
 @app.route("/about")
 def about():
-    with open("templates/about.md", "r") as f:
+    here = os.path.dirname(os.path.abspath(__file__))
+    md_path = os.path.join(here, "templates", "about.md")
+
+    with open(md_path, "r") as f:
         content = f.read()
     html = markdown.markdown(content)
 
@@ -53,8 +61,10 @@ def about():
                 </div>
             </nav>
 
-            <div class="mt-4">
-                {html}
+            <div class="mt-4 d-flex justify-content-center">
+                <div class="markdown-body" style="max-width: 800px; width: 100%;">
+                    {html}
+                </div>
             </div>
         </div>
     </body>
