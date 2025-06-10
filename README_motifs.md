@@ -1,3 +1,0 @@
-### GLOS Phase One: Motif and Tale Type Embeddings
-
-In the project’s initial phase focusing on folklore, novel digital representations of two canonical indexes of folk literature, “The Types of International Folktales” and “Motif-Index of Folk-Literature” were developed: a network graph of explicit relationships between tales, their component motifs, and language-based regions, and a database tuned to support semantic similarity measures and to supplement queries made to large language models (LLMs).

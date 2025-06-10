@@ -44,8 +44,13 @@
     <!-- Header -->
     <div class="row mb-4">
       <div class="col-12">
-        <h4>ATU ↔ TMI: Cross-walking the canonical folkloric indexes
+        <h4>
+          ATU ↔ TMI: Cross-walking the canonical folkloric indexes
+          <a href="#" data-bs-toggle="modal" data-bs-target="#helpModal" class="ms-2" title="Tool features and instructions">
+            <i class="fa-solid fa-circle-question text-primary" style="font-size: 1.1em;" data-bs-toggle="tooltip" data-bs-placement="right" title="Tool features and instructions"></i>
+          </a>
         </h4>
+        <!--<h4>ATU ↔ TMI: Cross-walking the canonical folkloric indexes</h4>-->
       </div>
     </div>
 
@@ -167,7 +172,7 @@
     </div>
   </div>
 </div>
-<!-- Reusable Modal for Cross-Reference Details -->
+<!-- Cross-Reference Detail Modal -->
 <div class="modal fade" id="crossReferenceModal" tabindex="-1" aria-labelledby="crossReferenceModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
@@ -184,6 +189,36 @@
     </div>
   </div>
 </div>
+<!-- Help Modal -->
+<div class="modal fade" id="helpModal" tabindex="-1" aria-labelledby="helpModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="helpModalLabel">ATU/TMI Tool – Features & Instructions</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>This tool enables interactive exploration of the cross-references between two foundational indices of folklore:</p>
+        <ul>
+          <li><strong>ATU:</strong> Aarne–Thompson–Uther Index of international folktale types</li>
+          <li><strong>TMI:</strong> Thompson Motif-Index of Folk-Literature</li>
+        </ul>
+        <p>There are two main modes:</p>
+        <ol>
+          <li><strong>Search tab:</strong> Enter keywords or IDs to find tale types (ATU) or motifs (TMI). Supports AND/OR logic and optional fuzzy search. Clicking a result loads its connections.</li>
+          <li><strong>Browse tab:</strong> Explore the ATU hierarchy to view associated motifs. (The TMI browser is in progress.)</li>
+        </ol>
+        <p>Icons like <i class="fa-solid fa-link"></i> indicate that a motif appears in multiple tale types. Clicking opens a modal showing other linked types, with inline back navigation.</p>
+        <p>Tooltips are sprinkled throughout—hover over options or icons for help. Feedback is welcome!</p>
+        <p><em>This is a prototype developed as part of the GLOS project. Feedback from folklorists and researchers is welcome.</em></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 $(document).ready(function() {
   let searchTimeout;
@@ -491,25 +526,12 @@ $(document).ready(function() {
       console.log('Motif object:', motif);
 
       if (motif.tale_type_count > 1) {
-        // Display the motif ID and label as static text
-        // html += `<strong>${motif.motif_id}</strong>: ${motif.text}`;
-        // Add an icon-only link to open the motif modal
-        html += ` <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;" title="Referenced in other tale types" data-bs-toggle="tooltip">`;
+        html += ` <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;" title="Referenced in ${motif.tale_type_count - 1} other tale types" data-bs-toggle="tooltip">`;
         html += `<i class="fa-solid fa-link ms-1"></i></a>`;
       } else {
-        // html += `<strong>${motif.motif_id}</strong>: ${motif.text}`;
         html += ``;
       }
-      // Show referenced tale types if present and non-empty
-      // if (motif.related_types && motif.related_types.length > 0) {
-      //   html += ` <small style="color: #a66262;">Also referenced in tale type(s): `;
-      //   motif.related_types.forEach(typeId => {
-      //     html += `<a href="#" onclick="loadTypeModalFromMotif('${typeId}', '${motif.motif_id}')">${typeId}</a> `;
-      //   });
-      //   html += `</small>`;
-      // }
       html += `</li>`;
-      // --- End replacement block ---
     });
 
     html += '</div></div></div>';
@@ -544,13 +566,6 @@ $(document).ready(function() {
                  </span>${typeCulturalRefs}
                </div>`;
     });
-
-    // Add cross-reference logic here for multiple tale types
-    // if (types.length > 1) {
-    //   html += `<div class="cross-reference">
-    //              Also appears in ${types.length} tale types
-    //            </div>`;
-    // }
 
     html += '</div></div>';
     $('#resultContent').html(html);
@@ -659,7 +674,7 @@ $(document).ready(function() {
     if (details.ref_terms && details.ref_terms.length > 0) {
       const terms = details.ref_terms.slice(0, 5);
       const remaining = details.ref_terms.length - 5;
-      culturalRefs = `<span class="cultural-refs">[${terms.join(', ')}${remaining > 0 ? `, ...${remaining} more` : ''}]</span>`;
+      culturalRefs = `<span class="cultural-refs">[${terms.join(', ')}${remaining > 0 ? `, ... <a href="#" class="geo-preview" data-bs-toggle="tooltip" title="Geographic visualizations coming soon"><i>${remaining} more <i class="fa-solid fa-globe-americas" style="margin-left: 4px;"></i></i></a>` : ''}]</span>`;
     }
 
     let html = `
@@ -673,27 +688,23 @@ $(document).ready(function() {
             : `<p class="text-muted"><em>No motifs referenced for this tale type.</em></p>`}
     `;
 
-
     motifs.forEach(motif => {
       let motifCulturalRefs = '';
       if (motif.ref_terms && motif.ref_terms.trim()) {
         motifCulturalRefs = ` <span class="cultural-refs">[${motif.ref_terms}]</span>`;
       }
-      // Only make motif clickable if it is referenced in more than one tale type
+
       html += `<div class="motif-entry">`;
+      html += `<strong>${motif.motif_id}</strong>: ${motif.text}`;
       if (motif.tale_type_count > 1) {
-        html += `
-          <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;">
-            <strong>${motif.motif_id}</strong>: ${motif.text}
-          </a>`;
-      } else {
-        html += `
-          <strong>${motif.motif_id}</strong>: ${motif.text}`;
+        html += ` <a href="#" onclick="loadMotifModalFromTaleType('${motif.motif_id}', '${typeId}'); return false;" title="Referenced in ${motif.tale_type_count - 1} other tale types" data-bs-toggle="tooltip">`;
+        html += `<i class="fa-solid fa-link ms-1"></i></a>`;
       }
       html += `${motifCulturalRefs}</div>`;
-    });
+          });
     html += '</div></div>';
     $('#browseResultContent').html(html);
+    refreshTooltips();
   }
 
   // Hide search results when clicking outside
