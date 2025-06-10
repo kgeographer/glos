@@ -1,8 +1,9 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, render_template_string
 import openai
 import psycopg2
 import os
 from dotenv import load_dotenv
+import markdown
 
 app = Flask(__name__)
 
@@ -15,7 +16,53 @@ openai_model = 'text-embedding-3-small'
 client = openai.Client()
 openai_model = 'text-embedding-3-small'
 
-## for EXPLORE
+
+@app.route("/about")
+def about():
+    with open("templates/about.md", "r") as f:
+        content = f.read()
+    html = markdown.markdown(content)
+
+    full_page = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About GLOS</title>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" crossorigin="anonymous">
+        <link href="/static/css/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="/">
+                        <img src="/static/images/glos_wordmark.jpg" alt="GLOS Logo" height="32">
+                    </a>
+                    <div class="collapse navbar-collapse justify-content-end">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/explore">Concept Matcher</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/atu_tmi_v2">ATU/TMI</a></li>
+                            <li class="nav-item active"><a class="nav-link" href="/about">About</a></li>
+                            <li class="nav-item"><a class="nav-link disabled-link" href="/mapping">Mapping</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="mt-4">
+                {html}
+            </div>
+        </div>
+    </body>
+    </html>
+    """
+    return render_template_string(full_page)
+
+
 # Function to get the embedding for a prompt
 def get_embedding(text):
   response = client.embeddings.create(
@@ -23,17 +70,6 @@ def get_embedding(text):
     model=openai_model
   )
   return response.data[0].embedding
-
-# def find_closest_neighbors(conn, embedding, table, id_col, text_col, top_n=10):
-#     with conn.cursor() as cur:
-#         query = f"""
-#             SELECT {id_col}, {text_col}, embedding <-> %s::vector AS distance
-#             FROM folklore.{table}
-#             ORDER BY distance
-#             LIMIT %s;
-#         """
-#         cur.execute(query, (embedding, top_n))
-#         return cur.fetchall()
 
 def find_closest_neighbors(conn, embedding, table, id_col, text_col, top_n=10, offset=0):
     with conn.cursor() as cur:
@@ -45,7 +81,6 @@ def find_closest_neighbors(conn, embedding, table, id_col, text_col, top_n=10, o
         """
         cur.execute(query, (embedding, top_n, offset))
         return cur.fetchall()
-
 
 @app.route('/neighbors', methods=['POST'])
 def neighbors():
