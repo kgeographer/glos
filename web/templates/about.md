@@ -8,7 +8,7 @@ The GLOS project is proceeding in two major phases so far:
 
 ---
 
-#### Phase I: Canonical Indexes as Computational Resources
+#### Phase A: Canonical Indexes as Computational Resources
 
 The first phase focuses on digitizing and enriching two foundational reference works in folklore studies:
 
@@ -23,7 +23,7 @@ A second tool, [**Concept Matcher**](/explore), allows users to input any piece 
 
 ---
 
-#### Phase II: Analyzing Global Creation Myths
+#### Phase B: Analyzing Global Creation Myths
 
 The second phase of GLOS turns to a different corpus: creation myths from diverse world cultures. Drawing initially on Barbara Sproul’s *Primal Myths* (1979), we are digitizing, cleaning, and enriching over 100 myths for structured analysis.
 

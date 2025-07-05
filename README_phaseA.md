@@ -1,8 +1,8 @@
-### GLOS Phase One: Motif and Tale Type Embeddings
+### GLOS Phase A: Motif and Tale Type Embeddings
 
-**Updated: 10 June 2025**
+**Updated: 11 June 2025**
 
-Phase 1 of the Geographic Lens on Stories (GLOS) project has focused on computational representations of canonical folkloristic reference works: *The Types of International Folktales* (ATU) and *The Motif-Index of Folk-Literature* (TMI). This phase produced two working prototype tools for use by researchers and students of folklore.
+Phase A of the Geographic Lens on Stories (GLOS) project has focused on computational representations of canonical folkloristic reference works: *The Types of International Folktales* (ATU) and *The Motif-Index of Folk-Literature* (TMI). This phase produced two working prototype tools for use by researchers and students of folklore.
 
 ---
 

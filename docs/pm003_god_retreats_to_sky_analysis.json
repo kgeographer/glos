@@ -1,0 +1,481 @@
+{
+  "source_file": "pm003_god_retreats_to_sky.txt",
+  "culture": "Barotse",
+  "title": "God retreats to the sky",
+  "primordial_state": {
+    "description": "The myth begins with Nyambi having already made all things, without describing what existed before his creative acts",
+    "classification": null,
+    "entities_present": [
+      {
+        "name": "Nyambi",
+        "class": "CreatorDeity"
+      }
+    ]
+  },
+  "creation_sequence": [
+    {
+      "event_id": "event_01",
+      "description": "Nyambi creates all things",
+      "phase": "CosmicBeginning",
+      "method": "Fabrication",
+      "participants": [
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Creator"
+        },
+        {
+          "name": "All things",
+          "class": "CosmicFeature",
+          "specific_type": "World and contents",
+          "role": "Product"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": null,
+        "followed_by": [
+          "event_02"
+        ],
+        "motivation": null
+      }
+    },
+    {
+      "event_id": "event_02",
+      "description": "Nyambi creates animals, fishes, birds",
+      "phase": "LifeCreation",
+      "method": "Fabrication",
+      "participants": [
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Creator"
+        },
+        {
+          "name": "Animals",
+          "class": "Animal",
+          "specific_type": "Land animals",
+          "role": "Product"
+        },
+        {
+          "name": "Fishes",
+          "class": "Animal",
+          "specific_type": "Aquatic animals",
+          "role": "Product"
+        },
+        {
+          "name": "Birds",
+          "class": "Animal",
+          "specific_type": "Flying animals",
+          "role": "Product"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_01",
+        "followed_by": [
+          "event_03"
+        ],
+        "motivation": null
+      }
+    },
+    {
+      "event_id": "event_03",
+      "description": "Nyambi creates Kamonu (man)",
+      "phase": "HumanCreation",
+      "method": "Fabrication",
+      "participants": [
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Creator"
+        },
+        {
+          "name": "Kamonu",
+          "class": "Human",
+          "specific_type": "First man",
+          "role": "Product"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_02",
+        "followed_by": [
+          "event_04"
+        ],
+        "motivation": null
+      }
+    },
+    {
+      "event_id": "event_04",
+      "description": "Nyambi retreats to an island to escape Kamonu",
+      "phase": "SocialCulturalEstablishment",
+      "method": "Separation",
+      "participants": [
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Creator"
+        },
+        {
+          "name": "Kamonu",
+          "class": "Human",
+          "specific_type": "First man",
+          "role": "Opponent"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": "Island"
+      },
+      "causality": {
+        "preceded_by": "event_03",
+        "followed_by": [
+          "event_05"
+        ],
+        "motivation": "To escape from Kamonu who imitates and challenges Nyambi"
+      }
+    },
+    {
+      "event_id": "event_05",
+      "description": "Nyambi retreats to a mountain peak",
+      "phase": "SocialCulturalEstablishment",
+      "method": "Separation",
+      "participants": [
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Creator"
+        },
+        {
+          "name": "Kamonu",
+          "class": "Human",
+          "specific_type": "First man",
+          "role": "Opponent"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": "Mountain peak"
+      },
+      "causality": {
+        "preceded_by": "event_04",
+        "followed_by": [
+          "event_06"
+        ],
+        "motivation": "To escape from Kamonu who found his way to the island"
+      }
+    },
+    {
+      "event_id": "event_06",
+      "description": "Spider creates a path to the sky for Nyambi",
+      "phase": "CosmicBeginning",
+      "method": "Fabrication",
+      "participants": [
+        {
+          "name": "Spider",
+          "class": "Animal",
+          "specific_type": "Arachnid",
+          "role": "Helper"
+        },
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Beneficiary"
+        },
+        {
+          "name": "Thread to sky",
+          "class": "CosmicFeature",
+          "specific_type": "Connection between realms",
+          "role": "Product"
+        }
+      ],
+      "location": {
+        "realm": "Between Earth and Sky",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_05",
+        "followed_by": [
+          "event_07"
+        ],
+        "motivation": "To help Nyambi escape from Kamonu permanently"
+      }
+    },
+    {
+      "event_id": "event_07",
+      "description": "Nyambi ascends to the sky",
+      "phase": "CosmicBeginning",
+      "method": "Separation",
+      "participants": [
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Creator"
+        },
+        {
+          "name": "Spider",
+          "class": "Animal",
+          "specific_type": "Arachnid",
+          "role": "Helper"
+        }
+      ],
+      "location": {
+        "realm": "Between Earth and Sky",
+        "setting": "Spider's thread"
+      },
+      "causality": {
+        "preceded_by": "event_06",
+        "followed_by": [
+          "event_08"
+        ],
+        "motivation": "To escape from Kamonu permanently"
+      }
+    },
+    {
+      "event_id": "event_08",
+      "description": "Nyambi blinds Spider to prevent others from following",
+      "phase": "SocialCulturalEstablishment",
+      "method": "Transformation",
+      "participants": [
+        {
+          "name": "Nyambi",
+          "class": "CreatorDeity",
+          "specific_type": null,
+          "role": "Creator"
+        },
+        {
+          "name": "Spider",
+          "class": "Animal",
+          "specific_type": "Arachnid",
+          "role": "Victim"
+        },
+        {
+          "name": "Diviner",
+          "class": "DivineHelper",
+          "specific_type": null,
+          "role": "Advisor"
+        }
+      ],
+      "location": {
+        "realm": "Sky",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_07",
+        "followed_by": [
+          "event_09"
+        ],
+        "motivation": "To prevent humans from following the path to heaven"
+      }
+    },
+    {
+      "event_id": "event_09",
+      "description": "Kamonu attempts to build a tower to reach Nyambi",
+      "phase": "SocialCulturalEstablishment",
+      "method": "Fabrication",
+      "participants": [
+        {
+          "name": "Kamonu",
+          "class": "Human",
+          "specific_type": "First man",
+          "role": "Creator"
+        },
+        {
+          "name": "Men",
+          "class": "Human",
+          "specific_type": "Followers of Kamonu",
+          "role": "Helper"
+        },
+        {
+          "name": "Tower",
+          "class": "CosmicFeature",
+          "specific_type": "Attempted connection between realms",
+          "role": "Product"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_08",
+        "followed_by": [
+          "event_10"
+        ],
+        "motivation": "To reach Nyambi in the sky"
+      }
+    },
+    {
+      "event_id": "event_10",
+      "description": "Tower collapses, establishing permanent separation between humans and deity",
+      "phase": "SocialCulturalEstablishment",
+      "method": "Separation",
+      "participants": [
+        {
+          "name": "Tower",
+          "class": "CosmicFeature",
+          "specific_type": "Attempted connection between realms",
+          "role": "Instrument"
+        },
+        {
+          "name": "Kamonu",
+          "class": "Human",
+          "specific_type": "First man",
+          "role": "Victim"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_09",
+        "followed_by": [
+          "event_11"
+        ],
+        "motivation": null
+      }
+    },
+    {
+      "event_id": "event_11",
+      "description": "Establishment of sun worship as connection to Nyambi",
+      "phase": "SocialCulturalEstablishment",
+      "method": "Transformation",
+      "participants": [
+        {
+          "name": "Kamonu",
+          "class": "Human",
+          "specific_type": "First man",
+          "role": "Creator"
+        },
+        {
+          "name": "Sun",
+          "class": "CosmicFeature",
+          "specific_type": "Celestial body",
+          "role": "Symbol"
+        },
+        {
+          "name": "People",
+          "class": "Human",
+          "specific_type": "Followers",
+          "role": "Participant"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_10",
+        "followed_by": [
+          "event_12"
+        ],
+        "motivation": "To maintain connection with the departed deity"
+      }
+    },
+    {
+      "event_id": "event_12",
+      "description": "Establishment of moon worship as connection to Nasilele",
+      "phase": "SocialCulturalEstablishment",
+      "method": "Transformation",
+      "participants": [
+        {
+          "name": "Men",
+          "class": "Human",
+          "specific_type": "People",
+          "role": "Creator"
+        },
+        {
+          "name": "Moon",
+          "class": "CosmicFeature",
+          "specific_type": "Celestial body",
+          "role": "Symbol"
+        },
+        {
+          "name": "Nasilele",
+          "class": "DivineHelper",
+          "specific_type": "Nyambi's wife",
+          "role": "Beneficiary"
+        }
+      ],
+      "location": {
+        "realm": "Earth",
+        "setting": null
+      },
+      "causality": {
+        "preceded_by": "event_11",
+        "followed_by": null,
+        "motivation": "To maintain connection with the departed deity's wife"
+      }
+    }
+  ],
+  "cosmic_structure": {
+    "cosmic_organization": {
+      "vertical": "Three-tiered cosmos with sky (where Nyambi retreats), earth (where humans live), and possibly water (implied by the island)",
+      "horizontal": "No clear horizontal structure described",
+      "boundaries": "Initially permeable boundaries between sky and earth (via Spider's thread), later made impermeable when Nyambi blinds Spider and the tower collapses"
+    },
+    "social_organization": {
+      "hierarchies": "Divine beings (Nyambi, Nasilele) above humans (Kamonu and others), with animals below humans",
+      "structures": "Nyambi has counselors and a court, suggesting divine governance; Kamonu gathers followers, suggesting human leadership"
+    },
+    "natural_organization": {
+      "ecological": "Animals described as 'brothers' to humans, suggesting an original kinship that was disrupted by hunting",
+      "cycles": "Sun and moon cycles become associated with worship of Nyambi and Nasilele",
+      "features": "Mountains, rivers, islands as significant landscape features that temporarily separate divine and human realms"
+    },
+    "dualities": [
+      {
+        "opposition": "divine/human",
+        "elements": [
+          "Nyambi",
+          "Kamonu"
+        ],
+        "nature": "Antagonistic"
+      },
+      {
+        "opposition": "sky/earth",
+        "elements": [
+          "divine realm",
+          "human realm"
+        ],
+        "nature": "Separated"
+      },
+      {
+        "opposition": "male/female",
+        "elements": [
+          "Nyambi (associated with sun)",
+          "Nasilele (associated with moon)"
+        ],
+        "nature": "Complementary"
+      }
+    ]
+  },
+  "distinctive_elements": [
+    "The myth focuses on the separation of divine and human realms rather than creation itself",
+    "Human imitation of divine creative acts as the cause of divine withdrawal",
+    "Spider as a crucial mediator between cosmic realms",
+    "The tower-building motif resembles the Biblical Tower of Babel story",
+    "Celestial bodies (sun and moon) as symbolic connections to departed deities",
+    "The theme of human hunting as disrupting original harmony between creatures",
+    "The creator deity fears human creativity and potential",
+    "The myth explains both cosmic structure and religious practices (sun and moon worship)"
+  ]
+}

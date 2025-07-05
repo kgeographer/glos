@@ -1,0 +1,68 @@
+{
+  "source_file": "example.txt",
+  "culture": "Cultural tradition name",
+  "title": "Myth title",
+  "primordial_state": {
+    "description": "Description of initial state",
+    "classification": "Void|Chaos|PrimordialWaters|etc",
+    "entities_present": [
+      {
+        "name": "Entity name",
+        "class": "Entity class"
+      }
+    ]
+  },
+  "creation_sequence": [
+    {
+      "event_id": "event_01",
+      "description": "Brief description",
+      "phase": "CosmicBeginning|WorldFormation|etc",
+      "method": "Utterance|Fabrication|etc",
+      "participants": [
+        {
+          "name": "Participant name",
+          "class": "Entity class",
+          "specific_type": "More specific classification if applicable",
+          "role": "Creator|Material|Instrument|Product|etc"
+        }
+      ],
+      "location": {
+        "realm": "Cosmic realm if specified",
+        "setting": "More specific location if given"
+      },
+      "causality": {
+        "preceded_by": "event_id of causal event",
+        "followed_by": ["event_id(s) of result events"],
+        "motivation": "Reason for this creation event"
+      }
+    }
+  ],
+  "cosmic_structure": {
+    "cosmic_organization": {
+      "vertical": "Description of vertical structure",
+      "horizontal": "Description of horizontal structure",
+      "boundaries": "Description of realm boundaries"
+    },
+    "social_organization": {
+      "hierarchies": "Description of being hierarchies",
+      "structures": "Description of social structures"
+    },
+    "natural_organization": {
+      "ecological": "Description of ecological relationships",
+      "cycles": "Description of natural cycles",
+      "features": "Description of environmental features"
+    },
+    "dualities": [
+      {
+        "opposition": "Name of opposition (e.g., 'light/dark')",
+        "elements": ["first element", "second element"],
+        "nature": "Complementary|Antagonistic|etc"
+      }
+    ]
+  },
+  "distinctive_elements": [
+    "Element 1",
+    "Element 2",
+    "Element 3"
+  ]
+}
