@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M4T00J3X96"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-M4T00J3X96');
-  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GLOS::home</title>
@@ -29,8 +20,8 @@
                 <ul class="navbar-nav">
                       <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                       <li class="nav-item"><a class="nav-link" href="/explore">Concept Matcher</a></li>
+<!--                      <li class="nav-item"><a class="nav-link" href="/atu_tmi">ATU<>TMI (initial)</a></li>-->
                       <li class="nav-item"><a class="nav-link" href="/atu_tmi_v2">ATU/TMI</a></li>
-                      <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
                       <li class="nav-item"><a class="nav-link disabled-link" href="/mapping">Mapping</a></li>
                   </ul>
               </div>
@@ -41,10 +32,9 @@
       </div>
       <div id="intro" class="mt-4 w-50 mx-auto">
         <p class="bg-light">"...just as all rivers flow into the sea, all questions relating to the study of tales lead to the solution of the highly important and as yet unresolved problem of the similarity of tales throughout the world." -- V. Propp, in <i>Morphology of the Folktale (1958)</i></p>
-        <p>The Geographic Lens on Stories (GLOS) project develops tools for studying how stories vary across cultures, places, and traditions. It combines long-standing geographic methods with emerging AI technologies to support structured comparison of narrative materials.</p>
-        <p>The project’s first phase produced machine-readable versions of the ATU and TMI folklore indexes and two pilot tools: <a href="/explore">Concept Matcher</a>, which finds similar motifs or tale types for an uploaded text using embedding similarity; and <a href="atu_tmi_v2">ATU/TMI</a>, which provides search and cross-reference across both canonical indexes.</p>
-        <p>The most recent phase&mdash;now paused&mdash;focused on creation myths, using LLMs to elicit and test conceptual schemas for cross-cultural comparison. Progress reports and experiment notes are available on <a href="http://kgeographer.org/blog" target="_blank">the kgeographer blog</a>, and the latest code is on <a href="https://github.com/kgeographer/glos" target="_blank">GitHub</a>.</p>
-        <p></p>
+        <p>The Geographic Lens on Stories (GLOS) project aims to develop and publish digital tools and resources that extend current capabilities for the exploration and comparative analyses of written and transcribed stories across multiple genres and cultural traditions. In the project’s initial phase focusing on folklore, digital representations of two canonical indexes of folk literature, “The Types of International Folktales” and “Motif-Index of Folk-Literature” were developed, and stored in relational tables supporting two pilot tools: "Explore" finds nearest neighbor motifs and/or tales for a given piece of uploaded text, using LLM-based embedding similarity; "ATU/TMI" provides keyword and ID search and browse against both indexes to reveal asserted relations between the ATU tale types and TMI motifs.</p>
+        <p>Further refinement of these, and design of new tools is ongoing (May, 2025).</p>
+        <p><a href="https://github.com/kgeographer/glos" target="_blank">View project on GitHub</a></p>
       </div>
     </div>
 </body>
